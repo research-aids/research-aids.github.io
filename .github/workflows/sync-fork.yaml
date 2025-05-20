@@ -1,8 +1,8 @@
 name: sync-fork
-run-name: "Syncs the fork and restructures it every two minutes."
+run-name: "Syncs the fork and restructures it every 3 hours."
 on:
   schedule:
-    - cron: '*/2 * * * *'
+    - cron: '* */3 * * *'
   workflow_dispatch: { }
 jobs:
   sync:
