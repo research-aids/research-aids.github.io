@@ -35,7 +35,6 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}/EXPORTS/WEBSITE/*
-          ls ${{ github.workspace }}/docs/*
       - name: "clone research-aids/research-aids.github.io-code and add contents to research-aids.github.io"
         run: |
           git clone https://github.com/research-aids/research-aids.github.io-code.git
