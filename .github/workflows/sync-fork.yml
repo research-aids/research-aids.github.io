@@ -25,7 +25,8 @@ jobs:
           git fetch upstream
 
           # EXPERIMENTAL
-          git merge -s theirs upstream/main
+          git merge -s ort -X theirs upstream/main
+          ls *
           # EXPERIMENTAL
           
           # git checkout upstream/main
