@@ -13,6 +13,9 @@ import shutil
 #############################################
 
 try:
+    Path.unlink("./github/workflows/check_yaml.yml")
+    Path.unlink("./github/workflows/yaml2json.yml")
+    Path.unlink("./github/workflows/yaml_export.yaml")
     Path.unlink("directory_tree.md")
     Path.unlink("README.md")
     Path.unlink("handbook.md")
@@ -56,7 +59,7 @@ for f in md_files:
 
 
 #############################################
-### 
+### ADD DATE TO INDEX.HTML
 #############################################
 
 print(glob("*"))
