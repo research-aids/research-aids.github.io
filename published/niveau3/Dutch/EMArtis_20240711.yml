@@ -33,13 +33,13 @@ RelatedAides:
         link: "niveau3/Dutch/BGKW_20240827.yml"
         rel_type: "see also"
   - "Museon-Omniversum":
-        link: "published/niveau3/Dutch/Museon_20250429.yml"
+        link: "niveau3/Dutch/Museon_20250429.yml"
         rel_type: "see also"
   - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
-        link: "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
+        link: "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-      link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+      link: "niveau3/Dutch/MOudenbosch_20250603.yml"
       rel_type: "see also"
 
 Relevant data:
@@ -54,10 +54,10 @@ Relevant data:
       - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
     Geographical:
       - "[Afrika](https://sws.geonames.org/6255146/)"
-      - "[Azië](https://sws.geonames.org/6255147)"
-      - "[Noord-Amerika](https://sws.geonames.org/6255149)"
-      - "[Oceanië](https://sws.geonames.org/6255151)"
-      - "[Zuid-Amerika](https://sws.geonames.org/6255150)"
+      - "[Azië](https://sws.geonames.org/6255147/)"
+      - "[Noord-Amerika](https://sws.geonames.org/6255149/)"
+      - "[Oceanië](https://sws.geonames.org/6255151/)"
+      - "[Zuid-Amerika](https://sws.geonames.org/6255150/)"
   Period of activity: 
     Year of start: "1851"
     Year of end: "1921"
@@ -66,13 +66,14 @@ Relevant data:
       
 Main-text:
   content: |
-    Het Etnografisch Museum Artis was een volkenkundig museum in Amsterdam dat in 1851 werd opgericht en deel uitmaakte van de dierentuin Artis. In 1921 werd de collectie overgenomen door het huidige [Wereldmuseum Amsterdam](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208).
-    
-    ### Beschrijving
+    ### Geschiedenis van het museum
     
     Het Etnografisch Museum Artis werd in 1851 gesticht om de collectie etnografische voorwerpen van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra een plek te geven. Het was voor die tijd niet ongebruikelijk dat een dierentuin ook objecten verzamelde; de sterk veranderende wetenschappen in de negentiende eeuw richtten zich namelijk vaak op meerdere onderzoeksgebieden tegelijk. De interesse in andere culturen, objecten en gebruiken, alsmede in flora, fauna en geologie hield nauw verband met het bredere Europese koloniale project. De etnografische collectie van Artis groeide gestaag gedurende de negentiende eeuw en zodoende werd in 1888 een speciaal museumgebouw, [de Volharding](http://www.wikidata.org/entity/Q17302628), opgericht. Dit gebouw is vandaag de dag nog steeds onderdeel van dierentuin Artis. Eind negentiende eeuw werd de collectie uitgebreid met voorwerpen van de [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://www.wikidata.org/entity/Q2417163), oftewel de Wereldtentoonstelling, van 1883 en voorwerpen die werden verzameld door het [Nieuwe Afrikaansche Handels-Vennootschap](http://www.wikidata.org/entity/Q2543001). Zodoende was het Etnografisch Museum Artis nauw verbonden met de koloniale betrekkingen van Nederland.
     
     Tussen 1905 en 1913 werd ook de collectie van het Koloniaal Museum in Haarlem tijdelijk opgenomen in de collectie van het Etnografisch Museum Artis, maar al snel daarna werd het besluit genomen de collecties over te dragen aan het nog te stichten museum van het Koloniaal Instituut, wat uiteindelijk plaatsvond in 1921. Het duurde tot 1926 voordat het museum van het Koloniaal Instituut, het tegenwoordige Wereldmuseum Amsterdam is, zijn deuren opende. Tot op heden vormt de verzameling van het Etnografisch Museum Artis een belangrijke basis van de collectie van het Wereldmuseum Amsterdam.
+
+    ![Foto van het interieur van het Ethnographisch Museum Artis](https://upload.wikimedia.org/wikipedia/commons/d/d9/Artis%2C_interieur_ethnografisch_museum_3.jpg)
+    _Interieur van het Ethnographisch Museum Artis ([Stadsarchief Amsterdam](https://commons.wikimedia.org/wiki/File:Artis,_interieur_ethnografisch_museum_3.jpg))_
     
     ### Herkomstonderzoek
     
@@ -112,13 +113,13 @@ Sources:
         - ISBN: "9068327526"
       Description and remarks: "Artikel van conservator Daan van Dartel over de collecties van het Koloniaal Museum in Haarlem en Etnografisch Museum Artis in een publicatie over de Oceanië-collectie van het, toenmalige, Tropenmuseum."
     - Type of source: "Boek"
-      Name: "Pleyte, C.M.  Verzameling Van Ethnographische Voorwerpen, Aan De Westkust Van Afrika, Voornamelijk in Het Congo-Gebied, Verzameld, En Voor Het Meerendeel Aan Het Genootschap Ten Geschenke Gegeven. Amsterdam: van Holkema, 1885."
+      Name: "Pleyte, C.M.  Verzameling van ethnographische voorwerpen, aan de westkust van Afrika: voornamelijk in het Congo-gebied, verzameld, en voor het meerendeel aan het Genootschap ten geschenke gegeven. Amsterdam: Van Holkema, 1885."
       Link: 
         - URL: "https://search.worldcat.org/title/836812327?oclcNum=836812327"
         - OCLC: "836812327"
       Description and remarks: "Beschrijving van de collectie uit West-Afrika van het Etnografisch Museum Artis uit 1885 van de toenmalige conservator C.M. Pleyte."
     - Type of source: "Boek"
-      Name: "Pleyte, C.M. Gids Voor Den Bezoeker Van Het Ethnographisch Museum. Amsterdam: Van Holkema, 1888."
+      Name: "Pleyte, Cornelis Marinus. Gids voor den bezoeker van het Ethnographisch museum. Amsterdam: Van Holkema, 1888."
       Link: 
         - URL: "https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ"
         - OCLC: "1287660577"
@@ -133,6 +134,6 @@ Sources:
 editing_metadata:
   - date: 2024-07-11
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

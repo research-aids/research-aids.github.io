@@ -8,14 +8,14 @@ _last edited by Wiebe Reints as original_author on 2025-06-12_
 
 ## Abstract
 
-Deze pagina is nog in ontwikkeling.
+xxx
 
 **Deze pagina is nog in ontwikkeling.**
 
 
 ## Related Aids
 
-_see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
+ - _see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
 
 ## Primary Sources
 

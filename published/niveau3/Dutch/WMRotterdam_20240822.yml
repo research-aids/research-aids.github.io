@@ -27,10 +27,10 @@ RelatedAides:
         link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
         rel_type: "see also"
   - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
-        link: "published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
+        link: "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-      link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+      link: "niveau3/Dutch/MOudenbosch_20250603.yml"
       rel_type: "see also"
 
 Relevant data:
@@ -48,11 +48,11 @@ Relevant data:
     Type of objects: 
       - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Afrika](https://hdl.handle.net/20.500.11840/termmaster5838);"
-      - "[Azië](https://sws.geonames.org/6255147)"
-      - "[Noord-Amerika](https://sws.geonames.org/6255149)"
-      - "[Oceanië](https://sws.geonames.org/6255151)"
-      - "[Zuid-Amerika](https://sws.geonames.org/6255150)"
+      - "[Afrika](https://sws.geonames.org/6255146/)"
+      - "[Azië](https://sws.geonames.org/6255147/)"
+      - "[Noord-Amerika](https://sws.geonames.org/6255149/)"
+      - "[Oceanië](https://sws.geonames.org/6255151/)"
+      - "[Zuid-Amerika](https://sws.geonames.org/6255150/)"
   Period of activity:
     Year of start: "1851"
     Year of end: []
@@ -65,8 +65,6 @@ Relevant data:
       
 Main-text:
   content: |
-    Het Wereldmuseum Rotterdam werd in 1885 opgericht door de Gemeente Rotterdam als het Museum voor Land- en Volkenkunde. Het museum bezit een ruime collectie objecten uit Azië, Oceanië, Afrika en Amerika die in de 19e eeuw is samengesteld door leden van de Rotterdamse Yachtvereniging.
-    
     ### Beschrijving
     
     Het huidige Wereldmuseum Rotterdam is ontstaan uit de in 1851 opgerichte Yachtvereniging, die aan de Willemskade in Rotterdam gevestigd was. Leden schonken allerhande voorwerpen aan de vereniging, zoals scheepsmodellen, maar ook etnografische objecten. Zodoende werd in 1873 het [Maritiem Museum Prins Hendrik](http://www.wikidata.org/entity/Q2755458) opgericht, genoemd naar de voorzitter van de Yachtvereniging. Toen [Prins Hendrik](http://www.wikidata.org/entity/Q705129) in 1879 overleed en de Yachtvereniging in 1880 ophield te bestaan, besloot de gemeente Rotterdam in 1883 het gebouw aan de Willemskade over te nemen en aldaar een volkenkundig museum te stichten. De behoefte voor een dergelijk museum kwam voort uit onder meer de Nederlandse overzeese handelscontacten, de opkomende volkenkundige wetenschappen en toenemend missie- en zendingswerk in de Nederlandse koloniale gebieden. In 1885 werd ook de collectie van het voormalig Maritiem Museum Prins Hendrik over genomen, waarna op 1 mei van dat jaar het nieuwe museum zijn deuren opende.
@@ -74,6 +72,9 @@ Main-text:
     De collectie van het Museum voor Land- en Volkenkunde bestond in eerste instantie uit allerhande schenkingen van onder andere zeelieden, handelaren en militairen. De schenking van de collectie Javaanse gebatikte doeken en andersoortige voorwerpen aan het eind van de negentiende eeuw door [Elie van Rijckevorsel](http://www.wikidata.org/entity/Q52155329), die later ook in de Raad van Advies van het museum plaatsnam, diende als aanmoediging aan de gemeente Rotterdam om een etnografisch museum te stichten. Vanaf het begin van de twintigste eeuw werd er onder de notie van de antropologie gestructureerder verzameld, door onder andere het organiseren van verzamelreizen. Hierbij was er veel aandacht voor de culturen op Nieuw Guinea.
     
     Pas in 1961 gingen het Museum voor Volkenkunde en het Maritiem Museum Prins Hendrik los van elkaar verder. Ook vandaag de dag zijn dit nog steeds aparte musea van de gemeente Rotterdam, maar sinds de jaren 1980 worden de collecties van beider musea wel opgeslagen in hetzelfde depot. Sinds mei 2017 is het Wereldmuseum Rotterdam een nauwe samenwerking aangegaan met de stichting [Nationaal Museum van Wereldculturen](http://www.wikidata.org/entity/Q17153751) (NMVW). De collectie is overigens nog altijd het bezit van de gemeente Rotterdam. Sinds 2023 gaan alle musea binnen het NMVW verder onder de naam Wereldmuseum. De naam van het museum in de havenstad werd zodoende gespecificeerd tot Wereldmuseum Rotterdam.
+
+    ![Foto van het Wereldmuseum Rotterdam in 2024](https://upload.wikimedia.org/wikipedia/commons/a/aa/Wereldmuseum_Rotterdam_2024-12-03.jpg)
+    _Het huidige Wereldmuseum Rotterdam, 2024 ([Andy Li](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Rotterdam_2024-12-03.jpg))_
     
     ### Herkomstonderzoek
     
@@ -113,6 +114,6 @@ Sources:
 editing_metadata:
   - date: 2024-08-22
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

@@ -4,10 +4,11 @@ title: Bronnen
 parent: niveau1
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/Sources.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/Sources.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/Dutch/Sources.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/Dutch/Sources.docx){: .btn .btn-blue }
 
 _This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-04-25_  
@@ -43,7 +44,7 @@ Ook voor voorwerpen werden andere termen gebruikt dan in het Nederlands van nu. 
 
 Voor herkomstonderzoek naar objecten uit koloniale contexten zijn persoonlijke archieven vaak van cruciaal belang. Het gaat daarbij onder meer om dagboeken, memoires en correspondentie. Ook zijn in persoonlijke archieven kopieën van rapporten en verslagen te vinden die beroepshalve zijn gemaakt. Dit is belangrijk omdat aanzienlijke delen van koloniale overheidsarchieven niet bewaard zijn gebleven. 
 
-Dergelijke particuliere collecties zijn te vinden in talloze archieven in Nederland. Het is daarom raadzaam om de zoektocht te beginnen bij [archieven.nl](https://www.archieven.nl/). Overigens zijn niet alle archiefinstellingen hier te vinden, dus het is dikwijls noodzakelijk om de zoektocht buiten deze website te vervolgen. Vele Nederlanders die actief waren in het koloniale bestuur, leger of wetenschap brachten hun persoonlijke archief onder bij het [Koninklijk Instituut voor Taal-, Land- en Volkenkunde (KITLV)](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F62191a1bbed9b315db786f2037417b4f). Deze archieven maken tegenwoordig deel uit van de [Universitaire Bibliotheken Leiden](https://digitalcollections.universiteitleiden.nl). Soms zijn er nog archiefstukken in particulier bezit, bij families, organisaties of bedrijven.
+Dergelijke particuliere collecties zijn te vinden in talloze archieven in Nederland. Het is daarom raadzaam om de zoektocht te beginnen bij [archieven.nl](https://www.archieven.nl/). Overigens zijn niet alle archiefinstellingen hier te vinden, dus het is dikwijls noodzakelijk om de zoektocht buiten deze website te vervolgen. Vele Nederlanders die actief waren in het koloniale bestuur, leger of wetenschap brachten hun persoonlijke archief onder bij het [Koninklijk Instituut voor Taal-, Land- en Volkenkunde (KITLV)](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F62191a1bbed9b315db786f2037417b4f). Deze archieven maken tegenwoordig deel uit van de [Universitaire Bibliotheken Leiden](https://digitalcollections.universiteitleiden.nl). Soms zijn er nog archiefstukken in particulier bezit, bij families, organisaties of bedrijven.
 
 Via het [Nationaal Archief](https://www.nationaalarchief.nl) zijn de personeelsdossiers (stamboeken) van koloniale ambtenaren, militairen en marinepersoneel digitaal doorzoekbaar. Op die manier is terug te vinden wanneer zij waar gestationeerd waren en voor welke daden zij eretekens en onderscheidingen ontvingen.
 
@@ -86,27 +87,27 @@ Soms is informatie over een voorwerp niet opgeschreven. Deskundigen, zowel in Ne
 
 Een leidend principe in de archiefwereld is dat archieven worden bewaard waar ze gevormd zijn. Om die reden zijn er vele archieven die verband hebben met de Nederlandse koloniale collecties aanwezig in de voormalige koloniën. Archiefinstanties die zulk materiaal bevatten zijn bijvoorbeeld het [Nationaal Archief Suriname](https://nationaalarchief.sr/), [Arsip Nasional Republik Indonesia](https://www.anri.go.id), [National Archives of Sri Lanka](https://www.archives.gov.lk) en [Nationaal Archief Curaçao](https://www.nationaalarchief.cw/). Voor diverse archieven in Indonesië is de portal [JIKN](https://jikn.go.id/) beschikbaar.
 
-Een voorbeeld is het archief van het [Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml) dat zich bij het Arsip Nasional in Jakarta bevindt, de stad waar deze instelling gevestigd was. Toch zijn er ook vele archiefstukken over het Bataviaasch Genootschap in Nederland te vinden, bijvoorbeeld in archieven van personen die met het genootschap te maken hebben gehad. 
+Een voorbeeld is het archief van het [Bataviaasch Genootschap van Kunsten en Wetenschappen](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F879aa24d509fdae582d9cbd6cc60160c) dat zich bij het Arsip Nasional in Jakarta bevindt, de stad waar deze instelling gevestigd was. Toch zijn er ook vele archiefstukken over het Bataviaasch Genootschap in Nederland te vinden, bijvoorbeeld in archieven van personen die met het genootschap te maken hebben gehad. 
 
 Verzamelaars en organisaties kunnen in meerdere Europese landen actief geweest zijn en relevante informatie kan zich ook in andere Europese landen bevinden. Voor Duitsland is deze informatie te vinden via de portals [Proveana](https://www.proveana.de/en/start), [Archivführer zur deutschen Kolonialgeschichte](https://archivfuehrer-kolonialzeit.de) en de database [Sammlungsgut aus Kolonialen Kontexten](https://ccc.deutsche-digitale-bibliothek.de). De Franse portal [AGORHA](https://agorha.inha.fr) bevat informatie over verzamelaars, handelaren en collecties op het gebied van de archeologie en kunstgeschiedenis, waaronder ook Aziatische kunst.
 
 ## Related Aids
 
-_see also: [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)_  
-_see also: [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)_  
-_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
-_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)_  
-_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)_  
-_see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
-_see also: [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
+ - _see also: [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)_  
+ - _see also: [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)_  
+ - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
+ - _see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)_  
+ - _see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)_  
+ - _see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
+ - _see also: [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
 
 
         

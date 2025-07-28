@@ -21,7 +21,7 @@ Two moments are of particular importance in provenance research into colonial co
 
 ## How to select objects with a problematic provenance
 
-If your purpose is to identify objects that were looted or otherwise involuntarily surrendered you probably want to know if there are certain characteristics by which to recognise such objects. Provenance research will be required to obtain any clarity on this. In some cases [basic research](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd2741eb61e9f4b63fa0d750159b2503d) will suffice to reveal a problematic provenance but often extensive research will be necessary. 
+If your purpose is to identify objects that were looted or otherwise involuntarily surrendered you probably want to know if there are certain characteristics by which to recognise such objects. Provenance research will be required to obtain any clarity on this. In some cases [basic research](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd2741eb61e9f4b63fa0d750159b2503d) will suffice to reveal a problematic provenance but often extensive research will be necessary. 
 
 There are various categories of objects that could be prioritised in this context:
 - Objects and collections that are the subject of an application for restitution;
@@ -31,7 +31,7 @@ There are various categories of objects that could be prioritised in this contex
 - Statues and other decorations from buildings and monuments (for example, shrines, temples, mosques, mausoleums or cemeteries);
 - Objects from excavations, especially any undocumented findings.
 
-If the object is from a private collection, it is worth first finding out whether it is known who brought the object to the Netherlands and what that person’s profession was. Professions directly linked to the colonial system, such as the [military](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0ceff3da7d6bba371bb16767a65b619e) and [civil servants](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F4f29663e147ee9c1ee7a9eb3019fca18), may provide grounds for further research into the object’s provenance.
+If the object is from a private collection, it is worth first finding out whether it is known who brought the object to the Netherlands and what that person’s profession was. Professions directly linked to the colonial system, such as the [military](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0ceff3da7d6bba371bb16767a65b619e) and [civil servants](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F4f29663e147ee9c1ee7a9eb3019fca18), may provide grounds for further research into the object’s provenance.
 
 ## How to select objects when you want to share information
 
@@ -45,13 +45,13 @@ Provenance research can also be undertaken proactively, for example if the custo
 
 ## Related Aids
 
-_see also: [Doing research](niveau1/English/DoingResearch_20240425.yml)_  
-_see also: [Introduction to conducting provenance research](niveau1/English/Introduction_20250120.yml)_  
-_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
-_see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
-_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+ - _see also: [Doing research](niveau1/English/DoingResearch_20240425.yml)_  
+ - _see also: [Introduction to conducting provenance research](niveau1/English/Introduction_20250120.yml)_  
+ - _see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
+ - _see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
+ - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
 
 
         

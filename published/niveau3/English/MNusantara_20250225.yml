@@ -15,13 +15,13 @@ RelatedAides:
         link: "niveau3/English/WageningenUniversity_20240508.yml"
         rel_type: "see also"
   - "Hoofdcursus Kampen":
-        link: "published/niveau3/English/HoofdcursusKampen_20250513.yml"
+        link: "niveau3/English/HoofdcursusKampen_20250513.yml"
         rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
-        link: "published/niveau3/English/JustinusNassau_20250513.yml"
+        link: "niveau3/English/JustinusNassau_20250513.yml"
         rel_type: "see also"
   - "International Colonial and Export Exhibition 1883":
-        link: "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml"
+        link: "niveau3/English/Wereldtentoonstelling1883_20250602.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -34,7 +34,7 @@ Relevant data:
     Type of objects: 
       - "[Ehtnografic objects](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Indonesia](https://sws.geonames.org/1643084)"
+      - "[Indonesia](https://sws.geonames.org/1643084/)"
   Period of activity: 
     Year of start: "1911"
     Year of end: "2013"
@@ -47,9 +47,7 @@ Relevant data:
       
 Main-text:
   content: |
-    Museum Nusantara was a museum in the city of Delft that held a collection of predominantly Indonesian objects. After the museum's closing in 2013, 1500 objects were transferred to Indonesia. The rest of the collection was divided among museums in the Netherlands and abroad, including [Wereldmuseum Leiden](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b).
-    
-    ### Description
+    ### History of the museum
     
     The collection of [Museum Nusantara](http://www.wikidata.org/entity/Q2668933) has its origins in the Instelling van onderwijs in de taal-, land- en volkenkunde van Nederlandsch-Indië (Institution for education in the linguistics, ethnography and geography of the Dutch East Indies), or in short: [the Indische Instelling](http://www.wikidata.org/entity/Q62604589) (Indies Institute) Between 1842 and 1864, the [Koninklijke akademie](http://www.wikidata.org/entity/Q21029912) (Royal academy) was based in Delft, where both civil engineers and colonial administrators were trained. In 1864, the Royal Academy was split into the [Polytechnic School](http://www.wikidata.org/entity/Q56587288) (the predecessor of the current Technical University in Delft) and the educatrion for Dutch East Indies civil servants was moved to Leiden (and with it the relevant object and library collection), where a more academic programme would be established. Following this decision, the Municipality of Delft decided to establish the Indische Instelling.
 
@@ -100,6 +98,6 @@ Sources:
 editing_metadata:
   - date: 2025-02-25
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

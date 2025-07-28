@@ -1,14 +1,12 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-08-27_  
-_last edited by wiebe reints as original_author on 2024-08-27_
+_first edited by Wiebe Reints as original_author on 2024-08-27_  
+_last edited by Wiebe Reints as original_author on 2024-08-27_
 
 
 # Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen
 
 
 ## Abstract
-
-Het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen werd in 1778 opgericht. Het stelde zichzelf de taak de (schone) kunsten en wetenschappen in voormalig Nederlands-Indië te bevorderen. Lang besloot het Bataviaasch Genootschap of een object in Indonesië bleef, of dat het naar Nederland werd verzonden ten behoeve van de musea aldaar. Na 1962 is de collectie van het Genootschap opgegaan in het Nationale Museum van Indonesië.
 
 Het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen werd in 1778 opgericht. Het stelde zichzelf de taak de (schone) kunsten en wetenschappen in voormalig Nederlands-Indië te bevorderen. Lang besloot het Bataviaasch Genootschap of een object in Indonesië bleef, of dat het naar Nederland werd verzonden ten behoeve van de musea aldaar. Na 1962 is de collectie van het Genootschap opgegaan in het Nationale Museum van Indonesië.
 
@@ -31,17 +29,17 @@ Zoals beschreven is in de notulen van het Bataviaasch Genootschap veel informati
 
 ## Related Aids
 
-_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
-_see also: [Ethnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)_  
-_see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
-_see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
+ - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)_  
+ - _see also: [Ethnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)_  
+ - _see also: [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)_  
+ - _see also: [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)_  
 
 ## Primary sources
 
@@ -68,7 +66,7 @@ Tijdschrift:
 ## Secondary sources
 
 Boek:
-  > Groot, Hans. Van Batavia naar Weltevreden: Het Bataviaasch Genootschap van Kunsten en Wetenschappen, 1778-1867. Amsterdam: Brill, 2009  
+  > Groot, Hans. Van Batavia naar Weltevreden; Het Bataviaasch Genootschap van Kunsten en Wetenschappen, 1778-1867. Brill, 2009.  
 > [http://library.oapen.org/handle/20.500.12657/34657](http://library.oapen.org/handle/20.500.12657/34657)  
 > _Boek van Hans Groot met een uitgebreide beschrijving van het Bataviaasch Genootschap vanaf de oprichting tot 1867. Bevat ook veel informatie over verworven collecties en specifieke leden van het genootschap._  
 
@@ -95,7 +93,7 @@ Bataviaasch Genootschap, Lembaga Kebudajaan Indonesia
 ,
   Geographical:
   
-[Indonesië](https://sws.geonames.org/1643084)
+[Indonesië](https://sws.geonames.org/1643084/)
 ,
   Period of activity:
   Year of start:

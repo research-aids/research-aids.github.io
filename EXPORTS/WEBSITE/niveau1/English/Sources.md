@@ -4,10 +4,11 @@ title: Sources
 parent: niveau1
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/Sources.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/Sources.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau1/English/Sources.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau1/English/Sources.docx){: .btn .btn-blue }
 
 _This is a level 1 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-05-01_  
@@ -44,7 +45,7 @@ Terminology used to refer to objects has also changed – for example, a 'baadje
 
 Personal archives such as diaries, memoirs and letters are often crucial in provenance research into objects from colonial contexts. Personal archives may also contain copies of reports and records made in a professional capacity. This is important because significant portions of colonial government archives have not been preserved. 
 
-Such private collections can be found in numerous archives in the Netherlands. It is therefore advisable to begin your search at [archieven.nl](https://www.archieven.nl/). However, not all archival institutions can be found here, so it will often be necessary to extend your search beyond this website. Many Dutch nationals who were active in colonial administration, the military or science deposited their personal archives at the [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F62191a1bbed9b315db786f2037417b4f). These archives are now part of the [Leiden University Libraries](https://digitalcollections.universiteitleiden.nl). Sometimes archive documents are still privately held by families, organisations or companies.
+Such private collections can be found in numerous archives in the Netherlands. It is therefore advisable to begin your search at [archieven.nl](https://www.archieven.nl/). However, not all archival institutions can be found here, so it will often be necessary to extend your search beyond this website. Many Dutch nationals who were active in colonial administration, the military or science deposited their personal archives at the [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F62191a1bbed9b315db786f2037417b4f). These archives are now part of the [Leiden University Libraries](https://digitalcollections.universiteitleiden.nl). Sometimes archive documents are still privately held by families, organisations or companies.
 
 The [National Archives of the Netherlands](https://www.nationaalarchief.nl) website provides an online search function for the personnel files (service registers) of colonial civil servants, military and naval personnel. This makes it possible to find out when and where they were stationed, and for what actions they were awarded honours and distinctions.
 
@@ -93,21 +94,21 @@ Some collectors and organisations were active in several European countries, whi
 
 ## Related Aids
 
-_see also: [Doing research](niveau1/English/DoingResearch_20240425.yml)_  
-_see also: [The Dutch restitution policy](niveau1/English/RestitutionPolicy_20250123.yml)_  
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
-_see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
-_see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
-_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
-_see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
+ - _see also: [Doing research](niveau1/English/DoingResearch_20240425.yml)_  
+ - _see also: [The Dutch restitution policy](niveau1/English/RestitutionPolicy_20250123.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)_  
+ - _see also: [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)_  
+ - _see also: [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)_  
+ - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+ - _see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
+ - _see also: [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
 
 
         

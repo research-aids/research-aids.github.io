@@ -4,10 +4,11 @@ title: Zoekhulpen Koloniale Collecties
 parent: niveau0
 nav_enabled: true
 has_toc: true
+date: 2025-07-28
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau0/Dutch/TopLevel.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau0/Dutch/TopLevel.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau0/Dutch/TopLevel.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau0/Dutch/TopLevel.docx){: .btn .btn-blue }
 
 _This is a level 0 Research Aid_  
 _first edited by wiebe reints as original_author on 2024-06-06_  
@@ -29,24 +30,24 @@ Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doe
 
 
 ### 1. Herkomstonderzoek naar koloniale collecties
-            _see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
-_see also: [Onderzoeken](niveau1/Dutch/Onderzoeken_20240425.yml)_  
-_see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
-_see also: [Verslagleggen](niveau1/Dutch/Verslagleggen_20240501.yml)_  
-_see also: [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)_  
+             - _see also: [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)_  
+ - _see also: [Onderzoeken](niveau1/Dutch/Onderzoeken_20240425.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
+ - _see also: [Verslagleggen](niveau1/Dutch/Verslagleggen_20240501.yml)_  
+ - _see also: [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)_  
 
 ### 2. Onderwerpen
-            _see also: [Personen](published/niveau2/Dutch/Persons_20250113.yml)_  
-_see also: [Musea en efgoedbeherende instellingen](published/niveau2/Dutch/Museum_20250113.yml)_  
-_see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)_  
-_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
-_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)_  
+             - _see also: [Personen](published/niveau2/Dutch/Persons_20250113.yml)_  
+ - _see also: [Musea en efgoedbeherende instellingen](published/niveau2/Dutch/Museum_20250113.yml)_  
+ - _see also: [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)_  
+ - _see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
+ - _see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)_  
 
 ### 3. Locaties
-            _see also: [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)_  
-_see also: [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)_  
+             - _see also: [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)_  
+ - _see also: [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)_  
 
         
         

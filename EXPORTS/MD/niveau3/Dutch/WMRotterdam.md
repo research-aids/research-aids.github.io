@@ -1,14 +1,12 @@
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-08-22_  
-_last edited by wiebe reints as original_author on 2024-08-22_
+_first edited by Wiebe Reints as original_author on 2024-08-22_  
+_last edited by Wiebe Reints as original_author on 2024-08-22_
 
 
 # Wereldmuseum Rotterdam
 
 
 ## Abstract
-
-Het Wereldmuseum Rotterdam werd in 1885 opgericht door de Gemeente Rotterdam als het Museum voor Land- en Volkenkunde. Het museum bezit een ruime collectie objecten uit Azië, Oceanië, Afrika en Amerika die in de 19e eeuw is samengesteld door leden van de Rotterdamse Yachtvereniging.
 
 Het Wereldmuseum Rotterdam werd in 1885 opgericht door de Gemeente Rotterdam als het Museum voor Land- en Volkenkunde. Het museum bezit een ruime collectie objecten uit Azië, Oceanië, Afrika en Amerika die in de 19e eeuw is samengesteld door leden van de Rotterdamse Yachtvereniging.
 
@@ -31,15 +29,15 @@ De fotocollectie van het Wereldmuseum Rotterdam is in 2008 overgedragen aan het 
 
 ## Related Aids
 
-_see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
-_see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
-_see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
-_see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
-_see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
-_see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](published/niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
-_see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](published/niveau3/Dutch/MOudenbosch_20250603.yml)_  
+ - _see also: [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)_  
+ - _see also: [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)_  
+ - _see also: [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)_  
+ - _see also: [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)_  
+ - _see also: [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)_  
+ - _see also: [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)_  
+ - _see also: [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)_  
 
 ## Primary sources
 
@@ -88,7 +86,7 @@ Museum voor Land- en Volkenkunde, Museum voor Volkenkunde, Wereldmuseum, Nationa
 ,
   Geographical:
   
-[Afrika](https://hdl.handle.net/20.500.11840/termmaster5838);, [Azië](https://sws.geonames.org/6255147), [Noord-Amerika](https://sws.geonames.org/6255149), [Oceanië](https://sws.geonames.org/6255151), [Zuid-Amerika](https://sws.geonames.org/6255150)
+[Afrika](https://sws.geonames.org/6255146/), [Azië](https://sws.geonames.org/6255147/), [Noord-Amerika](https://sws.geonames.org/6255149/), [Oceanië](https://sws.geonames.org/6255151/), [Zuid-Amerika](https://sws.geonames.org/6255150/)
 ,
   Period of activity:
   Year of start:

@@ -7,11 +7,11 @@ has_toc: true
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/BGKW.pdf){: .btn .btn-mint }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/BGKW.docx){: .btn .btn-mint }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau3/English/BGKW.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau3/English/BGKW.docx){: .btn .btn-blue }
 
 _This is a level 3 Research Aid_  
-_first edited by wiebe reints as original_author on 2024-09-05_  
-_last edited by abacus as translator on 2025-04-07
+_first edited by Wiebe Reints as original_author on 2024-09-05_  
+_last edited by Abacus as translator on 2025-04-07
         (applies to section: Main-text; Sources)_
 
 
@@ -21,8 +21,6 @@ _last edited by abacus as translator on 2025-04-07
 ## Abstract
 
 The Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (Royal Batavian Society for Arts and Science) was founded in 1778. It set itself the task to promote (fine) art and science in the former Dutch East Indies. For long, the Bataviaasch Genootschap decided whether collected objects were kept in Indonesia or send to the Netherlands. In 1962, the collection of the Bataviaasch Genootschap subsumed in the National Museum of Indonesia.
-
-The Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (Royal Batavian Society of Arts and Sciences) was founded in 1778. It set itself the task to promote (fine) art and science in the former Dutch East Indies. For long, the Bataviaasch Genootschap decided whether collected objects were kept in Batavia (today's Jakarta) or send to the Netherlands. In 1962, the collection of the Bataviaasch Genootschap subsumed in the National Museum of Indonesia.
 
 ### Description
 
@@ -43,18 +41,18 @@ As described, the minutes of the Bataviaasch Genootschap contain much informatio
 
 ## Related Aids
 
-_see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
-_see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
-_see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
-_see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
-_see also: [Artis Etnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
-_see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
-_see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
-_see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
-_see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
-_see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
-_see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
-_see also: [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)_  
+ - _see also: [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)_  
+ - _see also: [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)_  
+ - _see also: [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)_  
+ - _see also: [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)_  
+ - _see also: [Artis Etnographic Museum](niveau3/English/EMArtis_20240712.yml)_  
+ - _see also: [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)_  
+ - _see also: [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)_  
+ - _see also: [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)_  
+ - _see also: [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)_  
+ - _see also: [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)_  
+ - _see also: [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)_  
+ - _see also: [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)_  
 
 ## Primary sources
 
@@ -108,7 +106,7 @@ Bataviaasch Genootschap, Lembaga Kebudajaan Indonesia
 ,
   Geographical:
   
-[Indonesia](https://sws.geonames.org/1643084)
+[Indonesia](https://sws.geonames.org/1643084/)
 ,
   Period of activity:
   Year of start:

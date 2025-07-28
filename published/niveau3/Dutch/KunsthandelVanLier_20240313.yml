@@ -33,15 +33,15 @@ Relevant data:
       - "[Keramiek](http://vocab.getty.edu/aat/300151343)"
       - "[Sculpturen](https://hdl.handle.net/20.500.11840/termmaster25727)"
     Geographical:
-      - "[Afrika](https://sws.geonames.org/6255146)"
-      - "[Azië](https://sws.geonames.org/6255147)"
-      - "[Indonesië](https://sws.geonames.org/1643084)"
-      - "[China](https://sws.geonames.org/1814991)"
-      - "[Congo](https://sws.geonames.org/203312)"
-      - "[Papoea-Nieuw-Guinea](https://sws.geonames.org/2088628)"
-      - "[Noord-Amerika](https://sws.geonames.org/6255149)"
-      - "[Zuid-Amerika](https://sws.geonames.org/6255150)"
-      - "[Oceanië](https://sws.geonames.org/6255151)"
+      - "[Afrika](https://sws.geonames.org/6255146/)"
+      - "[Azië](https://sws.geonames.org/6255147/)"
+      - "[Indonesië](https://sws.geonames.org/1643084/)"
+      - "[China](https://sws.geonames.org/1814991/)"
+      - "[Congo](https://sws.geonames.org/203312/)"
+      - "[Papoea-Nieuw-Guinea](https://sws.geonames.org/2088628/)"
+      - "[Noord-Amerika](https://sws.geonames.org/6255149/)"
+      - "[Zuid-Amerika](https://sws.geonames.org/6255150/)"
+      - "[Oceanië](https://sws.geonames.org/6255151/)"
   Period of activity:
     Year of start: "1924"
     Year of end: "1996"
@@ -54,9 +54,7 @@ Relevant data:
       
 Main-text:
   content: |
-    Kunsthandel Van Lier werd in 1924 opgericht door Carel van Lier en handelde in kunstvoorwerpen en etnografica uit onder andere Afrika, Azië en Noord-Amerika. Na de Tweede Wereldoorlog is de handel nog kortstondig door zijn vrouw voortgezet, waarna de zaak uiteindelijk door Leendert van Lier (geen familie) werd overgenomen.
-    
-    ### Beschrijving
+    ### Geschiedenis
     
     [Carel van Lier](https://www.wikidata.org/entity/Q2531642) (1897-1945) begon in 1924 een galerie in [Laren](https://sws.geonames.org/2751874) en verhuisde drie jaar later naar Amsterdam. [Kunstzaal Van Lier](https://www.wikidata.org/entity/Q87665942) hield zich vooral bezig met [moderne Europese kunst](http://vocab.getty.edu/aat/300264736). Van Lier raakte echter ook in de ban van de esthetiek van de [Afrikaanse beeldhouwkunst](http://vocab.getty.edu/aat/300108572) en [houtsnijwerk](http://vocab.getty.edu/aat/300449031). De tentoonstelling van zijn privécollectie Afrikaanse kunst in het [Gemeentemuseum Amsterdam](https://www.wikidata.org/entity/Q9243350) in 1927 beïnvloedde modernistische schilders. Al snel handelde Van Lier in [Aziatische kunst](https://www.wikidata.org/entity/Q3399573), [Afrikaanse beeldhouwkunst](http://vocab.getty.edu/aat/300108572) en [etnografische voorwerpen](http://vocab.getty.edu/aat/300234108) uit de hele wereld (waaronder [inheems Noord-Amerika](https://hdl.handle.net/20.500.11840/termmaster10075993)). Deze werden verworven van particuliere verzamelaars in Nederland, aankoopreizen naar [Londen](https://sws.geonames.org/2643743), [Parijs](https://sws.geonames.org/2988507), [Brussel](https://sws.geonames.org/2800866) en [Antwerpen](https://sws.geonames.org/2803138), en via zijn netwerk van relaties in de internationale handel in etnografische kunst, met name kunsthandelaar [Charles Ratton](https://www.wikidata.org/entity/Q15220243) in Parijs. 
     
@@ -85,7 +83,7 @@ Sources:
       Description and remarks: "Aantal uitnodigingen Kunstzaal van Lier, 1951-1953; aantal catalogi waaronder 'Mostra internazionale del Surrealismo', 1961; plakboek met foto's van werk van Bob Hanf; 2 foto's van kunstwerken, fotokopieën van brieven van onder anderen Eugène Brands, 1954-1955"
   Secondary sources:
     - Type of source: "Boek"
-      Name: "Lier, Bas van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003."
+      Name: "Lier, Bas C. van. Carel van Lier: kunsthandelaar, wegbereider, 1897-1945. Bussum: Thoth, 2003."
       Link: 
         - URL: "https://search.worldcat.org/title/902336725?oclcNum=902336725"
         - ISBN: "9789068683431"
@@ -95,6 +93,6 @@ Sources:
 editing_metadata:
   - date: 2024-03-13
     applies_to: 
-    author: wiebe reints
+    author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 

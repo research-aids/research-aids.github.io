@@ -7,6 +7,7 @@ import re
 import argparse
 from io import StringIO
 import os
+from datetime import datetime
 
 github_raw_base_URL = "https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/"
 
@@ -21,7 +22,7 @@ def download_button(level, language, name, extension):
     link_path = f"EXPORTS/{extension.upper()}/{level}/{language}/{name}.{extension.lower()}"
     link = github_raw_base_URL + link_path
 
-    return f"[{link_text}]({link}){{: .btn .btn-mint }}"
+    return f"[{link_text}]({link}){{: .btn .btn-blue }}"
   
 
 def front_matter(ra_name, level, lang):
@@ -31,6 +32,7 @@ title: {ra_name}
 parent: {level}
 nav_enabled: true
 has_toc: true
+date: {datetime.today().strftime("%Y-%m-%d")}
 --- 
 """
 

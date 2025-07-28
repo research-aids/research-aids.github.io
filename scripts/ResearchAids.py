@@ -5,16 +5,17 @@ class EditEvent:
     def from_yaml(cls, yml):
         appl = yml.get("applies_to", None) 
         notes = yml.get("notes", None)
+        role = yml.get("role", None)
         return cls(yml["date"],
                    yml["author"],
-                   yml["role"],
+                   role,
                    appl, notes)        
         
     def __init__(self, date, author, role, applies_to=None, notes=None):
         self.date = date # YAML parses dates automagically: datetime.strptime(date, "%Y-%m-%d")
         self.author = author
         self.role = role
-        self.is_origin = ("original_author" in self.role.lower().replace(" ", "_"))
+        self.is_origin = ("original_author" in self.role.lower().replace(" ", "_")) if self.role else False
         
         self.applies_to = applies_to
         self.notes = notes
@@ -23,9 +24,12 @@ class EditEvent:
         return str(self.__dict__)
         
     def to_markdown(self, markdown=""):
-        return markdown + f"""edited by {self.author} as {self.role} on {self.date.strftime("%Y-%m-%d")}
-        {f'(applies to section: {self.applies_to})' if self.applies_to else ''}
-        {f'(notes: {self.notes})' if self.notes else ''}""".strip()
+        role = f"as {self.role}" if self.role else ""
+        appl = f'(applies to section: {self.applies_to})' if self.applies_to else ''
+        notes = f'(notes: {self.notes})' if self.notes else ''
+        return markdown + f"""edited by {self.author} {role} on {self.date.strftime("%Y-%m-%d")}
+        {appl}
+        {notes}""".strip()
 
     def __eq__(self, other):
         return self.__dict__ == other.__dict__
@@ -115,17 +119,20 @@ _first {self.edit_history.origin_event.to_markdown()}_
         # value_dict = next(yml.values())
         item_title, item_value_dict = tuple(yml.items())[0]
         rel_type = item_value_dict["rel_type"]
+
+        
         if rel_type.lower()  == "see also":
             # raise Exception("this Markdown doesn't get displayed right!")
-            return f"_see also: [{item_title}]({item_value_dict["link"]})_  \n"
+            rel_str = "see also"
         elif rel_type == "broader":
-            return f"_broader: [{item_title}]({item_value_dict["link"]})_  \n"
+            rel_str = "broader"
         elif rel_type == "narrower":
-            return f"_narrower: [{item_title}]({item_value_dict["link"]})_  \n"
+            rel_str = "narrower"
         else:
             print(rel_type.lower())
             raise ValueError(f"{item_value_dict}")
 
+        return f" - _{rel_str}: [{item_title}]({item_value_dict["link"]})_  \n"
     
     def parse_anything(self, yml, result_md="", level=0):
         if isinstance(yml, (str, int, float, bool)):
@@ -216,7 +223,7 @@ class Level2(Level1):
         self.abstract = yml["Abstract"]
         self.main_text = self.get_markdown_content(yml["Main-text"])
         self.related_aids = self.parse_related_aids(yml["RelatedAides"])
-        self.relevant_data = self.parse_anything(yml["Relevant data"])
+        self.relevant_data = self.parse_relevant_data(yml["Relevant data"])
         self.sources = self.parse_sources(yml["Sources"])
 
     def parse_source_links(self, yml):
@@ -242,7 +249,7 @@ class Level2(Level1):
         md = ""
         for source_lvl, source_ls in yml.items():
             md += f"## {source_lvl}\n\n"
-            for source in source_ls:
+            for source in source_ls: #SORT
                 # 'Type of source', 'Name', 'Link', 'Description and remarks'
                 source_md = f"{source['Type of source']}:\n  > {source['Name']}"
                 # links_md = ", ".join([f"{v} (_{k}_)" for d in source['Link'] for k, v in d.items()])
@@ -252,6 +259,9 @@ class Level2(Level1):
                 if"Description and remarks" in source:
                     md+= f"> _{source["Description and remarks"]}_  \n\n"
         return md
+
+    def parse_relevant_data(yml):
+        pass
                 
     def __call__(self):
         md = super().__call__()
