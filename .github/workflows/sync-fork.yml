@@ -20,14 +20,19 @@ jobs:
         run: |
           git config user.email "valevogelmann@gmail.com"
           git config user.name "valevo"
-          git remote add upstream https://github.com/colonial-heritage/research-guides-dev.git
           git reset --hard
+          git remote add upstream https://github.com/colonial-heritage/research-guides-dev.git
           git fetch upstream
-          git checkout upstream/main
-          git merge -s ours --allow-unrelated-histories origin/main
-          git branch mycrazybranch
-          git checkout origin/main
-          # git merge upstream/main
+
+          # EXPERIMENTAL
+          git merge -s theirs upstream/main
+          # EXPERIMENTAL
+          
+          # git checkout upstream/main
+          # git merge -s ours --allow-unrelated-histories origin/main # should this be "theirs"???
+          ## git branch mycrazybranch # this is not needed? (seems like this branch isn't used at all)
+          # git checkout origin/main
+          ## git merge upstream/main
         env:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
           REPOSITORY: ${{ github.repository }}
