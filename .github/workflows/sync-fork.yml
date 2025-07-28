@@ -25,7 +25,7 @@ jobs:
           git fetch upstream
 
           # EXPERIMENTAL
-          git merge -s ort -X theirs upstream/main
+          git merge -s ort -X theirs --allow-unrelated-histories upstream/main
           ls *
           # EXPERIMENTAL
           
