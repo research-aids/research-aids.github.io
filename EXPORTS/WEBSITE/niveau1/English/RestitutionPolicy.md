@@ -4,7 +4,7 @@ title: The Dutch restitution policy
 parent: niveau1
 nav_enabled: true
 has_toc: true
-date: 2025-08-03
+date: 2025-08-01
 --- 
 
 
