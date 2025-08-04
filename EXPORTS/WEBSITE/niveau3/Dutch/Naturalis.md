@@ -4,7 +4,7 @@ title: Naturalis Biodiversity Center
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-01
+date: 2025-08-04
 --- 
 
 
@@ -49,7 +49,7 @@ In de loop van de twintigste eeuw werd de collectie van zowel het RMNH en RGM fl
   - Cornelis Beets (1963-1977)
 
 ![Foto uit 1972 van een tentoonstelling van dieren uit Suriname in het toenmalige Rijksmuseum voor Natuurlijke Historie](https://upload.wikimedia.org/wikipedia/commons/5/57/Rijksmuseum_van_Natuurlijke_Historie%2C_Objectnr_PV_PV16120.jpg)
-_Tentoonstelling van dieren uit Suriname in het Rijksmuseum voor Natuurlijke Historie, 1972 ([Jan Holvast / Erfgoed Leiden](https://commons.wikimedia.org/wiki/File:Rijksmuseum_van_Natuurlijke_Historie,_Objectnr_PV_PV16120.jpg))_
+_Tentoonstelling van dieren uit Suriname in het Rijksmuseum voor Natuurlijke Historie, 1972_ ([Jan Holvast / Erfgoed Leiden](https://commons.wikimedia.org/wiki/File:Rijksmuseum_van_Natuurlijke_Historie,_Objectnr_PV_PV16120.jpg))
 
 ### Herkomstonderzoek
 
