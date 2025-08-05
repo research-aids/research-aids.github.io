@@ -4,7 +4,7 @@ title: Naturalis Biodiversity Center
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-04
+date: 2025-08-01
 --- 
 
 
@@ -49,7 +49,7 @@ During the twentieth century the collections of both the RMNH and RGM were expan
   - Cornelis Beets (1963-1977)
 
 ![Photo from 1972 of an exhibition of Surinamese animals in the Rijksmuseum van Natuurlijke Historie](https://upload.wikimedia.org/wikipedia/commons/5/57/Rijksmuseum_van_Natuurlijke_Historie%2C_Objectnr_PV_PV16120.jpg)
-_Exhibition of Surinamese animals in the Rijksmuseum van Natuurlijke Historie, 1972_ ([Jan Holvast / Erfgoed Leiden](https://commons.wikimedia.org/wiki/File:Rijksmuseum_van_Natuurlijke_Historie,_Objectnr_PV_PV16120.jpg))
+_Exhibition of Surinamese animals in the Rijksmuseum van Natuurlijke Historie, 1972 ([Jan Holvast / Erfgoed Leiden](https://commons.wikimedia.org/wiki/File:Rijksmuseum_van_Natuurlijke_Historie,_Objectnr_PV_PV16120.jpg))_
 
 ### Provenance research
 

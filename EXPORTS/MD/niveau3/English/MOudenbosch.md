@@ -15,7 +15,7 @@ The objects that make up the collections in Oudenbosch mainly originate from the
 Nowadays, the museum's ethnographic exhibition alternates every five years between a focus on the former Dutch East Indies and Africa. The current exhibition focuses on the Witte Paters and their relationship with Oudenbosch.
 
 ![Photo from 2011 of the Natuurhistorisch en Volkenkundig Museum in Oudenbosch](https://upload.wikimedia.org/wikipedia/commons/0/03/Oudenbosch_P1070223.JPG)
-_Natuurhistorisch en Volkenkundig Museum in Oudenbosch, 2011_ ([G. Lanting](https://commons.wikimedia.org/wiki/File:Oudenbosch_P1070223.JPG))
+_Natuurhistorisch en Volkenkundig Museum in Oudenbosch, 2011 ([G. Lanting](https://commons.wikimedia.org/wiki/File:Oudenbosch_P1070223.JPG))_
 
 ### Provenance research
 
@@ -57,7 +57,7 @@ Video:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-08-04
+_last edited by UNKNOWN as UNKNOWN on 2025-08-01
         
         (notes: This event was automatically created because the YAML file's edit history was empty.)_
         
