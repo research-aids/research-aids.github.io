@@ -4,7 +4,7 @@ title: Artis Ethnographic Museum
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-05
+date: 2025-08-01
 --- 
 
 
@@ -25,7 +25,7 @@ The Artis Ethnographic Museum was founded in 1851 to house the collection of eth
 From 1905 to 1913 the collection of the Colonial Museum in Haarlem was temporarily included in the collection of the Ethnographic Museum Artis but not long after the decision was made to transfer the collections to the yet-to-be-established museum of the Colonial Institute, which finally took place in 1921. It was not until 1926 that the museum of the Colonial Institute, now Wereldmuseum Amsterdam, opened its doors. To this day, the collection of the Ethnographic Museum Artis forms an important basis of the collection of the Wereldmuseum Amsterdam.
 
 ![Photo of the Artis Ethnographic Museum's interior](https://upload.wikimedia.org/wikipedia/commons/d/d9/Artis%2C_interieur_ethnografisch_museum_3.jpg)
-_Interior of the Artis Ethnographic Museum_ ([Stadsarchief Amsterdam](https://commons.wikimedia.org/wiki/File:Artis,_interieur_ethnografisch_museum_3.jpg))
+_Interior of the Artis Ethnographic Museum ([Stadsarchief Amsterdam](https://commons.wikimedia.org/wiki/File:Artis,_interieur_ethnografisch_museum_3.jpg))_
 
 ### Provenance research
 

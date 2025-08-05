@@ -4,7 +4,7 @@ title: Etnografisch Museum Artis
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-05
+date: 2025-08-01
 --- 
 
 
@@ -25,7 +25,7 @@ Het Etnografisch Museum Artis werd in 1851 gesticht om de collectie etnografisch
 Tussen 1905 en 1913 werd ook de collectie van het Koloniaal Museum in Haarlem tijdelijk opgenomen in de collectie van het Etnografisch Museum Artis, maar al snel daarna werd het besluit genomen de collecties over te dragen aan het nog te stichten museum van het Koloniaal Instituut, wat uiteindelijk plaatsvond in 1921. Het duurde tot 1926 voordat het museum van het Koloniaal Instituut, het tegenwoordige Wereldmuseum Amsterdam is, zijn deuren opende. Tot op heden vormt de verzameling van het Etnografisch Museum Artis een belangrijke basis van de collectie van het Wereldmuseum Amsterdam.
 
 ![Foto van het interieur van het Ethnographisch Museum Artis](https://upload.wikimedia.org/wikipedia/commons/d/d9/Artis%2C_interieur_ethnografisch_museum_3.jpg)
-_Interieur van het Ethnographisch Museum Artis_ ([Stadsarchief Amsterdam](https://commons.wikimedia.org/wiki/File:Artis,_interieur_ethnografisch_museum_3.jpg))
+_Interieur van het Ethnographisch Museum Artis ([Stadsarchief Amsterdam](https://commons.wikimedia.org/wiki/File:Artis,_interieur_ethnografisch_museum_3.jpg))_
 
 ### Herkomstonderzoek
 
