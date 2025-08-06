@@ -4,7 +4,7 @@ title: Saba, Sint Eustatius and Sint Maarten
 parent: niveau2
 nav_enabled: true
 has_toc: true
-date: 2025-08-01
+date: 2025-08-06
 --- 
 
 
@@ -20,7 +20,7 @@ Dutch museums contain many objects deriving from Saba, Sint Eustatius and Sint M
 
 ### Description
 
-Saba, Sint Eustatius, and Sint Maarten (the SSS islands, also known as the Windward Islands from a colonial perspective) are three islands in the Lesser Antilles in the Caribbean Sea. As in the rest of the Lesser Antilles, the original Arawak [Igneri population]( https://www.wikidata.org/entity/Q735922) was driven out of Saba, Sint Eustatius, and Sint Maarten in the thirteenth century by [Caribs]( https://www.wikidata.org/entity/Q27106), who in turn had to contend with Spanish colonists from the fifteenth century onwards. From 1625, British, French, and Dutch colonists took possession of the Lesser Antilles, which had been considered _islas inútiles_ – useless islands – by Spain and as a consequence were more or less left alone. The Dutch [West India Company](http://www.wikidata.org/entity/Q617066) established forts in Sint Maarten and Sint Eustatius in 1632 and 1636, respectively. In 1640, Saba was colonized from Sint Eustatius. Throughout the seventeenth century, the three islands changed hands frequently.
+Saba, Sint Eustatius, and Sint Maarten (the SSS islands, also known as the Windward Islands from a colonial perspective) are three islands in the Lesser Antilles in the Caribbean Sea. As in the rest of the Lesser Antilles, the original Arawak [Igneri population]( https://www.wikidata.org/entity/Q735922) was driven out of Saba, Sint Eustatius, and Sint Maarten in the thirteenth century by [Caribs]( https://www.wikidata.org/entity/Q27106), who in turn had to contend with Spanish colonists from the fifteenth century onwards. From 1625, British, French, and Dutch colonists took possession of the Lesser Antilles, which had been considered _islas inútiles_ – useless islands – by Spain and as a consequence had been more or less left alone. The Dutch [West India Company](http://www.wikidata.org/entity/Q617066) established forts in Sint Maarten and Sint Eustatius in 1632 and 1636, respectively. In 1640, Saba was colonized from Sint Eustatius. Throughout the seventeenth century, the three islands changed hands frequently.
 
 Tobacco, coffee, cotton, and sugar cane were grown on plantations on Sint Eustatius, while salt was mainly extracted from the salt pans near the capital Philipsburg on Sint Maarten. After 1650, slaves from West Africa performed the heavy labor on the plantations and salt pans. The National Archives in The Hague has an extensive [research aid](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/korsou-curacao-mensen-van-toen) on its website that can help you research the (slavery) history of Saba, Sint Eustatius, and Sint Maarten. Following in the footsteps of Curaçao, Sint Eustatius developed into a free port in the 18th century where many slaves were traded. Trade with American revolutionaries during the American War of Independence led to the plundering of Sint Eustatius by British Admiral Rodney in 1781.
 
