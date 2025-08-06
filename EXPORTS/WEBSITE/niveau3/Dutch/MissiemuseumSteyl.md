@@ -4,7 +4,7 @@ title: Missiemuseum Steyl
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-06
+date: 2025-08-01
 --- 
 
 
@@ -27,7 +27,7 @@ Het museum zoals dat in 1931 opende was volledig ingericht naar het idee van Bro
 Broeder Berchmans liet na zijn overlijden weinig documentatie met betrekking tot de museumcollectie na, om die reden is van veel objecten geen precieze herkomstgeschiedenis bekend. Veel van de natuurhistorische collectie is gekocht van dierentuinen en handelaren. Etnografische objecten zijn voornamelijk verworven door missionarissen van de SVB, over de manier van verwerven is weinig bekend. De natuurhistorische collectie is niet louter gericht op flora en fauna uit het buitenland, maar bevat ook objecten afkomstig uit Nederland. Het Missiemuseum Steyl is ook beheerder van de collectie Schmutzer, dit is een groep van houten beelden, gemaakt tussen 1924 en 1927 door de Indonesische kunstenaar Iko, in opdracht van [Joseph Schmutzer](http://www.wikidata.org/entity/Q1876872).
 
 ![Foto uit 2015 van de collectieopstelling in de grote zaal van het Missiemuseum in Steyl](https://upload.wikimedia.org/wikipedia/commons/9/9e/Missiemuseum_Steyl-Tegelen%2C_grote_zaal%2C_vaste_collectie_02.jpg)
-_Vaste opstelling in de grote zaal van het Missiemuseum Steyl_ ([Kleon3](https://commons.wikimedia.org/wiki/File:Missiemuseum_Steyl-Tegelen,_grote_zaal,_vaste_collectie_02.jpg))
+_Vaste opstelling in de grote zaal van het Missiemuseum Steyl ([Kleon3](https://commons.wikimedia.org/wiki/File:Missiemuseum_Steyl-Tegelen,_grote_zaal,_vaste_collectie_02.jpg))_
 
 ### Herkomstonderzoek
 
