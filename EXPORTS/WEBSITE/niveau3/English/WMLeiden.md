@@ -4,7 +4,7 @@ title: Wereldmuseum Leiden
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-07
+date: 2025-08-01
 --- 
 
 
@@ -27,7 +27,7 @@ The collection of the Wereldmuseum Leiden originated from the private collection
 Objects were acquired in various ways. First, as described above, through exchange with other museums. In addition, the National Museum of Ethnology itself was an active buyer of ethnographic objects from dealers and auctions, with for example part of the museum's collection of Benin Bronzes having been obtained in this way. Many objects were also received as donations, often from [colonial civil servants](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F4f29663e147ee9c1ee7a9eb3019fca18) or [military personnel](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0ceff3da7d6bba371bb16767a65b619e) who served for example with the Royal Dutch East Indies Army (KNIL). The vast majority of the collection of the present Wereldmuseum Leiden was therefore collected during the 19th and 20th centuries.
 
 ![Picture of the Wereldmuseum Leiden in November 2024](https://upload.wikimedia.org/wikipedia/commons/5/51/Wereldmuseum_Leiden_%28nov_2024%29.jpg)
-_The Wereldmuseum Leiden in November 2024_ ([Sneeuwvlakte / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Leiden_(nov_2024).jpg#))
+_The Wereldmuseum Leiden in November 2024 ([Sneeuwvlakte / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Leiden_(nov_2024).jpg#))_
 
 ### Provenance research
 

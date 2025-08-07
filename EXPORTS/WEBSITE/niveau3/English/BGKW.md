@@ -4,7 +4,7 @@ title: Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-07
+date: 2025-08-01
 --- 
 
 
@@ -29,7 +29,7 @@ From 1878 it was obligatory for all objects collected by Dutch officials to firs
 From 1779 the Bataviaasch Genootschap published scientific findings in *Verhandelingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen*, which was issued on a regular basis and, from 1838, was published by the Society itself. In 1853 the Society also founded the journal *Tijdschrift voor Indische taal- land- en volkenkunde*. The minutes of the Society were also published from that time, and often contain interesting information about the objects that were acquired.
 
 ![Photograph from 1948 of the Bataviaasch Genootschap voor Kunsten en Wetenschappen museum on the Koningsplein in Batavia (Nowadays the Museum Nasional in Jakarta, Indonesia)](https://upload.wikimedia.org/wikipedia/commons/8/80/Museum_van_het_Bataviaasch_Genootschap_gedung_gajah_aan_het_Koningsplein%2C_Bestanddeelnr_13905.jpg)
-_The BGKW museum in 1948_ ([R.G. Jonkman / Nationaal Archief Den Haag](https://commons.wikimedia.org/wiki/File:Museum_van_het_Bataviaasch_Genootschap_gedung_gajah_aan_het_Koningsplein,_Bestanddeelnr_13905.jpg))
+_The BGKW museum in 1948 ([R.G. Jonkman / Nationaal Archief Den Haag](https://commons.wikimedia.org/wiki/File:Museum_van_het_Bataviaasch_Genootschap_gedung_gajah_aan_het_Koningsplein,_Bestanddeelnr_13905.jpg))_
 
 ### Provenance research
 

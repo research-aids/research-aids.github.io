@@ -4,7 +4,7 @@ title: Museum Bronbeek
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-07
+date: 2025-08-01
 --- 
 
 
@@ -29,7 +29,7 @@ In 1951, the museum layout was redesigned in collaboration with curators from th
 Museum Bronbeek opened a new permanent display of the collection in 2024.
 
 ![Interior of Museum Bronbeek's ground floor in 1980](https://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenhuis_Bronbeek%2C_interieur_begane_grond_-_Arnhem_-_20025043_-_RCE.jpg)
-_Interior of Museum Bronbeek's ground floor in 1980_ ([Paul van Galen / Rijksdienst voor het Cultureel Erfgoed](https://commons.wikimedia.org/wiki/File:Invalidenhuis_Bronbeek,_interieur_begane_grond_-_Arnhem_-_20025043_-_RCE.jpg))
+_Interior of Museum Bronbeek's ground floor in 1980 ([Paul van Galen / Rijksdienst voor het Cultureel Erfgoed](https://commons.wikimedia.org/wiki/File:Invalidenhuis_Bronbeek,_interieur_begane_grond_-_Arnhem_-_20025043_-_RCE.jpg))_
 
 ### Provenance research
 

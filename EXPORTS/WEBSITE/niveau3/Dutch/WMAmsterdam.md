@@ -4,7 +4,7 @@ title: Wereldmuseum Amsterdam
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-07
+date: 2025-08-01
 --- 
 
 
@@ -29,7 +29,7 @@ Na de Tweede Wereldoorlog werd besloten het Koloniaal Instituut om te dopen tot 
 In 2014 werden het Tropenmuseum, Museum Volkenkunde in Leiden, het Afrika Museum in Berg en later het Wereldmuseum in Rotterdam bestuurlijk samengevoegd tot het Nationaal Museum van Wereldculturen. Sinds 2023 gaan deze musea verder onder de gezamenlijke naam Wereldmuseum.
 
 ![Foto van het Wereldmuseum Amsterdam in april 2024](https://upload.wikimedia.org/wikipedia/commons/8/86/Wereldmuseum_Amsterdam_%282024%29.jpg)
-_Het huidige Wereldmuseum Amsterdam_ ([Sneeuwvlakte](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Amsterdam_(2024).jpg))
+_Het huidige Wereldmuseum Amsterdam ([Sneeuwvlakte](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Amsterdam_(2024).jpg))_
 
 ### Herkomstonderzoek
 
