@@ -4,7 +4,7 @@ title: Aruba, Bonaire en Curaçao
 parent: niveau2
 nav_enabled: true
 has_toc: true
-date: 2025-08-01
+date: 2025-08-07
 --- 
 
 
@@ -63,7 +63,7 @@ Curaçao heeft lang als naamgever van de door Nederland gekoloniseerde eilanden 
 De website [Curaçao History](https://www.curacaohistory.com/) geeft een handige tijdlijn weer waarop de geschiedenis van het eiland in overzichtelijke tijdvakken is ingedeeld, wat je kan helpen bij het afbakenen van je onderzoek. Het [Nationaal Archief Curaçao](https://www.nationaalarchief.cw/collectie) heeft een uitgebreide website met veel informatie.
 
 Andere relevante links:
- - In de collectie van [Delpher](https://www.delpher.nl/) zitten ook kranten, zoals de Amigoe di Curaçao, die relevant zijn voor Aruba, Bonaire en Curaçao.
+ - In de collectie van [Delpher](https://www.delpher.nl/) bevinden zich ook kranten, zoals de Amigoe di Curaçao, die relevant zijn voor Aruba, Bonaire en Curaçao.
  - Op de website van [Coleccion Aruba](https://coleccion.aw/pages/en/home-en/), waar een groot deel van het culturele erfgoed van Aruba digitaal beschikbaar is, bevindt zich ook voor Curaçao relevante informatie.
  - De zoekhulp [Plantages en onroerend goed op Curaçao 1720-1845](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/plantages-en-onroerend-goed-op-curacao-1720-1845#:~:text=Plantages%20op%20Cura%C3%A7ao&text=Op%20de%20circa%20honderd%20plantages,werd%20daarnaast%20nog%20zout%20gewonnen.) van het Nationaal Archief Den Haag.
 
