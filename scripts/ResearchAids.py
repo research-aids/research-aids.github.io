@@ -99,7 +99,7 @@ class ResearchAid:
 
         first = self.edit_history.origin_event.to_markdown() if self.edit_history.origin_event else ''
         last = self.edit_history.last_event.to_markdown() if self.edit_history.last_event else ''
-        edits = f"{"_first " + first + "_\n" if first != last else ""}_last {last}_"
+        edits = f"{"_first " + first + "_  \n" if first != last else ""}_last {last}_"
         #_author: {self.author}_  
         # _last edited: {self.time}_  
         return f"""
@@ -134,7 +134,7 @@ class ResearchAid:
             print(rel_type.lower())
             raise ValueError(f"{item_value_dict}")
 
-        return f" - _{rel_str}: [{item_title}]({item_value_dict["link"]})_  \n"
+        return f" - [{item_title}]({item_value_dict["link"]})  \n"
     
     def parse_anything(self, yml, result_md="", level=0):
         if isinstance(yml, (str, int, float, bool)):
@@ -162,8 +162,7 @@ class Level0(ResearchAid):
         if isinstance(yml, list): return ""
         item_title, item_fields = tuple(yml.items())[0]
         if item_fields["rel_type"] == "see also":
-            md = f"""_see also {item_title} ({item_fields["link"]})_
-            """
+            md = f""" - {item_title} ({item_fields["link"]})"""
         else:
             raise ValueError(f"{item_fields}")
         md = self.parse_related_dict(yml)
