@@ -38,7 +38,7 @@ date: {datetime.today().strftime("%Y-%m-%d")}
 
 
 def related_aids_table(own_level, related_aids_dict):
-    
+    pass
     
 
     
