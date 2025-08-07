@@ -20,15 +20,6 @@ from ResearchAids import ResearchAid
 from md_to_website import download_button, front_matter
 
 
-IN_DIR = "./published"
-OUT_DIR = "./EXPORTS"
-
-eng = glob(f"{IN_DIR}/*/English/*.yml")
-dutch = glob(f"{IN_DIR}/*/Dutch/*.yml")
-# top = glob(f"{BASE_DIR}/TopLevel/*.yml")
-
-yaml_files = sorted(dutch + eng)
-
 
 def parse_filename(orig_path, has_path=False):
     path_part = '.+\/' if has_path else ''
@@ -98,15 +89,14 @@ def remove_imgs(md):
     return md_copy
 
 
-if __name__ == "__main__":
-    argparser = argparse.ArgumentParser()
-    argparser.add_argument("--file_format", help="Output file format, PDF, DOCX and Markdown are supported.")
-    args = argparser.parse_args()
-    if not args.file_format or (not args.file_format.lower().strip() in ("pdf", "docx", "md")):
-        raise ValueError("Please specify either PDF, DOCX or Markdown ('md')!")
+def main(IN_DIR, OUT_DIR):
+    eng = glob(f"{IN_DIR}/*/English/*.yml")
+    dutch = glob(f"{IN_DIR}/*/Dutch/*.yml")
+    # top = glob(f"{BASE_DIR}/TopLevel/*.yml")
+    
+    yaml_files = sorted(dutch + eng)
 
-    fmt = args.file_format
-
+    
     didnt_parse = []
     failed_to_save = []
     for f in tqdm(yaml_files):
@@ -153,3 +143,23 @@ if __name__ == "__main__":
     if failed_to_save:
         with open(f"{OUT_DIR}/failed_to_save.txt", "w") as handle:
             handle.write("\n".join(failed_to_save))
+
+
+if __name__ == "__main__":
+    argparser = argparse.ArgumentParser()
+    argparser.add_argument("--file_format", help="Output file format, PDF, DOCX and Markdown are supported.")
+    args = argparser.parse_args()
+    if not args.file_format or (not args.file_format.lower().strip() in ("pdf", "docx", "md")):
+        raise ValueError("Please specify either PDF, DOCX or Markdown ('md')!")
+
+    fmt = args.file_format
+
+    for cur_dir in ("published", "review"):
+        cur_IN_DIR = f"./{cur_dir}"
+        cur_OUT_DIR = f"./EXPORTS/{cur_dir}"
+
+        main(cur_IN_DIR, cur_OUT_DIR)
+    
+
+
+    
