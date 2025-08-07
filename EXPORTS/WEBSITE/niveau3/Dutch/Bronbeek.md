@@ -4,7 +4,7 @@ title: Museum Bronbeek
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-01
+date: 2025-08-07
 --- 
 
 
@@ -31,7 +31,7 @@ In 1951 werd de museumopstelling in samenwerking met conservatoren van het [Trop
 In 2024 opende Museum Bronbeek een nieuwe vaste opstelling van de collectie.
 
 ![Interieur van de begane grond van Museum Bronbeek in 1980](https://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenhuis_Bronbeek%2C_interieur_begane_grond_-_Arnhem_-_20025043_-_RCE.jpg)
-_Interieur van de begane grond van Museum Bronbeek, 1980 ([Paul van Galen / Rijksdienst voor het Cultureel Erfgoed](https://commons.wikimedia.org/wiki/File:Invalidenhuis_Bronbeek,_interieur_begane_grond_-_Arnhem_-_20025043_-_RCE.jpg))_    
+_Interieur van de begane grond van Museum Bronbeek, 1980_ ([Paul van Galen / Rijksdienst voor het Cultureel Erfgoed](https://commons.wikimedia.org/wiki/File:Invalidenhuis_Bronbeek,_interieur_begane_grond_-_Arnhem_-_20025043_-_RCE.jpg))    
 
 ### Herkomstonderzoek
 
