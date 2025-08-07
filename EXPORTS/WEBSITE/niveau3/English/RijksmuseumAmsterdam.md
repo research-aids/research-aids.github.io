@@ -4,7 +4,7 @@ title: Rijksmuseum Amsterdam
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-01
+date: 2025-08-07
 --- 
 
 
@@ -23,7 +23,7 @@ Today's Rijksmuseum Amsterdam was founded in 1885. It is an amalgamation of seve
 The Rijksmuseum in Amsterdam in its current form dates from 1885, when the collections of several Dutch museums were merged. Direct predecessors of the Rijksmuseum are the [Nationale Konst-Gallery](http://www.wikidata.org/entity/Q23959785), ['s Rijks Verzameling van Moderne Kunst](http://www.wikidata.org/entity/Q51543916) in Haarlem, Nederlandsch Museum van Geschiedenis en Kunst and the [Royal Cabinet of Curiosities](http://www.wikidata.org/entity/Q34076860), both in The Hague. Since 1952, the collection of the [Royal Society of Friends of Asian Art](http://www.wikidata.org/entity/Q96749093) (KVVAK) has also been exhibited at the Rijksmuseum. In the context of research into collections from a colonial context, the collections of the KVVAK and the Royal Cabinet of Curiosities within the Rijksmuseum collection are of particular interest.
 
 ![Picture of the Rijksmuseum Amsterdam in around 1885](https://upload.wikimedia.org/wikipedia/commons/9/96/Rijksmuseum_Amsterdam_ca_1895_rotated.jpg)
-_The Rijksmuseum Amsterdam in ca. 1885 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rijksmuseum_Amsterdam_ca_1895_rotated.jpg))_
+_The Rijksmuseum Amsterdam in ca. 1885_ ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rijksmuseum_Amsterdam_ca_1895_rotated.jpg))
 
 ### Provenance research
 
