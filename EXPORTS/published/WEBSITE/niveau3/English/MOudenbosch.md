@@ -2,6 +2,7 @@
 layout: default
 title: Natuurhistorisch en Volkenkundig Museum Oudenbosch
 parent: niveau3
+ancestor: published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08

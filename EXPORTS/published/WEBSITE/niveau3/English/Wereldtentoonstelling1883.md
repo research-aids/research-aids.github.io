@@ -2,6 +2,7 @@
 layout: default
 title: International Colonial and Export Exhibition 1883
 parent: niveau3
+ancestor: published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08

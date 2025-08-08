@@ -2,6 +2,7 @@
 layout: default
 title: Koninklijk Instituut voor Taal- Land- en Volkenkunde
 parent: niveau3
+ancestor: published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08

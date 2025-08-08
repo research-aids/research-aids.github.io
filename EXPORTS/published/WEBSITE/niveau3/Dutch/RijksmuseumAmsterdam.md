@@ -2,6 +2,7 @@
 layout: default
 title: Rijksmuseum Amsterdam
 parent: niveau3
+ancestor: published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08

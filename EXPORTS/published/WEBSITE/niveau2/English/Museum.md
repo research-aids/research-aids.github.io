@@ -2,6 +2,7 @@
 layout: default
 title: Museums and collection holding institutions
 parent: niveau2
+ancestor: published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08

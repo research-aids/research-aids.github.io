@@ -59,10 +59,11 @@ def export_markdown(f, out_dir, level, lang, name, return_content=True):
             with open(md_name, "w") as md_handle:
                 md_handle.write(md_content)
 
-            
+
+            published = os.path.split(out_dir)[-1]
             website_name = md_name.replace("/MD/", "/WEBSITE/")
             os.makedirs(os.path.dirname(website_name), exist_ok=True)
-            website_content = front_matter(ra.title, level, lang) + "\n\n" +\
+            website_content = front_matter(published, ra.title, level, lang) + "\n\n" +\
                                 download_button(level, lang, name, "PDF") + "     " +\
                                 download_button(level, lang, name, "DOCX") +\
                                 "\n\n" + md_content

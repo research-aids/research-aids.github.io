@@ -2,6 +2,7 @@
 layout: default
 title: Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen
 parent: niveau3
+ancestor: published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08
