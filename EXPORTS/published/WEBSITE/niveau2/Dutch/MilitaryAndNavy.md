@@ -9,7 +9,7 @@ date: 2025-08-08
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/niveau2/Dutch/MilitaryAndNavy.pdf){: .btn .btn-blue }     [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/niveau2/Dutch/MilitaryAndNavy.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/PDF/niveau2/Dutch/MilitaryAndNavy.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/DOCX/niveau2/Dutch/MilitaryAndNavy.docx){: .btn .btn-blue }
 
 
 # Leger- en marinepersoneel in gekoloniseerde gebieden
