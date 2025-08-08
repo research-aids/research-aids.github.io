@@ -2,7 +2,7 @@
 layout: default
 title: Nederlandsch Zendeling Genootschap
 parent: niveau3
-ancestor: published
+ancestor: Published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08
