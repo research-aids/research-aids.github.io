@@ -105,5 +105,5 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-03-16_  
 _last edited by Abacus as translator on 2025-03-12
-        (applies to section: Main-text; Sources)_
+(applies to section: Main-text; Sources)_
         

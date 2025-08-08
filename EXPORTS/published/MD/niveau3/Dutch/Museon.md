@@ -64,5 +64,5 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-04-29_  
 _last edited by Wiebe Reints as original_author on 2025-06-16
-        (applies to section: Beschrijving)_
+(applies to section: Beschrijving)_
         

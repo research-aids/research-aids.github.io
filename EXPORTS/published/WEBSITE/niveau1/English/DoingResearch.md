@@ -4,7 +4,7 @@ title: Doing research
 parent: niveau1
 nav_enabled: true
 has_toc: true
-date: 2025-08-07
+date: 2025-08-08
 --- 
 
 
@@ -97,5 +97,5 @@ A number of the Dutch-language sources for provenance research into colonial col
 
 _first edited by wiebe reints as original_author on 2024-04-25_  
 _last edited by abacus as translator on 2025-03-12
-        (applies to section: Main-text)_
+(applies to section: Main-text)_
         

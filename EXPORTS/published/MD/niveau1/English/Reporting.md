@@ -57,5 +57,5 @@ The Wereldmuseum publication [Words Matter](https://amsterdam.wereldmuseum.nl/si
 
 _first edited by wiebe reints as original_author on 2024-05-01_  
 _last edited by abacus as translator on 2025-03-12
-        (applies to section: Main-text)_
+(applies to section: Main-text)_
         
