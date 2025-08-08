@@ -52,23 +52,27 @@ De Franse portal [AGORHA](https://agorha.inha.fr) bevat informatie over personen
 ## Primary sources
 
 Database:
-  > *Art Sales Catalogues Online*  
-> _Database gebaseerd op het Répertoire des Catalogues de Ventes Publiques door Frits Lugt. De gedigitaliseerde veilingcatalogi van het RKD zijn ook via deze database toegankelijk._  
-> [https://primarysources.brillonline.com/browse/art-sales-catalogues-online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online)  
+  > *Art Sales Catalogues Online*
+  > _Database gebaseerd op het Répertoire des Catalogues de Ventes Publiques door Frits Lugt. De gedigitaliseerde veilingcatalogi van het RKD zijn ook via deze database toegankelijk._
+  > [https://primarysources.brillonline.com/browse/art-sales-catalogues-online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online)
+
 Database:
-  > *AGHORA*  
-> _Database van het Franse nationale instituut voor kunstgeschiedenis (INHA). Bevat informatie over personen en instellingen die betrokken waren bij de handel in kunst en archeologische voorwerpen._  
-> [https://agorha.inha.fr](https://agorha.inha.fr)  
+  > *AGHORA*
+  > _Database van het Franse nationale instituut voor kunstgeschiedenis (INHA). Bevat informatie over personen en instellingen die betrokken waren bij de handel in kunst en archeologische voorwerpen._
+  > [https://agorha.inha.fr](https://agorha.inha.fr)
+
 ## Secondary sources
 
 Boek:
-  > *Corbey, Raymond. Tribal art traffic: a chronicle of taste, trade and desire in colonial an post-colonial times. Amsterdam: Royal Tropical Institute, 2000.*  
-> _Boek dat de handel in verschillende etnografische objecten beschrijft, met een focus op de Lage Landen._  
-> [https://search.worldcat.org/title/906982001](https://search.worldcat.org/title/906982001), [ISBN 9789068321975](https://isbnsearch.org/isbn/9789068321975), [WorldCat 906982001](https://search.worldcat.org/title/906982001)  
+  > *Corbey, Raymond. Tribal art traffic: a chronicle of taste, trade and desire in colonial an post-colonial times. Amsterdam: Royal Tropical Institute, 2000.*
+  > _Boek dat de handel in verschillende etnografische objecten beschrijft, met een focus op de Lage Landen._
+  > [https://search.worldcat.org/title/906982001](https://search.worldcat.org/title/906982001), [ISBN 9789068321975](https://isbnsearch.org/isbn/9789068321975), [WorldCat 906982001](https://search.worldcat.org/title/906982001)
+
 Boek:
-  > *Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006.*  
-> _Dissertatie van Joost Willink over de verzamelgeschiedenis van West-Centraal-Afrikaanse collecties in Nederland._  
-> [https://scholarlypublications.universiteitleiden.nl/handle/1887/4344](https://scholarlypublications.universiteitleiden.nl/handle/1887/4344), [WorldCat 71681153](https://search.worldcat.org/title/71681153)  
+  > *Willink, Joost. De bewogen verzamelgeschiedenis van de West-Centraal-Afrikaanse collecties in Nederland (1856-1889). Proefschrift Universiteit Leiden, 2006.*
+  > _Dissertatie van Joost Willink over de verzamelgeschiedenis van West-Centraal-Afrikaanse collecties in Nederland._
+  > [https://scholarlypublications.universiteitleiden.nl/handle/1887/4344](https://scholarlypublications.universiteitleiden.nl/handle/1887/4344), [WorldCat 71681153](https://search.worldcat.org/title/71681153)
+
 
 
 ---

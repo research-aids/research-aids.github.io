@@ -254,10 +254,10 @@ class Level2(Level1):
                 # 'Type of source', 'Name', 'Link', 'Description and remarks'
                 source_md = f"{source['Type of source']}:\n  > *{source['Name']}*"
                 # links_md = ", ".join([f"{v} (_{k}_)" for d in source['Link'] for k, v in d.items()])
-                links_md = ", ".join(self.parse_source_links(source['Link']))
                 # links_md = "(" + links_md + ")"
-                remarks_md = f"> _{source["Description and remarks"]}_  \n" if "Description and remarks" in source else ""
-                md += f"{source_md}  \n{remarks_md}> {links_md}  \n"
+                remarks_md = f"_{source["Description and remarks"]}_" if "Description and remarks" in source else ""
+                links_md = ", ".join(self.parse_source_links(source['Link']))
+                md += f"{source_md}\n  > {remarks_md}\n  > {links_md}\n\n"
 
         return md
 
