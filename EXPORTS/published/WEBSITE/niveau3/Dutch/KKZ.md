@@ -2,6 +2,7 @@
 layout: default
 title: Koninklijk Kabinet van Zeldzaamheden
 parent: niveau3
+ancestor: published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08

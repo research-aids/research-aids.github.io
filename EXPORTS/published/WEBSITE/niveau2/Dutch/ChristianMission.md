@@ -2,6 +2,7 @@
 layout: default
 title: Zendelingen en missionarissen in gekoloniseerde gebieden
 parent: niveau2
+ancestor: published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08

@@ -2,6 +2,7 @@
 layout: default
 title: Digital Research Aids
 parent: niveau0
+ancestor: published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08

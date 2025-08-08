@@ -2,6 +2,7 @@
 layout: default
 title: Tropisch Landbouwmuseum
 parent: niveau3
+ancestor: review
 nav_enabled: true
 has_toc: true
 date: 2025-08-08
