@@ -41,44 +41,52 @@ Archieven met betrekking tot het Etnografisch Museum Artis zijn verspreid over v
 
 Archief:
   > *NL-AsdSAA - 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*
-  > _Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra bij het Stadsarchief van Amsterdam. Onder inventarisnummers 1876-1905 is documentatie te vinden over de collectie van het museum. De inventarisnummers 1906-1919 bevatten documentatie over het besluit de collectie van Artis over te dragen ten behoeve van het Koloniaal Museum in Amsterdam. Sommige documenten zijn digitaal toegankelijk, andere dienen aangevraagd te worden om in te kunnen zien._
+  > _Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra bij het Stadsarchief van Amsterdam. Onder inventarisnummers 1876-1905 is documentatie te vinden over de collectie van het museum. De inventarisnummers 1906-1919 bevatten documentatie over het besluit de collectie van Artis over te dragen ten behoeve van het Koloniaal Museum in Amsterdam. Sommige documenten zijn digitaal toegankelijk, andere dienen aangevraagd te worden om in te kunnen zien._  
+
   > [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)
 
 Archief:
   > *NL-HaNA 2.20.69 - 7851 tot en met 7858*
-  > _Relevante archiefstukken met betrekking tot het Etnografisch Museum Artis binnen de inventaris van het Koninklijk Instituut voor de Tropen bij het Nationaal Archief in Den Haag._
+  > _Relevante archiefstukken met betrekking tot het Etnografisch Museum Artis binnen de inventaris van het Koninklijk Instituut voor de Tropen bij het Nationaal Archief in Den Haag._  
+
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)
 
 Archief:
   > *NL-HaNA 2.20.69 - 4395*
-  > _Stukken betreffende de overdracht van de etnografische verzameling van de vereniging 'Natura Artis Magistra' te Amsterdam. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, aanwezig bij het Nationaal Archief in Den Haag._
+  > _Stukken betreffende de overdracht van de etnografische verzameling van de vereniging 'Natura Artis Magistra' te Amsterdam. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, aanwezig bij het Nationaal Archief in Den Haag._  
+
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)
 
 Document:
   > *Jaarboekje van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*
-  > _In het jaarboekje werden schenkingen van objecten aan het Etnografisch Museum Artis, met de naam van de donateurs vermeld._
+  > _In het jaarboekje werden schenkingen van objecten aan het Etnografisch Museum Artis, met de naam van de donateurs vermeld._  
+
   > [https://catalog.hathitrust.org/Record/00732895](https://catalog.hathitrust.org/Record/00732895)
 
 ## Secondary sources
 
 Artikel:
   > *Dartel, Daan van. The Oldest Collections of the Tropenmuseum: Haarlem and Artis. In: D. van Duuren (ed.) Oceania at the Tropenmuseum. Amsterdam: KIT Publishers, 2011.*
-  > _Artikel van conservator Daan van Dartel over de collecties van het Koloniaal Museum in Haarlem en Etnografisch Museum Artis in een publicatie over de Oceanië-collectie van het, toenmalige, Tropenmuseum._
+  > _Artikel van conservator Daan van Dartel over de collecties van het Koloniaal Museum in Haarlem en Etnografisch Museum Artis in een publicatie over de Oceanië-collectie van het, toenmalige, Tropenmuseum._  
+
   > [https://search.worldcat.org/title/730403132?oclcNum=730403132](https://search.worldcat.org/title/730403132?oclcNum=730403132), [WorldCat 730403132](https://search.worldcat.org/title/730403132), [ISBN 9068327526](https://isbnsearch.org/isbn/9068327526)
 
 Boek:
   > *Pleyte, C.M.  Verzameling van ethnographische voorwerpen, aan de westkust van Afrika: voornamelijk in het Congo-gebied, verzameld, en voor het meerendeel aan het Genootschap ten geschenke gegeven. Amsterdam: Van Holkema, 1885.*
-  > _Beschrijving van de collectie uit West-Afrika van het Etnografisch Museum Artis uit 1885 van de toenmalige conservator C.M. Pleyte._
+  > _Beschrijving van de collectie uit West-Afrika van het Etnografisch Museum Artis uit 1885 van de toenmalige conservator C.M. Pleyte._  
+
   > [https://search.worldcat.org/title/836812327?oclcNum=836812327](https://search.worldcat.org/title/836812327?oclcNum=836812327), [WorldCat 836812327](https://search.worldcat.org/title/836812327)
 
 Boek:
   > *Pleyte, Cornelis Marinus. Gids voor den bezoeker van het Ethnographisch museum. Amsterdam: Van Holkema, 1888.*
-  > _Gids uit 1888 van de toenmalige conservator van het Etnografisch Museum Artis over de collectie van het museum. Via Google Books zijn drie volumes beschikbaar: 'Insulinde I Java', Insulinde II Buiten bezettingen en 'Australië en Oceanië'. De gidsen beschrijven zeer nauwkeurig welke objecten zich waar bevonden in het museum._
+  > _Gids uit 1888 van de toenmalige conservator van het Etnografisch Museum Artis over de collectie van het museum. Via Google Books zijn drie volumes beschikbaar: 'Insulinde I Java', Insulinde II Buiten bezettingen en 'Australië en Oceanië'. De gidsen beschrijven zeer nauwkeurig welke objecten zich waar bevonden in het museum._  
+
   > [https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ](https://www.google.nl/books/edition/Gids_voor_den_bezoeker_van_het_Ethnograp/wDpnAAAAcAAJ), [WorldCat 1287660577](https://search.worldcat.org/title/1287660577)
 
 Artikel:
   > *Wijs, Sonja, 'Een plaats voor de mens; de etnografische musea van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra, in: Heden En Verleden, VVE Jaarboek 8. 2020.*
-  > _Artikel uit 2020 van Sonja Wijs over het Etnografisch Museum Artis._
+  > _Artikel uit 2020 van Sonja Wijs over het Etnografisch Museum Artis._  
+
   > [https://search.worldcat.org/title/1178618962?oclcNum=1178618962](https://search.worldcat.org/title/1178618962?oclcNum=1178618962), [WorldCat 1178618962](https://search.worldcat.org/title/1178618962)
 
 

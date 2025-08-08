@@ -37,34 +37,40 @@ Specifieke informatie over de objecten uit het voormalige Tropische Landbouwmuse
 
 Archief:
   > *NL-DvCO, 1441 Gemeentebestuur van Deventer III (1951-1993)*
-  > _Onder toegang 1.852.13 'Musea' is verschillend relevant archiefmateriaal over het voormalig Tropisch Landbouwmuseum te vinden._
+  > _Onder toegang 1.852.13 'Musea' is verschillend relevant archiefmateriaal over het voormalig Tropisch Landbouwmuseum te vinden._  
+
   > [https://proxy.archieven.nl/20/1F772453BFEC46B1803F2739D2D1484A](https://proxy.archieven.nl/20/1F772453BFEC46B1803F2739D2D1484A)
 
 Archief:
   > *NL-DvCO, 0985 Vereniging museum voor Tropische Landbouw*
-  > _Archief van de vereniging die het voormalig Tropisch Landbouwmuseum beheerde. Het archief bevat onder andere verschillende catalogi van de museumcollectie._
+  > _Archief van de vereniging die het voormalig Tropisch Landbouwmuseum beheerde. Het archief bevat onder andere verschillende catalogi van de museumcollectie._  
+
   > [https://proxy.archieven.nl/20/CE2591A0210B49ABAD70CD97AC12058A](https://proxy.archieven.nl/20/CE2591A0210B49ABAD70CD97AC12058A)
 
 Archief:
   > *NL-DvCO, 0504 Middelbare Koloniale Landbouwschool, later Rijks Hogere Landbouwschool te Deventer*
-  > _Archief van de voormalige Middelbare Koloniale Landbouwschool in Deventer. De collectie van het Tropisch Landbouwmuseum werd gebruikt ter ondersteuning van het onderwijs aan de Koloniale Landbouwschool._
+  > _Archief van de voormalige Middelbare Koloniale Landbouwschool in Deventer. De collectie van het Tropisch Landbouwmuseum werd gebruikt ter ondersteuning van het onderwijs aan de Koloniale Landbouwschool._  
+
   > [https://proxy.archieven.nl/20/85648BDC0AD441BF93308E8D802BFEAA](https://proxy.archieven.nl/20/85648BDC0AD441BF93308E8D802BFEAA)
 
 ## Secondary sources
 
 Boek:
   > *Arnoldus, G. De collectie Deventer. Volkenkundig Museum ‘Gerardus van der Leeuw’, Universiteit van Groningen, 2003.*
-  > _Boek en catalogus uit 2003 die uitgebreide achtergrond informatie geeft over het voormalige museum van de Tropische Landbouwschool in Deventer. Tevens biedt het een overzicht van de collectie van dit museum die in 1972 aan het Volkenkundig Museum 'Gerardus van der Leeuw' werd geschonken._
+  > _Boek en catalogus uit 2003 die uitgebreide achtergrond informatie geeft over het voormalige museum van de Tropische Landbouwschool in Deventer. Tevens biedt het een overzicht van de collectie van dit museum die in 1972 aan het Volkenkundig Museum 'Gerardus van der Leeuw' werd geschonken._  
+
   > [https://www.rug.nl/society-business/university-museum/collections/ethnological/pdf/tdcatalogus.pdf](https://www.rug.nl/society-business/university-museum/collections/ethnological/pdf/tdcatalogus.pdf), [ISBN 9789080083295](https://isbnsearch.org/isbn/9789080083295), [WorldCat 66725336](https://search.worldcat.org/title/66725336)
 
 Boek:
   > *Zeijlstra, H. H. Het Koloniaal Landbouw-museum te Deventer. De Bussy, 1915.*
-  > _Boek dat een overgetypte versie is van een artikel in het tijdschrift Eigen Haard. Het artikel beschrijft het ontstaan van het Tropisch Landbouwmuseum en geeft een overzicht van de collectie en wat er in het museum te zien is._
+  > _Boek dat een overgetypte versie is van een artikel in het tijdschrift Eigen Haard. Het artikel beschrijft het ontstaan van het Tropisch Landbouwmuseum en geeft een overzicht van de collectie en wat er in het museum te zien is._  
+
   > [https://resolver.kb.nl/resolve?urn=MMKB02:100003305](https://resolver.kb.nl/resolve?urn=MMKB02:100003305)
 
 Catalogus:
   > *Catalogus der koloniale landbouwtentoonstelling, Deventer 1912*
-  > _Catalogus van de landbouwtentoonstelling die in 1912 werd gehouden en waarvan de collectie als basis diende voor het latere Tropische Landbouwmuseum._
+  > _Catalogus van de landbouwtentoonstelling die in 1912 werd gehouden en waarvan de collectie als basis diende voor het latere Tropische Landbouwmuseum._  
+
   > [http://hdl.handle.net/1887.1/item:3761833](http://hdl.handle.net/1887.1/item:3761833)
 
 

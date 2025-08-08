@@ -29,39 +29,46 @@ Het archief van de etnografische verzameling van de Hoofdcursus is gezamenlijk m
 
 Archief:
   > *Wereldmuseum Leiden, archieftoegang A16: Archief Volkenkundig museum 'Justinus van Nassau'*
-  > _Het archief van de etnografische collectie uit Kampen maakt onderdeel uit van het archief van het Volkenkundig Museum 'Justinus van Nassau' dat zich in het archief van het Wereldmuseum Leiden bevindt. Om archiefstukken in te zien kan je een mail sturen naar collectieinfo@wereldmuseum.nl._
+  > _Het archief van de etnografische collectie uit Kampen maakt onderdeel uit van het archief van het Volkenkundig Museum 'Justinus van Nassau' dat zich in het archief van het Wereldmuseum Leiden bevindt. Om archiefstukken in te zien kan je een mail sturen naar collectieinfo@wereldmuseum.nl._  
+
   > [[]]([])
 
 Archief:
   > *Nationaal Archief, Den Haag, Koninklijke Militaire Academie (KMA), nummer toegang 2.13.22*
-  > _Archieven van de Koninklijke Militaire Academie (KMA), (1818) 1828-1940 (1941); Hoofcursussen te Kampen en 's-Hertogenbosch, 1878-1923; Cadettenschool, 1890-1924; Artillerie- en Genieschool te Delft, 1816-1823._
+  > _Archieven van de Koninklijke Militaire Academie (KMA), (1818) 1828-1940 (1941); Hoofcursussen te Kampen en 's-Hertogenbosch, 1878-1923; Cadettenschool, 1890-1924; Artillerie- en Genieschool te Delft, 1816-1823._  
+
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.13.22](https://www.nationaalarchief.nl/onderzoeken/archief/2.13.22)
 
 ## Secondary sources
 
 Boek:
   > *Willemsen, Marie-Antoinette. Volkenkunde in Breda: van Indische verzameling tot Rijksmuseum Justinus van Nassau en de Vereniging voor Volkenkunde. ErfgoedReeks Breda. Breda: Bureau Cultureel Erfgoed, Directie Ruimtelijke Ontwikkeling, Gemeente Breda, 2011.*
-  > _Boek uit 2011 met uitvoerige informatie over de geschiedenis van het Volkenkundig Museum 'Justinus van Nassau'. Hoofdstuk 2 beschrijft kort de geschiedenis van de etnografische collectie van de Hoofdcursus te Kampen._
+  > _Boek uit 2011 met uitvoerige informatie over de geschiedenis van het Volkenkundig Museum 'Justinus van Nassau'. Hoofdstuk 2 beschrijft kort de geschiedenis van de etnografische collectie van de Hoofdcursus te Kampen._  
+
   > [https://search.worldcat.org/title/729683375?oclcNum=729683375](https://search.worldcat.org/title/729683375?oclcNum=729683375), [ISBN 9789491045004](https://isbnsearch.org/isbn/9789491045004), [WorldCat 729683375](https://search.worldcat.org/title/729683375)
 
 Boek:
   > *IJsseldijk, H. F. van. De ethnographische verzameling van den Hoofdcursus: 1907-1911, 1913. Kampen, z.d.*
-  > _Beschrijving van de Kampense collectie door de eerste beheerder H.T. van IJsseldijk._
+  > _Beschrijving van de Kampense collectie door de eerste beheerder H.T. van IJsseldijk._  
+
   > [https://search.worldcat.org/title/69319323?oclcNum=69319323](https://search.worldcat.org/title/69319323?oclcNum=69319323), [WorldCat 69319323](https://search.worldcat.org/title/69319323)
 
 Herkomstverslag:
   > *Shatanawi, Mirjam. Provenance report regarding Grafsteen [gravestone] - Batu Aceh. PPROCE provenance reports. Amsterdam, 2022.*
-  > _Herkomstverslag dat is opgesteld in het kader van het Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). Het beschrijft de herkomst van een object (Grafsteen, RV-3600-594) dat door de officier George Nypels is meegenomen uit Atjeh (Sumatra). Het verslag bevat verwijzingen naar relevante bronnen met betrekking tot het museum in Kampen._
+  > _Herkomstverslag dat is opgesteld in het kader van het Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). Het beschrijft de herkomst van een object (Grafsteen, RV-3600-594) dat door de officier George Nypels is meegenomen uit Atjeh (Sumatra). Het verslag bevat verwijzingen naar relevante bronnen met betrekking tot het museum in Kampen._  
+
   > [https://pure.knaw.nl/portal/en/publications/provenance-report-regarding-grafsteen-gravestone-batu-aceh](https://pure.knaw.nl/portal/en/publications/provenance-report-regarding-grafsteen-gravestone-batu-aceh)
 
 Herkomstverslag:
   > *Quist, Tom. Provenance report regarding Staatsiekris - keris (Ceremonial Kris). PPROCE provenance reports. Amsterdam, 2022.*
-  > _Herkomstverslag dat is opgesteld in het kader van het Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). Het beschrijft de herkomst van een kris (RV-3600-193) die in april 1908 is buitgemaakt na de zogenaamde 'puputan' in Klunkung (Bali). In 1909 is het object opgenomen in de collectie van de Koninklijke Militaire Academie in Breda. In het herkomstverslag valt ook te lezen dat andere buitgemaakte objecten toentertijd aan de Hoofdcursus in Kampen zijn geschonken door de Nederlandse Staat. In 2023 is deze kris gerestitueerd aan de Republiek Indonesië._
+  > _Herkomstverslag dat is opgesteld in het kader van het Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). Het beschrijft de herkomst van een kris (RV-3600-193) die in april 1908 is buitgemaakt na de zogenaamde 'puputan' in Klunkung (Bali). In 1909 is het object opgenomen in de collectie van de Koninklijke Militaire Academie in Breda. In het herkomstverslag valt ook te lezen dat andere buitgemaakte objecten toentertijd aan de Hoofdcursus in Kampen zijn geschonken door de Nederlandse Staat. In 2023 is deze kris gerestitueerd aan de Republiek Indonesië._  
+
   > [https://pure.knaw.nl/portal/en/publications/b7847e19-0d56-42b2-8357-942e5131a118](https://pure.knaw.nl/portal/en/publications/b7847e19-0d56-42b2-8357-942e5131a118)
 
 Herkomstverslag:
   > *Quist, Tom. Provenance report regarding Krissen [Krisses]. PPROCE provenance reports. Amsterdam, 2022.*
-  > _Herkomstverslag dat is opgesteld in het kader van het Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). Het beschrijft de herkomst van een aantal krissen (RV-3600-1892 t/m RV-3600-1895). De krissen zijn via George Nypels eerst bij de Hoofdcursus in Kampen terecht gekomen en later opgenomen in de collectie van de Koninklijke Militaire Academie in Breda. Het verslag bevat verwijzingen naar relevante bronnen._
+  > _Herkomstverslag dat is opgesteld in het kader van het Pilotproject Provenance Research on Objects of the Colonial Era (PPROCE). Het beschrijft de herkomst van een aantal krissen (RV-3600-1892 t/m RV-3600-1895). De krissen zijn via George Nypels eerst bij de Hoofdcursus in Kampen terecht gekomen en later opgenomen in de collectie van de Koninklijke Militaire Academie in Breda. Het verslag bevat verwijzingen naar relevante bronnen._  
+
   > [https://pure.knaw.nl/portal/en/publications/988bfde3-eea3-4d27-83cc-8702dc7d7516](https://pure.knaw.nl/portal/en/publications/988bfde3-eea3-4d27-83cc-8702dc7d7516)
 
 
