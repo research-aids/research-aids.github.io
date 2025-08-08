@@ -68,5 +68,5 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-01-13_  
 _last edited by Wiebe Reints as original_author on 2025-06-23
-        (applies to section: Content)_
+(applies to section: Content)_
         

@@ -4,7 +4,7 @@ title: Rijksmuseum van Oudheden
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-07
+date: 2025-08-08
 --- 
 
 
@@ -100,5 +100,5 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-11-06_  
 _last edited by Abacus as translator on 2025-04-24
-        (applies to section: Main-text; Sources)_
+(applies to section: Main-text; Sources)_
         

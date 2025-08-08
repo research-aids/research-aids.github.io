@@ -4,7 +4,7 @@ title: The trade in objects from a colonial context
 parent: niveau2
 nav_enabled: true
 has_toc: true
-date: 2025-08-07
+date: 2025-08-08
 --- 
 
 
@@ -89,5 +89,5 @@ TO BE FILLED
 
 _first edited by wiebe reints as original_author on 2024-03-16_  
 _last edited by abacus as translator on 2025-03-12
-        (applies to section: Main-text; Sources)_
+(applies to section: Main-text; Sources)_
         

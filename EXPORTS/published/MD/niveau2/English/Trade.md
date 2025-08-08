@@ -77,5 +77,5 @@ TO BE FILLED
 
 _first edited by wiebe reints as original_author on 2024-03-16_  
 _last edited by abacus as translator on 2025-03-12
-        (applies to section: Main-text; Sources)_
+(applies to section: Main-text; Sources)_
         

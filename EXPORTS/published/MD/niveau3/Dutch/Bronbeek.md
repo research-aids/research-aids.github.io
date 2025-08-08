@@ -67,5 +67,5 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-10-02_  
 _last edited by Wiebe Reints  on 2025-07-07
-        (applies to section: Main-text; Sources)_
+(applies to section: Main-text; Sources)_
         
