@@ -2,7 +2,7 @@
 layout: default
 title: Zoekhulpen Koloniale Collecties
 parent: niveau0
-ancestor: published
+ancestor: Published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08
