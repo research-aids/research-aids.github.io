@@ -48,19 +48,22 @@ The Missiemuseum's collection is not fully registered although this is being wor
 
 Website:
   > *Website Missiemuseum Steyl*
-  > _The Missiemuseum's website contains relevant contact and other information._
+  > _The Missiemuseum's website contains relevant contact and other information._  
+
   > [https://www.missiemuseum.nl/nl](https://www.missiemuseum.nl/nl)
 
 ## Secondary sources
 
 Report:
   > *Collectieplan Missiemuseum Steyl 2023-2028*
-  > _The Missiemuseum's collection plan (in Dutch) contains relevant information about the origins of the museum's collection._
+  > _The Missiemuseum's collection plan (in Dutch) contains relevant information about the origins of the museum's collection._  
+
   > [https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf](https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf)
 
 Collection database:
   > *Limburgs Efgoednet*
-  > _Once the entire museum collection of the Missiemuseum has been registered and digitalised it will be accessible via the Limburgs Erfgoednet website._
+  > _Once the entire museum collection of the Missiemuseum has been registered and digitalised it will be accessible via the Limburgs Erfgoednet website._  
+
   > [https://limburgserfgoednet.nl/](https://limburgserfgoednet.nl/)
 
 
