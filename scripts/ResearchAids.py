@@ -28,8 +28,8 @@ class EditEvent:
         appl = f'(applies to section: {self.applies_to})' if self.applies_to else ''
         notes = f'(notes: {self.notes})' if self.notes else ''
         return markdown + f"""edited by {self.author} {role} on {self.date.strftime("%Y-%m-%d")}
-        {appl}
-        {notes}""".strip()
+{appl}
+{notes}""".strip()
 
     def __eq__(self, other):
         return self.__dict__ == other.__dict__

@@ -11,10 +11,7 @@ from io import StringIO
 # unused: from docx import Document
 from Markdown2docx import Markdown2docx
 # from md2docx_python.src.md2docx_python import markdown_to_word
-
 from markdown_pdf import MarkdownPdf, Section
-from yaml_to_markdown.md_converter import MDConverter
-MD_CONV = MDConverter()
 
 from ResearchAids import ResearchAid
 from md_to_website import download_button, front_matter
@@ -31,6 +28,23 @@ def parse_filename(orig_path, has_path=False):
 def parse_filepath(fp):
     *pref, level, lang, fname  = fp.split(os.path.sep)
     return level, lang, parse_filename(fname)
+
+
+def write_level_base_md(out_dir, level_str):
+
+    published = os.path.split(out_dir)[-1].capitalize()
+    with open(f"{out_dir}/WEBSITE/{level_str}/{level_str}.md", "w") as md:
+        level_md = f"""---
+layout: default
+title: {level_str}
+nav_enabled: true
+has_toc: true
+parent: {published}
+---
+This is level {level_str[-1]} of the RAs.
+"""
+        md.write(level_md)
+
 
 
 def export_markdown(f, out_dir, level, lang, name, return_content=True):
@@ -56,29 +70,7 @@ def export_markdown(f, out_dir, level, lang, name, return_content=True):
             with open(website_name, "w") as web_handle:
                 web_handle.write(website_content)
 
-#             with open(f"{out_dir}/WEBSITE/{level}/{level}.md", "w") as md:
-#                 level_md = f"""---
-# layout: default
-# title: {level}
-# nav_enabled: true
-# has_toc: true
-# parent: Published
-# ---
-# This is level {level[-1]} of the RAs.
-# """
-#                 md.write(level_md)
-
             return md_content
-        
-        
-    #     yaml_content["author"] = "wreints"
-
-    #     with open(md_name, "w") as md_handle:
-    #         MD_CONV.convert(yaml_content, md_handle)     
-
-    # with open(md_name) as handle:
-    #     markdown_content = handle.read()
-    #     return markdown_content
 
 def remove_imgs(md):
     img_regex = re.compile(r"!\[.+\]\(.+\)")
@@ -106,6 +98,8 @@ def main(IN_DIR, OUT_DIR):
 
         new_name = f"{OUT_DIR}/{fmt.upper()}/{level}/{lang}/{name}.{fmt}"
         os.makedirs(os.path.dirname(new_name), exist_ok=True)
+
+        write_level_base_md(OUT_DIR, level)
 
         markdown_content = export_markdown(f, OUT_DIR, level, lang, name)
         if not markdown_content:
