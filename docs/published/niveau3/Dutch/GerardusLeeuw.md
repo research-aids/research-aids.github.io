@@ -2,6 +2,7 @@
 layout: default
 title: Volkenkundig Museum 'Gerardus van der Leeuw'
 parent: niveau3
+ancestor: published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08

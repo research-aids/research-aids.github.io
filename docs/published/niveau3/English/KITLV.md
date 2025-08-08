@@ -2,6 +2,7 @@
 layout: default
 title: Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)
 parent: niveau3
+ancestor: published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08
