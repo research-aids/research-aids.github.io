@@ -61,8 +61,8 @@ def copy_to_docs(MD_DIR, DOCS_DIR):
         os.makedirs(os.path.dirname(dest_fpath), exist_ok=True)
         shutil.copy2(f, dest_fpath)
 
-copy_to_docs("./EXPORTS/WEBSITE/published", "./docs/published")
-copy_to_docs("./EXPORTS/WEBSITE/review", "./docs/review")
+copy_to_docs("./EXPORTS/published/WEBSITE", "./docs/published")
+copy_to_docs("./EXPORTS/review/WEBSITE", "./docs/review")
 
 #############################################
 ### ADD DATE TO INDEX.HTML
