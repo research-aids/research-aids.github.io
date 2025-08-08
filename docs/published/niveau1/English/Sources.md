@@ -4,7 +4,7 @@ title: Sources
 parent: niveau1
 nav_enabled: true
 has_toc: true
-date: 2025-08-07
+date: 2025-08-08
 --- 
 
 
@@ -109,5 +109,5 @@ Some collectors and organisations were active in several European countries, whi
 
 _first edited by wiebe reints as original_author on 2024-05-01_  
 _last edited by abacus as translator on 2025-03-12
-        (applies to section: Maint-text)_
+(applies to section: Maint-text)_
         

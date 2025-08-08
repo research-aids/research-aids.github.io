@@ -4,7 +4,7 @@ title: Groote Koninklijke Bazar
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-07
+date: 2025-08-08
 --- 
 
 
@@ -82,5 +82,5 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-05-03_  
 _last edited by Abacus as translator on 2025-04-07
-        (applies to section: Main-text; Sources)_
+(applies to section: Main-text; Sources)_
         

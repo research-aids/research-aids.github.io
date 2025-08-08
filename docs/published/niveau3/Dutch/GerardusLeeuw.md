@@ -4,7 +4,7 @@ title: Volkenkundig Museum 'Gerardus van der Leeuw'
 parent: niveau3
 nav_enabled: true
 has_toc: true
-date: 2025-08-07
+date: 2025-08-08
 --- 
 
 
@@ -73,5 +73,5 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-05-13_  
 _last edited by Wiebe Reints as original_author on 2025-06-16
-        (applies to section: Main text)_
+(applies to section: Main text)_
         
