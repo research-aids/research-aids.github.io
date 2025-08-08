@@ -20,15 +20,16 @@ try:
     shutil.rmtree("forKinsukAndSjors")
     shutil.rmtree("offline")
     # shutil.rmtree("review")
+    shutil.rmtree("scripts")
 
 except FileNotFoundError:
     print("seems like files were already gone...")
 
 
 try:
-    Path.unlink("./github/workflows/check_yaml.yml")
-    Path.unlink("./github/workflows/yaml2json.yml")
-    Path.unlink("./github/workflows/yaml_export.yaml")
+    Path.unlink(".github/workflows/check_yaml.yml")
+    Path.unlink(".github/workflows/yaml2json.yml")
+    Path.unlink(".github/workflows/yaml_export.yaml")
 except FileNotFoundError:
     print("phew, workflow files already gone")
 
