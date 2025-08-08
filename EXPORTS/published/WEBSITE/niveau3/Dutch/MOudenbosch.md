@@ -53,17 +53,20 @@ De collectie van Natuurhistorische en Volkenkundig Museum Oudenbosch is volledig
 ## Secondary sources
 
 Website:
-  > *Website Natuurhistorisch en Volkenkundig Museum Oudenbosch*  
-> _Website van het Natuurhistorisch en Volkenkundig Museum Oudenbosch. Onder het kopje 'historie' is meer te vinden over de geschiedenis van het museum. Het kopje 'collecties' verschaft inzicht in de verschillende deelcollecties._  
-> [http://www.nvmoudenbosch.nl/nl/](http://www.nvmoudenbosch.nl/nl/)  
+  > *Website Natuurhistorisch en Volkenkundig Museum Oudenbosch*
+  > _Website van het Natuurhistorisch en Volkenkundig Museum Oudenbosch. Onder het kopje 'historie' is meer te vinden over de geschiedenis van het museum. Het kopje 'collecties' verschaft inzicht in de verschillende deelcollecties._
+  > [http://www.nvmoudenbosch.nl/nl/](http://www.nvmoudenbosch.nl/nl/)
+
 Website:
-  > *Erfgoed Brabant - Natuurhistorisch en Volkenkundig Museum Oudenbosch*  
-> _Collectiewebsite van Erfgoed Brabant waarop een klein gedeelte van de collectie van Natuurhistorisch en Volkenkundig Museum Oudenbosch te zien is._  
-> [https://www.brabantserfgoed.nl/page/4523/natuurhistorisch-en-volkenkundig-museum](https://www.brabantserfgoed.nl/page/4523/natuurhistorisch-en-volkenkundig-museum)  
+  > *Erfgoed Brabant - Natuurhistorisch en Volkenkundig Museum Oudenbosch*
+  > _Collectiewebsite van Erfgoed Brabant waarop een klein gedeelte van de collectie van Natuurhistorisch en Volkenkundig Museum Oudenbosch te zien is._
+  > [https://www.brabantserfgoed.nl/page/4523/natuurhistorisch-en-volkenkundig-museum](https://www.brabantserfgoed.nl/page/4523/natuurhistorisch-en-volkenkundig-museum)
+
 Video:
-  > *De collectie van het Natuurhistorisch en Volkenkundig Museum*  
-> _Korte video waarin de bestuursvoorzitter van Natuurhistorisch en Volkenkundig Museum Oudenbosch verschillende onderdelen van de collectie van het museum laat zien._  
-> [https://museumtv.nl/tentoonstelling/natuurhistorisch-en-volkenkundig-museum-oudenbosch/](https://museumtv.nl/tentoonstelling/natuurhistorisch-en-volkenkundig-museum-oudenbosch/)  
+  > *De collectie van het Natuurhistorisch en Volkenkundig Museum*
+  > _Korte video waarin de bestuursvoorzitter van Natuurhistorisch en Volkenkundig Museum Oudenbosch verschillende onderdelen van de collectie van het museum laat zien._
+  > [https://museumtv.nl/tentoonstelling/natuurhistorisch-en-volkenkundig-museum-oudenbosch/](https://museumtv.nl/tentoonstelling/natuurhistorisch-en-volkenkundig-museum-oudenbosch/)
+
 
 
 ---
