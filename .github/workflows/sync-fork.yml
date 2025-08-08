@@ -1,5 +1,5 @@
 name: sync-fork
-run-name: "Syncs the fork and restructures it, every hour."
+run-name: "Syncs the fork and restructures it, every 6 hours."
 on:
   schedule:
     - cron: '0 */6 * * *'
@@ -38,19 +38,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
           REPOSITORY: ${{ github.repository }}
           BRANCH_NAME: ${{ github.ref_name }}
-      - name: List files in the repository
-        run: |
-          ls ${{ github.workspace }}/EXPORTS/WEBSITE/*
       - name: "clone research-aids/research-aids.github.io-code and add contents to research-aids.github.io"
         run: |
           git clone https://github.com/research-aids/research-aids.github.io-code.git
-          ls
-          ls $WORK_DIR
-          ls research-aids.github.io-code/
           cp --force $WORK_DIR/research-aids.github.io-code/sync-fork.yml $WORK_DIR/.github/workflows
           
           cp -r --force $WORK_DIR/research-aids.github.io-code/docs $WORK_DIR
-          cp --force $WORK_DIR/docs/pages.yml $WORK_DIR/.github/workflows
+          cp --force $WORK_DIR/research-aids.github.io-code/docs/pages.yml $WORK_DIR/.github/workflows
           # cp --force $WORK_DIR/docs/ci.yml $WORK_DIR/.github/workflows
           
           cp --force $WORK_DIR/research-aids.github.io-code/clean_up.py $WORK_DIR
