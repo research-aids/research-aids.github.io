@@ -54,17 +54,20 @@ The collection of the Natuurhistorisch en Volkenkundig Museum Oudenbosch is full
 
 Website:
   > *Website Natuurhistorisch en Volkenkundig Museum Oudenbosch*
-  > _Website of the Natural History and Ethnographic Museum in Oudenbosch. Under the heading ‘history’, you can find more information about the history of the museum. The heading ‘collections’ provides insight into the various sub-collections._
+  > _Website of the Natural History and Ethnographic Museum in Oudenbosch. Under the heading ‘history’, you can find more information about the history of the museum. The heading ‘collections’ provides insight into the various sub-collections._  
+
   > [http://www.nvmoudenbosch.nl/en](http://www.nvmoudenbosch.nl/en)
 
 Website:
   > *Erfgoed Brabant - Natuurhistorisch en Volkenkundig Museum Oudenbosch*
-  > _Collection website of Erfgoed Brabant (in Dutch), displaying a small part of the collection of the Natuurhistorisch en Volkenkundig Museum Oudenbosch._
+  > _Collection website of Erfgoed Brabant (in Dutch), displaying a small part of the collection of the Natuurhistorisch en Volkenkundig Museum Oudenbosch._  
+
   > [https://www.brabantserfgoed.nl/page/4523/natuurhistorisch-en-volkenkundig-museum](https://www.brabantserfgoed.nl/page/4523/natuurhistorisch-en-volkenkundig-museum)
 
 Video:
   > *De collectie van het Natuurhistorisch en Volkenkundig Museum*
-  > _Short video (in Dutch) in which the chairman of the board of the Natuurhistorisch en Volkenkundig Museum Oudenbosch shows various parts of the museum's collection._
+  > _Short video (in Dutch) in which the chairman of the board of the Natuurhistorisch en Volkenkundig Museum Oudenbosch shows various parts of the museum's collection._  
+
   > [https://museumtv.nl/tentoonstelling/natuurhistorisch-en-volkenkundig-museum-oudenbosch/](https://museumtv.nl/tentoonstelling/natuurhistorisch-en-volkenkundig-museum-oudenbosch/)
 
 

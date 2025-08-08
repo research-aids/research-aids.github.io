@@ -32,19 +32,22 @@ De volledige Koninklijke Verzamelingen zijn [online raadpleegbaar](https://www.k
 
 Archief:
   > *Koninklijk Huisarchief*
-  > _Het archief van het Nederlandse koninklijke huis tot 1948 is openbaar toegankelijk. Op de website vind je een overzicht van alle raadpleegbare archieven._
+  > _Het archief van het Nederlandse koninklijke huis tot 1948 is openbaar toegankelijk. Op de website vind je een overzicht van alle raadpleegbare archieven._  
+
   > [https://www.koninklijkeverzamelingen.nl/archief](https://www.koninklijkeverzamelingen.nl/archief)
 
 Collectie:
   > *Koninklijke Verzamelingen*
-  > _De volledige collectie van de Koninklijke Verzamelingen is raadpleegbaar via deze website. Hier kan ook worden geselecteerd op herkomstgebied. Ook de fotografiecollectie kan via deze website worden ingezien._
+  > _De volledige collectie van de Koninklijke Verzamelingen is raadpleegbaar via deze website. Hier kan ook worden geselecteerd op herkomstgebied. Ook de fotografiecollectie kan via deze website worden ingezien._  
+
   > [https://www.koninklijkeverzamelingen.nl/collectie](https://www.koninklijkeverzamelingen.nl/collectie)
 
 ## Secondary sources
 
 Boek:
   > *Loonstra, Marten, en B. Woelderink. Uit koninklijk bezit: honderd jaar Koninklijk Huisarchief: de verzamelingen van de Oranjes. Waanders, 1996.*
-  > _Boek uit 1996 dat de geschiedenis van de Koninklijke Verzamelingen beschrijft._
+  > _Boek uit 1996 dat de geschiedenis van de Koninklijke Verzamelingen beschrijft._  
+
   > [https://search.worldcat.org/title/782242157](https://search.worldcat.org/title/782242157)
 
 
