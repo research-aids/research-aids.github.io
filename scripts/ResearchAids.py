@@ -257,7 +257,7 @@ class Level2(Level1):
                 # links_md = "(" + links_md + ")"
                 remarks_md = f"_{source["Description and remarks"]}_" if "Description and remarks" in source else ""
                 links_md = ", ".join(self.parse_source_links(source['Link']))
-                md += f"{source_md}\n  > {remarks_md}\n  > {links_md}\n\n"
+                md += f"{source_md}\n  > {remarks_md}  \n\n  > {links_md}\n\n"
 
         return md
 
