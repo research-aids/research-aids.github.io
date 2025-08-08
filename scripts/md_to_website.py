@@ -30,7 +30,7 @@ def front_matter(published, ra_name, level, lang):
 layout: default
 title: {ra_name}
 parent: {level}
-ancestor: {published}
+ancestor: {published.capitalize()}
 nav_enabled: true
 has_toc: true
 date: {datetime.today().strftime("%Y-%m-%d")}

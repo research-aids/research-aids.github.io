@@ -2,7 +2,7 @@
 layout: default
 title: The trade in objects from a colonial context
 parent: niveau2
-ancestor: published
+ancestor: Published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08

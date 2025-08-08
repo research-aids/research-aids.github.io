@@ -2,7 +2,7 @@
 layout: default
 title: Wetenschappelijk onderzoek in gekoloniseerde gebieden
 parent: niveau2
-ancestor: published
+ancestor: Published
 nav_enabled: true
 has_toc: true
 date: 2025-08-08
