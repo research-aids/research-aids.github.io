@@ -4,7 +4,7 @@ title: The ABCSSS islands
 parent: niveau2
 nav_enabled: true
 has_toc: true
-date: 2025-08-08
+date: 2025-08-07
 --- 
 
 
@@ -112,7 +112,7 @@ THIS RA HAS NO SOURCES
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-08-08
+_last edited by UNKNOWN as UNKNOWN on 2025-08-07
         
         (notes: This event was automatically created because the YAML file's edit history was empty.)_
         
