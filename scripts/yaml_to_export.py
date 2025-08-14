@@ -130,14 +130,17 @@ def main(IN_DIR, OUT_DIR):
         else:
             pass
 
-    if didnt_parse:
-        with open(f"{OUT_DIR}/didnt_parse.txt", "w") as handle:
+    with open(f"{OUT_DIR}/didnt_parse.txt", "w") as handle:
+        if didnt_parse:
             handle.write("\n".join(didnt_parse))
+        else:
+            handle.write("")
 
 
-    if failed_to_save:
-        with open(f"{OUT_DIR}/failed_to_save.txt", "w") as handle:
+    with open(f"{OUT_DIR}/failed_to_save.txt", "w") as handle:
+        if failed_to_save:
             handle.write("\n".join(failed_to_save))
+        else: handle.write("")
 
 
 if __name__ == "__main__":
