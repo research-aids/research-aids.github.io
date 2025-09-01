@@ -1,33 +1,31 @@
+Abstract: xxx
 Level: 2
-
-Title: "Persons"
-
-Abstract: "xxx"
-
-RelatedAides:
-  - "C.G.C. Reinwardt":
-        link: "niveau3/Dutch/Reinwardt_20241217.yml"
-        rel_type: "see also" 
-
-Relevant data: []
-
 Main-text:
-  content: |
-    **This page in under construction.**
-  content-type: text/markdown
+  content: '**This page in under construction.**
 
-Sources: 
+    '
+  content-type: text/markdown
+RelatedAides:
+- C.G.C. Reinwardt:
+    link: niveau3/Dutch/Reinwardt_20241217.yml
+    rel_type: see also
+Relevant data: []
+Sources:
   Primary Sources: []
   Secondary sources: []
-
+Title: Persons
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: '2025-09-01'
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
-  - date: 2025-01-13
-    applies_to:
-    author: Wiebe Reints
-    role: original_author
-    editing_notes: Creation of this RA.
-  - date: 2025-06-12
-    applies_to: 
-    author: Wiebe Reints
-    role: original_author
-    editing_notes: Adding this RA to LP. 
+- applies_to: null
+  author: Wiebe Reints
+  date: 2025-01-13
+  editing_notes: Creation of this RA.
+  role: original_author
+- applies_to: null
+  author: Wiebe Reints
+  date: 2025-06-12
+  editing_notes: Adding this RA to LP.
+  role: original_author
