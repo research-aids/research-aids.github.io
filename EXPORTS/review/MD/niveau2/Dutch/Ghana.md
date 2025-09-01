@@ -74,6 +74,12 @@ Wetenschappelijke publicatie:
 
   > [https://repository.naturalis.nl/pub/317263](https://repository.naturalis.nl/pub/317263)
 
+Wetenschappelijk artikel:
+  > *Mac Lean, J. Collecting natural history specimens in Ghana for 's-Rijks Museum at Leyden, Janus 63 1976, 289-301.*
+  > _Schets van activiteiten van natuurhistorische verzamelaars aan de Goudkust._  
+
+  > [https://repository.naturalis.nl/pub/317263](https://repository.naturalis.nl/pub/317263)
+
 
 
 ---
