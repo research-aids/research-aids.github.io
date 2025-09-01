@@ -68,6 +68,12 @@ Dissertatie:
 
   > [https://search.worldcat.org/title/163275947?oclcNum=163275947](https://search.worldcat.org/title/163275947?oclcNum=163275947), [WorldCat 163275947](https://search.worldcat.org/title/163275947)
 
+Wetenschappelijke publicatie:
+  > *Holthuis, Lipke. Biografische notities betreffende verzamelaars voor het Rijksmuseum van Natuurlijke Historie te Leiden. I. Hendrik Severinus Pel (1818-1876). Leiden: Rijksmuseum van Natuurlijke Historie, 1968*
+  > _Schets van de activiteiten van natuurhistorisch verzamelaar en preparateur Hendrik Severinus Pel aan de Goudkust._  
+
+  > [https://repository.naturalis.nl/pub/317263](https://repository.naturalis.nl/pub/317263)
+
 
 
 ---
