@@ -2,7 +2,7 @@ Level: 2
 
 Title: "Ghana"
 
-Abstract: "In Nederlandse museumcollecties zijn etnigrafica, kunstvoorwerpen en naturalia te vinden die afkomstig uit het huidige Ghana. Veelal zijn deze voorwerpen verzameld in de periode tot 1872, toen Nederland als koloniale macht aanwezig was op wat toen de Goudkust heette."
+Abstract: "In Nederlandse museumcollecties zijn etnigrafica, kunstvoorwerpen en naturalia te vinden die afkomstig zijn uit het huidige Ghana. Veelal zijn deze voorwerpen verzameld in de periode tot 1872, toen Nederland als koloniale macht aanwezig was op wat toen de Goudkust heette."
 
 RelatedAides: 
   - "Wereldmuseum Leiden":
@@ -26,7 +26,7 @@ Relevant data:
     Activity: 
       - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
       - "[Naturalia](http://vocab.getty.edu/aat/300379591)"
-    Type of objects:
+    Type of objects: []
     Geographical: 
       - "[Ghana](https://www.geonames.org/2300660)"
 
@@ -112,8 +112,8 @@ copyright_metadata:
   date: '2025-09-01'
   license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
-- applies_to: null
+- date: 2025-09-01
+  applies_to: null
   author: Maarten van der Bent
-  date: 2025-09-01
-  editing_notes: 
   role: original_author
+  editing_notes: 
