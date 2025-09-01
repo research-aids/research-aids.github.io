@@ -88,10 +88,22 @@ Wetenschappelijke publicatie:
   > [https://repository.naturalis.nl/pub/317263](https://repository.naturalis.nl/pub/317263)
 
 Wetenschappelijk artikel:
-  > *Mac Lean, J. Collecting natural history specimens in Ghana for 's-Rijks Museum at Leyden, Janus 63 1976, 289-301.*
+  > *Mac Lean, J. ‘Collecting natural history specimens in Ghana for ’s-Rijks Museum at Leyden’, Janus 63 (1976), 289-301.*
   > _Schets van activiteiten van natuurhistorische verzamelaars aan de Goudkust._  
 
   > [https://repository.naturalis.nl/pub/317263](https://repository.naturalis.nl/pub/317263)
+
+Publicatie:
+  > *Schmidt, Annette. Collectieprofiel Cultuurgebied Afrika. In: Verzamelde collectieprofielen Museum Volkenkunde, Leiden. Leiden: Museum Volkendkunde, 2008.*
+  > _Hoofdstuk over de Afrikaanse collectie van het Wereldmuseum Leiden in een publicatie over collectieprofielen._  
+
+  > [https://www.yumpu.com/nl/document/view/20123476/open-het-profiel-als-pdf-museum-volkenkunde](https://www.yumpu.com/nl/document/view/20123476/open-het-profiel-als-pdf-museum-volkenkunde)
+
+Hoofdstuk in een catalogus:
+  > *Schmidt, Annette. De Afrikaanse bijdrage van kommandeur Last. In: Het verdwenen museum : Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis. Zwolle: Waanders, 2024.*
+  > _Hoofdstuk over de zending uit 1825 van gouverneur Last aan het Koninklijk Kabinet van Zeldzaamheden, opgenomen in de catalogus van de tentoonstelling 'Het verdwenen Museum' die in 2024-2025 te zien was in het Mauritshuis._  
+
+  > [ISBN 9789462625709](https://isbnsearch.org/isbn/9789462625709), [WorldCat 1501397052](https://search.worldcat.org/title/1501397052)
 
 
 
