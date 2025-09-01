@@ -112,8 +112,8 @@ copyright_metadata:
   date: '2025-09-01'
   license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
-- applies_to: null
+- date: 2025-09-01
+  applies_to: null
   author: Maarten van der Bent
-  date: 2025-09-01
-  editing_notes: 
   role: original_author
+  editing_notes: 
