@@ -37,49 +37,6 @@ Main-text:
     To be translated from Dutch.
   content-type: text/markdown
 
-Sources:
-  Primary sources: []
-  Secondary sources:
-    - Type of source: "Boek"
-      Name: "Bassani, Ezio. African art and artefacts in European collections: 1400-1800. Londen: British Museum, 2000."
-      Persistent identifier: 
-        - URL: "https://archive.org/details/africanartartefa0000bass"
-        - ISBN: "978-0-7141-2547-3"
-        - OCLC: "1391179213"
-      Description and remarks: "Een overzicht van Afrikaanse kunstvoorwerpen en etnografica uit de periode 1400-1800 in Europese collecties, waaronder ook Nederlandse."
-    - Type of source: "Archiefgids"
-      Name: "Doortmont, Michel en Jinna Smit. Sources for the Mutual history of Ghana and the Netherlands. Leiden: Brill, 2007."
-      Persistent identifier: 
-        - URL: "https://www.nationaalarchief.nl/onderzoeken/archief/2.14.97/invnr/9ED/file"
-        - ISBN: "978-90-04-15850-4"
-        - OCLC: "150348506"
-      Description and remarks: "Archiefgids met een uitputtend overzicht van archieven die betrekking hebben op de koloniale geschiedenis van Nederland in Ghana."
-    - Type of source: "Dissertatie"
-      Name: "Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnografisch Museum : 1816-1883. Proefschrift Universiteit Leiden, 2003."
-      Link: 
-        - URL: "https://search.worldcat.org/title/163275947?oclcNum=163275947"
-        - OCLC: "163275947"
-      Description and remarks: "Dissertatie over de geschiedenis van het Koninklijk Kabinet van Zeldzaamheden en van het Rijks Etnografisch Museum."
-    - Type of source: "Wetenschappelijke publicatie"
-      Name: "Holthuis, Lipke. Biografische notities betreffende verzamelaars voor het Rijksmuseum van Natuurlijke Historie te Leiden. I. Hendrik Severinus Pel (1818-1876). Leiden: Rijksmuseum van Natuurlijke Historie, 1968"
-      Persistent identifier:
-        - URL: "https://repository.naturalis.nl/pub/317263"
-      Description and remarks: "Schets van de activiteiten van natuurhistorisch verzamelaar en preparateur Hendrik Severinus Pel aan de Goudkust."
-    - Type of source: "Wetenschappelijk artikel"
-      Name: "Mac Lean, J., ‘Collecting natural history specimens in Ghana for ’s-Rijks Museum at Leyden’, Janus 63 (1976), 289-301."
-      Description and remarks: "Schets van activiteiten van natuurhistorische verzamelaars aan de Goudkust."
-    - Type of source: "Publicatie"
-      Name: "Schmidt, Annette. Collectieprofiel Cultuurgebied Afrika. In: Verzamelde collectieprofielen Museum Volkenkunde, Leiden. Leiden: Museum Volkendkunde, 2008."
-      Persistent identifier: 
-        - URL: "https://www.yumpu.com/nl/document/view/20123476/open-het-profiel-als-pdf-museum-volkenkunde"
-      Description and remarks: "Hoofdstuk over de Afrikaanse collectie van het Wereldmuseum Leiden in een publicatie over collectieprofielen."
-    - Type of source: "Hoofdstuk in een catalogus"
-      Name: "Schmidt, Annette. De Afrikaanse bijdrage van kommandeur Last. In: Het verdwenen museum : Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis. Zwolle: Waanders, 2024."
-      Persistent identifier: 
-        - ISBN: "9789462625709"
-        - OCLC: "1501397052"
-      Description and remarks: "Hoofdstuk over de zending uit 1825 van gouverneur Last aan het Koninklijk Kabinet van Zeldzaamheden, opgenomen in de catalogus van de tentoonstelling 'Het verdwenen Museum' die in 2024-2025 te zien was in het Mauritshuis."
-
 copyright_metadata:
   copyright_holder: NIOD-KNAW
   date: '2025-09-01'
