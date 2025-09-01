@@ -1,7 +1,10 @@
 {
-    "Level": 3,
-    "Title": "Wereldmuseum Leiden",
     "Abstract": "Today's Wereldmuseum Leiden, which was previously known as Museum Volkenkunde and before that as the 's Rijks Etnografisch Museum (State Ethnographic Museum), was founded in 1837 from the amalgamation of several collections of objects that were acquired in regions that were under Dutch colonial rule.",
+    "Level": 3,
+    "Main-text": {
+        "content": "### History of the museum\n\nThe history of today\u2019s Wereldmuseum Leiden goes back to 1837. Its first hundred years were characterised by financial difficulties, the accumulation of large quantities of objects and many changes of location. In 1937 the museum finally found a permanent home in the former University Hospital where it could display its entire collection. The museum is still located in this building. \n\nThe collection of the Wereldmuseum Leiden originated from the private collection of [Philipp Franz von Siebold](http://www.wikidata.org/entity/Q77140), who was also the museum's first director. His collection, which originally consisted mainly of Japanese objects, was expanded during the 19th century to include several private collections and, in 1883, a significant collection of ethnographic objects from the collection of the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1). At the start of the twentieth century, part of the collection of the [Museum of Antiquities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F732277d365ab6fbcc351da7bc2b900b3) in Leiden was also transferred to what was then the Rijks Ethnographisch Museum (National Museum of Ethnology). The latter group of objects included the various Singhasari statues, some of which were returned to Indonesia in 1978 and others in 2023. Objects were also transferred from the National Museum of Ethnology to other museums, such as the Anatomical Museum in Leiden in 1935. \n\nObjects were acquired in various ways. First, as described above, through exchange with other museums. In addition, the National Museum of Ethnology itself was an active buyer of ethnographic objects from dealers and auctions, with for example part of the museum's collection of Benin Bronzes having been obtained in this way. Many objects were also received as donations, often from [colonial civil servants](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F4f29663e147ee9c1ee7a9eb3019fca18) or [military personnel](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0ceff3da7d6bba371bb16767a65b619e) who served for example with the Royal Dutch East Indies Army (KNIL). The vast majority of the collection of the present Wereldmuseum Leiden was therefore collected during the 19th and 20th centuries.\n\n![Picture of the Wereldmuseum Leiden in November 2024](https://upload.wikimedia.org/wikipedia/commons/5/51/Wereldmuseum_Leiden_%28nov_2024%29.jpg)\n_The Wereldmuseum Leiden in November 2024_ ([Sneeuwvlakte / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Leiden_(nov_2024).jpg#))\n\n### Provenance research\n\nObjects from the Wereldmuseum Leiden can be identified within the Wereldmuseum collection by the attribute \u2018RV-\u2019. \u2018RV-360\u2019 comprises the objects that were received from the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) in 1883. \u2018RV-1403\u2019 refers to a significant collection of objects that were transferred from the [Museum of Antiquities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F732277d365ab6fbcc351da7bc2b900b3) in 1904. The Wereldmuseum Leiden has kept records of the collection since its foundation. However, the archive system has changed several times and different documentation is available for each object or collection series (several pieces that were registered at the same time). \n\nThe archives can roughly be divided into the collection archive and the correspondence archive. The collection archive consists of object registers, inventories, series files and, for some older objects, lists of donations and exchanges. This archive can be found under NL-LdnRMV_A3. The correspondence archive contains incoming letters and telegrams, copies of outgoing letters, lists of incoming and outgoing correspondence, and so on. This archive can be found under NL-LdnRMV_A1.\n\nThe archive of the Wereldmuseum Leiden is not accessible online. For more information about the collection or to view archival documents please contact [collectieinfo@wereldmuseum.nl](mailto:collectieinfo@wereldmuseum.nl). \n\nDocuments related to the Wereldmuseum Leiden can also be found at the Dutch National Archives, these are mainly administrative records. The archives of museums that exchanged collections with Wereldmuseum Leiden may contain further archival material on those specific objects.\n",
+        "content-type": "text/markdown"
+    },
     "RelatedAides": [
         {
             "Sources": {
@@ -173,6 +176,9 @@
         }
     ],
     "Relevant data": {
+        "Collections": {
+            "Within Data Hub": []
+        },
         "Identifiers": [
             "https://www.wikidata.org/entity/Q17339437"
         ],
@@ -185,13 +191,14 @@
             "Museum Volkenkunde",
             "Nationaal Museum van Wereldculturen"
         ],
+        "Period of activity": {
+            "Year of end": [],
+            "Year of start": "1837"
+        },
         "Tags": {
             "Activity": [
                 "[Collectie](http://vocab.getty.edu/aat/300025976)",
                 "[Ethnographic museum](http://vocab.getty.edu/page/aat/300451067)"
-            ],
-            "Type of objects": [
-                "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)"
             ],
             "Geographical": [
                 "[Africa](https://sws.geonames.org/6255146/)",
@@ -199,25 +206,16 @@
                 "[North America](https://sws.geonames.org/6255149/)",
                 "[Oceania](https://sws.geonames.org/6255151/)",
                 "[South America](https://sws.geonames.org/6255150/)"
+            ],
+            "Type of objects": [
+                "[Ethnographic objects](http://vocab.getty.edu/aat/300234108)"
             ]
-        },
-        "Period of activity": {
-            "Year of start": "1837",
-            "Year of end": []
-        },
-        "Collections": {
-            "Within Data Hub": []
         }
-    },
-    "Main-text": {
-        "content": "### History of the museum\n\nThe history of today\u2019s Wereldmuseum Leiden goes back to 1837. Its first hundred years were characterised by financial difficulties, the accumulation of large quantities of objects and many changes of location. In 1937 the museum finally found a permanent home in the former University Hospital where it could display its entire collection. The museum is still located in this building. \n\nThe collection of the Wereldmuseum Leiden originated from the private collection of [Philipp Franz von Siebold](http://www.wikidata.org/entity/Q77140), who was also the museum's first director. His collection, which originally consisted mainly of Japanese objects, was expanded during the 19th century to include several private collections and, in 1883, a significant collection of ethnographic objects from the collection of the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1). At the start of the twentieth century, part of the collection of the [Museum of Antiquities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F732277d365ab6fbcc351da7bc2b900b3) in Leiden was also transferred to what was then the Rijks Ethnographisch Museum (National Museum of Ethnology). The latter group of objects included the various Singhasari statues, some of which were returned to Indonesia in 1978 and others in 2023. Objects were also transferred from the National Museum of Ethnology to other museums, such as the Anatomical Museum in Leiden in 1935. \n\nObjects were acquired in various ways. First, as described above, through exchange with other museums. In addition, the National Museum of Ethnology itself was an active buyer of ethnographic objects from dealers and auctions, with for example part of the museum's collection of Benin Bronzes having been obtained in this way. Many objects were also received as donations, often from [colonial civil servants](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F4f29663e147ee9c1ee7a9eb3019fca18) or [military personnel](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0ceff3da7d6bba371bb16767a65b619e) who served for example with the Royal Dutch East Indies Army (KNIL). The vast majority of the collection of the present Wereldmuseum Leiden was therefore collected during the 19th and 20th centuries.\n\n![Picture of the Wereldmuseum Leiden in November 2024](https://upload.wikimedia.org/wikipedia/commons/5/51/Wereldmuseum_Leiden_%28nov_2024%29.jpg)\n_The Wereldmuseum Leiden in November 2024_ ([Sneeuwvlakte / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wereldmuseum_Leiden_(nov_2024).jpg#))\n\n### Provenance research\n\nObjects from the Wereldmuseum Leiden can be identified within the Wereldmuseum collection by the attribute \u2018RV-\u2019. \u2018RV-360\u2019 comprises the objects that were received from the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) in 1883. \u2018RV-1403\u2019 refers to a significant collection of objects that were transferred from the [Museum of Antiquities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F732277d365ab6fbcc351da7bc2b900b3) in 1904. The Wereldmuseum Leiden has kept records of the collection since its foundation. However, the archive system has changed several times and different documentation is available for each object or collection series (several pieces that were registered at the same time). \n\nThe archives can roughly be divided into the collection archive and the correspondence archive. The collection archive consists of object registers, inventories, series files and, for some older objects, lists of donations and exchanges. This archive can be found under NL-LdnRMV_A3. The correspondence archive contains incoming letters and telegrams, copies of outgoing letters, lists of incoming and outgoing correspondence, and so on. This archive can be found under NL-LdnRMV_A1.\n\nThe archive of the Wereldmuseum Leiden is not accessible online. For more information about the collection or to view archival documents please contact [collectieinfo@wereldmuseum.nl](mailto:collectieinfo@wereldmuseum.nl). \n\nDocuments related to the Wereldmuseum Leiden can also be found at the Dutch National Archives, these are mainly administrative records. The archives of museums that exchanged collections with Wereldmuseum Leiden may contain further archival material on those specific objects.\n",
-        "content-type": "text/markdown"
     },
     "Sources": {
         "Secondary sources": [
             {
-                "Type of source": "Book",
-                "Name": "Effert, F.R., and Caffey, Nola. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology, 1816-1883. Leiden: Research School CNWS, 2008.",
+                "Description and remarks": "History of the Rijks Etnografisch Museum in Leiden (now Wereldmuseum Leiden) and how it was formed from the collections of the Royal Cabinet of Curiosities.",
                 "Link": [
                     {
                         "ISBN": "9789057891595"
@@ -226,41 +224,41 @@
                         "OCLC": "244247206"
                     }
                 ],
-                "Description and remarks": "History of the Rijks Etnografisch Museum in Leiden (now Wereldmuseum Leiden) and how it was formed from the collections of the Royal Cabinet of Curiosities."
+                "Name": "Effert, F.R., and Caffey, Nola. Royal Cabinets and Auxiliary Branches: Origins of the National Museum of Ethnology, 1816-1883. Leiden: Research School CNWS, 2008.",
+                "Type of source": "Book"
             },
             {
-                "Type of source": "Dissertation",
-                "Name": "Effert, Rudolf. \u201cVolkenkundig Verzamelen: het Koninklijk Kabinet Van Zeldzaamheden en het Rijks Ethnographisch Museum 1816-1883.\u201d Dissertatie, Universiteit Leiden, Leiden 2003.",
+                "Description and remarks": "Dissertation by Rudolf Effert, corresponds to the English version. About the history of the National Museum of Ethnology and how it was formed from the collections of the Royal Cabinet of Curiosities.",
                 "Link": [
                     {
                         "OCLC": "317117313"
                     }
                 ],
-                "Description and remarks": "Dissertation by Rudolf Effert, corresponds to the English version. About the history of the National Museum of Ethnology and how it was formed from the collections of the Royal Cabinet of Curiosities."
+                "Name": "Effert, Rudolf. \u201cVolkenkundig Verzamelen: het Koninklijk Kabinet Van Zeldzaamheden en het Rijks Ethnographisch Museum 1816-1883.\u201d Dissertatie, Universiteit Leiden, Leiden 2003.",
+                "Type of source": "Dissertation"
             },
             {
-                "Type of source": "Book",
-                "Name": "Marquart, Joseph. Die Benin-Sammlung des Reichsmuseums fu\u0308r Vo\u0308lkerkunde in Leiden. Beschrieben und mit ausfu\u0308hrlichen Prolegomena zur Geschichte der Handelswege und Vo\u0308lkerbewegungen in Nordafrika, Leiden: Brill, 1913.",
+                "Description and remarks": "Book by Joseph Marquart, a German historian and curator of the Rijks Ethnografisch Museum in Leiden, about the museum\u2019s Benin collection.",
                 "Link": [
                     {
                         "OCLC": "562473153"
                     }
                 ],
-                "Description and remarks": "Book by Joseph Marquart, a German historian and curator of the Rijks Ethnografisch Museum in Leiden, about the museum\u2019s Benin collection."
+                "Name": "Marquart, Joseph. Die Benin-Sammlung des Reichsmuseums fu\u0308r Vo\u0308lkerkunde in Leiden. Beschrieben und mit ausfu\u0308hrlichen Prolegomena zur Geschichte der Handelswege und Vo\u0308lkerbewegungen in Nordafrika, Leiden: Brill, 1913.",
+                "Type of source": "Book"
             },
             {
-                "Type of source": "Book",
-                "Name": "Rassers, Willem H. Overzicht van de geschiedenis van het Rijksmuseum voor Volkenkunde, 1837-1937. Sijthoff,1937.",
+                "Description and remarks": "Comprehensive history of the first one hundred years of the National Museum of Ethnology. Describes how the museum originated from the Von Siebold collection and the Royal Cabinet of Curiosities, and how it was subsequently formed into an ethnographic museum. Contains information on objects acquired during the first hundred years of the museum.",
                 "Link": [
                     {
                         "URL": "https://resolver.kb.nl/resolve?urn=MMKB06:000003234:00005"
                     }
                 ],
-                "Description and remarks": "Comprehensive history of the first one hundred years of the National Museum of Ethnology. Describes how the museum originated from the Von Siebold collection and the Royal Cabinet of Curiosities, and how it was subsequently formed into an ethnographic museum. Contains information on objects acquired during the first hundred years of the museum."
+                "Name": "Rassers, Willem H. Overzicht van de geschiedenis van het Rijksmuseum voor Volkenkunde, 1837-1937. Sijthoff,1937.",
+                "Type of source": "Book"
             },
             {
-                "Type of source": "Magazine",
-                "Name": "Veys, Fanny Wonu, en Nationaal Museum van Wereldculturen, red. The Benin Collections at the National Museum of World Cultures. Provenance, #2. Leiden: Nationaal Museum van Wereldculturen, 2021.",
+                "Description and remarks": "Publication of the Wereldmuseum regarding its Benin collection. Provides information on the link between objects from Benin within the Wereldmuseum collection (not just in Leiden) and the looting of Benin City by British soldiers in 1897.",
                 "Link": [
                     {
                         "ISBN": "9789088909986"
@@ -269,11 +267,11 @@
                         "OCLC": "1293851263"
                     }
                 ],
-                "Description and remarks": "Publication of the Wereldmuseum regarding its Benin collection. Provides information on the link between objects from Benin within the Wereldmuseum collection (not just in Leiden) and the looting of Benin City by British soldiers in 1897."
+                "Name": "Veys, Fanny Wonu, en Nationaal Museum van Wereldculturen, red. The Benin Collections at the National Museum of World Cultures. Provenance, #2. Leiden: Nationaal Museum van Wereldculturen, 2021.",
+                "Type of source": "Magazine"
             },
             {
-                "Type of source": "Book",
-                "Name": "Wengen, Ger van. Wat is er te doen in Volkenkunde?: de bewogen geschiedenis van het Rijksmuseum voor Volkenkunde in Leiden, Leiden 2002.",
+                "Description and remarks": "Book about the history of today's Wereldmuseum Leiden.",
                 "Link": [
                     {
                         "ISBN": "9789071310812"
@@ -282,24 +280,31 @@
                         "OCLC": "901467113"
                     }
                 ],
-                "Description and remarks": "Book about the history of today's Wereldmuseum Leiden."
+                "Name": "Wengen, Ger van. Wat is er te doen in Volkenkunde?: de bewogen geschiedenis van het Rijksmuseum voor Volkenkunde in Leiden, Leiden 2002.",
+                "Type of source": "Book"
             }
         ]
     },
+    "Title": "Wereldmuseum Leiden",
+    "copyright_metadata": {
+        "copyright_holder": "NIOD-KNAW",
+        "date": "2025-09-01",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    },
     "editing_metadata": [
         {
-            "date": "2024-05-08",
             "applies_to": null,
             "author": "Wiebe Reints",
-            "role": "original_author",
-            "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+            "date": "2024-05-08",
+            "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here.",
+            "role": "original_author"
         },
         {
-            "date": "2025-04-24",
             "applies_to": "Main-text; Sources",
             "author": "Abacus",
-            "role": "translator",
-            "editing_notes": "abacus translations processed by Wiebe Reints"
+            "date": "2025-04-24",
+            "editing_notes": "abacus translations processed by Wiebe Reints",
+            "role": "translator"
         }
     ],
     "File name": "WMLeiden"

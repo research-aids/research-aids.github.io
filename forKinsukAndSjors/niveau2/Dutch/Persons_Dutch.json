@@ -1,7 +1,10 @@
 {
-    "Level": 2,
-    "Title": "Personen",
     "Abstract": "xxx",
+    "Level": 2,
+    "Main-text": {
+        "content": "**Deze pagina is nog in ontwikkeling.**\n",
+        "content-type": "text/markdown"
+    },
     "RelatedAides": [
         {
             "C.G.C. Reinwardt": {
@@ -13,28 +16,30 @@
         }
     ],
     "Relevant data": [],
-    "Main-text": {
-        "content": "**Deze pagina is nog in ontwikkeling.**\n",
-        "content-type": "text/markdown"
-    },
     "Sources": {
         "Primary Sources": [],
         "Secondary sources": []
     },
+    "Title": "Personen",
+    "copyright_metadata": {
+        "copyright_holder": "NIOD-KNAW",
+        "date": "2025-09-01",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    },
     "editing_metadata": [
         {
-            "date": "2025-01-13",
             "applies_to": null,
             "author": "Wiebe Reints",
-            "role": "original_author",
-            "editing_notes": "Creation of this RA."
+            "date": "2025-01-13",
+            "editing_notes": "Creation of this RA.",
+            "role": "original_author"
         },
         {
-            "date": "2025-06-12",
             "applies_to": null,
             "author": "Wiebe Reints",
-            "role": "original_author",
-            "editing_notes": "Adding this RA to LP."
+            "date": "2025-06-12",
+            "editing_notes": "Adding this RA to LP.",
+            "role": "original_author"
         }
     ],
     "File name": "Persons"
