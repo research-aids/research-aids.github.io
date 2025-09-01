@@ -17,7 +17,7 @@ RelatedAides:
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
         link: "niveau3/Dutch/MOudenbosch_20250603.yml"
         rel_type: "see also"
-  - "Nijmeegs Volkenkundig Museum":
+#  - "Nijmeegs Volkenkundig Museum":
   
   - "Nederlandsch Zendeling Genootschap":
         link: "niveau3/Dutch/NZG_20240314.yml"
