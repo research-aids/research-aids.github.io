@@ -13,10 +13,6 @@ On this page you can find various research aids that can assist you in doing (pr
 *We are curious about your thoughts on the digital research aids. Therefore, we have created [a questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffhqoDmWSdt9Fjwp6_b0ouT9UMDFNOEJBNEJaTzdBTlhUNEJJVjdGT0VKNC4u). The form allows you to provide any feedback or additional information.*
 
 
-### Locations
-             - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao_20250619.yml)  
- - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten_202501619.yml)  
-
 ### Provenance research into colonial collections
              - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
  - [Doing research](niveau1/English/DoingResearch_20240425.yml)  
@@ -32,6 +28,10 @@ On this page you can find various research aids that can assist you in doing (pr
  - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
  - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
  - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
+
+### Locations
+             - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao_20250619.yml)  
+ - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten_202501619.yml)  
 
         
 
