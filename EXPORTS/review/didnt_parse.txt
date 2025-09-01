@@ -1,2 +1,4 @@
+./review/niveau2/Dutch/Ghana_20250901.yml
+./review/niveau2/English/Ghana_20250901.yml
 ./review/niveau3/Dutch/_MissiemuseumTilburg_20250707.yml
 ./review/niveau3/Dutch/_NijmeegsVolkMus_20250707.yml
