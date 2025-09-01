@@ -69,6 +69,12 @@ Boek:
 
   > [https://archive.org/details/africanartartefa0000bass](https://archive.org/details/africanartartefa0000bass), [ISBN 978-0-7141-2547-3](https://isbnsearch.org/isbn/978-0-7141-2547-3), [WorldCat 1391179213](https://search.worldcat.org/title/1391179213)
 
+Archiefgids:
+  > *Doortmont, Michel en Jinna Smit. Sources for the Mutual history of Ghana and the Netherlands. Leiden: Brill, 2007.*
+  > _Archiefgids met een uitputtend overzicht van archieven die betrekking hebben op de koloniale geschiedenis van Nederland in Ghana._  
+
+  > [https://www.nationaalarchief.nl/onderzoeken/archief/2.14.97/invnr/9ED/file](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.97/invnr/9ED/file), [ISBN 978-90-04-15850-4](https://isbnsearch.org/isbn/978-90-04-15850-4), [WorldCat 150348506](https://search.worldcat.org/title/150348506)
+
 
 
 ---
