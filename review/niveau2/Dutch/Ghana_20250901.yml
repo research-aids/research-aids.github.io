@@ -98,10 +98,21 @@ Sources:
         - URL: "https://repository.naturalis.nl/pub/317263"
       Description and remarks: "Schets van de activiteiten van natuurhistorisch verzamelaar en preparateur Hendrik Severinus Pel aan de Goudkust."
     - Type of source: "Wetenschappelijk artikel"
-      Name: "Mac Lean, J. Collecting natural history specimens in Ghana for 's-Rijks Museum at Leyden, Janus 63 1976, 289-301."
+      Name: "Mac Lean, J. ‘Collecting natural history specimens in Ghana for ’s-Rijks Museum at Leyden’, Janus 63 (1976), 289-301."
       Link:
         - URL: "https://repository.naturalis.nl/pub/317263"
       Description and remarks: "Schets van activiteiten van natuurhistorische verzamelaars aan de Goudkust."
+    - Type of source: "Publicatie"
+      Name: "Schmidt, Annette. Collectieprofiel Cultuurgebied Afrika. In: Verzamelde collectieprofielen Museum Volkenkunde, Leiden. Leiden: Museum Volkendkunde, 2008."
+      Link: 
+        - URL: "https://www.yumpu.com/nl/document/view/20123476/open-het-profiel-als-pdf-museum-volkenkunde"
+      Description and remarks: "Hoofdstuk over de Afrikaanse collectie van het Wereldmuseum Leiden in een publicatie over collectieprofielen."
+    - Type of source: "Hoofdstuk in een catalogus"
+      Name: "Schmidt, Annette. De Afrikaanse bijdrage van kommandeur Last. In: Het verdwenen museum : Koninklijk Kabinet van Zeldzaamheden in het Mauritshuis. Zwolle: Waanders, 2024."
+      Link: 
+        - ISBN: "9789462625709"
+        - OCLC: "1501397052"
+      Description and remarks: "Hoofdstuk over de zending uit 1825 van gouverneur Last aan het Koninklijk Kabinet van Zeldzaamheden, opgenomen in de catalogus van de tentoonstelling 'Het verdwenen Museum' die in 2024-2025 te zien was in het Mauritshuis."
 
 copyright_metadata:
   copyright_holder: NIOD-KNAW
