@@ -40,23 +40,27 @@ Voor onderzoek naar de zendingen aan het Koninklijk Kabinet van Zeldzaamheden ku
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Ambtenaren](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Leger en marine](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
+ - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
  - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
 
-THIS RA HAS NO SOURCES
+## Primary sources
+
+## Secondary sources
+
+Boek:
+  > *Bassani, Ezio. African art and artefacts in European collections: 1400-1800. Londen: British Museum, 2000.*
+  > _Een overzicht van Afrikaanse kunstvoorwerpen en etnografica uit de periode 1400-1800 in Europese collecties, waaronder ook Nederlandse._  
+
+  > [https://archive.org/details/africanartartefa0000bass](https://archive.org/details/africanartartefa0000bass), [ISBN 978-0-7141-2547-3](https://isbnsearch.org/isbn/978-0-7141-2547-3), [WorldCat 1391179213](https://search.worldcat.org/title/1391179213)
+
+
 
 ---
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-09-01
-
-(notes: This event was automatically created because the YAML file's edit history was empty.)_
+_last edited by Maarten van der Bent as original_author on 2025-09-01_
         
