@@ -67,7 +67,12 @@ Main-text:
   content-type: text/markdown
 
 Sources: []
-      
+Editing_metadata:
+  - Date: 20250707
+    Applies_to: #optional
+    Author: Wiebe Reints
+    Role: original_author
+    Editing_notes: #optional      
 
 
     
