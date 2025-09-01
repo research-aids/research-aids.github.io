@@ -22,13 +22,18 @@ RelatedAides:
         rel_type: "see also"
 
 Relevant data:
+  Identifiers: []
+  Name variations: []
   Tags:
-    Activity: 
-      - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
-      - "[Naturalia](http://vocab.getty.edu/aat/300379591)"
+    Activity: []
     Type of objects: []
-    Geographical: 
-      - "[Ghana](https://www.geonames.org/2300660)"
+    Geographical: []
+  Period of activity: 
+    Year of start: []
+    Year of end: []
+  Collections:
+    General remarks: []
+    Within the Data Hub: []
 
 Main-text:
   content: |
