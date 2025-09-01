@@ -75,6 +75,12 @@ Archiefgids:
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.14.97/invnr/9ED/file](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.97/invnr/9ED/file), [ISBN 978-90-04-15850-4](https://isbnsearch.org/isbn/978-90-04-15850-4), [WorldCat 150348506](https://search.worldcat.org/title/150348506)
 
+Dissertatie:
+  > *Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnografisch Museum : 1816-1883. Proefschrift Universiteit Leiden, 2003.*
+  > _Dissertatie over de geschiedenis van het Koninklijk Kabinet van Zeldzaamheden en van het Rijks Etnografisch Museum._  
+
+  > [https://search.worldcat.org/title/163275947?oclcNum=163275947](https://search.worldcat.org/title/163275947?oclcNum=163275947), [WorldCat 163275947](https://search.worldcat.org/title/163275947)
+
 
 
 ---
