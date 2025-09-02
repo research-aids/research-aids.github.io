@@ -17,7 +17,7 @@ date: 2025-09-01
 
 ## Abstract
 
-In Nederlandse museumcollecties zijn etnigrafica, kunstvoorwerpen en naturalia te vinden die afkomstig uit het huidige Ghana. Veelal zijn deze voorwerpen verzameld in de periode tot 1872, toen Nederland als koloniale macht aanwezig was op wat toen de Goudkust heette.
+Dutch museum collections contain ethnographic objects, art objects and natural history specimens originating from what is now Ghana. Most of these objects were collected in the period up to 1872, when the Netherlands was present as a colonial power on what was then known as the Gold Coast.
 
 ### Description
 
