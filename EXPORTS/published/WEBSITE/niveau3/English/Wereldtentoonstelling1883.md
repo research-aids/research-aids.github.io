@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-09-02
+date: 2025-09-04
 --- 
 
 
@@ -79,7 +79,7 @@ Catalgoue:
   > *Serrurier, Lindor. Catalogus der ethnographische afdeeling van de Internationale Koloniale en Uitvoerhandel Tentoonstelling (van 1 Mei tot ult°. October 1883) te Amsterdam ( Leiden: E.J. Brill, 1883).*
   > _Catalogue of the other ethnographic collections, excluding those of the Dutch colonial pavilion, displayed at the World Exhibition. Compiled by Lindor Serrurier, then director of the Rijks Ethnographic Museum in Leiden (today's Wereldmuseum). Includes a description of the collection of Lieutenant General Pitt Rivers that was on display._  
 
-  > [https://books.google.nl/books?id=twNWAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q=pitt&f=false](https://books.google.nl/books?id=twNWAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q=pitt&f=false), [WorldCat 1463298534](https://search.worldcat.org/title/1463298534), DOI: 10.1163/9789004589124
+  > [https://books.google.nl/books?id=twNWAAAAcAAJ](https://books.google.nl/books?id=twNWAAAAcAAJ), [WorldCat 1463298534](https://search.worldcat.org/title/1463298534), DOI: 10.1163/9789004589124
 
 Book:
   > *Bonaparte, Roland. Les habitants de Suriname : notes recueillies à l’exposition coloniale d’Amsterdam en 1883 (Paris: Quantin, 1884).*

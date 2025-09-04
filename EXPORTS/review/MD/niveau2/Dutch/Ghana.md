@@ -74,6 +74,12 @@ Dissertatie:
 
   > [https://search.worldcat.org/title/163275947?oclcNum=163275947](https://search.worldcat.org/title/163275947?oclcNum=163275947), [WorldCat 163275947](https://search.worldcat.org/title/163275947)
 
+Boek:
+  > *van der Ham, Gijs. Dof goud: Nederland en Ghana, 1593-1872. Nijmegen: Vantilt, 2013.*
+  > _Publicatie over objecten uit Ghana in de collectie van het Rijksmuseum._  
+
+  > [WorldCat 864752646](https://search.worldcat.org/title/864752646), [ISBN 978-94-6004-157-0](https://isbnsearch.org/isbn/978-94-6004-157-0)
+
 Wetenschappelijke publicatie:
   > *Holthuis, Lipke. Biografische notities betreffende verzamelaars voor het Rijksmuseum van Natuurlijke Historie te Leiden. I. Hendrik Severinus Pel (1818-1876). Leiden: Rijksmuseum van Natuurlijke Historie, 1968*
   > _Schets van de activiteiten van natuurhistorisch verzamelaar en preparateur Hendrik Severinus Pel aan de Goudkust._  
