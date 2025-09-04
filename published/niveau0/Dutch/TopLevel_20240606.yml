@@ -33,13 +33,6 @@ Breakdown:
         link: "niveau1/Dutch/RestitutionPolicy_20250123.yml"
         rel_type: "see also"
   "Onderwerpen":
-    - "Personen":
-        link: "published/niveau2/Dutch/Persons_20250113.yml"
-        rel_type: "see also"
-        Deelonderwerpen:
-          - "C.G.C. Reinwardt":
-              link: "niveau3/Dutch/Reinwardt_20241217.yml"
-              rel_type: "see also" 
     - "Musea en efgoedbeherende instellingen":
         link: "published/niveau2/Dutch/Museum_20250113.yml"
         rel_type: "see also"
@@ -196,6 +189,13 @@ Breakdown:
           - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
               link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
               rel_type: "see also"
+    - "Personen":
+        link: "published/niveau2/Dutch/Persons_20250113.yml"
+        rel_type: "see also"
+        Deelonderwerpen:
+          - "C.G.C. Reinwardt":
+              link: "niveau3/Dutch/Reinwardt_20241217.yml"
+              rel_type: "see also" 
   "Locaties":   
     - "Aruba, Bonaire en Curaçao":
         link: "niveau2/Dutch/ArubaBonaireCuracao_20250619.yml"
