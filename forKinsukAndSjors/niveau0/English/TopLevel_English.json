@@ -51,24 +51,6 @@
         ],
         "Topics": [
             {
-                "Persons": {
-                    "link": "published/niveau2/English/Persons_20250113.yml",
-                    "rel_type": "see also",
-                    "Subtopics": [
-                        {
-                            "C.G.C. Reinwardt": {
-                                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch",
-                                "sort_order": 1
-                            }
-                        }
-                    ],
-                    "linkFilename": "niveau2/English/Persons_English",
-                    "sort_order": 1
-                }
-            },
-            {
                 "Museums and collection holding institutions": {
                     "link": "published/niveau2/English/Museum_20250113.yml",
                     "rel_type": "see also",
@@ -219,7 +201,7 @@
                         }
                     ],
                     "linkFilename": "niveau2/English/Museum_English",
-                    "sort_order": 2
+                    "sort_order": 1
                 }
             },
             {
@@ -253,7 +235,7 @@
                         }
                     ],
                     "linkFilename": "niveau2/English/CivilServants_English",
-                    "sort_order": 3
+                    "sort_order": 2
                 }
             },
             {
@@ -319,7 +301,7 @@
                         }
                     ],
                     "linkFilename": "niveau2/English/Trade_English",
-                    "sort_order": 4
+                    "sort_order": 3
                 }
             },
             {
@@ -353,7 +335,7 @@
                         }
                     ],
                     "linkFilename": "niveau2/English/MilitaryAndNavy_English",
-                    "sort_order": 5
+                    "sort_order": 4
                 }
             },
             {
@@ -435,7 +417,7 @@
                         }
                     ],
                     "linkFilename": "niveau2/English/Science_English",
-                    "sort_order": 6
+                    "sort_order": 5
                 }
             },
             {
@@ -476,6 +458,24 @@
                         }
                     ],
                     "linkFilename": "niveau2/English/ChristianMission_English",
+                    "sort_order": 6
+                }
+            },
+            {
+                "Persons": {
+                    "link": "published/niveau2/English/Persons_20250113.yml",
+                    "rel_type": "see also",
+                    "Subtopics": [
+                        {
+                            "C.G.C. Reinwardt": {
+                                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch",
+                                "sort_order": 1
+                            }
+                        }
+                    ],
+                    "linkFilename": "niveau2/English/Persons_English",
                     "sort_order": 7
                 }
             }
