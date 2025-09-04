@@ -51,24 +51,6 @@
         ],
         "Onderwerpen": [
             {
-                "Personen": {
-                    "link": "published/niveau2/Dutch/Persons_20250113.yml",
-                    "rel_type": "see also",
-                    "Deelonderwerpen": [
-                        {
-                            "C.G.C. Reinwardt": {
-                                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch",
-                                "sort_order": 1
-                            }
-                        }
-                    ],
-                    "linkFilename": "niveau2/Dutch/Persons_Dutch",
-                    "sort_order": 1
-                }
-            },
-            {
                 "Musea en efgoedbeherende instellingen": {
                     "link": "published/niveau2/Dutch/Museum_20250113.yml",
                     "rel_type": "see also",
@@ -219,7 +201,7 @@
                         }
                     ],
                     "linkFilename": "niveau2/Dutch/Museum_Dutch",
-                    "sort_order": 2
+                    "sort_order": 1
                 }
             },
             {
@@ -253,7 +235,7 @@
                         }
                     ],
                     "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch",
-                    "sort_order": 3
+                    "sort_order": 2
                 }
             },
             {
@@ -319,7 +301,7 @@
                         }
                     ],
                     "linkFilename": "niveau2/Dutch/Handel_Dutch",
-                    "sort_order": 4
+                    "sort_order": 3
                 }
             },
             {
@@ -353,7 +335,7 @@
                         }
                     ],
                     "linkFilename": "niveau2/Dutch/LegerEnMarine_Dutch",
-                    "sort_order": 5
+                    "sort_order": 4
                 }
             },
             {
@@ -435,7 +417,7 @@
                         }
                     ],
                     "linkFilename": "niveau2/Dutch/Science_Dutch",
-                    "sort_order": 6
+                    "sort_order": 5
                 }
             },
             {
@@ -477,6 +459,24 @@
                         }
                     ],
                     "linkFilename": "niveau2/Dutch/ZendingEnMissie_Dutch",
+                    "sort_order": 6
+                }
+            },
+            {
+                "Personen": {
+                    "link": "published/niveau2/Dutch/Persons_20250113.yml",
+                    "rel_type": "see also",
+                    "Deelonderwerpen": [
+                        {
+                            "C.G.C. Reinwardt": {
+                                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch",
+                                "sort_order": 1
+                            }
+                        }
+                    ],
+                    "linkFilename": "niveau2/Dutch/Persons_Dutch",
                     "sort_order": 7
                 }
             }
