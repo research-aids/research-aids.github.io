@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Koninklijk Instituut voor Taal- Land- en Volkenkunde
+title: Koninklijk Instituut voor Taal-, Land- en Volkenkunde
 parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-09-04
+date: 2025-09-05
 --- 
 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/PDF/niveau3/Dutch/KITLV.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/DOCX/niveau3/Dutch/KITLV.docx){: .btn .btn-blue }
 
 
-# Koninklijk Instituut voor Taal- Land- en Volkenkunde
+# Koninklijk Instituut voor Taal-, Land- en Volkenkunde
 
 
 ## Abstract

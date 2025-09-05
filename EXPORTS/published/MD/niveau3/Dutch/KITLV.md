@@ -1,5 +1,5 @@
 
-# Koninklijk Instituut voor Taal- Land- en Volkenkunde
+# Koninklijk Instituut voor Taal-, Land- en Volkenkunde
 
 
 ## Abstract
