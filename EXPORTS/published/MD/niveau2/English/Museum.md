@@ -1,5 +1,5 @@
 
-# Museums and collection holding institutions
+# Museums and collections
 
 
 ## Abstract

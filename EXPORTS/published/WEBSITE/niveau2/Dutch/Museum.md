@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Musea en efgoedbeherende instellingen
+title: Musea en collecties
 parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-09-05
+date: 2025-09-08
 --- 
 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/PDF/niveau2/Dutch/Museum.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/DOCX/niveau2/Dutch/Museum.docx){: .btn .btn-blue }
 
 
-# Musea en efgoedbeherende instellingen
+# Musea en collecties
 
 
 ## Abstract
@@ -80,6 +80,6 @@ Hoewel deze thematische onderverdeling een goed overzicht geeft over de manieren
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-01-13_  
-_last edited by Wiebe Reints as original_author on 2025-06-23
-(applies to section: Content)_
+_last edited by Wiebe Reints as original_author on 2025-09-08
+(applies to section: title)_
         

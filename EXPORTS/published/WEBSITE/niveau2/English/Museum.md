@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Museums and collection holding institutions
+title: Museums and collections
 parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-09-05
+date: 2025-09-08
 --- 
 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/PDF/niveau2/English/Museum.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/DOCX/niveau2/English/Museum.docx){: .btn .btn-blue }
 
 
-# Museums and collection holding institutions
+# Museums and collections
 
 
 ## Abstract

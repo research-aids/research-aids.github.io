@@ -5,7 +5,7 @@ parent: niveau0
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-09-05
+date: 2025-09-08
 --- 
 
 
@@ -33,14 +33,13 @@ Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doe
  - [Verslagleggen](niveau1/Dutch/Verslagleggen_20240501.yml)  
  - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)  
 
-### Onderwerpen
-             - [Musea en efgoedbeherende instellingen](published/niveau2/Dutch/Museum_20250113.yml)  
+### Categorieën en thema's
+             - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
  - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)  
- - [Personen](published/niveau2/Dutch/Persons_20250113.yml)  
 
 ### Locaties
              - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  

@@ -8,7 +8,7 @@ Abstract: "Het Museon-Omniversum is een museum in Den Haag dat in 1904 is opgeri
 
 RelatedAides:
   - "Ambtenaren in gekoloniseerde gebieden":
-        link: "published/niveau2/Dutch/CivilServants_20240320.yml"
+        link: "niveau2/Dutch/CivilServants_20240320.yml"
         rel_type: "see also"
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden": 
         link: "niveau2/Dutch/Science_20240814.yml"
