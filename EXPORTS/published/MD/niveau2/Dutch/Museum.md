@@ -1,5 +1,5 @@
 
-# Musea en efgoedbeherende instellingen
+# Musea en collecties
 
 
 ## Abstract
@@ -67,6 +67,6 @@ Hoewel deze thematische onderverdeling een goed overzicht geeft over de manieren
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-01-13_  
-_last edited by Wiebe Reints as original_author on 2025-06-23
-(applies to section: Content)_
+_last edited by Wiebe Reints as original_author on 2025-09-08
+(applies to section: title)_
         
