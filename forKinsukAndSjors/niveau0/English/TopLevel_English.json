@@ -49,153 +49,153 @@
                 }
             }
         ],
-        "Topics": [
+        "Themes and categories": [
             {
-                "Museums and collection holding institutions": {
-                    "link": "published/niveau2/English/Museum_20250113.yml",
+                "Museums and collections": {
+                    "link": "niveau2/English/Museum_20250113.yml",
                     "rel_type": "see also",
                     "Subtopics": [
                         {
-                            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
-                                "link": "published/niveau3/English/BGKW_20240905.yml",
+                            "Artis Ethnographic Museum": {
+                                "link": "niveau3/English/EMArtis_20240712.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/BGKW_English",
+                                "linkFilename": "niveau3/English/EMArtis_English",
                                 "sort_order": 1
                             }
                         },
                         {
-                            "Museum Bronbeek": {
-                                "link": "published/niveau3/English/Bronbeek_20241002.yml",
+                            "Hoofdcursus Kampen": {
+                                "link": "niveau3/English/HoofdcursusKampen_20250513.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/Bronbeek_English",
+                                "linkFilename": "niveau3/English/HoofdcursusKampen_English",
                                 "sort_order": 2
                             }
                         },
                         {
-                            "Artis Ethnographic Museum": {
-                                "link": "published/niveau3/English/EMArtis_20240712.yml",
+                            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
+                                "link": "niveau3/English/BGKW_20240905.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/EMArtis_English",
+                                "linkFilename": "niveau3/English/BGKW_English",
                                 "sort_order": 3
                             }
                         },
                         {
-                            "Volkenkundig Museum 'Gerardus van der Leeuw'": {
-                                "link": "published/niveau3/English/GerardusLeeuw_20250602.yml",
+                            "Missiemuseum Steyl": {
+                                "link": "niveau3/English/MissiemuseumSteyl_20241021.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/GerardusLeeuw_English",
+                                "linkFilename": "niveau3/English/MissiemuseumSteyl_English",
                                 "sort_order": 4
                             }
                         },
                         {
-                            "Hoofdcursus Kampen": {
-                                "link": "published/niveau3/English/HoofdcursusKampen_20250513.yml",
+                            "Museon-Omniversum": {
+                                "link": "niveau3/English/Museon_20250513.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/HoofdcursusKampen_English",
+                                "linkFilename": "niveau3/English/Museon_English",
                                 "sort_order": 5
                             }
                         },
                         {
-                            "Volkenkundig Museum Justinus van Nassau": {
-                                "link": "published/niveau3/English/JustinusNassau_20250513.yml",
+                            "Museum Bronbeek": {
+                                "link": "niveau3/English/Bronbeek_20241002.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/JustinusNassau_English",
+                                "linkFilename": "niveau3/English/Bronbeek_English",
                                 "sort_order": 6
                             }
                         },
                         {
-                            "Royal Cabinet of Curiosities": {
-                                "link": "published/niveau3/English/KKZ_20240417.yml",
+                            "Museum Nusantara": {
+                                "link": "niveau3/English/MNusantara_20250225.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/KKZ_English",
+                                "linkFilename": "niveau3/English/MNusantara_English",
                                 "sort_order": 7
                             }
                         },
                         {
-                            "Museum Nusantara": {
-                                "link": "published/niveau3/English/MNusantara_20250225.yml",
+                            "Naturalis Biodiversity Center": {
+                                "link": "niveau3/English/Naturalis_20270710.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/MNusantara_English",
+                                "linkFilename": "niveau3/English/Naturalis_English",
                                 "sort_order": 8
                             }
                         },
                         {
-                            "Missiemuseum Steyl": {
-                                "link": "published/niveau3/English/MissiemuseumSteyl_20241021.yml",
+                            "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
+                                "link": "niveau3/English/MOudenbosch_20250603.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/MissiemuseumSteyl_English",
+                                "linkFilename": "niveau3/English/MOudenbosch_English",
                                 "sort_order": 9
                             }
                         },
                         {
-                            "Museon-Omniversum": {
-                                "link": "published/niveau3/English/Museon_20250513.yml",
+                            "Rijksmuseum Amsterdam": {
+                                "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/Museon_English",
+                                "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
                                 "sort_order": 10
                             }
                         },
                         {
-                            "Naturalis Biodiversity Center": {
-                                "link": "published/niveau3/English/Naturalis_20270710.yml",
+                            "Rijksmuseum van Oudheden": {
+                                "link": "niveau3/English/RMO_20241106.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/Naturalis_English",
+                                "linkFilename": "niveau3/English/RMO_English",
                                 "sort_order": 11
                             }
                         },
                         {
-                            "Rijksmuseum van Oudheden": {
-                                "link": "published/niveau3/English/RMO_20241106.yml",
+                            "Royal Cabinet of Curiosities": {
+                                "link": "niveau3/English/KKZ_20240417.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/RMO_English",
+                                "linkFilename": "niveau3/English/KKZ_English",
                                 "sort_order": 12
                             }
                         },
                         {
-                            "Rijksmuseum Amsterdam": {
-                                "link": "published/niveau3/English/RijksmuseumAmsterdam_20240905.yml",
+                            "Volkenkundig Museum 'Gerardus van der Leeuw'": {
+                                "link": "niveau3/English/GerardusLeeuw_20250602.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
+                                "linkFilename": "niveau3/English/GerardusLeeuw_English",
                                 "sort_order": 13
                             }
                         },
                         {
-                            "Wereldmuseum Amsterdam": {
-                                "link": "published/niveau3/English/WMAmsterdam_20240809.yml",
+                            "Volkenkundig Museum Justinus van Nassau": {
+                                "link": "niveau3/English/JustinusNassau_20250513.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMAmsterdam_English",
+                                "linkFilename": "niveau3/English/JustinusNassau_English",
                                 "sort_order": 14
                             }
                         },
                         {
-                            "Wereldmuseum Berg en Dal": {
-                                "link": "published/niveau3/English/WMBergEnDal_20241001.yml",
+                            "Wereldmuseum Amsterdam": {
+                                "link": "niveau3/English/WMAmsterdam_20240809.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMBergEnDal_English",
+                                "linkFilename": "niveau3/English/WMAmsterdam_English",
                                 "sort_order": 15
                             }
                         },
                         {
-                            "Wereldmuseum Leiden": {
-                                "link": "published/niveau3/English/WMLeiden_20240508.yml",
+                            "Wereldmuseum Berg en Dal": {
+                                "link": "niveau3/English/WMBergEnDal_20241001.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMLeiden_English",
+                                "linkFilename": "niveau3/English/WMBergEnDal_English",
                                 "sort_order": 16
                             }
                         },
                         {
-                            "Wereldmuseum Rotterdam": {
-                                "link": "published/niveau3/English/WMRotterdam_2040822.yml",
+                            "Wereldmuseum Leiden": {
+                                "link": "niveau3/English/WMLeiden_20240508.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMRotterdam_English",
+                                "linkFilename": "niveau3/English/WMLeiden_English",
                                 "sort_order": 17
                             }
                         },
                         {
-                            "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
-                                "link": "published/niveau3/English/MOudenbosch_20250603.yml",
+                            "Wereldmuseum Rotterdam": {
+                                "link": "niveau3/English/WMRotterdam_2040822.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/MOudenbosch_English",
+                                "linkFilename": "niveau3/English/WMRotterdam_English",
                                 "sort_order": 18
                             }
                         }
@@ -218,19 +218,11 @@
                             }
                         },
                         {
-                            "Royal Cabinet of Curiosities": {
-                                "link": "niveau3/English/KKZ_20240417.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/KKZ_English",
-                                "sort_order": 2
-                            }
-                        },
-                        {
                             "Museum Nusantara": {
                                 "link": "niveau3/English/MNusantara_20250225.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/MNusantara_English",
-                                "sort_order": 3
+                                "sort_order": 2
                             }
                         }
                     ],
@@ -244,18 +236,18 @@
                     "rel_type": "see also",
                     "Subtopics": [
                         {
-                            "Artis Ethnographic Museum": {
-                                "link": "niveau3/English/EMArtis_20240712.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/EMArtis_English",
-                                "sort_order": 1
-                            }
-                        },
-                        {
                             "Groote Koninklijke Bazar": {
                                 "link": "niveau3/English/KoninklijkeBazar_2040503.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/KoninklijkeBazar_English",
+                                "sort_order": 1
+                            }
+                        },
+                        {
+                            "International Colonial and Export Exhibition 1883": {
+                                "link": "niveau3/English/Wereldtentoonstelling1883_20250602.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/Wereldtentoonstelling1883_English",
                                 "sort_order": 2
                             }
                         },
@@ -274,30 +266,6 @@
                                 "linkFilename": "niveau3/English/KVVAK_English",
                                 "sort_order": 4
                             }
-                        },
-                        {
-                            "Rijksmuseum Amsterdam": {
-                                "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
-                                "sort_order": 5
-                            }
-                        },
-                        {
-                            "Rijksmuseum van Oudheden": {
-                                "link": "niveau3/Dutch/RMO_20241106.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/RMO_Dutch",
-                                "sort_order": 6
-                            }
-                        },
-                        {
-                            "International Colonial and Export Exhibition 1883": {
-                                "link": "published/niveau3/English/Wereldtentoonstelling1883_20250602.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/Wereldtentoonstelling1883_English",
-                                "sort_order": 7
-                            }
                         }
                     ],
                     "linkFilename": "niveau2/English/Trade_English",
@@ -310,24 +278,24 @@
                     "rel_type": "see also",
                     "Subtopics": [
                         {
-                            "Museum Bronbeek": {
-                                "link": "niveau3/English/Bronbeek_20241002.yml",
+                            "Hoofdcursus Kampen": {
+                                "link": "niveau3/English/HoofdcursusKampen_20250513.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/Bronbeek_English",
+                                "linkFilename": "niveau3/English/HoofdcursusKampen_English",
                                 "sort_order": 1
                             }
                         },
                         {
-                            "Hoofdcursus Kampen": {
-                                "link": "published/niveau3/English/HoofdcursusKampen_20250513.yml",
+                            "Museum Bronbeek": {
+                                "link": "niveau3/English/Bronbeek_20241002.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/HoofdcursusKampen_English",
+                                "linkFilename": "niveau3/English/Bronbeek_English",
                                 "sort_order": 2
                             }
                         },
                         {
                             "Volkenkundig Museum Justinus van Nassau": {
-                                "link": "published/niveau3/English/JustinusNassau_20250513.yml",
+                                "link": "niveau3/English/JustinusNassau_20250513.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/JustinusNassau_English",
                                 "sort_order": 3
@@ -344,27 +312,19 @@
                     "rel_type": "see also",
                     "Subtopics": [
                         {
-                            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
-                                "link": "niveau3/English/BGKW_20240905.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/BGKW_English",
-                                "sort_order": 1
-                            }
-                        },
-                        {
                             "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)": {
                                 "link": "niveau3/English/KITLV_20240704.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/KITLV_English",
-                                "sort_order": 2
+                                "sort_order": 1
                             }
                         },
                         {
-                            "Naturalis Biodiversity Center": {
-                                "link": "niveau3/English/Naturalis_20270710.yml",
+                            "Volkenkundig museum 'Gerardus van der Leeuw'": {
+                                "link": "niveau3/English/GerardusLeeuw_20250602.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/English/Naturalis_English",
-                                "sort_order": 3
+                                "linkFilename": "niveau3/English/GerardusLeeuw_English",
+                                "sort_order": 2
                             }
                         },
                         {
@@ -372,47 +332,7 @@
                                 "link": "niveau3/English/WageningenUniversity_20240508.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WageningenUniversity_English",
-                                "sort_order": 4
-                            }
-                        },
-                        {
-                            "Wereldmuseum Amsterdam": {
-                                "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
-                                "sort_order": 5
-                            }
-                        },
-                        {
-                            "Wereldmuseum Leiden": {
-                                "link": "niveau3/English/WMLeiden_20240508.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMLeiden_English",
-                                "sort_order": 6
-                            }
-                        },
-                        {
-                            "Wereldmuseum Rotterdam": {
-                                "link": "niveau3/English/WMRotterdam_2040822.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/WMRotterdam_English",
-                                "sort_order": 7
-                            }
-                        },
-                        {
-                            "Volkenkundig museum 'Gerardus van der Leeuw'": {
-                                "link": "published/niveau3/English/GerardusLeeuw_20250602.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/GerardusLeeuw_English",
-                                "sort_order": 8
-                            }
-                        },
-                        {
-                            "Museon-Omniversum": {
-                                "link": "published/niveau3/English/Museon_20250513.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/Museon_English",
-                                "sort_order": 9
+                                "sort_order": 3
                             }
                         }
                     ],
@@ -426,57 +346,40 @@
                     "rel_type": "see also",
                     "Subtopics": [
                         {
+                            "Missiemuseum Steyl": {
+                                "link": "niveau3/English/MissiemuseumSteyl_20241021.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/MissiemuseumSteyl_English",
+                                "sort_order": 1
+                            }
+                        },
+                        {
+                            "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
+                                "link": "niveau3/English/MOudenbosch_20250603.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/MOudenbosch_English",
+                                "sort_order": 2
+                            }
+                        },
+                        {
                             "Nederlandsch Zendeling Genootschap": {
                                 "link": "niveau3/English/NZG_20240508.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/NZG_English",
-                                "sort_order": 1
+                                "sort_order": 3
                             }
                         },
                         {
                             "Wereldmuseum Berg en Dal": {
                                 "link": "niveau3/English/WMBergEnDal_20241001.yml",
+                                "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMBergEnDal_English",
-                                "sort_order": 2
-                            }
-                        },
-                        {
-                            "Missiemuseum Steyl": {
-                                "link": "niveau3/English/MissiemuseumSteyl_20241021.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/MissiemuseumSteyl_English",
-                                "sort_order": 3
-                            }
-                        },
-                        {
-                            "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
-                                "link": "published/niveau3/English/MOudenbosch_20250603.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/English/MOudenbosch_English",
                                 "sort_order": 4
                             }
                         }
                     ],
                     "linkFilename": "niveau2/English/ChristianMission_English",
                     "sort_order": 6
-                }
-            },
-            {
-                "Persons": {
-                    "link": "published/niveau2/English/Persons_20250113.yml",
-                    "rel_type": "see also",
-                    "Subtopics": [
-                        {
-                            "C.G.C. Reinwardt": {
-                                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
-                                "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/Reinwardt_Dutch",
-                                "sort_order": 1
-                            }
-                        }
-                    ],
-                    "linkFilename": "niveau2/English/Persons_English",
-                    "sort_order": 7
                 }
             }
         ],
