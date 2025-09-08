@@ -34,7 +34,7 @@ Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doe
  - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)  
 
 ### Categorieën en thema's
-             - [Musea en collecties](published/niveau2/Dutch/Museum_20250113.yml)  
+             - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  

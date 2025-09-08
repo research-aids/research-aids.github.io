@@ -36,7 +36,7 @@ Het archief van het Museon wordt beheerd door het [Haags Gemeentearchief](https:
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](published/niveau2/Dutch/CivilServants_20240320.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
  - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
  - [Naturalis](niveau3/Dutch/Naturalis_20240710.yml)  
