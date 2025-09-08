@@ -34,62 +34,62 @@ Breakdown:
         rel_type: "see also"
   "Categorieën en thema's":
     - "Musea en collecties":
-        link: "published/niveau2/Dutch/Museum_20250113.yml"
+        link: "niveau2/Dutch/Museum_20250113.yml"
         rel_type: "see also"
         Deelonderwerpen:
           - "Etnografisch Museum Artis":
-              link: "published/niveau3/Dutch/EMArtis_20240711.yml"
+              link: "niveau3/Dutch/EMArtis_20240711.yml"
               rel_type: "see also"
           - "Hoofdcursus Kampen":
-              link: "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+              link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
               rel_type: "see also"
           - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
-              link: "published/niveau3/Dutch/BGKW_20240827.yml"
+              link: "niveau3/Dutch/BGKW_20240827.yml"
               rel_type: "see also"
           - "Koninklijk Kabinet van Zeldzaamheden":
-              link: "published/niveau3/Dutch/KKZ_20240313.yml"
+              link: "niveau3/Dutch/KKZ_20240313.yml"
               rel_type: "see also"
           - "Missiemuseum Steyl":
-              link: "published/niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
+              link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
               rel_type: "see also"
           - "Museon-Omniversum":
-              link: "published/niveau3/Dutch/Museon_20250429.yml"
+              link: "niveau3/Dutch/Museon_20250429.yml"
               rel_type: "see also"
           - "Museum Bronbeek":
-              link: "published/niveau3/Dutch/Bronbeek_20241002.yml"
+              link: "niveau3/Dutch/Bronbeek_20241002.yml"
               rel_type: "see also"
           - "Museum Nusantara":
-              link: "published/niveau3/Dutch/MNusantara_20250130.yml"
+              link: "niveau3/Dutch/MNusantara_20250130.yml"
               rel_type: "see also"
           - "Naturalis Biodiversity Center":
-              link: "published/niveau3/Dutch/Naturalis_20240710.yml"
+              link: "niveau3/Dutch/Naturalis_20240710.yml"
               rel_type: "see also"
           - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-              link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+              link: "niveau3/Dutch/MOudenbosch_20250603.yml"
               rel_type: "see also"
           - "Rijksmuseum Amsterdam":
-              link: "published/niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+              link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
               rel_type: "see also"
           - "Rijksmuseum van Oudheden":
-              link: "published/niveau3/Dutch/RMO_20241106.yml"
+              link: "niveau3/Dutch/RMO_20241106.yml"
               rel_type: "see also"
           - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-              link: "published/niveau3/Dutch/GerardusLeeuw_20250513.yml"
+              link: "niveau3/Dutch/GerardusLeeuw_20250513.yml"
               rel_type: "see also"
           - "Volkenkundig Museum Justinus van Nassau":
-              link: "published/niveau3/Dutch/JustinusNassau_20250225.yml"
+              link: "niveau3/Dutch/JustinusNassau_20250225.yml"
               rel_type: "see also"
           - "Wereldmuseum Amsterdam":
-              link: "published/niveau3/Dutch/WMAmsterdam_20240711.yml"
+              link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
               rel_type: "see also"
           - "Wereldmuseum Berg en Dal":
-              link: "published/niveau3/Dutch/WMBergEnDal_20241001.yml"
+              link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
               rel_type: "see also"
           - "Wereldmuseum Leiden":
-              link: "published/niveau3/Dutch/WMLeiden_20240327.yml"
+              link: "niveau3/Dutch/WMLeiden_20240327.yml"
               rel_type: "see also"
           - "Wereldmuseum Rotterdam":
-              link: "published/niveau3/Dutch/WMRotterdam_20240822.yml"
+              link: "niveau3/Dutch/WMRotterdam_20240822.yml"
               rel_type: "see also"
     - "Ambtenaren in gekoloniseerde gebieden":
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
@@ -122,13 +122,13 @@ Breakdown:
         rel_type: "see also"
         Deelonderwerpen:
           - "Hoofdcursus Kampen":
-              link: "published/niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+              link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
               rel_type: "see also"
           - "Museum Bronbeek":
               link: "niveau3/Dutch/Bronbeek_20241002.yml"
               rel_type: "see also"
           - "Volkenkundig Museum Justinus van Nassau":
-              link: "published/niveau3/Dutch/JustinusNassau_20250225.yml"
+              link: "niveau3/Dutch/JustinusNassau_20250225.yml"
               rel_type: "see also"
     - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
         link: "niveau2/Dutch/Science_20240814.yml"
@@ -141,7 +141,7 @@ Breakdown:
               link: "niveau3/Dutch/Naturalis_20240710.yml"
               rel_type: "see also"
           - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-              link: "published/niveau3/Dutch/GerardusLeeuw_20250513.yml"
+              link: "niveau3/Dutch/GerardusLeeuw_20250513.yml"
               rel_type: "see also"
           - "Wageningen University & Research":
               link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
@@ -154,7 +154,7 @@ Breakdown:
               link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
               rel_type: "see also"
           - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-              link: "published/niveau3/Dutch/MOudenbosch_20250603.yml"
+              link: "niveau3/Dutch/MOudenbosch_20250603.yml"
               rel_type: "see also"
           - "Nederlandsch Zendeling Genootschap": 
               link: "niveau3/Dutch/NZG_20240314.yml"
