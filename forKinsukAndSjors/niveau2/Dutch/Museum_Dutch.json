@@ -1,6 +1,6 @@
 {
     "Level": 2,
-    "Title": "Musea en efgoedbeherende instellingen",
+    "Title": "Musea en collecties",
     "Abstract": "Deze zoekhulp geeft je een overzicht van de verschillende musea in Nederland die etnografische collecties beheren en biedt een bondig inzicht in de ontstaansgeschiedenis van de verschillende verzamelingen.",
     "RelatedAides": [
         {
@@ -178,6 +178,13 @@
             "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "Content added to this RA"
+        },
+        {
+            "date": "2025-09-08",
+            "applies_to": "title",
+            "author": "Wiebe Reints",
+            "role": "original_author",
+            "editing_notes": "Change name of RA to 'Musea en collecties'"
         }
     ],
     "File name": "Museum"
