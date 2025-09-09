@@ -1,8 +1,8 @@
 Level: 3
 
-Title: "The title is the name of the research guide, that also should be showed on the website."
+Title: "Universitaire Bibliotheken Leiden"
 
-Abstract: "The abstract gives an informative description of  the research aid in 150-200 characters."
+Abstract: ""
 
 RelatedAides:
   - "Title of the related research aid":
@@ -11,19 +11,16 @@ RelatedAides:
 
 Relevant data:
   Identifiers:
-    - "Here relevant linked data identifiers can be noted (e.g. Wikidata)."
-  Name variations:
-    - "If the topic of  the research aid is also (historically) known under other names, these can be noted under this paragraph."
+    - "http://www.wikidata.org/entity/Q638395"
+  Name variations: []
   Tags:
     Activity:
-      - "Here related activities can be noted down, combined with a URI."
-    Type of objects: 
-      - "Here related types of objects can be noted down, combined with a URI.."
-    Geographical:
-      - "Here related geographical places can be noted down, combined with a URI."
+      - "[Universiteitsbibliotheek](http://vocab.getty.edu/page/aat/300343392)"
+    Type of objects: []
+    Geographical: []
   Period of activity: 
-    Year of start: ""
-    Year of end: ""
+    Year of start: "1575"
+    Year of end: []
   Collections:
     General remarks:
       content: |
@@ -33,11 +30,15 @@ Relevant data:
       
 Main-text:
   content: |
-    ### Description
+    ### Geschiedenis van de collectie
     
-    This section is meant for some descriptive information on the topic of the research aid, in the case of Level 3 research aides this regards more specific information about the topic of the RA. This could be a short (collection) history or information about why this topic is relevant regarding colonial collections. (This section might be combined with the Provenance Research section.). You can use Markdown for the formatting of the text.
+    De stichting van de Universiteit Leiden in 1575 markeert ook de symbolische oprichting van de universiteitsbibliotheek door de schenking van de Polyglot Bijbel door [Willem van Oranje](http://www.wikidata.org/entity/Q78454). In 1587 werd de bibliotheek officieel in gebruik genomen en was gevestigd in het huidige academiegebouw van de Universiteit Leiden aan het Rapenburg. Sinds dat de eerste bibliotheekcatalogus, de _Nomenclator_, in 1595 verscheen is de collectie uitgegroeid tot een verzameling van vele duizenden boeken, manuscripten en andersoortige documenten. Sinds 2009 zijn de verschillende bibliotheken die door de jaren heen waren ontstaan aan de Universiteit Leiden samengevoegd onder de naam _Universitaire Bibliotheken Leiden_ (UBL). De UBL bestaat uit de algemene universiteitsbibliotheek en de bibliotheken Sociale Wetenschappen, Rechten, Wiskunde & Natuurwetenschappen en de East Asian Library.
+
+    Met betrekking tot onderzoek naar koloniale geschiedenissen beheert de UBL een grote relevante collectie, met name nadat de bibliotheek in respectievelijk 2013 en 2014 de collecties van het [Koninklijk Instituut voor de Tropen](http://www.wikidata.org/entity/Q1796182) en het [KITLV]() overnam. Ook de bibliotheek van het [Nederlands Instituut voor het Nabije Oosten](https://www.nino-leiden.nl/) werd in 2018 opgenomen in de UBL.
+
+    Naast de collectie geschreven bronnen beheerd de UBL ook een grote hoeveelheid ['Bijzondere collecties'](https://www.bibliotheek.universiteitleiden.nl/bijzondere-collecties), waarvan ook een deel [digitaal beschikbaar](https://digitalcollections.universiteitleiden.nl/) is. 
     
-    ### Provenance research
+    ### Herkomstonderzoek
     
     This section is meant for specific information regarding (provenance) research into the topic of the research aid, such as tips for researching relevant archives or other relevant provenance information. You can use Markdown for the formatting of the text.
   content-type: text/markdown
@@ -55,8 +56,8 @@ Sources:
       Description and remarks: "Here you note a short description of what kind of information the source provides."
 
 Editing_metadata:
-  - Date: #mandatory (yyymmdd)
+  - Date: 20250908
     Applies_to: #optional
-    Author: #mandatory
-    Role: #mandatory
+    Author: Wiebe Reints
+    Role: original_author
     Editing_notes: #optional
