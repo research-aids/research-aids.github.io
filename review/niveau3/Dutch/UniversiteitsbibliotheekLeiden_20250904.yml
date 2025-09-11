@@ -16,7 +16,9 @@ Relevant data:
   Tags:
     Activity:
       - "[Universiteitsbibliotheek](http://vocab.getty.edu/page/aat/300343392)"
-    Type of objects: []
+    Type of objects:
+      - "[Archiefmateriaal](http://vocab.getty.edu/page/aat/300379505)"
+      - "[Informatievormen](http://vocab.getty.edu/page/aat/300220751)"
     Geographical: []
   Period of activity: 
     Year of start: "1575"
@@ -39,20 +41,27 @@ Main-text:
   content-type: text/markdown
 
 Sources:
-  Primary sources:
-    - Type of source: "Here you note what kind of source you provide (archive/map/etc.)"
-      Name: "Here you note the name of the source."
-      Link: "Here you note a (permanent) link to the source."
-      Description and remarks: "Here you note a short description of what kind of information the source provides."
+  Primary sources: []
   Secondary sources:
-    - Type of source: "Here you note what kind of source you provide (article/bookp/etc.)"
-      Name: "Here you note the name of the source in bibliography style (Graaff, M.G.H.A. de, Gids voor onderzoek in het archief van het Ministerie van Koloniën in beheer bij het Nationaal Archief, 1814-1951. Den Haag, 2015.)."
-      Link: "Here you note a (permanent) link to the source. This could be a DOI, or otherwise an ISBN or OCLC code. "
-      Description and remarks: "Here you note a short description of what kind of information the source provides."
+    - Type of source: "Website"
+      Name: "Online catalogus van de Universitaire bibliotheken Leiden"
+      Link: 
+      - URL: "https://catalogue.leidenuniv.nl/discovery/search?vid=31UKB_LEU:UBL_V1"
+      Description and remarks: "De online catalogus van de Universitaire Bibliotheken Leiden, hierin is de volledige bibliotheekcatalogus doorzoekbaar. Zowel boeken, tijdschriften en andere documenten als archiefmateriaal kan via deze website ter inzage worden aangevraagd. Hiervoor dien je wel over een gebruikerspas van de Universiteit Leiden te beschikken."
+    - Type of source: "Website"
+      Name: "Subject guides"
+      Link: 
+        - URL: "https://www.library.universiteitleiden.nl/subject-guides"
+      Description and remarks: "Gidsen per onderwerp die je kunnen helpen bij het vinden van relevant materiaal voor je onderzoek."
+    - Type of source: "Website"
+      Name: "Collection guides"
+      Link: 
+        URL: "https://collectionguides.universiteitleiden.nl/"
+      Description and remarks: "Deze website biedt toegang tot de collectiegidsen van de archieven en collecties van de Universitaire Bibliotheken Leiden. Een collectiegids beschrijft op algemeen niveau de onderdelen binnen een collectie of archief en geeft informatie over de geschiedenis, verwerving van het materiaal. De collectiegidsen op deze website kunnen ook een inventaris bevatten en links naar gedigitaliseerde inhoud."
 
 Editing_metadata:
   - Date: 20250908
     Applies_to: #optional
     Author: Wiebe Reints
     Role: original_author
-    Editing_notes: #optional
+    Editing_notes: Creation of the Research Aid
