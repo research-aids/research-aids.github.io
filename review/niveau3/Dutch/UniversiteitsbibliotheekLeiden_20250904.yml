@@ -2,7 +2,7 @@ Level: 3
 
 Title: "Universitaire Bibliotheken Leiden"
 
-Abstract: ""
+Abstract: "De Universitaire Bibliotheken Leiden (UBL) herbergen een keur aan relevant materiaal voor het doen van onderzoek naar collecties uit een koloniale context. Naast boeken, tijdschriften en manuscripten beheert de UBL ook omvangrijke archiefcollecties en fotografisch materiaal."
 
 RelatedAides:
   - "Title of the related research aid":
@@ -21,26 +21,21 @@ Relevant data:
   Period of activity: 
     Year of start: "1575"
     Year of end: []
-  Collections:
-    General remarks:
-      content: |
-        "Remarks regarding the relevant collections for this research aid can be provided here."
-      content-type: text/markdown
-    Within the Data Hub: "Here a link to the relevant objects within the Data Hub can be provided."
+  Collections: []
       
 Main-text:
   content: |
-    ### Geschiedenis van de collectie
+    ### Geschiedenis van de organisatie
     
     De stichting van de Universiteit Leiden in 1575 markeert ook de symbolische oprichting van de universiteitsbibliotheek door de schenking van de Polyglot Bijbel door [Willem van Oranje](http://www.wikidata.org/entity/Q78454). In 1587 werd de bibliotheek officieel in gebruik genomen en was gevestigd in het huidige academiegebouw van de Universiteit Leiden aan het Rapenburg. Sinds dat de eerste bibliotheekcatalogus, de _Nomenclator_, in 1595 verscheen is de collectie uitgegroeid tot een verzameling van vele duizenden boeken, manuscripten en andersoortige documenten. Sinds 2009 zijn de verschillende bibliotheken die door de jaren heen waren ontstaan aan de Universiteit Leiden samengevoegd onder de naam _Universitaire Bibliotheken Leiden_ (UBL). De UBL bestaat uit de algemene universiteitsbibliotheek en de bibliotheken Sociale Wetenschappen, Rechten, Wiskunde & Natuurwetenschappen en de East Asian Library.
 
     Met betrekking tot onderzoek naar koloniale geschiedenissen beheert de UBL een grote relevante collectie, met name nadat de bibliotheek in respectievelijk 2013 en 2014 de collecties van het [Koninklijk Instituut voor de Tropen](http://www.wikidata.org/entity/Q1796182) en het [KITLV]() overnam. Ook de bibliotheek van het [Nederlands Instituut voor het Nabije Oosten](https://www.nino-leiden.nl/) werd in 2018 opgenomen in de UBL.
 
-    Naast de collectie geschreven bronnen beheerd de UBL ook een grote hoeveelheid ['Bijzondere collecties'](https://www.bibliotheek.universiteitleiden.nl/bijzondere-collecties), waarvan ook een deel [digitaal beschikbaar](https://digitalcollections.universiteitleiden.nl/) is. 
+    Naast de collectie geschreven bronnen beheert de UBL ook een grote hoeveelheid ['Bijzondere collecties'](https://www.bibliotheek.universiteitleiden.nl/bijzondere-collecties), waarvan ook een deel [digitaal beschikbaar](https://digitalcollections.universiteitleiden.nl/) is. De [subject guides](https://www.bibliotheek.universiteitleiden.nl/subject-guides) geven je meer informatie over de ruime hoeveelheid beschikbare bronnen en waar je deze kan vinden. Enkele belangrijke objecten/collecties zijn: het langste [La Galigo manuscript](https://digitalcollections.universiteitleiden.nl/lagaligo) ter wereld wat door missionaris B.F. Matthes in de negentiende eeuw mee naar Nederland is genomen en door het Nederlands Bijbelgenootschap aan de UBL in bruikleen is gegeven, de collecties van Herman Neubronner van der Tuuk, waaronder een belangwekkende Sumatraanse pustaha-verzameling, en een uitgebreide [Caribische collectie](https://www.bibliotheek.universiteitleiden.nl/subject-guides/caraiben).
     
-    ### Herkomstonderzoek
+    ### Onderzoek
     
-    This section is meant for specific information regarding (provenance) research into the topic of the research aid, such as tips for researching relevant archives or other relevant provenance information. You can use Markdown for the formatting of the text.
+    De [digitale catalogus](https://www.bibliotheek.universiteitleiden.nl/) van de UBL is online doorzoekbaar, hierin zijn zowel boeken, tijdschriften en andersoortig materiaal te vinden. Om het zoeken te vergemakkelijken zijn er verschillende _[subject guides](https://www.bibliotheek.universiteitleiden.nl/subject-guides)_ beschikbaar. Ook de gedigitaliseerde bijzondere collecties zijn [online raadpleegbaar](https://digitalcollections.universiteitleiden.nl/). Naast de uitgebreide collectie beheert de UBL ook veel archiefmateriaal, zowel van de Universiteit Leiden zelf als persoonlijke en andersoortige archieven. De verschillende archiefcollecties zijn uitgebreid beschreven in zogenaamde _[collection guides](https://collectionguides.universiteitleiden.nl/)_. Hierin vind je ruime informatie over het aanwezige materiaal. Mocht je bepaalde informatie niet kunnen vinden is het ook altijd mogelijk om [contact](https://www.bibliotheek.universiteitleiden.nl/over-ons/contact) op te nemen met de organisatie.
   content-type: text/markdown
 
 Sources:
