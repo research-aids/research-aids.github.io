@@ -4,10 +4,7 @@ Title: "Universitaire Bibliotheken Leiden"
 
 Abstract: "De Universitaire Bibliotheken Leiden (UBL) herbergen een keur aan relevant materiaal voor het doen van onderzoek naar collecties uit een koloniale context. Naast boeken, tijdschriften en manuscripten beheert de UBL ook omvangrijke archiefcollecties en fotografisch materiaal."
 
-RelatedAides:
-  - "Title of the related research aid":
-        link: "The relevant GitHub path of the related research aid"
-        rel_type: "Relation between current aid and related aid."
+RelatedAides: []
 
 Relevant data:
   Identifiers:
