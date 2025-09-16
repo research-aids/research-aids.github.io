@@ -4,13 +4,13 @@
 
 ## Abstract
 
-Het Nijmeegs Volkenkundig Museum is een voormalig museum dat in 1979 werd opgericht als onderdeel van de Katholieke Universiteit Nijmegen (tegenwoordig de Radboud Universiteit). Het museum beheerde een ruime collectie, waarvan een groot deel in bruikleen was. Na de sluiting van het museum in 2005 is een deel van de collectie teruggegeven aan de bruikleengevers, andere delen zijn elders ondergebracht of verkocht.
+Het Nijmeegs Volkenkundig Museum is een voormalig museum dat in 1979 werd opgericht als onderdeel van de Katholieke Universiteit Nijmegen (tegenwoordig de Radboud Universiteit). Het museum beheerde een ruime collectie, waarvan een groot bestond uit bruiklenen. Na de sluiting van het museum in 2005 is een deel van de collectie teruggegeven aan de bruikleengevers, andere delen zijn elders ondergebracht of verkocht.
 
 ### Geschiedenis van het museum
 
-Het Nijmeegs Volkenkundig Museum is een voormalig volkenkundig museum dat onderdeel was van de Radboud Universiteit in Nijmegen (voorheen de Katholieke Universiteit Nijmegen). Het museum werd in 1979 vanuit de vakgroep antropologie opgericht. Er werden tentoonstellingen gehouden voor het algemene publiek, maar de collectie werd ook gebruikt ter ondersteuning van het onderwijs. De collectie bestond uit zo'n 11.000 voorwerpen, waarvan een groot deel in bruikleen was. Zo beheerde het museum de collecties van verschillende congregaties en ook de zogenaamde 'Beijenscollectie' die voormalig KNIL-soldaat [Jean Bijens](https://nl.wikipedia.org/wiki/Jean_Beijens) in 1912 aan de gemeente Nijmegen had geschonken.
+Het Nijmeegs Volkenkundig Museum is een voormalig volkenkundig museum dat onderdeel was van de Radboud Universiteit in Nijmegen (voorheen de Katholieke Universiteit Nijmegen). Het museum werd in 1979 vanuit de vakgroep antropologie opgericht. Er werden tentoonstellingen gehouden voor het algemene publiek, maar de collectie werd ook gebruikt ter ondersteuning van het onderwijs. De collectie bestond uit zo'n 11.000 voorwerpen, waarvan een groot deel bestond uit bruiklenen. Zo beheerde het museum de collecties van verschillende congregaties en ook de zogenaamde 'Beijenscollectie' die voormalig KNIL-soldaat [Jean Bijens](https://nl.wikipedia.org/wiki/Jean_Beijens) in 1912 aan de gemeente Nijmegen had geschonken.
 
-In 2005 werd besloten tot sluiting van het Nijmeegs Volkenkundig Museum. Een groot deel van de collectie bleef nadien toegankelijk in het depot van de Radboud Universiteit. De Beijenscollectie werd in 2010 overgedragen aan [Museum Bronbeek](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f). De objectcollectie van de Paters Capucijnen zijn in 2011 in langdurig bruikleen gegeven aan de [Universiteit Gent](https://www.gum.gent/nl/deelcollectie-etnografie). In 2018 werd het depot gesloten en de [restanten verkocht](https://www.voxweb.nl/nieuws/te-koop-ethiopische-christenen-en-andere-museumrestjes).
+In 2005 werd besloten tot sluiting van het Nijmeegs Volkenkundig Museum. Een groot deel van de collectie bleef nadien toegankelijk in het depot van de Radboud Universiteit. De Beijenscollectie werd in 2010 overgedragen aan [Museum Bronbeek](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f). De objectcollectie van de Paters Capucijnen zijn in 2011 in langdurige bruikleen gegeven aan de [Universiteit Gent](https://www.gum.gent/nl/deelcollectie-etnografie). In 2018 werd het depot gesloten en de [restanten verkocht](https://www.voxweb.nl/nieuws/te-koop-ethiopische-christenen-en-andere-museumrestjes).
 
 ### Herkomstonderzoek
 
@@ -37,7 +37,7 @@ THIS RA HAS NO SOURCES
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-09-15
+_last edited by UNKNOWN as UNKNOWN on 2025-09-16
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         
