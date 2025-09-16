@@ -53,7 +53,7 @@ Sources:
     - Type of source: "Website"
       Name: "Collection guides"
       Link: 
-        URL: "https://collectionguides.universiteitleiden.nl/"
+        - URL: "https://collectionguides.universiteitleiden.nl/"
       Description and remarks: "Deze website biedt toegang tot de collectiegidsen van de archieven en collecties van de Universitaire Bibliotheken Leiden. Een collectiegids beschrijft op algemeen niveau de onderdelen binnen een collectie of archief en geeft informatie over de geschiedenis, verwerving van het materiaal. De collectiegidsen op deze website kunnen ook een inventaris bevatten en links naar gedigitaliseerde inhoud."
 
 Editing_metadata:
@@ -62,3 +62,4 @@ Editing_metadata:
     Author: Wiebe Reints
     Role: original_author
     Editing_notes: Creation of the Research Aid
+
