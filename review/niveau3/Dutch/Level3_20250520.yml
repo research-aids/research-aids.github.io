@@ -1,29 +1,24 @@
 Level: 3
 
-Title: "The title is the name of the research guide, that also should be showed on the website."
+Title: ""
 
-Abstract: "The abstract gives an informative description of  the research aid in 150-200 characters."
+Abstract: ""
 
-RelatedAides:
-  - "Title of the related research aid":
-        link: "The relevant GitHub path of the related research aid"
-        rel_type: "Relation between current aid and related aid."
+RelatedAides: []
 
 Relevant data:
-  Identifiers:
-    - "Here relevant linked data identifiers can be noted (e.g. Wikidata)."
-  Name variations:
-    - "If the topic of  the research aid is also (historically) known under other names, these can be noted under this paragraph."
+  Identifiers: []
+  Name variations: []
   Tags:
     Activity:
-      - "Here related activities can be noted down, combined with a URI."
+      - []
     Type of objects: 
-      - "Here related types of objects can be noted down, combined with a URI.."
+      - []
     Geographical:
-      - "Here related geographical places can be noted down, combined with a URI."
+      - []
   Period of activity: 
-    Year of start: ""
-    Year of end: ""
+    Year of start: []
+    Year of end: []
   Collections:
     General remarks:
       content: |
@@ -64,3 +59,4 @@ Editing_metadata:
 
 
     
+

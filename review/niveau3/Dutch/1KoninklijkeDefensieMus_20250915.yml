@@ -4,10 +4,7 @@ Title: "Stichting Koninklijke Defensiemusea"
 
 Abstract: "The abstract gives an informative description of  the research aid in 150-200 characters."
 
-RelatedAides:
-  - "Title of the related research aid":
-        link: "The relevant GitHub path of the related research aid"
-        rel_type: "Relation between current aid and related aid."
+RelatedAides: []
 
 Relevant data:
   Identifiers:
@@ -19,19 +16,12 @@ Relevant data:
   Tags:
     Activity:
       - "[Militair museum](http://vocab.getty.edu/page/aat/300312314)"
-    Type of objects: 
-      - "Here related types of objects can be noted down, combined with a URI.."
-    Geographical:
-      - "Here related geographical places can be noted down, combined with a URI."
+    Type of objects: []
+    Geographical: []
   Period of activity: 
-    Year of start: ""
-    Year of end: ""
-  Collections:
-    General remarks:
-      content: |
-        "Remarks regarding the relevant collections for this research aid can be provided here."
-      content-type: text/markdown
-    Within the Data Hub: "Here a link to the relevant objects within the Data Hub can be provided."
+    Year of start: []
+    Year of end: []
+  Collections: []
       
 Main-text:
   content: |
@@ -54,20 +44,12 @@ Main-text:
   content-type: text/markdown
 
 Sources:
-  Primary sources:
-    - Type of source: "Here you note what kind of source you provide (archive/map/etc.)"
-      Name: "Here you note the name of the source."
-      Link: "Here you note a (permanent) link to the source."
-      Description and remarks: "Here you note a short description of what kind of information the source provides."
-  Secondary sources:
-    - Type of source: "Here you note what kind of source you provide (article/bookp/etc.)"
-      Name: "Here you note the name of the source in bibliography style (Graaff, M.G.H.A. de, Gids voor onderzoek in het archief van het Ministerie van Koloniën in beheer bij het Nationaal Archief, 1814-1951. Den Haag, 2015.)."
-      Link: "Here you note a (permanent) link to the source. This could be a DOI, or otherwise an ISBN or OCLC code. "
-      Description and remarks: "Here you note a short description of what kind of information the source provides."
+  Primary sources: []
+  Secondary sources: []
 
 Editing_metadata:
-  - Date: #mandatory (yyymmdd)
+  - Date: 20250915
     Applies_to: #optional
-    Author: #mandatory
-    Role: #mandatory
-    Editing_notes: #optional
+    Author: Wiebe Reints
+    Role: original_author
+    Editing_notes: Creation of the Research Aid

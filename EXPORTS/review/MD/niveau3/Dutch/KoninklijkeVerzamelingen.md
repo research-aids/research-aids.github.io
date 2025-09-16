@@ -8,7 +8,7 @@ De Koninklijke Verzamelingen, de particuliere collectie van de Nederlandse konin
 
 ### Geschiedenis
 
-De Koninklijke Verzamelingen bestaan uit de optelsom van voorwerpen en archieven die leden van de geslachten Nassau en Oranje-Nassau en de mensen in hun directe omgeving in de loop van vele eeuwen hebben verzameld. Het betreft privé-eigendommen die in meerdere stichtingen zijn ondergebracht. De Verzamelingen vormen een onderdeel van het Koninklijk Huisarchief. Dit huisarchief bestaat sinds 1898 in haar huidige vorm en werd opgericht door Regentes Emma, die de familie-archieven, de bibliotheekcollectie en de andere verzamelingen van de familie Van Oranje-Nassau samenvoegde. Hiervoor liet Emma een nieuw gebouw realiseren in de buurt van Paleis Noordeinde in Den Haag.
+De Koninklijke Verzamelingen bestaan uit de optelsom van voorwerpen en archieven die leden van de geslachten Nassau en Oranje-Nassau en de mensen in hun directe omgeving in de loop van vele eeuwen hebben verzameld. Het betreft privé-eigendommen die in meerdere stichtingen zijn ondergebracht. De Verzamelingen vormen een onderdeel van het Koninklijk Huisarchief. Dit huisarchief bestaat sinds 1898 in haar huidige vorm en werd opgericht door regentes Emma, die de familie-archieven, de bibliotheekcollectie en de andere verzamelingen van de familie Van Oranje-Nassau samenvoegde. Hiervoor liet Emma een nieuw gebouw realiseren in de buurt van Paleis Noordeinde in Den Haag.
 
 Bij de bouw van het Koninklijk Huisarchief werd ook ruimte gemaakt voor een [familiemuseum](https://www.koninklijkeverzamelingen.nl/verhalen/het-koninklijk-huisarchief), hier is nog altijd een deel van de Koninklijke Verzamelingen te zien. De Koninklijke Verzamelingen zijn een tamelijk mobiele collectie: een groot deel van de voorwerpen is als langdurig bruikleen aan musea beschikbaar gesteld of onderdeel van de inrichting van de diverse paleizen van de koninklijke familie. Een goed voorbeeld hiervan is de [Indische Zaal](https://www.koninklijkeverzamelingen.nl/verhalen/de-indische-zaal) in paleis Noordeinde, waar verschillende objecten worden tentoongesteld afkomstig uit Indonesië. 
 
@@ -56,7 +56,7 @@ Boek:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-09-15
+_last edited by UNKNOWN as UNKNOWN on 2025-09-16
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

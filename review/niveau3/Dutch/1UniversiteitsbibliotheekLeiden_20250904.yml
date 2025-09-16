@@ -4,10 +4,7 @@ Title: "Universitaire Bibliotheken Leiden"
 
 Abstract: "De Universitaire Bibliotheken Leiden (UBL) herbergen een keur aan relevant materiaal voor het doen van onderzoek naar collecties uit een koloniale context. Naast boeken, tijdschriften en manuscripten beheert de UBL ook omvangrijke archiefcollecties en fotografisch materiaal."
 
-RelatedAides:
-  - "Title of the related research aid":
-        link: "The relevant GitHub path of the related research aid"
-        rel_type: "Relation between current aid and related aid."
+RelatedAides: []
 
 Relevant data:
   Identifiers:
@@ -56,7 +53,7 @@ Sources:
     - Type of source: "Website"
       Name: "Collection guides"
       Link: 
-        URL: "https://collectionguides.universiteitleiden.nl/"
+        - URL: "https://collectionguides.universiteitleiden.nl/"
       Description and remarks: "Deze website biedt toegang tot de collectiegidsen van de archieven en collecties van de Universitaire Bibliotheken Leiden. Een collectiegids beschrijft op algemeen niveau de onderdelen binnen een collectie of archief en geeft informatie over de geschiedenis, verwerving van het materiaal. De collectiegidsen op deze website kunnen ook een inventaris bevatten en links naar gedigitaliseerde inhoud."
 
 Editing_metadata:
@@ -65,3 +62,4 @@ Editing_metadata:
     Author: Wiebe Reints
     Role: original_author
     Editing_notes: Creation of the Research Aid
+
