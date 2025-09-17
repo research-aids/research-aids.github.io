@@ -34,7 +34,11 @@ Het Nationaal Militair Museum (NMM) is een samenvoeging van het Legermuseum in D
 
 ### Herkomstonderzoek
 
-This section is meant for specific information regarding (provenance) research into the topic of the research aid, such as tips for researching relevant archives or other relevant provenance information. You can use Markdown for the formatting of the text.
+De collecties van het Mariniersmuseum en het Marinemuseum zijn beiden doorzoekbaar via de [Maritiem Digitaal website](https://www.maritiemdigitaal.nl/index.cfm?event=page.home), waar ook de maritieme collecties van andere musea te vinden zijn. Door de grote hoeveelheid objecten kan het wat lastig zijn te vinden waar je naar op zoek bent, maar via de optie 'uitgebreid zoeken' kan je een specifieke museumcollectie selecteren. De [bibliotheekcollectie] van het Mariniersmuseum is raadpleegbaar voor het publiek, hiervoor dien je contact op te nemen met het Museum.
+
+Voor het Nationaal Militair Museum geldt dat de museumcollectie doorzoekbaar is via een [eigen collectiewebsite](https://collectie.nmm.nl/nl/collectie/?_ga=2.218030102.1046968903.1660553611-298675809.1660564803&_gac=1.83753444.1660642684.Cj0KCQjwgO2XBhCaARIsANrW2X0x1xCORvngvPpYGnoOtTAD60qrsYpipWn3sQ5KxajXrJPVRUtbvb4aAvJPEALw_wcB). Hierin is ook de bibliotheekcollectie te vinden. 
+
+Archiefmateriaal met betrekking tot de drie musea die onder de Stichting Koninklijke Defensiemusea vallen geldt dat deze in verschillende inventarissen van het Ministerie van Defensie (en haar voorgangers) te vinden is. Let bij het zoeken naar archiefmateriaal op de verschillende voorgaande ministeries die nu onderdeel zijn van het Ministerie van Defensie. Zo was er vroeger ook een Ministerie van Marine en heette het Ministerie van Defensie nog het 'Ministerie van Oorlog'. Ook kende de huidige musea verschillende namen, zo zijn bijvoorbeeld het voormalige Legermuseum in Delft en het Marechaussee-museum opgegaan in het huidige Nationaal Militair Museum.
 
 
 ## Related Aids
