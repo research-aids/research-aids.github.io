@@ -2,7 +2,7 @@ Level: 3
 
 Title: "Koninklijk Zeeuwsch Genootschap der Wetenschappen"
 
-Abstract: ""
+Abstract: "Het in 1796 opgerichte Koninklijk Zeeuwsch Genootschap der Wetenschappen heeft als doel een podium te bieden aan onderzoek over de provincie Zeeland als aan onderzoekers afkomstig uit Zeeland. Met name in eerdere jaren schonken wetenschappers en andere uit Zeeland afkomstige hooggeplaatste personen grote collecties aan het genootschap."
 
 RelatedAides: []
 
@@ -57,22 +57,36 @@ Main-text:
     
     De volledige collectie van het Zeeuws Genootschap der Wetenschappen is online beschikbaar via de [collectiewebsite](https://kzgwonline.nl/) van het genootschap. De collectiewebsite biedt ruime informatie over de verzamelingen van het Zeeuws Genootschap en zorgt ervoor dat gebruikers de collectie op verschillende manieren kunnen benaderen. Zo is er een [wereldkaart](https://kzgwonline.nl/map) waarop je op een overzichtelijke manier kan zien uit welke gebieden verschillende objecten en collectieonderdelen afkomstig zijn. Daarnaast is de collectie in verschillende [deelcollecties](https://kzgwonline.nl/collecties) opgeknipt. Zo is er een deelcollectie [volkenkundige objecten](https://kzgwonline.nl/collecties/volkenkundige-voorwerpen) en is bijvoorbeeld de collectie van [C.J.M. Nagtglas](https://kzgwonline.nl/collecties/collectie-c-j-m-nagtglas) (die veel objecten verzamelde aan de voormalige Goudkust) apart geïndexeerd. Per deelcollectie wordt uitgebreide informatie gegeven over de herkomst van de collectie en op welke manier deze in de verzameling van het Zeeuws Genootschap terecht is gekomen. Daarnaast zijn er ook verschillende [dossiers](https://kzgwonline.nl/dossiers) en [filmpjes](https://kzgwonline.nl/filmpjes) waarin meer informatie over de collectie te vinden is.
 
-    Het archief van het Zeeuws Genootschap der Wetenschap wordt beheerd door het regionale [Zeeuws Archief](https://www.zeeuwsarchief.nl/). 
+    Het archief van het Zeeuws Genootschap der Wetenschap wordt beheerd door het regionale [Zeeuws Archief](https://www.zeeuwsarchief.nl/). Het [volledige archief tot en met 1969](https://hdl.handle.net/21.12113/78C26E38A21C45F4BEDCC0BD68ACA296) is digitaal beschikbaar en om die reden niet meer fysiek in te zien, het nieuwere archief wordt door het Genootschap zelf beheerd. Het archief is in verschillende toegangen opgedeeld, waarbij met name het [correspondentiearchief](https://hdl.handle.net/21.12113/2906F556C70C4565A354A44BBB27EDE5) onder 1 en het [archief over de verzamelingen van het genootschap](https://hdl.handle.net/21.12113/C90772187D2949839D7722B8FFD4BE45) interessant materiaal voor herkomstonderzoek bevatten. 
 
-    
+    De [collectiewebsite](https://kzgwonline.nl/) biedt veel doorverwijzingen naar relevant archiefmateriaal en gerelateerde objecten. Bij verschillende objecten vind je doorverwijzingen naar documenten in het archief die betrekking hebben op het desbetreffende object en ook wordt verwezen naar objecten die bijvoorbeeld door dezelfde persoon zijn geschonken. Het verschilt per object of er relevante informatie beschikbaar is.
+
+    Naast het archief en de collectiewebsite, geeft het Zeeuws Genootschap der Wetenschappen sinds zijn oprichting een jaarboek uit, deze zijn tot op de meest recente versie terug te lezen op de website van de [Tijdschriftenbank Zeeland](https://tijdschriftenbankzeeland.nl/periodicals/arc). Aanvankelijk stonden in dit jaarboek vooral de inzendingen op prijsvragen die door het genootschap werden uitgeschreven. Elk jaarboek bevat verschillende artikelen op wetenschappelijk gebied over zaken met betrekking tot de provincie Zeeland en daarnaast de jaarverslagen van alle commissies en werkgroepen van het genootschap.
   content-type: text/markdown
 
 Sources:
   Primary sources:
-    - Type of source: "Here you note what kind of source you provide (archive/map/etc.)"
-      Name: "Here you note the name of the source."
-      Link: "Here you note a (permanent) link to the source."
-      Description and remarks: "Here you note a short description of what kind of information the source provides."
+    - Type of source: "Archief"
+      Name: "26 - Koninklijk Zeeuwsch Genootschap der Wetenschappen (KZGW), 1769-1969 (c. 1985)"
+      Link: 
+        - URL: "https://hdl.handle.net/21.12113/78C26E38A21C45F4BEDCC0BD68ACA296"
+      Description and remarks: "Archief van het Koninklijk Zeeuws Genootschap der Wetenschappen. Het archief is ingedeeld in verschillende toegangen die betrekking hebben op verschillende onderwerpen."
   Secondary sources:
-    - Type of source: "Here you note what kind of source you provide (article/bookp/etc.)"
-      Name: "Here you note the name of the source in bibliography style (Graaff, M.G.H.A. de, Gids voor onderzoek in het archief van het Ministerie van Koloniën in beheer bij het Nationaal Archief, 1814-1951. Den Haag, 2015.)."
-      Link: "Here you note a (permanent) link to the source. This could be a DOI, or otherwise an ISBN or OCLC code. "
-      Description and remarks: "Here you note a short description of what kind of information the source provides."
+    - Type of source: "Collectiewebsite"
+      Name: "KZGW Online"
+      Link: 
+        - URL: "https://kzgwonline.nl/"
+      Description and remarks: "Collectiewebsite van het Koninklijk Zeeuwsch Genootschap der Wetenschappen. Hier vind je alle objecten en manuscripten in het beheer van het genootschap. Via de website is de collectie op verschillende manieren te benaderen, zoals bijvoorbeeld op geografische afkomst. Objectpagina's verwijzen soms door naar andere relevante objecten of (archief)materiaal."
+    - Type of source: "Jaarboek"
+      Name: "Archief. Mededelingen van het Koninklijk Zeeuwsch Genootschap der Wetenschappen (1769-2021)"
+      Link: 
+        - URL: "https://kzgw.nl/publicaties/archief-en-werken/"
+      Description and remarks: "Jaarboek van het Koninklijk Zeeuws Genootschap der Wetenschappen. Aanvankelijk werden hierin de inzendingen op de door het genootschap uitgeschreven prijsvragen gepubliceerd. Tegenwoordig bevat het verschillende wetenschappelijke artikelen en de jaarverslagen van de verschillende commissies en werkgroepen van het genootschap."
+    - Type of source: "Tijdschrift"
+      Name: "Tijdschrift Zeeland"
+      Link: 
+        - URL: "https://kzgw.nl/publicaties/tijdschrift-zeeland/"
+      Description and remarks: Populair wetenschappelijk tijdschrift dat sinds 1991 door het Koninklijk Zeeuwsch Genootschap der Wetenschappen wordt uitgegeven. Het tijdschrift behandelt per editie verschillende historische onderwerpen, artikelen kunnen relevante informatie bevatten voor herkomstonderzoek.
 
 Editing_metadata:
   - Date: 20250925
