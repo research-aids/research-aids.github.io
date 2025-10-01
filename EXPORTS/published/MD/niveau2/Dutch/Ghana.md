@@ -27,7 +27,7 @@ Gouverneur Nagtglas heeft ook een verzameling voorwerpen nagelaten aan het [Koni
 
 ### Natuurhistorische verzamelingen
 
-Koloniale ambtenaren aan de Goudkust verzamelden ook voor het in 1820 opgerichte Rijksmuseum van Natuurlijke Historie. In 1822 had oprichter en directeur Coenraad Jacob Temminck bij de minister van Koloniën weten te bereiken dat een preparateur uit zijn museum, Andreas Joseph Baierlein, werd aangesteld als officier van gezondheid aan de Goudkust, met als bijkomende taak om naturalia te prepareren en op te zenden naar Nederland. Baierlein overleed echter vrijwel onmiddellijk na aankomst. In 1840 waagde Temminck met de uitzending van preparateur Hendrik Severinus Pel een nieuwe poging. Pel zou tussen 1840 en 1855 tien zendingen naar het museum sturen.
+Koloniale ambtenaren aan de Goudkust verzamelden ook voor het in 1820 opgerichte [Rijksmuseum van Natuurlijke Historie](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb). In 1822 had oprichter en directeur Coenraad Jacob Temminck bij de minister van Koloniën weten te bereiken dat een preparateur uit zijn museum, Andreas Joseph Baierlein, werd aangesteld als officier van gezondheid aan de Goudkust, met als bijkomende taak om naturalia te prepareren en op te zenden naar Nederland. Baierlein overleed echter vrijwel onmiddellijk na aankomst. In 1840 waagde Temminck met de uitzending van preparateur Hendrik Severinus Pel een nieuwe poging. Pel zou tussen 1840 en 1855 tien zendingen naar het museum sturen.
 
 Het museum ontving in 1857 een zending van gouverneur Van den Bossche en tussen 1859 en 1862 vier zendingen van gouverneur Nagtglas.
 
@@ -45,6 +45,7 @@ Voor onderzoek naar de zendingen aan het Koninklijk Kabinet van Zeldzaamheden ku
  - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
  - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
 
 ## Primary sources
 
