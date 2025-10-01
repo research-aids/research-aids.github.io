@@ -44,6 +44,7 @@ Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doe
 ### Locaties
              - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
  - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)  
+ - [Ghana](niveau2/Dutch/SabaStEustatiusStMaarten_20250901.yml)  
 
         
 

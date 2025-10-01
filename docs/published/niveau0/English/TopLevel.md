@@ -44,6 +44,7 @@ On this page you can find various research aids that can assist you in doing (pr
 ### Locations
              - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao_20250619.yml)  
  - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten_202501619.yml)  
+ - [Ghana](niveau2/English/Ghana_20250901.yml)  
 
         
 
