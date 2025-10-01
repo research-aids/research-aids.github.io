@@ -6,19 +6,22 @@ Abstract: "Dutch museum collections contain ethnographic objects, art objects an
 
 RelatedAides: 
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/English/WMLeiden_20240327.yml"
         rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
-        link: "niveau3/Dutch/KKZ_20240313.yml"
+        link: "niveau3/English/KKZ_20240313.yml"
         rel_type: "see also"
   - "Etnografisch Museum Artis":
-        link: "niveau3/Dutch/EMArtis_20240711.yml"
+        link: "niveau3/English/EMArtis_20240711.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        link: "niveau3/English/WMAmsterdam_20240711.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        link: "niveau3/English/WMRotterdam_20240822.yml"
+        rel_type: "see also"
+  - "Naturalis Biodiversity Center":
+        link: "niveau3/English/Naturalis_20240710.yml"
         rel_type: "see also"
 
 Relevant data:
@@ -44,13 +47,13 @@ Main-text:
     In the seventeenth century, gold and ivory were the main commodities traded on the Gold Coast, but from the eighteenth century onwards, the trade in African slaves became increasingly dominant. Of the more than 550,000 slaves transported across the Atlantic by Dutch slave traders, approximately 126,000 came from the Gold Coast. In 1792, Denmark passed a law prohibiting the slave trade from 1803 onwards. The United Kingdom followed suit in 1807 and the Netherlands finally did so in 1814. From 1808 onwards, the West Africa Squadron of the British Royal Navy enforced this ban off the West African coast.
     
     ### Collections originating from the Gold Coast
-    
+
     ![Image of the adinkra cloth sent by Governor Last to the Royal Cabinet of Curiosities in 1825](https://upload.wikimedia.org/wikipedia/commons/e/e5/Andinkra_cloth_-_Wereldmuseum_RV-360-1700.jpg)
     _This adinkra cloth, sent to the Netherlands in 1825, is considered the second oldest known adinkra cloth in the world_ ([Wereldmuseum](https://commons.wikimedia.org/wiki/File:Andinkra_cloth_-_Wereldmuseum_RV-360-1700.jpg))
     
-    In addition to trade goods, art objects, ethnographic artefacts and natural history objects were also shipped to Europe from the very beginning. The collection of ethnographic objects from Africa originated in the art and curiosity cabinets of the late sixteenth century. The collection of ethnographic objects that the Enkhuizen physician [Bernardus Paludanus](https://www.wikidata.org/entity/Q2387586) exhibited in his home from 1580 onwards is a well-known example of this. Paludanus' collection was sold after his death and eventually ended up in Denmark, where [parts]((https://samlinger.natmus.dk/objectbrowse?keyword=paludanus)) of it are still housed in the National Museum in Copenhagen. Of another early collection of West African artefacts, namely that of the Leiden Anatomical Theatre, only the current location of the foot of a salt vessel, probably originating from present-day Sierra Leone, is known. This object, with [inventory number RV-1131-1](https://app.colonialcollections.nl/nl/objects/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F527fe18e3809f24df97b088f3ef6f523), is now in the collection of the Wereldmuseum Leiden.
+    In addition to trade goods, art objects, ethnographic artefacts and natural history objects were also shipped to Europe from the very beginning. The collection of ethnographic objects from Africa originated in the art and curiosity cabinets of the late sixteenth century. The collection of ethnographic objects that the Enkhuizen physician [Bernardus Paludanus](https://www.wikidata.org/entity/Q2387586) exhibited in his home from 1580 onwards is a well-known example of this. Paludanus' collection was sold after his death and eventually ended up in Denmark, where [parts]((https://samlinger.natmus.dk/objectbrowse?keyword=paludanus)) of it are still housed in the National Museum in Copenhagen. Of another early collection of West African artefacts, namely that of the Leiden Anatomical Theatre, only the current location of the foot of a salt vessel, probably originating from present-day Sierra Leone, is known. This object, with [inventory number RV-1131-1](https://app.colonialcollections.nl/en/objects/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F527fe18e3809f24df97b088f3ef6f523), is now in the collection of the Wereldmuseum Leiden.
     
-    From the nineteenth century onwards, colonial officials on the Gold Coast were encouraged to collect items for Dutch national museums. Shortly before Herman Willem Daendels left for the Gold Coast as governor in 1815, the director of the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) asked him to collect objects for his museum. When the ship that had transported Daendels returned to the Netherlands, it was indeed found to contain a collection of “rarities”, consisting of both live animals and natural history and ethnographic objects. A [ceremonial walking stick made of buffalo horn](https://id.rijksmuseum.nl/20058191) that had been donated by Daendels' predecessor ended up in the collection of the Rijksmuseum Amsterdam after the Cabinet was dissolved.
+    From the nineteenth century onwards, colonial officials on the Gold Coast were encouraged to collect items for Dutch national museums. Shortly before Herman Willem Daendels left for the Gold Coast as governor in 1815, the director of the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) asked him to collect objects for his museum. When the ship that had transported Daendels returned to the Netherlands, it was indeed found to contain a collection of “rarities”, consisting of both live animals and natural history and ethnographic objects. A [ceremonial walking stick made of buffalo horn](https://id.rijksmuseum.nl/20058191) that had been donated by Daendels' predecessor ended up in the collection of the Rijksmuseum Amsterdam after the Cabinet was dissolved.
     
     Governors Last and Nagtglas sent collections of objects to the Cabinet of Curiosities in 1825 and 1860 respectively. The gifts from Asantehene (King of Asante) Kwaku Dua I Panyin to King William I, including a golden pipe, were also presented by the latter to the Cabinet of Curiosities in 1837. Former health officer J.S.G. Gramberg, who had established a cotton plantation on the Gold Coast and published the book Schetsen van Afrika's Westkust (Sketches of Africa's West Coast) in the Netherlands, donated a collection of objects from West Africa to the cabinet in 1860. Finally, in 1874, the Ministry of Colonies donated a number of objects that, when the possessions were transferred to the United Kingdom, were considered “less suitable for passing into foreign hands”. These included the [ivory command staff](https://id.rijksmuseum.nl/200312824) of the director-general of the WIC in Elmina.
     
@@ -58,7 +61,7 @@ Main-text:
     
     ### Natural history collections
     
-    Colonial officials on the Gold Coast also collected items for the National Museum of Natural History, which was founded in 1820. In 1822, founder and director Coenraad Jacob Temminck persuaded the Minister of Colonies to appoint a taxidermist from his museum, Andreas Joseph Baierlein, as health officer on the Gold Coast, with the additional task of preparing natural history specimens and sending them to the Netherlands. However, Baierlein died almost immediately after his arrival. In 1840, Temminck made a new attempt by sending taxidermist Hendrik Severinus Pel. Pel would send ten shipments to the museum between 1840 and 1855.
+    Colonial officials on the Gold Coast also collected items for the [National Museum of Natural History](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb), which was founded in 1820. In 1822, founder and director Coenraad Jacob Temminck persuaded the Minister of Colonies to appoint a taxidermist from his museum, Andreas Joseph Baierlein, as health officer on the Gold Coast, with the additional task of preparing natural history specimens and sending them to the Netherlands. However, Baierlein died almost immediately after his arrival. In 1840, Temminck made a new attempt by sending taxidermist Hendrik Severinus Pel. Pel would send ten shipments to the museum between 1840 and 1855.
     
     In 1857, the museum received a shipment from Governor Van den Bossche and between 1859 and 1862 four shipments from Governor Nagtglas.
     
@@ -66,7 +69,7 @@ Main-text:
     
     Commissioned by the National Archives, the archive guide _[Sources for the Mutual history of Ghana and the Netherlands](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.97/invnr/9ED/file)_ by Michel Doortmont and Jinna Smit was published in 2007. This guide provides an exhaustive overview of the archives relating to the Dutch colonial presence on the Gold Coast. Of great value is the extensive [archive of the Dutch Possessions on the Coast of Guinea, 1658-1872](https://www.nationaalarchief.nl/onderzoeken/archief/1.05.14), which has been fully digitised.
 
-    For research into the collections of the Royal Cabinet of Curiosities, the recommendations in the museum's search guide (https://app.colonialcollections.nl/nl/research-aids/ https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1#herkomstonderzoek) should be followed. The [Naturalis archive website](https://explore.archives.naturalis.nl/) contains documents relating to the collection of naturalia on the Gold Coast, including correspondence between the museum's management and collectors Baierlein, Pel, Van den Bossche, Nagtglas, Hens and Elias.
+    For research into the collections of the Royal Cabinet of Curiosities, the recommendations in the museum's search guide (https://app.colonialcollections.nl/en/research-aids/ https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1#herkomstonderzoek) should be followed. The [Naturalis archive website](https://explore.archives.naturalis.nl/) contains documents relating to the collection of naturalia on the Gold Coast, including correspondence between the museum's management and collectors Baierlein, Pel, Van den Bossche, Nagtglas, Hens and Elias.
   content-type: text/markdown
 
 Sources:
