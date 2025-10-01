@@ -399,6 +399,14 @@
                     "linkFilename": "niveau2/English/SabaStEustatiusStMaarten_English",
                     "sort_order": 2
                 }
+            },
+            {
+                "Ghana": {
+                    "link": "niveau2/English/Ghana_20250901.yml",
+                    "rel_type": "see also",
+                    "linkFilename": "niveau2/English/Ghana_English",
+                    "sort_order": 3
+                }
             }
         ]
     },

@@ -407,6 +407,14 @@
                     "linkFilename": "niveau2/Dutch/SabaStEustatiusStMaarten_Dutch",
                     "sort_order": 2
                 }
+            },
+            {
+                "Ghana": {
+                    "link": "niveau2/Dutch/SabaStEustatiusStMaarten_20250901.yml",
+                    "rel_type": "see also",
+                    "linkFilename": "niveau2/Dutch/SabaStEustatiusStMaarten_Dutch",
+                    "sort_order": 3
+                }
             }
         ]
     },
