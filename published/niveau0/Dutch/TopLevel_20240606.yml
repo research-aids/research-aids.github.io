@@ -169,6 +169,9 @@ Breakdown:
     - "Saba, Sint Eustatius en Sint Maarten":
         link: "niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml"
         rel_type: "see also"        
+    - "Ghana":
+        link: "niveau2/Dutch/SabaStEustatiusStMaarten_20250901.yml"
+        rel_type: "see also"  
 
 editing_metadata:
   - date: 2024-06-06
