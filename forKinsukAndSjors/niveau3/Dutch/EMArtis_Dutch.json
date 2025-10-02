@@ -237,11 +237,18 @@
     },
     "editing_metadata": [
         {
-            "date": "2024-07-11",
+            "date": 20240711,
             "applies_to": null,
             "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+        },
+        {
+            "date": 20250619,
+            "applies_to": null,
+            "author": "Tom Quist",
+            "role": "editor",
+            "editing_notes": "RA has been checked by Tom Quist (Provenance Researcher at Wereldmuseum), no comments."
         }
     ],
     "File name": "EMArtis"

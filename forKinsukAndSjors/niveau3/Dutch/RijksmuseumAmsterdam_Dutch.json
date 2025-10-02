@@ -156,11 +156,18 @@
     },
     "editing_metadata": [
         {
-            "date": "2024-10-06",
+            "date": 20241006,
             "applies_to": null,
             "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+        },
+        {
+            "date": 20250605,
+            "applies_to": null,
+            "author": "Karel Weener",
+            "role": "editor",
+            "editing_notes": "RA has been checked by Karel Weener (Provenance Researcher at Rijksmuseum), no comments."
         }
     ],
     "File name": "RijksmuseumAmsterdam"

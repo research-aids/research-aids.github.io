@@ -154,11 +154,18 @@
     },
     "editing_metadata": [
         {
-            "date": "2025-01-30",
+            "date": 20250130,
             "applies_to": null,
             "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
+        },
+        {
+            "date": 20250226,
+            "applies_to": null,
+            "author": "Milou Francken",
+            "role": "editor",
+            "editing_notes": "RA was checked by Milou Francken (Junior Curator at Museum Princessehof), comments were processed."
         }
     ],
     "File name": "MNusantara"
