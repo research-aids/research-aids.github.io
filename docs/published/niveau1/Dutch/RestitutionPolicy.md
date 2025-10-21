@@ -5,7 +5,7 @@ parent: niveau1
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-10-02
+date: 2025-10-21
 --- 
 
 
@@ -94,5 +94,7 @@ Het uiteindelijke advies van de Commissie Koloniale Collecties wordt na beraadsl
 
 
 
-_last edited by wiebe reints as original_author on 2025-01-23_
+_first edited by wiebe reints as original_author on 2025-01-23_  
+_last edited by wiebe reints as original_author on 2025-10-03
+(applies to section: Main-text)_
         

@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-10-02
+date: 2025-10-21
 --- 
 
 
@@ -17,11 +17,11 @@ date: 2025-10-02
 
 ## Abstract
 
-Het Volkenkundig Museum 'Gerardus van der Leeuw' was tot 2003 een etnografisch museum in Groningen, dat een onderdeel vormde van de universiteit aldaar. De museumcollectie bestond uit verschillende deelcollecties, waaronder uit objecten van de voormalige Tropische Landbouwschool in Deventer en Museum Princessehof in Leeuwarden. Na de sluiting van het museum in 2003 werd de collectie onderdeel van het universiteitsmuseum van de Rijksuniversiteit Groningen (RUG).
+Het Volkenkundig Museum 'Gerardus van der Leeuw' was tot 2003 een etnografisch museum in Groningen, dat een onderdeel vormde van de universiteit aldaar. De museumcollectie bestond uit verschillende deelcollecties, waaronder de persoonlijke collectie van godsdiensthistoricus Theo van Baaren en  daarbuiten uit objecten van de voormalige Tropische Landbouwschool in Deventer en Museum Princessehof in Leeuwarden. Na de sluiting van het museum in 2003 werd de collectie onderdeel van het universiteitsmuseum van de Rijksuniversiteit Groningen (RUG).
 
 ### Geschiedenis van het museum
 
-Het voormalig Volkenkundig Museum 'Gerardus van der Leeuw' ontstond uit de persoonlijke etnografische collectie van de godsdiensthistoricus [Theo van Baaren](https://www.wikidata.org/entity/Q1923049) die als hoogleraar aan de Rijksuniversiteit Groningen was verbonden. Van Baaren bezocht nooit zelf de landen waarvan hij voorwerpen verzamelde, maar kocht zijn collectie bij elkaar via kunsthandelaren. In 1968 schonk Van Baaren zijn collectie aan de Groningse universiteit, waarna de stichting Gerardus van der Leeuw werd opgericht, genoemd naar de hoogleraar die Van Baaren had opgevolgd. Via deze vereniging werd Van Baarens collectie ruimschoots uitgebreid. Onder andere museum Het Princessehof in Leeuwarden schonk haar etnografische collectie aan het museum in Groningen, omdat het Friese museum zich enkel ging richten op het verzamelen van keramiek. De gemeente Deventer schonk de collectie van de voormalige Tropische Landbouwschool. Daarnaast gaf de zakenman [Fred ten Houten](http://www.wikidata.org/entity/Q2321417) zijn collectie etnografica in langdurige bruikleen. Samen met de door de Vereniging Gerardus van der Leeuw aangekochte objecten, vormden bovenstaande collecties de kern van het Volkenkundig Museum 'Gerardus van der Leeuw' dat in 1978 haar deuren opende aan de Nieuwe Kijk in 't Jatstraat in Groningen-stad. Gedurende het bestaan van het museum werd de collectie door aankopen en schenkingen aangevuld. Na verschillende mislukte poging het etnografisch museum te laten fuseren met een ander museum in Groningen sloot Volkenkundig Museum 'Gerardus van der Leeuw' in 2003. De museumcollectie werd opgenomen door het Groninger universiteitsmuseum, waar de verzameling nog altijd deel vanuit maakt.
+Onder de voorwaarde dat een museum werd opgericht om zijn collectie tentoon te stellen, schonk godsdiensthistoricus [Theo van Baaren](https://www.wikidata.org/entity/Q1923049) die als hoogleraar aan de Rijksuniversiteit Groningen was verbonden zijn persoonlijke verzameling etnografica in 1968 aan de universiteit. Van Baaren doopte het nieuwe museum en de aanhangende vereniging naar zijn voorganger, Gerardus van der Leeuw. Van Baaren bezocht nooit zelf de landen waarvan hij voorwerpen verzamelde, maar kocht zijn collectie bij elkaar via zijn grote Europese netwerk van kunsthandelaren en congregaties. Na de oprichting van het museum werd Van Baarens collectie ruimschoots uitgebreid. Onder andere museum Het Princessehof in Leeuwarden schonk haar etnografische collectie aan het museum in Groningen, omdat het Friese museum zich enkel ging richten op het verzamelen van keramiek. De gemeente Deventer schonk de collectie van de voormalige Tropische Landbouwschool. Daarnaast gaf de zakenman [Fred ten Houten](http://www.wikidata.org/entity/Q2321417) zijn collectie etnografica in langdurige bruikleen. Samen met de door de Vereniging Gerardus van der Leeuw aangekochte objecten, vormden bovenstaande collecties de kern van het Volkenkundig Museum 'Gerardus van der Leeuw' dat in 1978 haar deuren opende aan de Nieuwe Kijk in 't Jatstraat in Groningen-stad. Gedurende het bestaan van het museum werd de collectie door aankopen en schenkingen aangevuld. Na verschillende mislukte pogingen het etnografisch museum te laten fuseren met een ander museum in Groningen sloot Volkenkundig Museum 'Gerardus van der Leeuw' in 2003. De museumcollectie werd opgenomen door het Groninger Universiteitsmuseum, waar de verzameling nog altijd deel vanuit maakt.
 
 ### Herkomstonderzoek
 
@@ -30,6 +30,8 @@ Er zijn verschillende catalogi van de collectie van Volkenkundig Museum 'Gerardu
 De collectie van het voormalige Tropische Landbouwmuseum in Deventer (de TD-collectie) heeft zijn eigen catalogus: _[De collectie Deventer](https://www.rug.nl/society-business/university-museum/collections/ethnological/pdf/tdcatalogus.pdf)_. Naast een collectieoverzicht biedt deze catalogus ook veel achtergrond informatie over het Deventerse museum. De oorspronkelijke collectie van Van Baaren (de VB-collectie) staat beschreven in het boek _The Collection Van Baaren_, welke helaas niet online beschikbaar is. De etnografische collectie van het Princessehof in Leeuwarden wordt gekenmerkt als de PL-collectie.
 
 Het archief van het Volkenkundig Museum 'Gerardus van der Leeuw' (tot 1995) is ondergebracht bij de [Groninger Archieven](https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E). In dit archief bevinden zich naast stukken over de organisatie van het museum en de plek van het museum in de faculteit Godsdienstgeleerdheid ook beschrijvingen van de collectie. Buiten de hieronder beschreven bronnen zijn er ook nog verschillende catalogi van tentoonstellingen van het museum beschikbaar. Deze zijn vindbaar binnen de [bibliotheek van de RUG](https://rug.on.worldcat.org/discovery) door te zoeken naar 'Gerardus van der Leeuw'.
+
+Ook het persoonlijk archief van Theo van Baaren bevat (beperkte) informatie over zijn verzameling. Zo is er correspondentie met verschillende handelaren, musea, congregaties, missionarissen en zendelingen die direct en indirect refereren aan aankopen voor zijn verzameling. Dit archief bevindt zich ook in de [Universiteitsbibliotheek van de Rijksuniversiteit Groningen](https://www.rug.nl/library/collections/special-collections/collections/archives-inventories/baaren/cb-van-baaren).
 
 
 ## Related Aids
@@ -45,6 +47,12 @@ Archief:
   > _Archief van het Volkenkundig Museum 'Gerardus van der Leeuw' tot 1995. Bevat onder andere beschrijvingen van de collectie._  
 
   > [https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E](https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E)
+
+Archief:
+  > *Archief Theo van Baaren. Collectiebeschrijving archief Theodoor Petrus van Baaren (1912-1989)*
+  > _Persoonlijk archief van Theo van Baaren wat (beperkte) informatie bevat over zijn verzameling._  
+
+  > [https://www.rug.nl/library/collections/special-collections/collections/archives-inventories/baaren/cb-van-baaren](https://www.rug.nl/library/collections/special-collections/collections/archives-inventories/baaren/cb-van-baaren)
 
 ## Secondary sources
 
@@ -85,6 +93,5 @@ Artikel:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-05-13_  
-_last edited by Wiebe Reints as original_author on 2025-06-16
-(applies to section: Main text)_
+_last edited by Rosalie Hans as reviewer on 2025-10-21_
         
