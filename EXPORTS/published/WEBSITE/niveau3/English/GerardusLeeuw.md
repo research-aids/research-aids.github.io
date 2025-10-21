@@ -17,11 +17,11 @@ date: 2025-10-21
 
 ## Abstract
 
-Until 2003, Volkenkundig Museum Gerardus van der Leeuw was an ethnographic museum in Groningen that was part of the city’s university. The museum collection consisted of various subcollections, including objects from the former Tropical Agricultural School in Deventer and the Princessehof Museum in Leeuwarden. After the museum closed in 2003, the collection became part of the University Museum of the University of Groningen.
+Until 2003, Volkenkundig Museum Gerardus van der Leeuw was an ethnographic museum in Groningen that was part of the city’s university. The museum collection consisted of various subcollections, including the personal collection of Theo van Baaren and objects from the former Tropical Agricultural School in Deventer and the Princessehof Museum in Leeuwarden. After the museum closed in 2003, the collection became part of the University Museum of the University of Groningen.
 
 ### History of the museum
 
-The former Gerardus van der Leeuw Ethnographic Museum originated from the personal ethnographic collection of Theo van Baaren, a religious historian who was a professor at the University of Groningen. Van Baaren never visited the countries from which he collected objects but acquired his collection through various art dealers. In 1968 Van Baaren donated his collection to the University of Groningen, after which a foundation was established, named after Van Baaren’s successor, Gerardus van der Leeuw. Through this foundation, Van Baaren's collection was greatly expanded. For example, the Princessehof Museum in Leeuwarden donated its ethnographic collection to Groningen after deciding  to focus solely on collecting ceramics. The municipality of Deventer donated the collection of the former Tropical Agricultural School and businessman [Fred ten Houten](http://www.wikidata.org/entity/Q2321417) gave his ethnographic collection on long-term loan. Together with the objects purchased by the Gerardus van der Leeuw Foundation, the above collections formed the core of the Gerardus van der Leeuw Ethnographic Museum, which opened its doors in 1978 on the Nieuwe Kijk in 't Jatstraat in the city of Groningen. During the museum's existence the collection was supplemented by purchases and donations. After several unsuccessful attempts to merge the ethnographic museum with other museums in Groningen, the Gerardus van der Leeuw Ethnographic Museum closed in 2003. Afterwards, the museum’s collection was incorporated into the University Museum Groningen, where it remains until today.
+ On the condition that a museum would be established to display his collection, religious historian [Theo van Baaren](https://www.wikidata.org/entity/Q1923049), who was a professor at the University of Groningen, donated his personal ethnographic collection to the university in 1968. Van Baaren named the new museum and its association after his predecessor, Gerardus van der Leeuw. Van Baaren never visited the countries from which he collected objects, but acquired his collection through his extensive European network of art dealers and congregations. After the museum was established, Van Baaren's collection was expanded considerably. For example, the Princessehof Museum in Leeuwarden donated its ethnographic collection to Groningen after deciding  to focus solely on collecting ceramics. The municipality of Deventer donated the collection of the former Tropical Agricultural School and businessman [Fred ten Houten](http://www.wikidata.org/entity/Q2321417) gave his ethnographic collection on long-term loan. Together with the objects purchased by the Gerardus van der Leeuw Foundation, the above collections formed the core of the Gerardus van der Leeuw Ethnographic Museum, which opened its doors in 1978 on the Nieuwe Kijk in 't Jatstraat in the city of Groningen. During the museum's existence the collection was supplemented by purchases and donations. After several unsuccessful attempts to merge the ethnographic museum with other museums in Groningen, the Gerardus van der Leeuw Ethnographic Museum closed in 2003. Afterwards, the museum’s collection was incorporated into the University Museum Groningen, where it remains until today.
 
 ### Provenance research
 
@@ -30,6 +30,8 @@ Several catalogues of the collection of the Gerardus van der Leeuw Ethnographic 
 The collection of the former Tropical Agricultural Museum in Deventer (the TD collection) has its own catalogue: _ [De collectie Deventer](https://www.rug.nl/society-business/university-museum/collections/ethnological/pdf/tdcatalogus.pdf)_. As well as an overview of the collection the catalogue provides a wealth of background information about the former agricultural museum in Deventer. The original Van Baaren collection (the VB collection) is described in the book _The Collection Van Baaren_, which is unfortunately not available online. The ethnographic collection of the Princessehof in Leeuwarden is referred to as the PL collection and does not have its own catalogue.
 
 The archive of the Gerardus van der Leeuw Ethnographic Museum (until 1995) is housed at the [Groninger Archieven](https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E). In addition to documents about the organisation of the museum and its place within the Faculty of Theology, the archive also contains descriptions of the collection. Alongside the sources described below, catalogues of the museum's various exhibitions are also available and can be found in the [RUG library](https://rug.on.worldcat.org/discovery) by searching ‘Gerardus van der Leeuw’.
+
+Theo van Baaren's personal archive also contains (limited) information about his collection. For example, there is correspondence with various dealers, museums, congregations and missionaries that directly and indirectly refer to purchases for his collection. This archive is also located in the [Library of the University of Groningen](https://www.rug.nl/library/collections/special-collections/collections/archives-inventories/baaren/cb-van-baaren).
 
 
 ## Related Aids
@@ -45,6 +47,12 @@ Archive:
   > _Archive of the Gerardus van der Leeuw Ethnographic Museum until 1995. Includes descriptions of the museum's collection._  
 
   > [https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E](https://hdl.handle.net/21.12105/71742EE35A20452A834C2A27055FE38E)
+
+Archive:
+  > *Archive Theo van Baaren. Description of collection archive Theodoor Petrus van Baaren*
+  > _Theo van Baaren's personal archive that contains (limited) information about his collection._  
+
+  > [https://www.rug.nl/library/collections/special-collections/collections/archives-inventories/baaren/cb-van-baaren](https://www.rug.nl/library/collections/special-collections/collections/archives-inventories/baaren/cb-van-baaren)
 
 ## Secondary sources
 
@@ -85,5 +93,5 @@ Article:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-05-13_  
-_last edited by Abacus as translator on 2025-10-20_
+_last edited by Rosalie Hans as reviewer on 2025-10-21_
         
