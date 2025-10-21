@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-10-02
+date: 2025-10-21
 --- 
 
 
@@ -87,6 +87,6 @@ Boek:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-10-02_  
-_last edited by Wiebe Reints  on 2025-07-07
+_last edited by Pauljac Verhoeven; John Klein Nagelvoort  on 2025-07-07
 (applies to section: Main-text; Sources)_
         
