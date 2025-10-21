@@ -132,12 +132,12 @@ Sources:
       Description and remarks: "Artikel uit 2020 van Sonja Wijs over het Etnografisch Museum Artis."
 
 editing_metadata:
-  - date: 20240711
+  - date: 2024-07-11
     applies_to: 
     author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
-  - date: 20250619
+  - date: 2025-06-19
     applies_to: 
     author: Tom Quist
     role: editor

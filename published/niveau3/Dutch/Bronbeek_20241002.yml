@@ -97,12 +97,12 @@ Sources:
       Description and remarks: "Boek uit 2025 over de geschiedenis van het tehuis. Dit is een herziene en geüpdatete versie van het originele boek 'Bronbeek : tempo doeloe der liefdadigheid' uit 1998."
 
 editing_metadata:
-  - date: 20241002
+  - date: 2024-10-02
     applies_to: 
     author: Wiebe Reints
     role: original_author
     editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
-  - date: 20250707
+  - date: 2025-07-07
     applies_to: Main-text; Sources
     author: Pauljac Verhoeven; John Klein Nagelvoort
     Role: editor
