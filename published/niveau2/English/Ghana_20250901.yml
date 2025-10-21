@@ -132,11 +132,11 @@ copyright_metadata:
   license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
 - date: 2025-09-01
-  applies_to: null
+  applies_to: 
   author: Maarten van der Bent
   role: original_author
   editing_notes: 
-- date: 20251020
+- date: 2025-10-20
   applies_to: 
   author: Abacus
   role: translator
