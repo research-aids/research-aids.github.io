@@ -50,7 +50,7 @@ Sources:
       Description and remarks: "Here you note a short description of what kind of information the source provides."
 
 Editing_metadata:
-  - Date: #mandatory (yyymmdd)
+  - Date: #mandatory (yyyy-mm-dd)
     Applies_to: #optional
     Author: #mandatory
     Role: #mandatory
