@@ -57,7 +57,7 @@ Veel musea en andere instellingen met koloniale collecties willen open zijn over
 
 
 
-_last edited by UNKNOWN as UNKNOWN on 2025-10-21
+_last edited by UNKNOWN as UNKNOWN on 2025-10-23
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         
