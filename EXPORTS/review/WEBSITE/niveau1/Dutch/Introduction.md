@@ -5,7 +5,7 @@ parent: niveau1
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-10-23
+date: 2025-10-27
 --- 
 
 
@@ -70,7 +70,7 @@ Veel musea en andere instellingen met koloniale collecties willen open zijn over
 
 
 
-_last edited by UNKNOWN as UNKNOWN on 2025-10-23
+_last edited by UNKNOWN as UNKNOWN on 2025-10-27
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         
