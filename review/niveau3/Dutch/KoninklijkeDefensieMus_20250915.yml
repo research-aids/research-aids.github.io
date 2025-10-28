@@ -4,7 +4,22 @@ Title: "Stichting Koninklijke Defensiemusea"
 
 Abstract: "De Stichting Koninklijke Defensiemusea is in 2014 opgericht en herbergt verschillende musea die voorheen direct onder het Ministerie van Defensie vielen. De verschillende musea herbergen uitgebreide collecties wapens en andersoortige militaire objecten. De collecties bevatten ook veel objecten die een relatie hebben met het (militaire) koloniale verleden van Nederland."
 
-RelatedAides: []
+RelatedAides:
+  - "Musea en collecties":
+        link: "niveau2/Dutch/Museum_20250113.yml"
+        rel_type: "see also"
+  - "Leger- en marinepersoneel in gekoloniseerde gebieden":
+        link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+        rel_type: "see also"
+  - "Museum Bronbeek":
+        link: "niveau3/Dutch/Bronbeek_20241002.yml" 
+        rel_type: "see also"
+  - "Hoofdcursus Kampen":
+        link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+        rel_type: "see also"
+  - "Volkenkundig Museum Justinus van Nassau":
+        link: "niveau3/Dutch/JustinusNassau_20250225.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:
@@ -16,10 +31,14 @@ Relevant data:
   Tags:
     Activity:
       - "[Militair museum](http://vocab.getty.edu/page/aat/300312314)"
-    Type of objects: []
+    Type of objects:
+      - "[Medailles](http://vocab.getty.edu/aat/300046025)"
+      - "[Militaire uniformen](http://vocab.getty.edu/aat/300248030)"
+      - "[Militaire voertuigen](http://vocab.getty.edu/aat/300227815)"
+      - "[Wapens](http://vocab.getty.edu/aat/300036926)"
     Geographical: []
   Period of activity: 
-    Year of start: []
+    Year of start: "2014"
     Year of end: []
   Collections: []
       
@@ -49,7 +68,17 @@ Main-text:
 
 Sources:
   Primary sources: []
-  Secondary sources: []
+  Secondary sources:
+    - Type of source: "Collectiewebsite"
+      Name: "Nationaal Militair Museum - Collectie"
+      Link: 
+        - URL: "https://collectie.nmm.nl/nl/collectie/?_ga=2.218030102.1046968903.1660553611-298675809.1660564803&_gac=1.83753444.1660642684.Cj0KCQjwgO2XBhCaARIsANrW2X0x1xCORvngvPpYGnoOtTAD60qrsYpipWn3sQ5KxajXrJPVRUtbvb4aAvJPEALw_wcB"
+      Description and remarks: "Collectiewebsite van het Nationaal Militair Museum. Via deze website is de collectie doorzoekbaar die wordt beheerd door het museum in Soesterberg. Het Marine- en Mariniersmuseum hebben hun eigen collectiewebsite."
+    - Type of source: "Collectiewebsite"
+      Name: "Maritiem Digitaal"
+      Link: 
+        - URL: "https://www.maritiemdigitaal.nl/index.cfm?event=page.home"
+      Description and remarks: "Website die de collecties van verschillende maritieme musea in Nederland samenbrengt. De collectie van het Marinemuseum in Den Helder en het Mariniersmuseum in Rotterdam is doorzoekbaar op Maritiem Digitaal."
 
 Editing_metadata:
   - Date: 20250915
