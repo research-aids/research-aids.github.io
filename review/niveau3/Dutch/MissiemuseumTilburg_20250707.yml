@@ -5,7 +5,7 @@ Title: "Nederlands Volkenkundig Missiemuseum"
 Abstract: "In 1936 opende in Tilburg het Nederlands Volkenkundig Missiemuseum, dat meerdere collecties die missionarissen mee hadden gebracht naar Nederland samenvoegde. In 1987 sloot het museum haar deuren, waarna de collectie in bruikleen werd gegeven aan het Nijmeegs Volkenkundig Museum."
 
 RelatedAides:
-  - "Musea en efgoedbeherende instellingen":
+  - "Musea en collecties":
         link: "niveau2/Dutch/Museum_20250113.yml"
         rel_type: "see also"
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
@@ -17,14 +17,13 @@ RelatedAides:
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
         link: "niveau3/Dutch/MOudenbosch_20250603.yml"
         rel_type: "see also"
-#  - "Nijmeegs Volkenkundig Museum":
-  
   - "Nederlandsch Zendeling Genootschap":
         link: "niveau3/Dutch/NZG_20240314.yml"
         rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
         link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
         rel_type: "see also"
+#Nijmeegs Volkenkundig Museum
 
 Relevant data:
   Identifiers:
