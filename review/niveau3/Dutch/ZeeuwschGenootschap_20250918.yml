@@ -4,7 +4,25 @@ Title: "Koninklijk Zeeuwsch Genootschap der Wetenschappen"
 
 Abstract: "Het in 1796 opgerichte Koninklijk Zeeuwsch Genootschap der Wetenschappen heeft als doel een podium te bieden aan onderzoek over de provincie Zeeland als aan onderzoekers afkomstig uit Zeeland. Met name in eerdere jaren schonken wetenschappers en andere uit Zeeland afkomstige hooggeplaatste personen grote collecties aan het genootschap."
 
-RelatedAides: []
+RelatedAides:
+  - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
+        link: "niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
+  - "Ghana":
+        link: "niveau2/Dutch/Ghana_20250901.yml"
+        rel_type: "see also"
+  - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+        link: "niveau3/Dutch/BGKW_20240827.yml"
+        rel_type: "see also"
+  - "Koninklijk Instituut voor Taal-, Land- en Volkenkunde":
+        link: "niveau3/Dutch/KITLV_20240704.yml"
+        rel_type: "see also"
+  - "Naturalis Biodiversity Center":
+        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers: "http://www.wikidata.org/entity/Q2681284"
