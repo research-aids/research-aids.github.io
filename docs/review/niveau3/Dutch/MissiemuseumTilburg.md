@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-10-27
+date: 2025-10-28
 --- 
 
 
@@ -40,7 +40,7 @@ Ook bij de Radboud Universiteit wordt een geringe hoeveelheid relevant archiefma
 
 ## Related Aids
 
- - [Musea en efgoedbeherende instellingen](niveau2/Dutch/Museum_20250113.yml)  
+ - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
  - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
  - [Missiemuseum Steyl](published/niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
@@ -75,7 +75,7 @@ Boek:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-10-27
+_last edited by UNKNOWN as UNKNOWN on 2025-10-28
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

@@ -9,7 +9,7 @@ date: 2025-10-28
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/PDF/niveau3/Dutch/1UniversiteitsbibliotheekLeiden.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/DOCX/niveau3/Dutch/1UniversiteitsbibliotheekLeiden.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/PDF/niveau3/Dutch/UniversiteitsbibliotheekLeiden.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/DOCX/niveau3/Dutch/UniversiteitsbibliotheekLeiden.docx){: .btn .btn-blue }
 
 
 # Universitaire Bibliotheken Leiden
@@ -34,6 +34,9 @@ De [digitale catalogus](https://www.bibliotheek.universiteitleiden.nl/) van de U
 
 ## Related Aids
 
+ - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
+ - [Wetenschappelijk onderzoek in koloniale gebieden](niveau2/Dutch/Science_20240814.yml)  
+ - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
 
 ## Primary sources
 
