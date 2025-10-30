@@ -50,9 +50,8 @@ Andere relevante links:
 ## Related Aids
 
  - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
  - [Ambtenaren](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Leger en marine](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
+ - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
  - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
  - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
