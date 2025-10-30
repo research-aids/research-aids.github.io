@@ -4,19 +4,27 @@
     "Abstract": "In deze zoekhulp vind je informatie over hoe je een verslag opstelt naar aanleiding van je (herkomst)onderzoek.",
     "RelatedAides": [
         {
-            "Onderzoeken": {
-                "link": "niveau1/Dutch/DoingResearch_20240425.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch",
-                "sort_order": 1
-            }
-        },
-        {
             "Bronnen": {
                 "link": "niveau1/Dutch/Sources_20240425.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau1/Dutch/Sources_Dutch",
+                "sort_order": 1
+            }
+        },
+        {
+            "Het Nederlandse restitutiebeleid": {
+                "link": "niveau1/Dutch/RestitutionPolicy_20250123.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau1/Dutch/RestitutionPolicy_Dutch",
                 "sort_order": 2
+            }
+        },
+        {
+            "Onderzoeken": {
+                "link": "niveau1/Dutch/DoingResearch_20240425.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch",
+                "sort_order": 3
             }
         },
         {
@@ -24,7 +32,7 @@
                 "link": "niveau1/Dutch/SelectAndDelineate_20240425.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau1/Dutch/SelectAndDelineate_Dutch",
-                "sort_order": 3
+                "sort_order": 4
             }
         }
     ],

@@ -4,27 +4,11 @@
     "Abstract": "In deze zoekhulp vind je informatie over welke stappen je moet volgen voor het doen van (herkomst)onderzoek en hoe je relevante informatie verzamelt.",
     "RelatedAides": [
         {
-            "Verslagleggen": {
-                "link": "niveau1/Dutch/Reporting_20240501.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Reporting_Dutch",
-                "sort_order": 1
-            }
-        },
-        {
-            "Selecteren en afbakenen": {
-                "link": "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch",
-                "sort_order": 2
-            }
-        },
-        {
             "Bronnen": {
                 "link": "niveau1/Dutch/Sources_20240425.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau1/Dutch/Sources_Dutch",
-                "sort_order": 3
+                "sort_order": 1
             }
         },
         {
@@ -32,6 +16,22 @@
                 "link": "niveau1/Dutch/RestitutionPolicy_20250123.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau1/Dutch/RestitutionPolicy_Dutch",
+                "sort_order": 2
+            }
+        },
+        {
+            "Selecteren en afbakenen": {
+                "link": "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch",
+                "sort_order": 3
+            }
+        },
+        {
+            "Verslagleggen": {
+                "link": "niveau1/Dutch/Reporting_20240501.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau1/Dutch/Reporting_Dutch",
                 "sort_order": 4
             }
         }

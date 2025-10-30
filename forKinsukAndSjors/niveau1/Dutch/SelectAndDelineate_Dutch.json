@@ -4,19 +4,35 @@
     "Abstract": "In deze zoekhulp vind je informatie over hoe je voorwerpen selecteert voor je onderzoek en hoe je je (herkomst)onderzoek kan afbakenen.",
     "RelatedAides": [
         {
-            "Onderzoeken": {
-                "link": "niveau1/Dutch/DoingResearch_20240425.yml",
+            "Bronnen": {
+                "link": "niveau1/Dutch/Sources_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch",
+                "linkFilename": "niveau1/Dutch/Sources_Dutch",
                 "sort_order": 1
             }
         },
         {
-            "Introductie tot het doen van herkomstonderzoek": {
-                "link": "niveau1/Dutch/Introduction_20250120.yml",
+            "Het Nederlandse restitutiebeleid": {
+                "link": "niveau1/Dutch/RestitutionPolicy_20250123.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Introduction_Dutch",
+                "linkFilename": "niveau1/Dutch/RestitutionPolicy_Dutch",
                 "sort_order": 2
+            }
+        },
+        {
+            "Onderzoeken": {
+                "link": "niveau1/Dutch/DoingResearch_20240425.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch",
+                "sort_order": 3
+            }
+        },
+        {
+            "Verslagleggen": {
+                "link": "niveau1/Dutch/SelectAndDelineate_20240425.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau1/Dutch/SelectAndDelineate_Dutch",
+                "sort_order": 4
             }
         },
         {
@@ -24,7 +40,7 @@
                 "link": "niveau2/Dutch/MilitaryAndNavy_20240326.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch",
-                "sort_order": 3
+                "sort_order": 5
             }
         },
         {
@@ -32,7 +48,7 @@
                 "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/CivilServants_Dutch",
-                "sort_order": 4
+                "sort_order": 6
             }
         },
         {
@@ -40,7 +56,7 @@
                 "link": "niveau2/Dutch/Trade_20240326.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/Trade_Dutch",
-                "sort_order": 5
+                "sort_order": 7
             }
         },
         {
@@ -48,7 +64,7 @@
                 "link": "niveau2/Dutch/ChristianMission_20240326.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/ChristianMission_Dutch",
-                "sort_order": 6
+                "sort_order": 8
             }
         },
         {
@@ -56,7 +72,7 @@
                 "link": "niveau2/Dutch/Science_20240814.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/Science_Dutch",
-                "sort_order": 7
+                "sort_order": 9
             }
         }
     ],
