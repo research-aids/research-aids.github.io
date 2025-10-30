@@ -40,13 +40,14 @@ Archieven van zending- en missieorganisaties zijn verspreid. Omvangrijke archief
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
  - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
+ - [De handel in objecten uit een koloniale context](published/niveau2/Dutch/Trade_20240326.yml)  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
- - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
+ - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
+ - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)  
+ - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
 
 ## Primary sources
 
