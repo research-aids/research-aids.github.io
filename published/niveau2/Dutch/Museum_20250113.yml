@@ -5,29 +5,17 @@ Title: "Musea en collecties"
 Abstract: "Deze zoekhulp geeft je een overzicht van de verschillende musea in Nederland die etnografische collecties beheren en biedt een bondig inzicht in de ontstaansgeschiedenis van de verschillende verzamelingen."
 
 RelatedAides:
-  - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
-      link: "niveau3/Dutch/BGKW_20240827.yml"
-      rel_type: "see also"
-  - "Museum Bronbeek":
-      link: "niveau3/Dutch/Bronbeek_20241002.yml"
-      rel_type: "see also"
   - "Etnografisch Museum Artis":
       link: "niveau3/Dutch/EMArtis_20240711.yml"
-      rel_type: "see also"
-  - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-      link: "niveau3/Dutch/GerardusLeeuw_20250513.yml"
       rel_type: "see also"
   - "Hoofdcursus Kampen":
       link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
       rel_type: "see also"
-  - "Volkenkundig Museum Justinus van Nassau":
-      link: "niveau3/Dutch/JustinusNassau_20250225.yml"
+  - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+      link: "niveau3/Dutch/BGKW_20240827.yml"
       rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
       link: "niveau3/Dutch/KKZ_20240313.yml"
-      rel_type: "see also"
-  - "Museum Nusantara":
-      link: "niveau3/Dutch/MNusantara_20250130.yml"
       rel_type: "see also"
   - "Missiemuseum Steyl":
       link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
@@ -35,14 +23,29 @@ RelatedAides:
   - "Museon-Omniversum":
       link: "niveau3/Dutch/Museon_20250429.yml"
       rel_type: "see also"
+  - "Museum Bronbeek":
+      link: "niveau3/Dutch/Bronbeek_20241002.yml"
+      rel_type: "see also"
+  - "Museum Nusantara":
+      link: "niveau3/Dutch/MNusantara_20250130.yml"
+      rel_type: "see also"
   - "Naturalis Biodiversity Center":
       link: "niveau3/Dutch/Naturalis_20240710.yml"
+      rel_type: "see also"
+  - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
+      link: "niveau3/Dutch/MOudenbosch_20250603.yml"
       rel_type: "see also"
   - "Rijksmuseum van Oudheden":
       link: "niveau3/Dutch/RMO_20241106.yml"
       rel_type: "see also"
   - "Rijksmuseum Amsterdam":
       link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+      rel_type: "see also"
+  - "Volkenkundig Museum 'Gerardus van der Leeuw'":
+      link: "niveau3/Dutch/GerardusLeeuw_20250513.yml"
+      rel_type: "see also"
+  - "Volkenkundig Museum Justinus van Nassau":
+      link: "niveau3/Dutch/JustinusNassau_20250225.yml"
       rel_type: "see also"
   - "Wereldmuseum Amsterdam":
       link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
@@ -55,9 +58,6 @@ RelatedAides:
       rel_type: "see also"
   - "Wereldmuseum Rotterdam":
       link: "niveau3/Dutch/WMRotterdam_20240822.yml"
-      rel_type: "see also"
-  - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-      link: "niveau3/Dutch/MOudenbosch_20250603.yml"
       rel_type: "see also"
 
 Relevant data: []
