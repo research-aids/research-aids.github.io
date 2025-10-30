@@ -53,8 +53,10 @@ Herkomstonderzoek kan ook proactief worden uitgevoerd. Bijvoorbeeld, wanneer de 
 
 ## Related Aids
 
+ - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
+ - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)  
  - [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)  
- - [Introductie tot het doen van herkomstonderzoek](niveau1/Dutch/Introduction_20250120.yml)  
+ - [Verslagleggen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)  

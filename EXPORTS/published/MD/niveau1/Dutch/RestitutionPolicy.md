@@ -78,6 +78,8 @@ Het uiteindelijke advies van de Commissie Koloniale Collecties wordt na beraadsl
 
  - [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)  
  - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
+ - [Verslagleggen](niveau1/Dutch/Reporting_20240501.yml)  
 
 
 
