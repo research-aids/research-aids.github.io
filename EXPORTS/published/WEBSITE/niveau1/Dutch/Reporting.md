@@ -5,7 +5,7 @@ parent: niveau1
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-10-28
+date: 2025-10-30
 --- 
 
 
@@ -61,8 +61,9 @@ De publicatie [Woorden doen ertoe](https://www.tropenmuseum.nl/sites/default/fil
 
 ## Related Aids
 
- - [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)  
  - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
+ - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)  
+ - [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)  
  - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
 
 
