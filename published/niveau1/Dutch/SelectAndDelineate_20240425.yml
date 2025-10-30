@@ -5,12 +5,18 @@ Title: "Selecteren en afbakenen"
 Abstract: "In deze zoekhulp vind je informatie over hoe je voorwerpen selecteert voor je onderzoek en hoe je je (herkomst)onderzoek kan afbakenen."
 
 RelatedAides: 
+  - "Bronnen": 
+        link: "niveau1/Dutch/Sources_20240425.yml"
+        rel_type: "see also"
+  - "Het Nederlandse restitutiebeleid":
+        link: "niveau1/Dutch/RestitutionPolicy_20250123.yml"
+        rel_type: "see also"
   - "Onderzoeken":
         link: "niveau1/Dutch/DoingResearch_20240425.yml"
         rel_type: "see also"
-  - "Introductie tot het doen van herkomstonderzoek":
-        link: "niveau1/Dutch/Introduction_20250120.yml"
-        rel_type: "see also"
+  - "Verslagleggen":
+        link: "niveau1/Dutch/SelectAndDelineate_20240425.yml" 
+        rel_type: "see also"  
   - "Leger- en marinepersoneel in gekoloniseerde gebieden":
         link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
         rel_type: "see also"

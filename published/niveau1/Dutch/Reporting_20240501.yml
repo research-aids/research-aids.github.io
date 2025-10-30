@@ -5,11 +5,14 @@ Title: "Verslagleggen"
 Abstract: "In deze zoekhulp vind je informatie over hoe je een verslag opstelt naar aanleiding van je (herkomst)onderzoek."
 
 RelatedAides:
-  - "Onderzoeken":
-        link: "niveau1/Dutch/DoingResearch_20240425.yml"
-        rel_type: "see also"
   - "Bronnen":
         link: "niveau1/Dutch/Sources_20240425.yml"
+        rel_type: "see also"
+  - "Het Nederlandse restitutiebeleid":
+        link: "niveau1/Dutch/RestitutionPolicy_20250123.yml"
+        rel_type: "see also"
+  - "Onderzoeken":
+        link: "niveau1/Dutch/DoingResearch_20240425.yml"
         rel_type: "see also"
   - "Selecteren en afbakenen":
         link: "niveau1/Dutch/SelectAndDelineate_20240425.yml"
