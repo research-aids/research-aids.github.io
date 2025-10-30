@@ -5,23 +5,26 @@ Title: "Leger- en marinepersoneel in gekoloniseerde gebieden"
 Abstract: "Leger- en marinepersoneel dat actief was in gekoloniseerde gebieden, verzamelde op verschillende manieren objecten tijdens het koloniale tijdperk. Objecten kunnen zijn buitgemaakt, geschonken of gekocht van de lokale bevolking. Later werden deze objecten vaak gedoneerd aan colllectiebeherende instellingen in Nederland."
 
 RelatedAides: 
-  - "Bronnen":
-        link: "niveau1/Dutch/Bronnen_20240425.yml"
-        rel_type: "see also"
   - "Selecteren en afbakenen":
         link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
         rel_type: "see also"
   - "Ambtenaren in gekoloniseerde gebieden": 
         link: "niveau2/Dutch/Ambtenaren_20240320.yml"
         rel_type: "see also"
-  - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/Science_20240814.yml"
-        rel_type: "see also"
   - "De handel in objecten uit een koloniale context":
         link: "niveau2/Dutch/Handel_20240326.yml"
         rel_type: "see also"
-  - "Koninklijk Kabinet van Zeldzaamheden":
-        link: "niveau3/Dutch/KKZ_20240313.yml"
+  - "Hoofdcursus Kampen":
+        link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+        rel_type: "see also"
+  - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+        link: "published/niveau3/Dutch/BGKW_20240827.yml"
+        rel_type: "see also"
+  - "Museum Bronbeek":
+        link: "niveau3/Dutch/Bronbeek_20241002.yml"
+        rel_type: "see also"
+  - "Rijksmuseum Amsterdam":
+        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
         link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
@@ -31,15 +34,6 @@ RelatedAides:
         rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden_20240327.yml"
-        rel_type: "see also"
-  - "Museum Bronbeek":
-        link: "niveau3/Dutch/Bronbeek_20241002.yml"
-        rel_type: "see also"
-  - "Rijksmuseum Amsterdam":
-        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
-        rel_type: "see also"
-  - "Hoofdcursus Kampen":
-        link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
         rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
         link: "niveau3/Dutch/JustinusNassau_20250225.yml"

@@ -8,17 +8,20 @@ RelatedAides:
   - "Selecteren en afbakenen":
         link: "niveau1/Dutch/SelectAndDelineate_20240425.yml"
         rel_type: "see also"
-  - "Bronnen":
-        link: "niveau1/Dutch/Sources_20240425.yml"
-        rel_type: "see also"
-  - "Ambtenaren":
+  - "Ambtenaren in gekoloniseerde gebieden":
         link: "niveau2/Dutch/CivilServants_20240320.yml"
         rel_type: "see also"
-  - "Leger en marine":
-        link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+  - "Saba, Sint Eustatius en Sint Maarten":
+        link: "niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml"
         rel_type: "see also"
   - "Koninklijk Instituut voor Taal-, Land en Volkenkunde":
         link: "niveau3/Dutch/KITLV_20240704.yml"
+        rel_type: "see also"
+  - "Museon-Omniversum":
+        link: "niveau3/Dutch/Museon_20250429.yml"
+        rel_type: "see also"
+  - "Naturalis Biodiversity Center":
+        link: "niveau3/Dutch/Naturalis_20240710.yml"
         rel_type: "see also"
   - "Rijksmuseum Amsterdam":
         link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
