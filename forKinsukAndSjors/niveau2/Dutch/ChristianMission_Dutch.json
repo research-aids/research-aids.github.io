@@ -4,18 +4,18 @@
     "Abstract": "Protestante zendelingen en katholieke missionarissen droegen veelvuldig bij aan het verzamelen van objecten gedurende het koloniale tijdperk. Verschillende genootschappen onderhielden hun eigen collecties ten behoeve van het opleiden van nieuwe missionarissen. Deze collecties zijn later veelvuldig aan musea gedoneerd.",
     "RelatedAides": [
         {
-            "Bronnen": {
-                "link": "niveau1/Dutch/Bronnen_20240425.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Bronnen_Dutch",
-                "sort_order": 1
-            }
-        },
-        {
             "Selecteren en afbakenen": {
                 "link": "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau1/Dutch/SelecterenEnAfbakenen_Dutch",
+                "sort_order": 1
+            }
+        },
+        {
+            "De handel in objecten uit een koloniale context": {
+                "link": "published/niveau2/Dutch/Trade_20240326.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Trade_Dutch",
                 "sort_order": 2
             }
         },
@@ -28,18 +28,18 @@
             }
         },
         {
-            "Nederlandsch Zendeling Genootschap": {
-                "link": "niveau3/Dutch/NZG_20240314.yml",
+            "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
+                "link": "niveau3/Dutch/MOudenbosch_20250603.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/NZG_Dutch",
+                "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
                 "sort_order": 4
             }
         },
         {
-            "Wereldmuseum Berg en Dal": {
-                "link": "niveau3/Dutch/WMBergEnDal_20241001.yml",
+            "Nederlandsch Zendeling Genootschap": {
+                "link": "niveau3/Dutch/NZG_20240314.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMBergEnDal_Dutch",
+                "linkFilename": "niveau3/Dutch/NZG_Dutch",
                 "sort_order": 5
             }
         },
@@ -52,11 +52,19 @@
             }
         },
         {
-            "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
-                "link": "niveau3/Dutch/MOudenbosch_20250603.yml",
+            "Volkenkundig Museum 'Gerardus van der Leeuw'": {
+                "link": "published/niveau3/Dutch/GerardusLeeuw_20250513.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
+                "linkFilename": "niveau3/Dutch/GerardusLeeuw_Dutch",
                 "sort_order": 7
+            }
+        },
+        {
+            "Wereldmuseum Berg en Dal": {
+                "link": "niveau3/Dutch/WMBergEnDal_20241001.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMBergEnDal_Dutch",
+                "sort_order": 8
             }
         }
     ],

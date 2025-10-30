@@ -12,27 +12,19 @@
             }
         },
         {
-            "Bronnen": {
-                "link": "niveau1/Dutch/Sources_20240425.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/Sources_Dutch",
-                "sort_order": 2
-            }
-        },
-        {
             "Ambtenaren": {
                 "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/CivilServants_Dutch",
-                "sort_order": 3
+                "sort_order": 2
             }
         },
         {
-            "Leger en marine": {
-                "link": "niveau2/Dutch/MilitaryAndNavy_20240326.yml",
+            "Aruba, Bonaire en Cura\u00e7ao": {
+                "link": "niveau2/Dutch/ArubaBonaireCuracao_20250619.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/Dutch/MilitaryAndNavy_Dutch",
-                "sort_order": 4
+                "linkFilename": "niveau2/Dutch/ArubaBonaireCuracao_Dutch",
+                "sort_order": 3
             }
         },
         {
@@ -40,7 +32,7 @@
                 "link": "niveau3/Dutch/KITLV_20240704.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KITLV_Dutch",
-                "sort_order": 5
+                "sort_order": 4
             }
         },
         {
@@ -48,7 +40,7 @@
                 "link": "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch",
-                "sort_order": 6
+                "sort_order": 5
             }
         },
         {
@@ -56,7 +48,7 @@
                 "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
-                "sort_order": 7
+                "sort_order": 6
             }
         },
         {
@@ -64,7 +56,7 @@
                 "link": "niveau3/Dutch/WMLeiden_20240327.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
-                "sort_order": 8
+                "sort_order": 7
             }
         },
         {
@@ -72,7 +64,7 @@
                 "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch",
-                "sort_order": 9
+                "sort_order": 8
             }
         }
     ],

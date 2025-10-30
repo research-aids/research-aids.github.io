@@ -4,19 +4,35 @@
     "Abstract": "In Nederlandse museumcollecties zijn etnografica, kunstvoorwerpen en naturalia te vinden die afkomstig zijn uit het huidige Ghana. Veelal zijn deze voorwerpen verzameld in de periode tot 1872, toen Nederland als koloniale macht aanwezig was op wat toen de Goudkust heette.",
     "RelatedAides": [
         {
-            "Wereldmuseum Leiden": {
-                "link": "niveau3/Dutch/WMLeiden_20240327.yml",
+            "Selecteren en afbakenen": {
+                "link": "niveau1/Dutch/SelectAndDelineate_20240425.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "linkFilename": "niveau1/Dutch/SelectAndDelineate_Dutch",
                 "sort_order": 1
             }
         },
         {
-            "Koninklijk Kabinet van Zeldzaamheden": {
-                "link": "niveau3/Dutch/KKZ_20240313.yml",
+            "Ambtenaren in gekoloniseerde gebieden": {
+                "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/KKZ_Dutch",
+                "linkFilename": "niveau2/Dutch/CivilServants_Dutch",
                 "sort_order": 2
+            }
+        },
+        {
+            "De handel in objecten uit een koloniale context": {
+                "link": "published/niveau2/Dutch/Trade_20240326.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Trade_Dutch",
+                "sort_order": 3
+            }
+        },
+        {
+            "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
+                "link": "niveau2/Dutch/Science_20240814.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Science_Dutch",
+                "sort_order": 4
             }
         },
         {
@@ -24,23 +40,15 @@
                 "link": "niveau3/Dutch/EMArtis_20240711.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/EMArtis_Dutch",
-                "sort_order": 3
-            }
-        },
-        {
-            "Wereldmuseum Amsterdam": {
-                "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
-                "sort_order": 4
-            }
-        },
-        {
-            "Wereldmuseum Rotterdam": {
-                "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch",
                 "sort_order": 5
+            }
+        },
+        {
+            "Koninklijk Kabinet van Zeldzaamheden": {
+                "link": "niveau3/Dutch/KKZ_20240313.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/KKZ_Dutch",
+                "sort_order": 6
             }
         },
         {
@@ -48,7 +56,31 @@
                 "link": "niveau3/Dutch/Naturalis_20240710.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Naturalis_Dutch",
-                "sort_order": 6
+                "sort_order": 7
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/Dutch/WMLeiden_20240327.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 8
+            }
+        },
+        {
+            "Wereldmuseum Amsterdam": {
+                "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
+                "sort_order": 9
+            }
+        },
+        {
+            "Wereldmuseum Rotterdam": {
+                "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch",
+                "sort_order": 10
             }
         }
     ],
