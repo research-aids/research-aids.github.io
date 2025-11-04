@@ -17,7 +17,7 @@ date: 2025-11-04
 
 ## Research aids for conducting provenance research into colonial collections
 
-#### **The research aids are constantly under construction and therefore subject to changes.** 
+**The research aids are constantly under construction and therefore subject to changes.** 
 
 On this page you can find various research aids that can assist you in doing (provenance) research on colonial collections. The research aids contain information about conducting research on objects that were acquired in a colonial context and which are currently part of museum collections in the Netherlands. Besides a brief description of the subject, the research aids provide specific research tips and references to relevant source material.
 
