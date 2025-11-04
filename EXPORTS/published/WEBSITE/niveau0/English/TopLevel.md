@@ -5,7 +5,7 @@ parent: niveau0
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-10-30
+date: 2025-11-04
 --- 
 
 
@@ -17,13 +17,13 @@ date: 2025-10-30
 
 ## Research aids for conducting provenance research into colonial collections
 
-#### **The research aids are constantly under construction and therefore subject to changes.** 
+**The research aids are constantly under construction and therefore subject to changes.** 
 
 On this page you can find various research aids that can assist you in doing (provenance) research on colonial collections. The research aids contain information about conducting research on objects that were acquired in a colonial context and which are currently part of museum collections in the Netherlands. Besides a brief description of the subject, the research aids provide specific research tips and references to relevant source material.
 
 We are curious about your thoughts on the digital research aids. Through this [questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffhqoDmWSdt9Fjwp6_b0ouT9UMDFNOEJBNEJaTzdBTlhUNEJJVjdGT0VKNC4u) you can provide us with feedback or additional information.
 
-_The Digital Research Aids are a project of the [Consortium Colonial Collections](https://www.colonialcollections.nl/en/). The research aids were created by researchers from the Expert Centre Restitution of the [NIOD Institute for War, Holocaust and Genocide Studies](https://www.niod.nl/en/research/expert-centre-restitution).
+_The Digital Research Aids are a project of the [Consortium Colonial Collections](https://www.colonialcollections.nl/en/). The research aids were created by researchers from the Expert Centre Restitution of the [NIOD Institute for War, Holocaust and Genocide Studies](https://www.niod.nl/en/research/expert-centre-restitution)._
 
 
 ### Provenance research into colonial collections

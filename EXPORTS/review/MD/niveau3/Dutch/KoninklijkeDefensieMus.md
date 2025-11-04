@@ -61,7 +61,7 @@ Collectiewebsite:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-10-30
+_last edited by UNKNOWN as UNKNOWN on 2025-11-04
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

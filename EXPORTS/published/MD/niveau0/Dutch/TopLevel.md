@@ -10,7 +10,7 @@ Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doe
 
 We zijn benieuwd naar je ervaring als gebruiker van de zoekhulpen. Via deze [vragenlijst](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffhqoDmWSdt9Fjwp6_b0ouT9UMDFNOEJBNEJaTzdBTlhUNEJJVjdGT0VKNC4u) kan je suggesties doen voor nieuwe onderwerpen of aanvullende informatie met ons delen.
 
-_De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Koloniale Collecties](https://www.colonialcollections.nl/). De zoekhulpen zijn geschreven door onderzoekers van het Expertisecentrum Restitutie van het [NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies](https://www.niod.nl/onderzoek/expertisecentrum-restitutie)._
+_De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Koloniale Collecties](https://www.colonialcollections.nl/). De zoekhulpen zijn geschreven door onderzoekers van het [Expertisecentrum Restitutie](https://www.niod.nl/onderzoek/expertisecentrum-restitutie) van het NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies._
 
 
 ### Herkomstonderzoek naar koloniale collecties
