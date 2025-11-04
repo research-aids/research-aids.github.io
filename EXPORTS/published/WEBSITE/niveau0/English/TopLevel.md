@@ -5,7 +5,7 @@ parent: niveau0
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-10-30
+date: 2025-11-04
 --- 
 
 
@@ -23,7 +23,7 @@ On this page you can find various research aids that can assist you in doing (pr
 
 We are curious about your thoughts on the digital research aids. Through this [questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffhqoDmWSdt9Fjwp6_b0ouT9UMDFNOEJBNEJaTzdBTlhUNEJJVjdGT0VKNC4u) you can provide us with feedback or additional information.
 
-_The Digital Research Aids are a project of the [Consortium Colonial Collections](https://www.colonialcollections.nl/en/). The research aids were created by researchers from the Expert Centre Restitution of the [NIOD Institute for War, Holocaust and Genocide Studies](https://www.niod.nl/en/research/expert-centre-restitution).
+_The Digital Research Aids are a project of the [Consortium Colonial Collections](https://www.colonialcollections.nl/en/). The research aids were created by researchers from the Expert Centre Restitution of the [NIOD Institute for War, Holocaust and Genocide Studies](https://www.niod.nl/en/research/expert-centre-restitution)._
 
 
 ### Provenance research into colonial collections
