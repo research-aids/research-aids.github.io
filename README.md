@@ -1,4 +1,4 @@
-# Research Aids
+# Colonial Collectoins Research Aids
 
 Welcome to the Github repository of the Digital Research Aids project. This project was set up by the [Expert Centre Restitution](https://www.niod.nl/onderzoek/expertisecentrum-restitutie) of the NIOD Institute of War, Holocaust and Genocide Studies in conjunction with the [Colonial Collections Consortium](https://www.colonialcollections.nl/en/). The [Digital Research Aids](https://app.colonialcollections.nl/en/research-aids) are part of the [Colonial Collections Datahub)(https://app.colonialcollections.nl/en) and  assist early-career researchers in doing (provenance) research on colonial collections. The research aids contain information about conducting research on objects that were acquired in a colonial context and which are currently part of museum collections in the Netherlands.  
 
@@ -19,15 +19,21 @@ This is a development repository for collaboratively designing and integrating t
 
 ## Content Overview
 
-
 #### [Level 0](./published/niveau0)
 
-[insert description level 0 / overview]
+The Level 0, or Toplevel research aid acts as dataprovider for the [landing page](https://app.colonialcollections.nl/en) and is therefore different then research aids on level 1, 2 and 3. The content of the Level 0 yaml-file relates to the frontend as follows:
+
+  - The `Content:`-section that starts at line 7, relates to the introductory text on the landing page of the frontend. This text currently contains a disclaimer about the changeability of the website and an introduction to the website.
+  - The `Breakdown:`-section that starts at line 18 provides the structure for the frontend and contains three lists:
+    - The list `"Provenance research into colonial collections":` containing the research aids of level 1
+    - The list `"Themes and categories":` containing the thematic level 2 research aids, that in itself are lists for relevant level 3 research aids
+    - The list `"Locations":` containing the region focussed level 2 research aids
+
+The listings can be amended to the prefered order, there are is no standard rule. When no specific order is preferred, stick to alphabetical. 
 
 #### [Level 1](./published/niveau1)
 
 The research guides as produced by NIOD are organised in a hierarchy of 3 levels. The top level of the hierarchy, level 1, consists of general texts about writing provenance reports, the landscape of heritage institutions and other introductory materials. Due to their general nature, there are only few such documents, they contain mainly unstructured text and are thus _not_ treated as data. This means that they are not included in the work done in this repository.
-
 
 #### [Level 2](./published/niveau2)
 
