@@ -1,5 +1,5 @@
 
-# Digital Research Aids
+# Colonial Collections Research Aids
 
 
 ## Research aids for conducting provenance research into colonial collections

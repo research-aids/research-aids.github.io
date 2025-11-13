@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Digital Research Aids
+title: Colonial Collections Research Aids
 parent: niveau0
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-11-12
+date: 2025-11-13
 --- 
 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/PDF/niveau0/English/TopLevel.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/DOCX/niveau0/English/TopLevel.docx){: .btn .btn-blue }
 
 
-# Digital Research Aids
+# Colonial Collections Research Aids
 
 
 ## Research aids for conducting provenance research into colonial collections
