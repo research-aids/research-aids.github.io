@@ -60,7 +60,7 @@ def export_markdown(f):
 
             return md_content
 
-def write_level_base_md(f):
+def export_level_base(f):
     _, (published, level, lang, name) = get_export_path(f, "WEBSITE", "md")
     folder_name = f"{EXPORT_DIR}/WEBSITE/{level}"
     
