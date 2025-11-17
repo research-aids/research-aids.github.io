@@ -75,7 +75,7 @@ nav_enabled: true
 has_toc: true
 parent: {published.capitalize()}
 ---
-This is level {level_str[-1]} of the RAs.
+This is level {level[-1]} of the RAs.
 """
         md.write(level_md)
         # return level_md
