@@ -70,7 +70,7 @@ def export_level_base(f):
     with open(f"{folder_name}/{level}.md", "w") as md:
         level_md = f"""---
 layout: default
-title: {level_str}
+title: {level}
 nav_enabled: true
 has_toc: true
 parent: {published.capitalize()}
