@@ -42,7 +42,7 @@ def get_export_path(orig_path, export_folder, extension=None, make_dirs=True):
         extension = export_folder.lower()
     extension = ("." + extension if not extension.startswith(".") else extension)
     export_path =  os.path.join(EXPORT_DIR, export_folder, published, level, lang, name) + extension
-    os.makedirs(os.path.dirname(md_name), exist_ok=True)
+    os.makedirs(os.path.dirname(export_path), exist_ok=True)
     return export_path, (published, level, lang, name)
 
     
