@@ -86,7 +86,7 @@ def export_website(f, md_content):
     md_name, (published, level, lang, name) = get_export_path(f, "WEBSITE", "md")
     
     pdf_button = f"[Download PDF]({GITHUB_RAW_BASE_URL + get_export_path(f, "PDF")[0]}){{: .btn .btn-blue }}"
-    docx_button = f"[Download DOCX]({GITHUB_RAW_BASE_URL + get_export_path(f, "DOCX")[1]}){{: .btn .btn-blue }}"
+    docx_button = f"[Download DOCX]({GITHUB_RAW_BASE_URL + get_export_path(f, "DOCX")[0]}){{: .btn .btn-blue }}"
     
     website_content = front_matter(published, name, level, lang) + "\n\n" +\
                                 pdf_button + " |||    " + docx_button +\
