@@ -140,4 +140,4 @@ if __name__ == "__main__":
             export_website(f, md_content)
 
             export_pdf(f, md_content)
-            export_docx(f, md_content)
+            export_docx(f)
