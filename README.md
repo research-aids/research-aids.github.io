@@ -29,11 +29,11 @@ The Level 0, or Toplevel research aid acts as dataprovider for the [landing page
     - The list `"Themes and categories":` containing the thematic level 2 research aids, that in itself are lists for relevant level 3 research aids
     - The list `"Locations":` containing the region focussed level 2 research aids
 
-The listings can be amended to the prefered order, there are is no standard rule. When no specific order is preferred, stick to alphabetical. 
+The listings can be amended to the prefered order, there are is no standard rule. When no specific order is preferred, stick to an alphabetical order. 
 
 #### [Level 1](./published/niveau1)
 
-The research guides as produced by NIOD are organised in a hierarchy of 3 levels. The top level of the hierarchy, level 1, consists of general texts about writing provenance reports, the landscape of heritage institutions and other introductory materials. Due to their general nature, there are only few such documents, they contain mainly unstructured text and are thus _not_ treated as data. This means that they are not included in the work done in this repository.
+The research aids on level 1 consist of general texts about writing provenance reports, the landscape of heritage institutions and other introductory materials. Due to their general nature, there are only few such documents and they contain mainly text. Although the yaml files of level 1 research aids follow a certain structure, this is less strict than for research aids on level 2 and 3. See for an example the research aid of [Doing research](./published/niveau1/Dutch/DoingResearch_20240425.yml) or the [level 1 template](./yaml templates/Level1_template.yml).
 
 #### [Level 2](./published/niveau2)
 
