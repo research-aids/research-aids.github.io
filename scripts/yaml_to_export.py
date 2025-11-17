@@ -62,8 +62,8 @@ def export_markdown(f):
 
 def export_level_base(f):
     _, (published, level, lang, name) = get_export_path(f, "WEBSITE", "md")
-    folder_name = f"{EXPORT_DIR}/WEBSITE/{level}"
-    os.makedirs(folder_name, exist_ok=True)
+    folder_name = f"{EXPORT_DIR}/WEBSITE/{published}/{level}"
+    # os.makedirs(folder_name, exist_ok=True)
     
 
     # published = os.path.split(out_dir)[-1].capitalize()
