@@ -133,7 +133,6 @@ if __name__ == "__main__":
         for f in tqdm(yaml_files):
         # print(f"processing {f}...")
 
-            level, lang, name = parse_filepath(f)
 
             md_content = export_markdown(f)
             export_level_base(f)
