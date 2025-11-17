@@ -101,7 +101,7 @@ def export_pdf(f, md_content):
     md_name, _ = get_export_path(f, "WEBSITE", "md")
         
     pdf = MarkdownPdf()#toc_level=2)
-    pdf.add_section(Section(markdown_content, toc=False))
+    pdf.add_section(Section(md_content, toc=False))
     pdf.meta["title"] = name
     pdf.meta["author"] = "wreints"
     # print(f"saving {new_name}")
