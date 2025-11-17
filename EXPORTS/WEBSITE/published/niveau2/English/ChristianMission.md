@@ -1,0 +1,112 @@
+---
+layout: default
+title: ChristianMission
+parent: niveau2
+ancestor: Published
+nav_enabled: true
+has_toc: true
+date: 2025-11-17
+--- 
+
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/published/niveau2/English/ChristianMission.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/published/niveau2/English/ChristianMission.docx){: .btn .btn-blue }
+
+
+# Christian missionaries in colonised territories
+
+
+## Abstract
+
+Protestant and Catholic missionaries contributed to the collection of cultural objects during the colonial era. Various societies maintained their own collections for the purpose of training new missionaries. These collections were later often donated to Dutch museums.
+
+### Description
+
+During the colonial era the Netherlands undertook [Protestant](https://data.indischherinneringscentrum.nl/ied/104099) and [Catholic](https://hdl.handle.net/20.500.11840/termmaster25128) missionary work. Both Christian groups focused on the Dutch colonies, particularly Suriname and the Dutch East Indies, but missionaries were also active in places such as China, the United States and Congo. Missionary organisations, both Catholic and Protestant, had mutually defined regions in which they were active although there were no official agreements. 
+
+The missionaries brought back objects from the areas where they were working, sometimes at the request of the organisations that sent them out. The objects were used to educate novice missionaries and for fundraising purposes. Objects disposed of by the missionary organisations ended up in other collections, for example at ethnographic museums. Individual missionaries also donated and sold objects to such museums while other objects from the mission ended up in trade and private collections. 
+
+The collecting practices of missionary organisations were long known as having  been focused on erasing what were – in their eyes – pagan practices. Cultural heritage was destroyed or objects were taken to Europe to prevent their continued use in non-Christian religious rituals. Recent research, however, has nuanced this picture.
+
+The objects the missionaries brought back from the colonies were regularly displayed in buildings of the organisations where they worked. Some organisations set up their own museums, for example, the [Mission Museum in Steyl](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd2c658fef273decf748b392ab053f046) (established in 1931). The collection of African objects of the [Congregation of the Holy Spirit](https://www.wikidata.org/entity/Q687562) was on display at the [Wereldmuseum Berg en Dal](https://www.wikidata.org/entity/Q2470853) (formerly the Afrika Museum, established in 1954) until the end of November 2024. The [Nederlandsch Zendeling Genootschap](https://www.wikidata.org/entity/Q1946670), a missionary society that operated in Java and Sulawesi, was also very active in collecting. Most of the objects it collected can be found in the collection of the [Wereldmuseum Rotterdam](https://www.wikidata.org/entity/Q2042754), although some are held in other museums.
+
+### Provenance research
+
+Information from individual missionary workers can often be found in literature on and archives of the organisations they worked for. A first step in your research thus can be is to determine which organisation was involved in the acquirement of the object. The portal of the [Repertorium van Nederlandse zendings- en missiearchieven 1800-1960](https://resources.huygens.knaw.nl/repertoriumzendingmissie/index_html_en) (Repertorium of Dutch Protestant and Catholic missionary archives, ca. 1800-1960) contains lists of names of missionary workers (under the heading Annexes) and information on individual organisations. From there it is possible to extend the search in the relevant archives. Some missionary organisations had widespread international networks, in which case relevant information may also be located in other European countries. For Germany, such information can be found via the portals [Proveana](https://www.proveana.de/en/start) and [Archivführer zur deutschen Kolonialgeschichte](https://archivfuehrer-kolonialzeit.de).
+
+Sometimes missionary workers worked specific jobs, for example as a doctor, nurse or teacher, and are described under these roles in the sources. They can then be identified as missionaries by looking at the organisation they worked for.
+
+Archives of missionary organisations are scattered. Substantial archival collections are located at the [Utrechts Archief](https://hetutrechtsarchief.nl/), [Archives and Documentation Center of the Reformed Churches in the Netherlands](https://adckampen.nl/), [HDC|Protestants Erfgoed](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek/meer-over/collectie-hdc-protestants-erfgoed) at the Vrije Universiteit, [Catholic Documentation Center](https://www.ru.nl/kdc/), and the [Erfgoedcentrum Nederlands Kloosterleven](https://erfgoedkloosterleven.nl/). Archives can also often still be found in the countries where the mission organisations were active; many of these are held by the organisations themselves.
+
+
+## Related Aids
+
+ - [Sources](niveau1/English/Sources_20240501.yml)  
+ - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
+ - [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
+ - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+
+## Primary sources
+
+Map:
+  > *Mission areas in Indonesia*
+  > _The Mission Map in the Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 provides an overview of which Protestant organisations were active in the former Dutch East Indies._  
+
+  > [https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg](https://resources.huygens.knaw.nl/media/missiezending/afb/zendingsterreinenindonesie.jpg)
+
+Web portal:
+  > *Repertorium van Nederlandse zendings- en missiearchieven 1800-1960*
+  > _The Repertorium van Nederlandse zendings- en missiearchieven 1800-1960 is a portal with descriptions of missionary organisations, literature references and information on archival sources._  
+
+  > [https://resources.huygens.knaw.nl/repertoriumzendingmissie](https://resources.huygens.knaw.nl/repertoriumzendingmissie)
+
+## Secondary sources
+
+Article:
+  > *Corbey, Raymond, and Karel Weener. ‘Collecting While Converting: Missionaries and Ethnographics’. Journal of Art Historiography 12, no. June (2015).*
+  > _Article from 2015 providing an overview of ethnographic collecting by missionaries._  
+
+  > [https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf](https://research.tilburguniversity.edu/files/7806097/Corbey_Weener_2015.pdf)
+
+Article:
+  > *Hård, Mikael, and Mai Lin Tjoa-Bonatz. ‘Trading Zones in a Colony: Transcultural Techniques at Missionary Stations in the Dutch East Indies, 1860 – 1940’. Social Studies of Science 50, no. 6 (December 2020): 932–55.*
+  > _Article from 2020 that examines German missionaries in the Dutch East Indies and how their places of residence functioned as trading zones, where cultural exchange took place._  
+
+  > [https://dx.doi.org/10.1177/0306312720925913](https://dx.doi.org/10.1177/0306312720925913)
+
+Book:
+  > *Leyten, Harrie. From idol to art: African 'objects with power': a challenge for missionaries, anthropologists and museum curators. Leiden: African Studies Centre, 2015.*
+  > _Dissertation from 2015 by Harrie Leyten, who was himself a missionary in Ghana between 1961 and 1971 and later curator of the African collection at the Tropenmuseum in Amsterdam. The dissertation is a reflection on Leyten's long career._  
+
+  > [https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf](https://research.tilburguniversity.edu/files/5749831/Leijten_From_idol_15_04_2015.pdf)
+
+Article:
+  > *Leyten, Harrie. ‘Shared Cultural Heritage Missionary Collections in the Netherlands’. Material Religion 8, no. 1 (March 2012): 103–4.*
+  > _Article by Harrie Leyten on collections in the Netherlands collected by missionaries._  
+
+  > [https://doi.org/10.2752/175183412X13286288798051](https://doi.org/10.2752/175183412X13286288798051)
+
+Book chapter:
+  > *Tjoa-Bonatz, Mai Lin. ‘Idols and Art: Missionary Attitudes toward Indigenous Worship and the Material Culture on Nias, Indonesia, 1904–1920’. In Casting Faiths, 105–28. London: Palgrave Macmillan UK, 2009.*
+  > _Chapter in the book In Casting Faiths by Mai Lin Tjoa-Bonatz on the influence of missionaries on the Christianisation of the people of Nias._  
+
+  > [https://doi.org/10.1057/9780230235458_5](https://doi.org/10.1057/9780230235458_5)
+
+Book chapter:
+  > *Wingfield, Chris. ‘Missionary Museums’. In Religion in Museums, 1st ed., 231–38. Bloomsbury Publishing Plc, 2017.*
+  > _Chapter in the book Religion in Museums by Chris Wingfield on mission museums._  
+
+  > [https://doi.org/10.5040/9781474255554.ch-026](https://doi.org/10.5040/9781474255554.ch-026)
+
+
+
+---
+## Relevant Data 
+TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-04-17_  
+_last edited by Abacus as translator on 2025-03-12
+(applies to section: Main-text; Sources)_
+        
