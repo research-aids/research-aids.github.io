@@ -98,14 +98,14 @@ def export_website(f, md_content):
 
     
 def export_pdf(f, md_content):
-    md_name, _ = get_export_path(f, "WEBSITE", "md")
+    pdf_name, _ = get_export_path(f, "WEBSITE", "md")
         
     pdf = MarkdownPdf()#toc_level=2)
     pdf.add_section(Section(md_content, toc=False))
     pdf.meta["title"] = "NAME"
     pdf.meta["author"] = "wreints"
     # print(f"saving {new_name}")
-    pdf.save(new_name)
+    pdf.save(pdf_name)
 
 
 def export_docx(f):
