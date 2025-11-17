@@ -98,7 +98,7 @@ def export_website(f, md_content):
 
     
 def export_pdf(f, md_content):
-    pdf_name, _ = get_export_path(f, "WEBSITE", "md")
+    pdf_name, _ = get_export_path(f, "PDF")
         
     pdf = MarkdownPdf()#toc_level=2)
     pdf.add_section(Section(md_content, toc=False))
