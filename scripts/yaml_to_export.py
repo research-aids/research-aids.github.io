@@ -102,7 +102,7 @@ def export_pdf(f, md_content):
         
     pdf = MarkdownPdf()#toc_level=2)
     pdf.add_section(Section(md_content, toc=False))
-    pdf.meta["title"] = name
+    pdf.meta["title"] = "NAME"
     pdf.meta["author"] = "wreints"
     # print(f"saving {new_name}")
     pdf.save(new_name)
