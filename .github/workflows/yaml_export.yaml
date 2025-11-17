@@ -13,6 +13,8 @@ jobs:
         uses: actions/checkout@v4    
       - name: list YAML files
         run: ls ${{ github.workspace }}/published/niveau*/**
+      - name: clean up (i.e. delete contents of EXPORTS)
+        run: rm -rv ${{ github.workspace }}/EXPORTS/*
       - name: running python script
         run: |
           pip install tqdm
