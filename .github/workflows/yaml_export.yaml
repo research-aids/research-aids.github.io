@@ -21,6 +21,7 @@ jobs:
           pip install Markdown2docx
           pip install markdown-pdf
           pip install yaml_to_markdown
+          pip install pdf2docx
           python ${{ github.workspace }}/scripts/yaml_to_export.py --file_format "pdf"
           python ${{ github.workspace }}/scripts/yaml_to_export.py --file_format "docx"
       - run: git diff-index HEAD
