@@ -31,6 +31,8 @@ def parse_filepath(fp):
 
 
 def write_level_base_md(out_dir, level_str):
+    fodler_name = f"{OUT_DIR}/WEBSITE/{level_str}"
+    os.makedirs(os.path.dirname(website_name), exist_ok=True)
 
     published = os.path.split(out_dir)[-1].capitalize()
     with open(f"{out_dir}/WEBSITE/{level_str}/{level_str}.md", "w") as md:
