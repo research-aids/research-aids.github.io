@@ -8,7 +8,7 @@ RelatedAides:
   - "Ambtenaren in gekoloniseerde gebieden":
         link: "niveau2/Dutch/CivilServants_20240320.yml"
         rel_type: "see also"
-  - "Musea en efgoedbeherende instellingen":
+  - "Musea en collecties":
         link: "niveau2/Dutch/Museum_20250113.yml"
         rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
@@ -78,16 +78,16 @@ Sources:
       Description and remarks: "Boek uit 1996 dat de geschiedenis van de Koninklijke Verzamelingen beschrijft."
 
 Editing_metadata:
-  - Date: 20250722 
+  - Date: 2025-07-22 
     Applies_to: #optional
     Author: Wiebe Reints
     Role: original_author
     Editing_notes: #optional
-  - Date: 20250916 
+  - Date: 2025-09-16 
     Applies_to: Main-text
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: Opmerkingen Maarten verwerkt
+    Author: Maarten van der Bent
+    Role: reviewer
+    Editing_notes: Maarten's comments were processed by Wiebe Reints.
       
 
 

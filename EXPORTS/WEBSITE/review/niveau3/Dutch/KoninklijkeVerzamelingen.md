@@ -38,7 +38,7 @@ De volledige Koninklijke Verzamelingen zijn [online raadpleegbaar](https://www.k
 ## Related Aids
 
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Musea en efgoedbeherende instellingen](niveau2/Dutch/Museum_20250113.yml)  
+ - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
  - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
 
 ## Primary sources
