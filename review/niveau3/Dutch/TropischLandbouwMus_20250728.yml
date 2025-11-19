@@ -105,16 +105,16 @@ Sources:
       Description and remarks: "Catalogus van de landbouwtentoonstelling die in 1912 werd gehouden en waarvan de collectie als basis diende voor het latere Tropische Landbouwmuseum."
 
 Editing_metadata:
-  - Date: 20250729
+  - Date: 2025-07-29
     Applies_to: #optional
     Author: Wiebe Reints
     Role: original_author
     Editing_notes: #optional
-  - Date: 20250916
-    Applies_to: Abstract and Main-text
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: Opmerkingen Maarten verwerkt  
+  - Date: 2025-09-16 
+    Applies_to: Main-text
+    Author: Maarten van der Bent
+    Role: reviewer
+    Editing_notes: Maarten's comments were processed by Wiebe Reints. 
       
 
 
