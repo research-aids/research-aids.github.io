@@ -4,55 +4,55 @@
 
 ## Abstract
 
-In 1936 opende in Tilburg het Nederlands Volkenkundig Missiemuseum, dat meerdere collecties die missionarissen mee hadden gebracht naar Nederland samenvoegde. In 1987 sloot het museum haar deuren, waarna de collectie in bruikleen werd gegeven aan het Nijmeegs Volkenkundig Museum.
+In 1936, the Nederlands Volkenkundig Missiemuseum (Netherlands Ethnographic Missionary Museum) opened in Tilburg, bringing together several collections that missionaries had send back to the Netherlands. The museum closed its doors in 1987, after which the collection was loaned to the Nijmeegs Volkenkundig Museum (Ethnographic Museum Nijmegen). The latter closed in 2005.
 
-### Geschiedenis van het museum
+### History of the museum
 
-In 1932 werd in de Noord-Brabantse stad Tilburg de Stichting Nederlands Volkenkundig Missiemuseum opgericht, onder andere omdat [Hendrik Moller](http://www.wikidata.org/entity/Q3282628), die op dat moment wethouder was in Tilburg, zich achter het idee had geschaard. De stichting had als doel een museum te stichten door het bijeenbrengen van verschillende objectcollecties die door missionarissen mee naar Nederland waren gebracht. Rond die tijd waren er verschillende congregaties in Tilburg actief die alle een eigen collectie onderhielden. Het doel van het Nederlands Volkenkundig Missiemuseum was tweeledig: ten eerste de bevordering van de katholieke missie en ten tweede het kennis laten maken met de godsdienstige opvattingen, kunst, zeden en gebruiken van de mensen uit de missielanden. Samen met het Natuurhistorisch Museum Tilburg (tegenwoordig Natuurmuseum Brabant), werd in 1936 het Nederlands Volkenkundig Museum geopend aan de Paleisstraat in Tilburg. Beide musea verhuisden enkele malen, totdat het volkenkundige museum vanwege bezuinigingen in 1987 haar deuren sloot. 
+In 1932, the Nederlands Volkenkundig Missiemuseum (Netherlands Ethnographic Missionary Museum) Foundation was established in the city of Tilburg,Noord Brabant, partly because [Hendrik Moller](http://www.wikidata.org/entity/Q3282628), who was alderman in Tilburg at the time, had thrown his weight behind the idea. The foundation's aim was to establish a museum by bringing together various collections of objects that missionaries had send back to the Netherlands. At that time, there were several congregations active in Tilburg, each of which maintained its own collection. The Nederlands Volkenkundig Missiemuseum had two objectives: firstly, to promote the Catholic mission and, secondly, to introduce people to the religious beliefs, art, customs and traditions of the people from the missionary countries. Together with the Natuurhistorisch Museum Tilburg (now the Natuurmuseum Brabant), the Nederlands Volkenkundig Missie Museum was opened on Paleisstraat in Tilburg in 1936. Both museums relocated several times until the ethnographic museum closed its doors in 1987 due to budget cuts. 
 
-In het Nederlands Volkenkundig Missiemuseum werden zodoende collecties tentoongesteld van verschillende Nederlandse congregaties die missiewerk verrichten over de hele wereld. Voorwerpen die in bruikleen of als geschenk afgestaan waren kwamen van verschillende geloofsgroepen afkomstig uit verschillende katholieke delen van Nederland: van Tilburg tot Maastricht. Daarnaast schonk ook een groot aantal particulieren het een en ander aan etnografica.
+The Nederlands Volkenkundig Missiemuseum exhibited collections from various Dutch congregations engaged in missionary work around the world. Objects that were loaned or donated came from various religious groups from different Catholic parts of the Netherlands: ranging from Tilburg to Maastricht. In addition, a large number of private individuals also donated ethnographic items.
 
-De collectie van het Volkenkundig Museum omvatte zo'n 6.000 voorwerpen en was afkomstig uit een groot aantal gebieden. Het zwaartepunt lag op Zuid- en Zuidoost-Azië. In het _[Museumboek voor Noord-Brabant](https://search.worldcat.org/title/781496494)_ uit 1982 beschrijft Harry Verwiel de toenmalige opstelling van het Volkenkundig Museum. Vier gebieden werden permanent gerepresenteerd met een omvangrijke eigen collectie: Latijns-Amerika, Indonesië, Nieuw-Guinea en Afrika, De afdeling Latijns-Amerika bevatte veel objecten afkomstig uit graven uit de voor-Spaanse periode, zoals beeldjes van krijgers. Van de Maya-cultuur stonden godenbeelden opgesteld. De afdeling Indonesië behelsde wajangpopen in leer en hout, textiel, vlechtwerk, sieraden en beelden. Zo stond er een groot voorouderaltaar, afkomstig van de Tarimbar-eilanden. De afdeling Nieuw-Guinea bestond vooral uit houtsnijwerk: maskers, grote voorouderfiguren, kano's, schilden en godenbeelden. Uit Afrika stamde een collectie maskers en beelden.
+The collection of the Ethnographic Museum comprised some 6,000 objects and originated from a large number of areas. The focus was on South and Southeast Asia. In the 1982 _[Museumboek voor Noord-Brabant](https://search.worldcat.org/title/781496494)_, Harry Verwiel describes the layout of the Ethnographic Museum at that time. Four regions were permanently represented with their own extensive collections: Latin America, Indonesia, New Guinea and Africa. The Latin America section contained many objects from pre-Spanish period tombs, such as statues of warriors. Statues of gods from the Mayan culture were also on display. The Indonesia section included leather and wooden wayang puppets, textiles, wickerwork, jewellery and statues. There was also a large ancestral altar from the Tarimbar Islands. The New Guinea section consisted mainly of wood carvings: masks, large ancestral figures, canoes, shields and statues of gods. From Africa came a collection of masks and statues.
 
-Om de connotatie met de kerkelijke achtergrond van het museum te verminderen werd in 1969 de naam van het museum veranderd in Nederlands Volkenkundig Museum. Na de sluiting van het museum in 1987 werden bruiklenen teruggegeven, waarvan een groot deel terecht kwam in het Karmelietenklooster Elzendaal te Boxmeer. De resterende collectie werd overgedragen aan het Nijmeegs Volkenkundig Museum dat werd beheerd door de Katholieke Universiteit Nijmegen (tegenwoordig de Radboud Universiteit).
+In order to reduce the museum's connotations with its ecclesiastical background, its name was changed to the Nederlands Volkenkundig Museum (Netherlands Ethnographic Museum) in 1969. After the museum closed in 1987, loans were returned, many of which ended up in the Carmelite monastery Elzendaal in Boxmeer. The remaining collection was transferred to the Nijmegen Ethnographic Museum, which was managed by the Catholic University of Nijmegen (now Radboud University).
 
-In 2009 opende in Tilburg het [Peerke Donders paviljoen](https://www.peerkedonders.nl/het-park/het-paviljoen/) waar het levensverhaal van Peerke Donders, die als missionaris in Suriname en voormalig Nederlands Indië actief was, aan de hand van objecten verteld. Ook het [Stadsmuseum Tilburg](https://stadsmuseumtilburg.nl/) beheerd een interessante collectie, van onder andere de Fraters van Tilburg. Het betreft hier met name de omvangrijke [fotocollectie Caribisch Erfgoed](https://stadsmuseumtilburg.nl/collecties?query=*:*&qf%5b%5d=tib_collectionPart_facet:Foto%27s%20Caribisch%20Erfgoed).
+In 2009, the [Peerke Donders Pavilion](https://www.peerkedonders.nl/het-park/het-paviljoen/) opened in Tilburg, where the life story of Peerke Donders, who was active as a missionary in Suriname and the former Dutch East Indies, is told wiht the use of various objects. The [Stadsmuseum Tilburg](https://stadsmuseumtilburg.nl/) (Tilburg City Museum) also manages an collection, including items from the Brothers of Tilburg. This mainly concerns an extensive [Caribbean Heritage photo collection](https://stadsmuseumtilburg.nl/collecties?query=*:*&qf%5b%5d=tib_collectionPart_facet:Foto%27s%20Caribisch%20Erfgoed).
 
-### Herkomstonderzoek
+### Provenance research
 
-Bij het [Regionaal Archief Tilburg](https://www.regionaalarchieftilburg.nl/zoek-in-archieven/?/file/8fe8c8d66b2d3d5d8a2e8a73eb87563a) is een belangrijk deel van het archief van het Nederlands Volkenkundig Missiemuseum beschikbaar. In [doos 20](https://www.regionaalarchieftilburg.nl/zoek-in-archieven/?/file/c091036b8eae3d8988acad3a19374ebc) is een beschrijving van de collectie te vinden. Tevens is een bewerkte versie van deze inventaris te lezen in het artikel _[Het Nederlands(ch) Volkenkundig (Missie-)Museum 1936-1986, een roomse erfenis](https://www.historietilburg.nl/wp-content/uploads/Jaargang-21-2003-nummer-3.pdf)_ van Cees van Raak. 
+A significant portion of the archives of the Nederlands Volkenkundig Missiemuseum is available at the [Regionaal Archief Tilburg](https://www.regionaalarchieftilburg.nl/zoek-in-archieven/?/file/8fe8c8d66b2d3d5d8a2e8a73eb87563a) (Regional Archives of Tilburg). A description of the collection can be found in [box 20](https://www.regionaalarchieftilburg.nl/zoek-in-archieven/?/file/c091036b8eae3d8988acad3a19374ebc). An edited version of this inventory can also be found in the article _[Het Nederlands(ch) Volkenkundig (Missie-)Museum 1936-1986, een roomse erfenis](https://www.historietilburg.nl/wp-content/uploads/Jaargang-21-2003-nummer-3.pdf)_ by Cees van Raak.
 
-Ook bij de Radboud Universiteit wordt een geringe hoeveelheid relevant archiefmateriaal over het Volkenkundig Missiemuseum bewaard. Hierbij gaat het voornamelijk om de formele correspondentie over de bruikleen en herbestemming van de museumcollectie na sluiting van het Nijmeegs Volkenkundig Museum in 2005. In het archiefmateriaal bevinden zich als bijlagen twee inventarislijsten: de 'bruikleencollectie Volkenkundig Missiemuseum Tilburg', en de 'bruikleencollectie Paters Capucijnen Tilburg'. De voorwerpen in deze inventarissen zijn slechts summier omschreven (bruikleengever, naam voorwerp en plaats van herkomst). Om het archief in te zien kan contact worden opgenomen met de beheerder van het archief van de Radboud Universiteit, [Marianne Waldekker](mailto:marianne.waldekker@ru.nl).
+Radboud University also holds a small amount of relevant archive material about the Volkenkundig Missiemuseum. This mainly consists of formal correspondence regarding the loan and repurposing of the museum collection after the closure of the Nijmeegs Volkenkundig Museum in 2005. The archive material includes two inventory lists as appendices: the 'loan collection of the Ethnographic Mission Museum Tilburg' and the 'loan collection of the Capuchin Fathers Tilburg'. The objects in these inventories are only briefly described (lender, name of object and place of origin). To view the archive, please contact the administrator of the Radboud University archive, [Marianne Waldekker](mailto:marianne.waldekker@ru.nl).
 
 
 ## Related Aids
 
- - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Missiemuseum Steyl](published/niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
+ - [Museums and collections](niveau2/English/Museum_20250113.yml)  
+ - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
+ - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)  
+ - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
 
 ## Primary sources
 
-Archief:
+Archive:
   > *NL-TbRAT toegang 517 Plaatsingslijst van het archief van het Volkenkundig Museum te Tilburg, 1932 - 1989*
-  > _Archief van het Nederlands Volkenkundig Missiemuseum bij het Regionaal Archief Tilburg. Doos 20 bevat onder andere een inventaris van de museumcollectie_  
+  > _Archive of the Nederlands Volkenkundig Missiemuseum (Netherlands Ethnographic Missionary Museum) at the Tilburg Regional Archives. Box 20 contains, among other things, an inventory of the museum collection._  
 
   > [https://www.regionaalarchieftilburg.nl/zoek-in-archieven/?/file/8fe8c8d66b2d3d5d8a2e8a73eb87563a](https://www.regionaalarchieftilburg.nl/zoek-in-archieven/?/file/8fe8c8d66b2d3d5d8a2e8a73eb87563a)
 
 ## Secondary sources
 
-Artikel:
+Article:
   > *Raak, Cees van. 'Het Nederlands(ch) Volkenkundig (Missie-)Museum 1936-1986, een roomse erfenis.' Tilburg. Tijdschrift voor geschiedenis, monumenten en cultuur 21, no. 3 (2003): 90-98.*
-  > _Artikel van Cees van Raak over de geschiedenis van het Nederlands Volkenkundig Missiemuseum in Tilburg. Artikel beschrijft uitvoerig de geschiedenis van het museum, de verschillende onderdelen van de collectie en de conservatoren door de jaren heen._  
+  > _Article by Cees van Raak (in Dutch) on the history of the Nederlands Volkenkundig Missiemuseum in Tilburg. The article describes in detail the history of the museum, the various parts of the collection and the curators over the years._  
 
   > [https://www.historietilburg.nl/wp-content/uploads/Jaargang-21-2003-nummer-3.pdf](https://www.historietilburg.nl/wp-content/uploads/Jaargang-21-2003-nummer-3.pdf)
 
-Boek:
+Book:
   > *Verwiel, Harry. Museumboek voor Noord-Brabant. Bosch & Keuning, 1982.*
-  > _Boekje uit 1982 met beschrijvingen van verschillende musea. In het hoofdstuk 'Van vreemde volken' wordt kort aandacht besteed aan het Nederlands Volkenkundig Missiemuseum in Tilburg._  
+  > _Booklet from 1982 with descriptions of various museums. The chapter 'Van vreemde volken' (Of foreign peoples) briefly discusses the Nederlands Volkenkundig Missiemuseum in Tilburg._  
 
   > [https://search.worldcat.org/title/781496494](https://search.worldcat.org/title/781496494), [WorldCat 781496494](https://search.worldcat.org/title/781496494), [ISBN 9789024644247](https://isbnsearch.org/isbn/9789024644247)
 

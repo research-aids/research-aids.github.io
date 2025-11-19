@@ -4,49 +4,49 @@
 
 ## Abstract
 
-De Koninklijke Verzamelingen, de particuliere collectie van de Nederlandse koninklijke familie, zijn een onderdeel van het Koninklijk Huisarchief. De collectie bevat een grote hoeveelheid objecten uit voormalige Nederlandse koloniën. Deze objecten kwamen vaak als gift in de verzameling terecht.
+The Koninklijke Verzamelingen (Royal Collections), the private collection of the Dutch royal family, are part of the Koninklijk Huisarchief (Royal House Archives). The collection contains a large number of objects from former Dutch colonies. These items often ended up in the collection as a gift.
 
-### Geschiedenis
+### History
 
-De Koninklijke Verzamelingen bestaan uit de optelsom van voorwerpen en archieven die leden van de geslachten Nassau en Oranje-Nassau en de mensen in hun directe omgeving in de loop van eeuwen hebben verzameld. Het betreft privé-eigendommen die in meerdere stichtingen zijn ondergebracht. De Verzamelingen vormen een onderdeel van het Koninklijk Huisarchief. Dit huisarchief bestaat sinds 1898 in haar huidige vorm en werd opgericht door regentes Emma, die de familie-archieven, de bibliotheekcollectie en de andere verzamelingen van de familie Van Oranje-Nassau samenvoegde. Hiervoor liet Emma een nieuw gebouw realiseren in de buurt van Paleis Noordeinde in Den Haag.
+The Koninklijke Verzamelingen (Royal Collections) consist of objects and archives collected over the centuries by members of the Nassau and Oranje-Nassau families and those close to them. These are private possessions that have been placed in the care of several foundations. The Collections form part of the Koninklijk Huisarchief (Royal House Archives). These archives have existed in its current form since 1898 and were established by Regent Emma, who brought together the family archives, the library collection and the other collections of the Van Oranje-Nassau family. To this end, Emma had a new building constructed near Noordeinde Palace in The Hague.
 
-Bij de bouw van het Koninklijk Huisarchief werd ook ruimte gemaakt voor een [familiemuseum](https://www.koninklijkeverzamelingen.nl/verhalen/het-koninklijk-huisarchief), hier is nog altijd een deel van de Koninklijke Verzamelingen te zien. De Koninklijke Verzamelingen zijn een tamelijk mobiele collectie: een groot deel van de voorwerpen is als langdurig bruikleen aan musea beschikbaar gesteld of onderdeel van de inrichting van de diverse paleizen van de koninklijke familie. Een goed voorbeeld hiervan is de [Indische Zaal](https://www.koninklijkeverzamelingen.nl/verhalen/de-indische-zaal) in paleis Noordeinde, waar verschillende objecten worden tentoongesteld afkomstig uit Indonesië. 
+When the Royal Archives were built, space was also made for a [family museum](https://www.koninklijkeverzamelingen.nl/verhalen/het-koninklijk-huisarchief), where part of the Royal Collections are still on display. The Koninklijke Verzamelingen are a fairly mobile collection: a large part of the objects have been made available to museums on long-term loan or form part of the interior decoration of the various palaces of the royal family. A good example of this is the [Indische Zaal](https://www.koninklijkeverzamelingen.nl/verhalen/de-indische-zaal) in Noordeinde Palace, where various objects from Indonesia are on display. 
 
-De objecten in de Koninklijke Verzamelingen die afkomstig zijn uit een koloniale context zijn vaak voorwerpen die cadeau zijn gedaan aan de Nederlandse koninklijke familie. Denk hierbij aan objecten die ten gunste van een kroning aan de toenmalige Nederlandse vorst zijn gegeven, of objecten die de koninklijke familie ontving tijdens staatsbezoeken. Naast een objectcollectie, bevinden er zich ook vele [foto's](https://www.koninklijkeverzamelingen.nl/collectie?collecties=fotografie) uit voormalige Nederlandse koloniën in de Koninklijke Verzamelingen.
+The objects in the Koninklijke Verzamelingen that originate from a colonial context are often items that were offered as gifts to the Dutch royal family. These include objects that were given to the then Dutch monarch in honour of a coronation, or objects that the royal family received during state visits. In addition to a collection of objects, the Koninklijke Verzamelingen also contains many [photographs](https://www.koninklijkeverzamelingen.nl/collectie?collecties=fotografie) from former Dutch colonies.
 
-![Het interieur van het familiemuseum in het Koninklijk Huisarchief](https://upload.wikimedia.org/wikipedia/commons/8/8e/Koninklijk_Huisarchief_2024.jpg)
-_Het interieur van het familiemuseum in het Koninklijk Huisarchief, 2024_ ([Kerkhof123](https://commons.wikimedia.org/wiki/File:Koninklijk_Huisarchief_2024.jpg))
+![The interior of the museum at the Royal Family Archives building](https://upload.wikimedia.org/wikipedia/commons/8/8e/Koninklijk_Huisarchief_2024.jpg)
+_The interior of the museum at the Royal Family Archives buidling, 2024_ ([Kerkhof123](https://commons.wikimedia.org/wiki/File:Koninklijk_Huisarchief_2024.jpg))
 
-### Herkomstonderzoek
+### Provenance research
 
-De volledige Koninklijke Verzamelingen zijn [online raadpleegbaar](https://www.koninklijkeverzamelingen.nl/collectie), hier kan je ook selecteren op herkomstplek. Ook de archieven tot 1948 van het koninklijk huis zijn openbaar toegankelijk. Alle te raadplegen archieven zijn [online](https://www.koninklijkeverzamelingen.nl/archief) te vinden. Op dit moment is van een deel van deze archieven ook de volledige inventaris online raadpleegbaar. De komende jaren zal dit aantal steeds verder toenemen. Bij het Koninklijk Huisarchief zijn van alle archieven inventarissen beschikbaar, deze kunnen tijdens een bezoek worden ingezien.
+The complete Koninklijke Verzamelingen can be consulted [online](https://www.koninklijkeverzamelingen.nl/collectie), where you can make an object selection by their place of origin. The archives of the royal family dating back to 1948 are also publicly accessible. All archives that can be consulted are available [online](https://www.koninklijkeverzamelingen.nl/archief). At present, the complete inventory of some of these archives can also be consulted online. Over the next few years, the number of archives available online will continue to increase. The Royal Archives hold inventories of all the archives, these can be consulted during a visit.
 
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Musea en efgoedbeherende instellingen](niveau2/Dutch/Museum_20250113.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
+ - [Museums and collections](niveau2/English/Museum_20250113.yml)  
+ - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
 
 ## Primary sources
 
-Archief:
-  > *Koninklijk Huisarchief*
-  > _Het archief van het Nederlandse koninklijke huis tot 1948 is openbaar toegankelijk. Op de website vind je een overzicht van alle raadpleegbare archieven._  
+Archive:
+  > *Royal Family Archives*
+  > _The archives of the Dutch royal family up to 1948 are open to the public. The website provides an overview of all archives that can be consulted._  
 
   > [https://www.koninklijkeverzamelingen.nl/archief](https://www.koninklijkeverzamelingen.nl/archief)
 
-Collectie:
+Collection:
   > *Koninklijke Verzamelingen*
-  > _De volledige collectie van de Koninklijke Verzamelingen is raadpleegbaar via deze website. Hier kan ook worden geselecteerd op herkomstgebied. Ook de fotografiecollectie kan via deze website worden ingezien._  
+  > _The entire collection of the Koninklijke Verzamelingen (Royal Collections) can be viewed on this website. Here, you can also select items by region of origin. The photography collection can also be viewed on this website._  
 
   > [https://www.koninklijkeverzamelingen.nl/collectie](https://www.koninklijkeverzamelingen.nl/collectie)
 
 ## Secondary sources
 
-Boek:
+Book:
   > *Loonstra, Marten, en B. Woelderink. Uit koninklijk bezit: honderd jaar Koninklijk Huisarchief: de verzamelingen van de Oranjes. Waanders, 1996.*
-  > _Boek uit 1996 dat de geschiedenis van de Koninklijke Verzamelingen beschrijft._  
+  > _Book from 1996 describing the history of the Koninklijke Verzamelingen._  
 
   > [https://search.worldcat.org/title/782242157](https://search.worldcat.org/title/782242157)
 
