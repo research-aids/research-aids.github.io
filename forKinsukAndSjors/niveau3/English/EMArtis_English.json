@@ -250,6 +250,13 @@
             "author": "Abacus",
             "role": "translator",
             "editing_notes": "abacus translations processed by wiebe reints"
+        },
+        {
+            "date": "2025-06-19",
+            "applies_to": null,
+            "author": "Tom Quist",
+            "role": "reviewer",
+            "editing_notes": "RA has been checked by Tom Quist (Provenance Researcher at Wereldmuseum), no comments."
         }
     ],
     "File name": "EMArtis"

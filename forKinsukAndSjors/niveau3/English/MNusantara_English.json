@@ -161,6 +161,13 @@
             "editing_notes": "metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here."
         },
         {
+            "date": "2025-02-26",
+            "applies_to": null,
+            "author": "Milou Francken",
+            "role": "reviewer",
+            "editing_notes": "RA was checked by Milou Francken (Junior Curator at Museum Princessehof), comments were processed."
+        },
+        {
             "date": "2025-10-20",
             "applies_to": null,
             "author": "Abacus",
