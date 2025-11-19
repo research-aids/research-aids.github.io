@@ -78,6 +78,5 @@ Herkomstverslag:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-04-28_  
-_last edited by Wiebe Reints as original_author on 2025-06-16
-(applies to section: Beschrijving)_
+_last edited by Tom Quist as editor on 2025-06-19_
         
