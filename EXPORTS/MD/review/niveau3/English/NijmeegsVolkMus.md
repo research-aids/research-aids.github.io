@@ -4,32 +4,32 @@
 
 ## Abstract
 
-Het Nijmeegs Volkenkundig Museum is een voormalig museum dat in 1979 werd opgericht als onderdeel van de Katholieke Universiteit Nijmegen (tegenwoordig de Radboud Universiteit). Het museum beheerde een ruime collectie, waarvan een groot bestond uit bruiklenen. Na de sluiting van het museum in 2005 is een deel van de collectie teruggegeven aan de bruikleengevers, andere delen zijn elders ondergebracht of verkocht.
+The Nijmegen Volkenkundig Museum (Nijmegen Ethnographic Museum) is a former museum that was founded in 1979 as part of the Catholic University of Nijmegen ( today Radboud University). The museum managed a large collection, much of which consisted of loans. After the museum closed in 2005, part of the collection was returned to the lenders, while other parts were relocated or sold.
 
-### Geschiedenis van het museum
+### History of the museum
 
-Het Nijmeegs Volkenkundig Museum is een voormalig volkenkundig museum dat onderdeel was van de Radboud Universiteit in Nijmegen (voorheen de Katholieke Universiteit Nijmegen). Het museum werd in 1979 vanuit de vakgroep antropologie opgericht. Er werden tentoonstellingen gehouden voor het algemene publiek, maar de collectie werd ook gebruikt ter ondersteuning van het onderwijs. De collectie bestond uit zo'n 11.000 voorwerpen, waarvan een groot deel bestond uit bruiklenen. Zo beheerde het museum de collecties van verschillende congregaties en ook de zogenaamde 'Beijenscollectie' die voormalig KNIL-soldaat [Jean Bijens](https://nl.wikipedia.org/wiki/Jean_Beijens) in 1912 aan de gemeente Nijmegen had geschonken.
+The Nijmegen Ethnographic Museum is a former ethnographic museum that was part of Radboud University in Nijmegen. The museum was founded in 1979 by the anthropology department. Exhibitions were held for the general public, but the collection was also used to support education. The collection consisted of around 11,000 objects, a large part of which were on loan. For example, the museum managed the collections of various congregations and also the so-called 'Beijens Collection', which former KNIL soldier [Jean Bijens](https://nl.wikipedia.org/wiki/Jean_Beijens) had donated to the municipality of Nijmegen in 1912.
 
-In 2005 werd besloten tot sluiting van het Nijmeegs Volkenkundig Museum. Een groot deel van de collectie bleef nadien toegankelijk in het depot van de Radboud Universiteit. De Beijenscollectie werd in 2010 overgedragen aan [Museum Bronbeek](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f). De objectcollectie van de Paters Capucijnen zijn in 2011 in langdurige bruikleen gegeven aan de [Universiteit Gent](https://www.gum.gent/nl/deelcollectie-etnografie). In 2018 werd het depot gesloten en de [restanten verkocht](https://www.voxweb.nl/nieuws/te-koop-ethiopische-christenen-en-andere-museumrestjes).
+In 2005, it was decided to close the Nijmegen Ethnographic Museum. A large part of the collection remained accessible afterwards in the Radboud University depot. The Beijens Collection was transferred to [Museum Bronbeek](https://app.colonialcollections.nl/en/research-guide/ https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f). The Capuchin Fathers' collection of objects was given on long-term loan to Ghent University in 2011. In 2018, the depot was closed and the [remaining items were sold](https://www.voxweb.nl/nieuws/te-koop-ethiopische-christenen-en-andere-museumrestjes).
 
-### Herkomstonderzoek
+### Provenance research
 
-Het archief van het Nijmeegs Volkenkundig Museum wordt beheerd door de Radboud Universiteit in Nijmegen en bevat relatief weinig materiaal. Met name inventarisnummer 'Cb05572/56' is relevant, dit bevat naast verschillende tentoonstellingscatalogi een handgeschreven inventaris van de museumcollectie. Inventarisnummer 'cb05572/57' bevat fotografisch materiaal met betrekking tot de verschillende tentoonstellingen die in het Nijmeegs Volkenkundig Museum zijn gehouden.
+The archives of the Nijmegen Ethnographic Museum are managed by the Radboud University in Nijmegen and contain relatively little material. Inventory number 'Cb05572/56' is particularly relevant, as it contains various exhibition catalogues and a handwritten inventory of the museum collection. Inventory number 'cb05572/57' contains photographic material relating to the various exhibitions held at the Nijmegen Ethnographic Museum.
 
-Het archief van de Radboud Universiteit is niet openbaar, maar wel toegankelijk door een gemotiveerd verzoek in te dienen bij de archivaris [Marianne Waldekker](mailto:marianne.waldekker@ru.nl).
+The Radboud University archive is not open to the public, but it can be accessed by submitting a motivated request to the archivist [Marianne Waldekker](mailto:marianne.waldekker@ru.nl).
 
-De Beijenscollectie die in 2010 werd overgedragen aan Museum Bronbeek in Arnhem is raadpleegbaar via de [collectie-website van het museum](https://museumbronbeek.nl/#1d411b24-7856-4453-af86-9b33c9c40fa7). Meer informatie over de etnografische collectie van de Univeristeit Gent, vind je op de website van het [Gents Universiteitsmuseum](https://www.gum.gent/nl/deelcollectie-etnografie).
+The Beijens Collection, which was transferred to Museum Bronbeek in Arnhem in 2010, can be viewed on the museum's [collection website](https://museumbronbeek.nl/#1d411b24-7856-4453-af86-9b33c9c40fa7). More information about the ethnographic collection of Ghent University can be found on the website of the [Ghent University Museum](https://www.gum.gent/nl/deelcollectie-etnografie).
 
 
 ## Related Aids
 
- - [Musea en efgoedbeherende instellingen](niveau2/Dutch/Museum_20250113.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Wetenschap](niveau2/Dutch/Science_20240814.yml)  
- - [Missiemuseum Steyl](published/niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
+ - [Museums and collections](niveau2/English/Museum_20250113.yml)  
+ - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
+ - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Nederlandsch Zendeling Genootschap](niveau3/English/WMBergEnDal_20241001.yml)  
+ - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
 
 THIS RA HAS NO SOURCES
 
@@ -37,7 +37,7 @@ THIS RA HAS NO SOURCES
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-11-19
+_last edited by UNKNOWN as UNKNOWN on 2025-11-20
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         
