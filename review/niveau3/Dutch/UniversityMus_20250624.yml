@@ -11,7 +11,7 @@ RelatedAides:
   - "Bronnen":
         link: "niveau1/Dutch/Sources_20240425.yml"
         rel_type: "see also"
-  - "Musea en efgoedbeherende instellingen":
+  - "Musea en collecties":
         link: "niveau2/Dutch/Museum_20250113.yml"
         rel_type: "see also"
   - "Wetenschap":
@@ -19,9 +19,6 @@ RelatedAides:
         rel_type: "see also"
   - "Koninklijk Instituut voor Taal-, Land- en Volkenkunde":
         link: "niveau3/Dutch/KITLV_20240704.yml"
-        rel_type: "see also"
-  - "C.G.C. Reinwardt":
-        link: "published/niveau3/Dutch/Reinwardt_20241217.yml"
         rel_type: "see also"
   - "Wageningen University & Research":
         link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
@@ -116,7 +113,7 @@ Main-text:
 Sources: []
 
 Editing_metadata:
-  - Date: 20250624
+  - Date: 2025-06-24
     Applies_to: 
     Author: Wiebe Reints
     Role: original_author
