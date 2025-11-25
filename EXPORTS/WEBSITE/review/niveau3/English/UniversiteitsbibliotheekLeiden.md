@@ -5,58 +5,58 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-11-20
+date: 2025-11-25
 --- 
 
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/review/niveau3/English/UniversiteitsbibliotheekLeiden.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/UniversiteitsbibliotheekLeiden.docx){: .btn .btn-blue }
 
 
-# Universitaire Bibliotheken Leiden
+# Leiden University Library
 
 
 ## Abstract
 
-De Universitaire Bibliotheken Leiden (UBL) herbergen een keur aan relevant materiaal voor het doen van onderzoek naar collecties uit een koloniale context. Naast boeken, tijdschriften en manuscripten beheert de UBL ook omvangrijke archiefcollecties en fotografisch materiaal.
+Leiden University Library (UBL) houses a wide range of relevant material for conducting research into collections from a colonial context. In addition to books, journals and manuscripts, the UBL also houses extensive archival collections and photographic material.
 
-### Geschiedenis van de organisatie
+### History of the organisation
 
-De schenking van de Polyglot Bijbel door [Willem van Oranje](http://www.wikidata.org/entity/Q78454) bij de stichting van de Universiteit Leiden in 1575 markeert ook de symbolische oprichting van de universiteitsbibliotheek. In 1587 werd de bibliotheek officieel in gebruik genomen en was gevestigd in het huidige academiegebouw van de Universiteit Leiden aan het Rapenburg. Sinds het verschijnen van de eerste bibliotheekcatalogus, de _Nomenclator_, in 1595 is de collectie uitgegroeid tot een verzameling van vele miljoenen boeken, manuscripten en andersoortige documenten. Sinds 2009 zijn de verschillende bibliotheken die door de jaren heen waren ontstaan aan de Universiteit Leiden samengevoegd onder de naam _Universitaire Bibliotheken Leiden_ (UBL). De UBL bestaat uit de algemene universiteitsbibliotheek en de bibliotheken Sociale Wetenschappen, Rechten, Wiskunde & Natuurwetenschappen en de East Asian Library.
+The donation of the Polyglot Bible by [Willem of Orange](http://www.wikidata.org/entity/Q78454) when the University of Leiden was founded in 1575 also marks the symbolic establishment of the university library. The library was officially opened in 1587 and was located in what is now Leiden University's academy building on Rapenburg. Since the publication of the first library catalogue, the Nomenclator, in 1595, the collection has grown to include many millions of books, manuscripts and other types of documents. Since 2009, the various libraries that had been established at Leiden University over the years have been merged under the name Leiden University Libraries (UBL). The UBL consists of the general university library and the libraries for Social Sciences, Law, Mathematics & Natural Sciences and the East Asian Library.
 
-Met betrekking tot onderzoek naar koloniale geschiedenissen beheert de UBL een grote relevante collectie, met name nadat de bibliotheek in respectievelijk 2013 en 2014 de collecties van het [Koninklijk Instituut voor de Tropen](http://www.wikidata.org/entity/Q1796182) en het [KITLV]() overnam. Ook de bibliotheek van het [Nederlands Instituut voor het Nabije Oosten](https://www.nino-leiden.nl/) werd in 2018 opgenomen in de UBL.
+With regard to research into colonial histories, the UBL manages a large relevant collection, particularly after the library took over the collections of the [Koninlijk Instituut voor de Tropen](http://www.wikidata.org/entity/Q1796182) (Royal Tropical Institute) and the [Royal Netherlands Institute of Southeast Asian and Caribbean Studies](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F62191a1bbed9b315db786f2037417b4f) (KITLV) in 2013 and 2014 respectively. The library of the [Netherlands Institute for the Near East](https://www.nino-leiden.nl/) was also incorporated into the UBL in 2018.
 
-Naast de collectie geschreven bronnen beheert de UBL ook een grote hoeveelheid ['Bijzondere collecties'](https://www.bibliotheek.universiteitleiden.nl/bijzondere-collecties), waarvan ook een deel [digitaal beschikbaar](https://digitalcollections.universiteitleiden.nl/) is. De [subject guides](https://www.bibliotheek.universiteitleiden.nl/subject-guides) geven je meer informatie over de ruime hoeveelheid beschikbare bronnen en waar je deze kan vinden. Naast conventionele boeken bevat de collectie ook tienduizenden manuscripten, landkaarten, spijkerschrifttabletten en miniaturen.
+In addition to its collection of written sources, the UBL also manages a large number of [Special collections](https://www.bibliotheek.universiteitleiden.nl/bijzondere-collecties), some of which are also [digitally available](https://digitalcollections.universiteitleiden.nl/). The [subject guides](https://www.bibliotheek.universiteitleiden.nl/subject-guides) provide more information about the wide range of available sources and where to find them. In addition to conventional books, the collection also contains tens of thousands of manuscripts, maps, cuneiform tablets and miniatures.
 
-### Onderzoek
+### Research
 
-De [digitale catalogus](https://www.bibliotheek.universiteitleiden.nl/) van de UBL is online doorzoekbaar, hierin zijn zowel boeken, tijdschriften en andersoortig materiaal te vinden. Om het zoeken te vergemakkelijken zijn er verschillende _[subject guides](https://www.bibliotheek.universiteitleiden.nl/subject-guides)_ beschikbaar. Ook de gedigitaliseerde bijzondere collecties zijn [online raadpleegbaar](https://digitalcollections.universiteitleiden.nl/). Naast de uitgebreide collectie beheert de UBL ook veel archiefmateriaal, zowel van de Universiteit Leiden zelf als persoonlijke en andersoortige archieven. De verschillende archiefcollecties zijn uitgebreid beschreven in zogenaamde _[collection guides](https://collectionguides.universiteitleiden.nl/)_. Hierin vind je ruime informatie over het aanwezige materiaal. Mocht je bepaalde informatie niet kunnen vinden is het ook altijd mogelijk om [contact](https://www.bibliotheek.universiteitleiden.nl/over-ons/contact) op te nemen met de organisatie.
+The UBL's [digital catalogue](https://www.bibliotheek.universiteitleiden.nl/) can be consulted online and contains books, periodicals and other types of material. To facilitate your search, various [subject guides](https://www.bibliotheek.universiteitleiden.nl/subject-guides) are available. The digitised special collections can also be [consulted online](https://digitalcollections.universiteitleiden.nl/). In addition to its extensive collection, the UBL also manages a large amount of archive material, both from Leiden University itself and from personal and other archives. The various archive collections are described in detail in so-called [collection guides](https://collectionguides.universiteitleiden.nl/). These contain extensive information about the available material. If you are unable to find certain information, you can always [contact](https://www.bibliotheek.universiteitleiden.nl/over-ons/contact) the organisation.
 
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Wetenschappelijk onderzoek in koloniale gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
+ - [Sources](niveau1/English/Sources_20240501.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
 
 ## Primary sources
 
 ## Secondary sources
 
 Website:
-  > *Online catalogus van de Universitaire bibliotheken Leiden*
-  > _De online catalogus van de Universitaire Bibliotheken Leiden, hierin is de volledige bibliotheekcatalogus doorzoekbaar. Zowel boeken, tijdschriften en andere documenten als archiefmateriaal kan via deze website ter inzage worden aangevraagd. Hiervoor dien je wel over een gebruikerspas van de Universiteit Leiden te beschikken._  
+  > *Online catalogue of the Leiden University Library*
+  > _The online catalogue of Leiden University Libraries allows you to browse the entire library catalogue. Books, journals, other documents and archive material can be requested for reference through this website. To do so,  a Leiden University user card is required._  
 
   > [https://catalogue.leidenuniv.nl/discovery/search?vid=31UKB_LEU:UBL_V1](https://catalogue.leidenuniv.nl/discovery/search?vid=31UKB_LEU:UBL_V1)
 
 Website:
   > *Subject guides*
-  > _Gidsen per onderwerp die je kunnen helpen bij het vinden van relevant materiaal voor je onderzoek._  
+  > _Guides by subject that can help you find relevant material for your research._  
 
   > [https://www.library.universiteitleiden.nl/subject-guides](https://www.library.universiteitleiden.nl/subject-guides)
 
 Website:
   > *Collection guides*
-  > _Deze website biedt toegang tot de collectiegidsen van de archieven en collecties van de Universitaire Bibliotheken Leiden. Een collectiegids beschrijft op algemeen niveau de onderdelen binnen een collectie of archief en geeft informatie over de geschiedenis, verwerving van het materiaal. De collectiegidsen op deze website kunnen ook een inventaris bevatten en links naar gedigitaliseerde inhoud._  
+  > _This website provides access to the collection guides of the archives and collections of Leiden University Libraries. A collection guide provides a general description of the items within a collection or archive and provides information about the history and acquisition of the material. The collection guides on this website may also contain an inventory and links to digitised content._  
 
   > [https://collectionguides.universiteitleiden.nl/](https://collectionguides.universiteitleiden.nl/)
 
@@ -66,7 +66,7 @@ Website:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-11-20
+_last edited by UNKNOWN as UNKNOWN on 2025-11-25
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         
