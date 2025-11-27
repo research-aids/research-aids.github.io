@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Christian missionaries in colonised territories
+title: ChristianMission
 parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-11-17
+date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/PDF/niveau2/English/ChristianMission.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/DOCX/niveau2/English/ChristianMission.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/published/niveau2/English/ChristianMission.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/published/niveau2/English/ChristianMission.docx){: .btn .btn-blue }
 
 
 # Christian missionaries in colonised territories

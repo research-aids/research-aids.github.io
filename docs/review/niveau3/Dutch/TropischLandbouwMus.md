@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Tropisch Landbouwmuseum
+title: TropischLandbouwMus
 parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-11-17
+date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/PDF/niveau3/Dutch/TropischLandbouwMus.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/DOCX/niveau3/Dutch/TropischLandbouwMus.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/TropischLandbouwMus.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/TropischLandbouwMus.docx){: .btn .btn-blue }
 
 
 # Tropisch Landbouwmuseum
@@ -32,16 +32,16 @@ In 1972 besloot de gemeente Deventer de collectie van het voormalige Tropische L
 ![Prentbriefkaart uit ca. 1915 met daarop het gebouw van het Tropisch Landbouwmuseum in Deventer](https://openatlantis.mijnstadmijndorp.nl/HttpHandler/icoon.ico?icoon=502414248)
 _Het gebouw van het Tropisch Landbouwmuseum in Deventer, ca. 1915_ ([Collectie Overijssel](https://proxy.archieven.nl/thumb/45/12905404185651C4E0504C91A4062E7A))
 
-### Provenance research
+### Herkomstonderzoek
 
-Bij Collectie Overijssel (het provinciale archief van Overijssel, waar ook het stadsarchief van Deventer wordt beheerd) is binnen verschillende archieven relevant materiaal te vinden met betrekking tot het Tropisch Landbouwmuseum. In het archief van het Deventer gemeentebestuur (1950-1993) is materiaal te vinden over de [herbestemming van de collectie](https://proxy.archieven.nl/20/84381A13E53D42B5A277F2B7F07316BA), de [museumbibliotheek](https://proxy.archieven.nl/20/72731108F93D4D6DA59E653040FCD6CB), [notulen](https://proxy.archieven.nl/20/01D85CD71979494D8BBFB372C3D0FC88) en [jaarverslagen](https://proxy.archieven.nl/20/01D85CD71979494D8BBFB372C3D0FC88). Ook het [archief van de vereniging die het museum beheerde] wordt bij Collectie Overijssel bewaard. Hierin is onder andere een catalogus van de Landbouwtentoonstelling uit 1912 te vinden (deze is ook beschikbaar via de [bibliotheek van de Universiteit Leiden](http://hdl.handle.net/1887.1/item:3761833)) en ook materiaal over de verdere opbouw van de museumcollectie. Als laatst is er nog het [archief van de Middelbare Koloniale Landbouwschool](https://proxy.archieven.nl/20/85648BDC0AD441BF93308E8D802BFEAA) waarin zich ook relevant materiaal over het Tropisch Landbouwmuseum bevind.
+Bij Collectie Overijssel (het provinciale archief van Overijssel, waar ook het stadsarchief van Deventer wordt beheerd) is binnen verschillende archieven relevant materiaal te vinden met betrekking tot het Tropisch Landbouwmuseum. In het archief van het Deventer gemeentebestuur (1950-1993) is materiaal te vinden over de [herbestemming van de collectie](https://proxy.archieven.nl/20/84381A13E53D42B5A277F2B7F07316BA), de [museumbibliotheek](https://proxy.archieven.nl/20/72731108F93D4D6DA59E653040FCD6CB), [notulen](https://proxy.archieven.nl/20/01D85CD71979494D8BBFB372C3D0FC88) en [jaarverslagen](https://proxy.archieven.nl/20/01D85CD71979494D8BBFB372C3D0FC88). Ook het archief van de vereniging die het museum beheerde wordt bij Collectie Overijssel bewaard. Hierin is onder andere een catalogus van de Landbouwtentoonstelling uit 1912 te vinden (deze is ook beschikbaar via de [bibliotheek van de Universiteit Leiden](http://hdl.handle.net/1887.1/item:3761833)) en ook materiaal over de verdere opbouw van de museumcollectie. Als laatst is er nog het [archief van de Middelbare Koloniale Landbouwschool](https://proxy.archieven.nl/20/85648BDC0AD441BF93308E8D802BFEAA) waarin zich ook relevant materiaal over het Tropisch Landbouwmuseum bevind.
 
 Specifieke informatie over de objecten uit het voormalige Tropische Landbouwmuseum is onderdeel van de collectie die in Groningen wordt beheerd, zie voor meer informatie over het voormalige [Volkenkundig Museum 'Gerardus van der Leeuw'](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd40d1b8cb736d6f4e8b697af45a628ee) de desbetreffende zoekhulp. 
 
 
 ## Related Aids
 
- - [Musea en efgoedbeherende instellingen](niveau2/Dutch/Museum_20250113.yml)  
+ - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
  - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)  
  - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
@@ -92,7 +92,7 @@ Catalogus:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-11-17
+_last edited by UNKNOWN as UNKNOWN on 2025-11-25
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Nijmeegs Volkenkundig Museum
+title: NijmeegsVolkMus
 parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-11-17
+date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/PDF/niveau3/Dutch/NijmeegsVolkMus.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/DOCX/niveau3/Dutch/NijmeegsVolkMus.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/NijmeegsVolkMus.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/NijmeegsVolkMus.docx){: .btn .btn-blue }
 
 
 # Nijmeegs Volkenkundig Museum
@@ -36,9 +36,9 @@ De Beijenscollectie die in 2010 werd overgedragen aan Museum Bronbeek in Arnhem 
 
 ## Related Aids
 
- - [Musea en efgoedbeherende instellingen](niveau2/Dutch/Museum_20250113.yml)  
+ - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
  - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Wetenschap](niveau2/Dutch/Science_20240814.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
  - [Missiemuseum Steyl](published/niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
  - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
@@ -50,7 +50,7 @@ THIS RA HAS NO SOURCES
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-11-17
+_last edited by UNKNOWN as UNKNOWN on 2025-11-25
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

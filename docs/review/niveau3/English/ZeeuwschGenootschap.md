@@ -9,7 +9,7 @@ date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/ZeeuwschGenootschap.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/ZeeuwschGenootschap.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/review/niveau3/English/ZeeuwschGenootschap.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/ZeeuwschGenootschap.docx){: .btn .btn-blue }
 
 
 # Koninklijk Zeeuwsch Genootschap der Wetenschappen

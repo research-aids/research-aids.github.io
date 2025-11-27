@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Verslagleggen
+title: Reporting
 parent: niveau1
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-11-17
+date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/PDF/niveau1/Dutch/Reporting.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/DOCX/niveau1/Dutch/Reporting.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/published/niveau1/Dutch/Reporting.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/published/niveau1/Dutch/Reporting.docx){: .btn .btn-blue }
 
 
 # Verslagleggen

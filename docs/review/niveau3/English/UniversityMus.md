@@ -9,33 +9,33 @@ date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/UniversityMus.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/UniversityMus.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/review/niveau3/English/UniversityMus.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/UniversityMus.docx){: .btn .btn-blue }
 
 
-# Universitaire collecties
+# University collections
 
 
 ## Abstract
 
-Verschillende Nederlandse universiteiten beheren collecties uit een koloniale context. Deze zijn vaak bijeengebracht door wetenschappers die onderzoek uitvoerden in door Nederland gekoloniseerde gebieden, bijvoorbeeld op het gebied van etnografie of geologie. In deze zoekhulp vind je een overzicht van relevante universitaire collecties in Nederland.
+Several Dutch universities manage collections from a colonial context. These were often assembled by scientists conducting research for example in the fields of ethnography or geology in areas colonised by the Netherlands. This research aid provides an overview of relevant university collections in the Netherlands.
 
-### Koloniale universitaire collecties
+### Colonial university collections
 
-De groeiende [wetenschappelijke interesse](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Feb4ff2b6b993f02054ba064a6389f39e) in door Nederland gekoloniseerde gebieden gedurende de negentiende eeuw, zorgde voor een aanwas aan objecten uit een koloniale context bij Nederlandse universiteiten. Dit soort voorwerpen, zoals kaarten, natuurhistorische specimens en andersoortige wetenschappelijke voorwerpen worden door Nederlandse universiteiten vaak hun 'bijzondere collecties' genoemd. Enkele universiteiten in Nederland hebben ook een museum ingericht met deze verzamelingen. 
+The growing [scientific interest](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023% 2Feb4ff2b6b993f02054ba064a6389f39e) into areas colonised by the Netherlands during the nineteenth century led to an accumulation of objects from a colonial context at Dutch universities. These types of objects, such as maps, natural history specimens and other scientific objects, are often referred to by Dutch universities as their “special collections”. Several universities in the Netherlands have also set up museums to display these collections. 
 
-Hoewel universitaire collecties een breed scala aan objecten bevatten, waaronder veelal wetenschappelijke meetinstrumenten, loont het de moeite om deze verzamelingen ook mee te nemen in je onderzoek naar museumcollecties uit een koloniale context. Hieronder staan kort de verschillende collecties van Nederlandse universiteiten beschreven. Vier collecties, die van de Universiteitsbibliotheek in Leiden, [Wageningen University & Research](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F2c7a29ba107a49a29f1251631db1cf11), het Nijmeegs Volkenkundig Museum en het voormalig [Volkenkundige Museum 'Gerardus van der Leeuw'](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd40d1b8cb736d6f4e8b697af45a628ee) dat onderdeel uit maakte van de Rijksuniversiteit Groningen worden uitgebreider behandeld in afzonderlijke zoekhulpen. Universiteiten die hieronder niet staan vermeld beheren geen noemenswaardige collecties uit een koloniale context.
+Although university collections contain a wide range of objects, including mostly measuring instruments for scientific research, it is worthwhile to include these collections in your research into museum collections from a colonial context. Below you find a brief description of the various collections held by Dutch universities. Four collections, those of the University Library in Leiden, [Wageningen University & Research](https://app.colonialcollections.nl/en/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023% 2F2c7a29ba107a49a29f1251631db1cf11), the Nijmegen Ethnographic Museum and the former [Gerardus van der Leeuw Ethnographic Museum](https://app.colonialcollections.nl/en/research-guide/ https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd40d1b8cb736d6f4e8b697af45a628ee), which was part of the University of Groningen, are discussed in more detail in separate search aids. Universities not listed below do not manage significant collections from a colonial context.
 
-*Erasmus Universiteit Rotterdam*
+*Erasmus University Rotterdam*
 
-De Erasmus Universiteit in de Zuid-Hollandse stad Rotterdam bestaat sinds 1973 in haar huidige vorm, maar heeft als directe voorganger de in 1913 opgericht Nederlandse Handels-Hogeschool. Door haar basis in economisch onderwijs en relatief late verbreding van het curriculum kent de Erasmus Universiteit geen grote relevante koloniale collecties. Toch zijn er enkele, vooral boekenverzamelingen, die het vernoemen waard zijn: 
+Erasmus University in the Zuid-Holland city of Rotterdam has existed in its current form since 1973, but its direct predecessor was the Netherlands School of Commerce, founded in 1913. Due to its focus on economic education and the relatively late expansion of its curriculum, Erasmus University does not have any large relevant colonial collections. Nevertheless, there are a few, mainly book collections, that are worth mentioning:
 
-Het [Rotterdamsch Leeskabinet](https://www.eur.nl/library/leeskabinet/over-het-rlk) dat in 1859 werd geopend, raakte door het bombardement op Rotterdam in 1940 volledig verwoest. De boekenverzameling van dr. Elie van Rijckevorsel vormde na de oorlog de basis voor de voortzetting van het Leeskabinet, dat sinds 1971 onderdeel is van de Erasmus Universiteit. Van Rijckevorsel was in 1883 een van de aanjagers van de oprichting van het [Museum voor Land- en Volkenkunde](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fe2859af90871cee23d48d1467336b191), het tegenwoordige Wereldmuseum Rotterdam. Veel van de boeken die van Rijckevorsel verzamelde hebben betrekking op diens handelsactiviteiten in West-Afrika, Oost-Indië en het Caraïbisch gebied en kunnen daarom relevant zijn voor het doen van onderzoek naar koloniale collecties in Nederland.
+The [Rotterdamsch Leeskabinet](https://www.eur.nl/library/leeskabinet/over-het-rlk) (Rotterdam Reading Room), which opened in 1859, was completely destroyed by the bombing of the city of Rotterdam in 1940. After the war, Dr Elie van Rijckevorsel's book collection formed the basis for the continuation of the Reading Room, which has been part of Erasmus University since 1971. In 1883, Van Rijckevorsel was one of the driving forces behind the establishment of the [Museum voor Land- en Volkenkunde](https://app.colonialcollections.nl/nl/research-guide/ https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fe2859af90871cee23d48d1467336b191), now known as the Wereldmuseum Rotterdam. Many of the books collected by Rijckevorsel relate to his trading activities in West Africa, the East Indies and the Caribbean and may therefore be relevant to research into colonial collections in the Netherlands.
 
-Een andere relevante collectie is de verzameling Surinaamse poëzie die in 2021 door het Rotterdamsch Leeskabinet is verworven. Hoewel de collectie, die grotendeels uit in Sranantongo geschreven gedichten bestaat, voornamelijk bundels bevat vanaf de jaren 1960 tot nu, is het een relevante collectie die een verbintenis heeft met het Nederlandse koloniale verleden. Behalve het Sranantongo zijn er ook andere Surinaamse talen vertegenwoordigd. De collectie bevat onder andere werken van bekende Surinaamse dichters zoals Dobru, Edgar Cairo, Michaël Slory en Albert Helman.
+Another relevant collection is the collection of Surinamese poetry acquired by the Rotterdamsch Leeskabinet in 2021. Although the collection, which consists largely of poems written in Sranantongo, mainly contains volumes from the 1960s to the present day, it is a relevant collection that has a connection with the Dutch colonial past. In addition to Sranantongo, other Surinamese languages are also represented. The collection includes works by well-known Surinamese poets such as Dobru, Edgar Cairo, Michaël Slory and Albert Helman.
 
-Het archief van de Erasmus Universiteit en haar voorgangers wordt beheerd door het [Stadsarchief Rotterdam](https://hdl.handle.net/21.12133/31291B38C3C4480F9341E2EC4FD6BDD5).
+The archives of Erasmus University and its predecessors are managed by the [City Archives of Rotterdam](https://hdl.handle.net/21.12133/31291B38C3C4480F9341E2EC4FD6BDD5).
 
-*Radboud Universiteit Nijmegen*
+*Radboud University Nijmegen*
 
 De Radboud Universiteit in de Gelderlandse stad Nijmegen werd in 1923 opgericht als Rooms-Katholieke universiteit. Deze geschiedenis vindt ook zijn weerklank in de collecties die de universiteit beheert, of beheerde in het verleden. Tot 2005 was het Nijmeegs Volkenkundig Museum onderdeel van de Radboud Universiteit, zie voor meer informatie over dit museum de desbetreffende zoekhulp (deze is nog in ontwikkeling). Na de sluiting van het museum is de collectie afgestoten en terecht gekomen bij verschillende andere instellingen, waaronder [Museum Bronbeek](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f) en de Universiteit van Gent. 
 
@@ -86,13 +86,13 @@ Het archief van de Landbouwhogeschool tot 1959 bevindt zich bij het [Gelders Arc
 
 ## Related Aids
 
- - [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)  
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
- - [Wetenschap](niveau2/Dutch/Science_20240814.yml)  
- - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)  
+ - [Doing research](niveau1/English/DoingResearch_20240425.yml)  
+ - [Sources](niveau1/English/Sources_20240501.yml)  
+ - [Museums and collections](niveau2/English/Museum_20250113.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)  
+ - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
 
 THIS RA HAS NO SOURCES
 

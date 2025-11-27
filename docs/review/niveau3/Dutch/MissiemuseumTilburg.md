@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Nederlands Volkenkundig Missiemuseum
+title: MissiemuseumTilburg
 parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-11-17
+date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/PDF/niveau3/Dutch/MissiemuseumTilburg.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/DOCX/niveau3/Dutch/MissiemuseumTilburg.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/MissiemuseumTilburg.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/MissiemuseumTilburg.docx){: .btn .btn-blue }
 
 
 # Nederlands Volkenkundig Missiemuseum
@@ -75,7 +75,7 @@ Boek:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-11-17
+_last edited by UNKNOWN as UNKNOWN on 2025-11-25
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

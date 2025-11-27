@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Koninklijke Verzamelingen
+title: KoninklijkeVerzamelingen
 parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-11-17
+date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/PDF/niveau3/Dutch/KoninklijkeVerzamelingen.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/DOCX/niveau3/Dutch/KoninklijkeVerzamelingen.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/KoninklijkeVerzamelingen.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/KoninklijkeVerzamelingen.docx){: .btn .btn-blue }
 
 
 # Koninklijke Verzamelingen
@@ -38,7 +38,7 @@ De volledige Koninklijke Verzamelingen zijn [online raadpleegbaar](https://www.k
 ## Related Aids
 
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Musea en efgoedbeherende instellingen](niveau2/Dutch/Museum_20250113.yml)  
+ - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
  - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
 
 ## Primary sources
@@ -69,7 +69,7 @@ Boek:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-11-17
+_last edited by UNKNOWN as UNKNOWN on 2025-11-25
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

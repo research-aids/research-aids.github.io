@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Wereldmuseum Berg en Dal
+title: WMBergEnDal
 parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-11-17
+date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/PDF/niveau3/English/WMBergEnDal.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/DOCX/niveau3/English/WMBergEnDal.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/published/niveau3/English/WMBergEnDal.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/WMBergEnDal.docx){: .btn .btn-blue }
 
 
 # Wereldmuseum Berg en Dal
@@ -75,6 +75,5 @@ Book:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-10-01_  
-_last edited by Abacus as translator on 2025-04-24
-(applies to section: Main-text; Sources)_
+_last edited by Tom Quist as reviewer on 2025-06-19_
         

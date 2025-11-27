@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Volkenkundig Museum Justinus van Nassau
+title: JustinusNassau
 parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-11-17
+date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/PDF/niveau3/Dutch/JustinusNassau.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/DOCX/niveau3/Dutch/JustinusNassau.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/JustinusNassau.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/JustinusNassau.docx){: .btn .btn-blue }
 
 
 # Volkenkundig Museum Justinus van Nassau
@@ -111,6 +111,5 @@ Herkomstverslag:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-02-25_  
-_last edited by Wiebe Reints as original_author on 2025-06-16
-(applies to section: Main text)_
+_last edited by Tom Quist as editor on 2025-06-19_
         

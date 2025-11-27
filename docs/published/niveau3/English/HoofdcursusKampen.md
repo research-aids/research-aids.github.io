@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Hoofdcursus Kampen
+title: HoofdcursusKampen
 parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-11-17
+date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/PDF/niveau3/English/HoofdcursusKampen.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/DOCX/niveau3/English/HoofdcursusKampen.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/published/niveau3/English/HoofdcursusKampen.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/HoofdcursusKampen.docx){: .btn .btn-blue }
 
 
 # Hoofdcursus Kampen
@@ -90,5 +90,6 @@ Provenance report:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by Wiebe Reints as original_author on 2025-05-13_
+_first edited by Wiebe Reints as original_author on 2025-05-13_  
+_last edited by Tom Quist as reviewer on 2025-06-19_
         

@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Universitaire Bibliotheken Leiden
+title: UniversiteitsbibliotheekLeiden
 parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-11-17
+date: 2025-11-25
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/PDF/niveau3/Dutch/UniversiteitsbibliotheekLeiden.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/DOCX/niveau3/Dutch/UniversiteitsbibliotheekLeiden.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/UniversiteitsbibliotheekLeiden.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/UniversiteitsbibliotheekLeiden.docx){: .btn .btn-blue }
 
 
 # Universitaire Bibliotheken Leiden
@@ -21,11 +21,11 @@ De Universitaire Bibliotheken Leiden (UBL) herbergen een keur aan relevant mater
 
 ### Geschiedenis van de organisatie
 
-De stichting van de Universiteit Leiden in 1575 markeert ook de symbolische oprichting van de universiteitsbibliotheek door de schenking van de Polyglot Bijbel door [Willem van Oranje](http://www.wikidata.org/entity/Q78454). In 1587 werd de bibliotheek officieel in gebruik genomen en was gevestigd in het huidige academiegebouw van de Universiteit Leiden aan het Rapenburg. Sinds dat de eerste bibliotheekcatalogus, de _Nomenclator_, in 1595 verscheen is de collectie uitgegroeid tot een verzameling van vele duizenden boeken, manuscripten en andersoortige documenten. Sinds 2009 zijn de verschillende bibliotheken die door de jaren heen waren ontstaan aan de Universiteit Leiden samengevoegd onder de naam _Universitaire Bibliotheken Leiden_ (UBL). De UBL bestaat uit de algemene universiteitsbibliotheek en de bibliotheken Sociale Wetenschappen, Rechten, Wiskunde & Natuurwetenschappen en de East Asian Library.
+De schenking van de Polyglot Bijbel door [Willem van Oranje](http://www.wikidata.org/entity/Q78454) bij de stichting van de Universiteit Leiden in 1575 markeert ook de symbolische oprichting van de universiteitsbibliotheek. In 1587 werd de bibliotheek officieel in gebruik genomen en was gevestigd in het huidige academiegebouw van de Universiteit Leiden aan het Rapenburg. Sinds het verschijnen van de eerste bibliotheekcatalogus, de _Nomenclator_, in 1595 is de collectie uitgegroeid tot een verzameling van vele miljoenen boeken, manuscripten en andersoortige documenten. Sinds 2009 zijn de verschillende bibliotheken die door de jaren heen waren ontstaan aan de Universiteit Leiden samengevoegd onder de naam _Universitaire Bibliotheken Leiden_ (UBL). De UBL bestaat uit de algemene universiteitsbibliotheek en de bibliotheken Sociale Wetenschappen, Rechten, Wiskunde & Natuurwetenschappen en de East Asian Library.
 
-Met betrekking tot onderzoek naar koloniale geschiedenissen beheert de UBL een grote relevante collectie, met name nadat de bibliotheek in respectievelijk 2013 en 2014 de collecties van het [Koninklijk Instituut voor de Tropen](http://www.wikidata.org/entity/Q1796182) en het [KITLV]() overnam. Ook de bibliotheek van het [Nederlands Instituut voor het Nabije Oosten](https://www.nino-leiden.nl/) werd in 2018 opgenomen in de UBL.
+Met betrekking tot onderzoek naar koloniale geschiedenissen beheert de UBL een grote relevante collectie, met name nadat de bibliotheek in respectievelijk 2013 en 2014 de collecties van het [Koninklijk Instituut voor de Tropen](http://www.wikidata.org/entity/Q1796182) en het [KITLV](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F62191a1bbed9b315db786f2037417b4f) overnam. Ook de bibliotheek van het [Nederlands Instituut voor het Nabije Oosten](https://www.nino-leiden.nl/) werd in 2018 opgenomen in de UBL.
 
-Naast de collectie geschreven bronnen beheert de UBL ook een grote hoeveelheid ['Bijzondere collecties'](https://www.bibliotheek.universiteitleiden.nl/bijzondere-collecties), waarvan ook een deel [digitaal beschikbaar](https://digitalcollections.universiteitleiden.nl/) is. De [subject guides](https://www.bibliotheek.universiteitleiden.nl/subject-guides) geven je meer informatie over de ruime hoeveelheid beschikbare bronnen en waar je deze kan vinden. Enkele belangrijke objecten/collecties zijn: het langste [La Galigo manuscript](https://digitalcollections.universiteitleiden.nl/lagaligo) ter wereld wat door missionaris B.F. Matthes in de negentiende eeuw mee naar Nederland is genomen en door het Nederlands Bijbelgenootschap aan de UBL in bruikleen is gegeven, de collecties van Herman Neubronner van der Tuuk, waaronder een belangwekkende Sumatraanse pustaha-verzameling, en een uitgebreide [Caribische collectie](https://www.bibliotheek.universiteitleiden.nl/subject-guides/caraiben).
+Naast de collectie geschreven bronnen beheert de UBL ook een grote hoeveelheid ['Bijzondere collecties'](https://www.bibliotheek.universiteitleiden.nl/bijzondere-collecties), waarvan ook een deel [digitaal beschikbaar](https://digitalcollections.universiteitleiden.nl/) is. De [subject guides](https://www.bibliotheek.universiteitleiden.nl/subject-guides) geven je meer informatie over de ruime hoeveelheid beschikbare bronnen en waar je deze kan vinden. Naast conventionele boeken bevat de collectie ook tienduizenden manuscripten, landkaarten, spijkerschrifttabletten en miniaturen.
 
 ### Onderzoek
 
@@ -66,7 +66,7 @@ Website:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-11-17
+_last edited by UNKNOWN as UNKNOWN on 2025-11-25
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         
