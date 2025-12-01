@@ -9,7 +9,7 @@ date: 2025-12-01
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/published/niveau3/English/Wereldtentoonstelling1883.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/Wereldtentoonstelling1883.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/Wereldtentoonstelling1883.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/Wereldtentoonstelling1883.docx){: .btn .btn-blue }
 
 
 # International Colonial and Export Exhibition 1883

@@ -9,7 +9,7 @@ date: 2025-12-01
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/published/niveau1/Dutch/SelectAndDelineate.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/published/niveau1/Dutch/SelectAndDelineate.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/Dutch/SelectAndDelineate.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/Dutch/SelectAndDelineate.docx){: .btn .btn-blue }
 
 
 # Selecteren en afbakenen
