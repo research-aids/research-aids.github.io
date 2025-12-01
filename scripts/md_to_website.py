@@ -9,7 +9,7 @@ from io import StringIO
 import os
 from datetime import datetime
 
-github_raw_base_URL = "https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/"
+github_raw_base_URL = "https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/"
 
 # example_path = "EXPORTS/PDF/niveau2/English/MilitaryAndNavy.pdf"
 

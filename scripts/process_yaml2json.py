@@ -32,7 +32,7 @@ NoDatesSafeLoader.remove_implicit_resolver('tag:yaml.org,2002:timestamp')
 
 
 BASE_DIR = "./published"
-OUT_DIR = "./forKinsukAndSjors"
+OUT_DIR = "./EXPORT/JSON"
 
 
 

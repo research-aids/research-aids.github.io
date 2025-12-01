@@ -13,7 +13,7 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}/*
-      - run: rm -rv ${{ github.workspace }}/forKinsukAndSjors/*
+      - run: rm -rv ${{ github.workspace }}/EXPORTS/JSON/*
       - name: running python script
         run: |
           pip install tqdm
