@@ -12,9 +12,17 @@ jobs:
       - name: Check out repository code (necessary - otherwise the workspace is empty)
         uses: actions/checkout@v4    
       - name: list YAML files
-        run: ls ${{ github.workspace }}/published/niveau*/**
+        run: |
+          ls ${{ github.workspace }}/published/niveau*/**
+          echo "------------------------------------------"
+          ls ${{ github.workspace }}/review/niveau*/**
       - name: clean up (i.e. delete contents of EXPORTS)
-        run: rm -rv ${{ github.workspace }}/EXPORTS/*
+        run: |
+          rm -rv ${{ github.workspace }}/EXPORTS/MD
+          rm -rv ${{ github.workspace }}/EXPORTS/DOCX
+          rm -rv ${{ github.workspace }}/EXPORTS/PDF
+          rm -rv ${{ github.workspace }}/EXPORTS/WEBSITE
+
       - name: running python script
         run: |
           pip install tqdm
