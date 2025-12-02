@@ -18,11 +18,14 @@ jobs:
         run: |
           pip install tqdm
           python ${{ github.workspace }}/scripts/process_yaml2json.py
-          touch EXPORTS/JSON/test.txt
-          touch EXPORTS/test.txt
+          touch ${{ github.workspace }}/EXPORTS/JSON/test.txt
+          touch ${{ github.workspace }}/EXPORTS/test.txt
+          
       - run: git diff-index HEAD
       - name: pushing generated files back to repo 
         run: |
+          git status
+          git add ${{ github.workspace }}/EXPORTS/JSON
           if git diff --exit-code; then
             echo "NOTHING TO COMMIT!!!"
           else
