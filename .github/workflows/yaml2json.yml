@@ -25,7 +25,13 @@ jobs:
       - name: pushing generated files back to repo 
         run: |
           git status
-          git add ${{ github.workspace }}/EXPORTS/JSON
+
+          git config user.email "valevogelmann@gmail.com"
+          git config user.name "valevo"
+          git add *
+          git commit -m "maybe this works???"
+          git push
+
           if git diff --exit-code; then
             echo "NOTHING TO COMMIT!!!"
           else
