@@ -18,6 +18,8 @@ jobs:
         run: |
           pip install tqdm
           python ${{ github.workspace }}/scripts/process_yaml2json.py
+          touch EXPORTS/JSON/test.txt
+          touch EXPORTS/test.txt
       - run: git diff-index HEAD
       - name: pushing generated files back to repo 
         run: |
