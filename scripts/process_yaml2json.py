@@ -32,7 +32,7 @@ NoDatesSafeLoader.remove_implicit_resolver('tag:yaml.org,2002:timestamp')
 
 
 BASE_DIR = "./published"
-OUT_DIR = "./forKinsukAndSjors"
+OUT_DIR = "./EXPORTS/JSON"
 
 
 
@@ -167,8 +167,11 @@ for f in tqdm(yaml_files):
         
         new_name = f"{OUT_DIR}/{level}/{lang}/{name}_{lang}.json"
 
-    
+        print(new_name, flush=True)
+        
         os.makedirs(os.path.dirname(new_name), exist_ok=True)
+
+        print("JSON DIR:", os.listdir(f"{OUT_DIR}"), flush=True)
         with open(new_name, "w") as handle:
             json.dump(yaml_content, handle, indent=4)
 

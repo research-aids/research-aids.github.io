@@ -20,7 +20,7 @@ from md_to_website import download_button, front_matter
 # def create_export_dir_structure(export_dir):
     
 EXPORT_DIR = "EXPORTS"
-GITHUB_RAW_BASE_URL = "https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/"
+GITHUB_RAW_BASE_URL = "https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/"
 
 
 

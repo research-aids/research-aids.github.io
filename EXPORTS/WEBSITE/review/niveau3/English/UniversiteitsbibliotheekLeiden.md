@@ -5,11 +5,11 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-01
+date: 2025-12-02
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/PDF/review/niveau3/English/UniversiteitsbibliotheekLeiden.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/UniversiteitsbibliotheekLeiden.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/English/UniversiteitsbibliotheekLeiden.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/UniversiteitsbibliotheekLeiden.docx){: .btn .btn-blue }
 
 
 # Leiden University Library
@@ -66,7 +66,7 @@ Website:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-01
+_last edited by UNKNOWN as UNKNOWN on 2025-12-02
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         
