@@ -45,8 +45,6 @@ def get_export_path(orig_path, export_folder, extension=None, make_dirs=True):
     os.makedirs(os.path.dirname(export_path), exist_ok=True)
     return export_path, (published, level, lang, name)
 
-    
-
 
 def export_markdown(f):
     md_name, _ = get_export_path(f, "MD")
@@ -60,41 +58,6 @@ def export_markdown(f):
 
             return md_content
 
-def export_level_base(f):
-    _, (published, level, lang, name) = get_export_path(f, "WEBSITE", "md")
-    folder_name = f"{EXPORT_DIR}/WEBSITE/{published}/{level}"
-    # os.makedirs(folder_name, exist_ok=True)
-    
-
-    # published = os.path.split(out_dir)[-1].capitalize()
-    with open(f"{folder_name}/{level}.md", "w") as md:
-        level_md = f"""---
-layout: default
-title: {level}
-nav_enabled: true
-has_toc: true
-parent: {published.capitalize()}
----
-This is level {level[-1]} of the RAs.
-"""
-        md.write(level_md)
-        # return level_md
-
-
-
-def export_website(f, md_content):
-    md_name, (published, level, lang, name) = get_export_path(f, "WEBSITE", "md")
-    
-    pdf_button = f"[Download PDF]({GITHUB_RAW_BASE_URL + get_export_path(f, "PDF")[0]}){{: .btn .btn-blue }}"
-    docx_button = f"[Download DOCX]({GITHUB_RAW_BASE_URL + get_export_path(f, "DOCX")[0]}){{: .btn .btn-blue }}"
-    
-    website_content = front_matter(published, name, level, lang) + "\n\n" +\
-                                pdf_button + " |||    " + docx_button +\
-                                "\n\n" + md_content
-
-    with open(md_name, "w") as web_handle:
-        web_handle.write(website_content)
-    # return website_content
 
     
 def export_pdf(f, md_content):
@@ -125,7 +88,6 @@ def export_docx(f):
 
 if __name__ == "__main__":
 
-
     for cur_dir in ("published", "review"):
         eng = glob(f"{cur_dir}/*/English/*.yml")
         dutch = glob(f"{cur_dir}/*/Dutch/*.yml")
@@ -136,10 +98,7 @@ if __name__ == "__main__":
         for f in tqdm(yaml_files):
         # print(f"processing {f}...")
 
-
             md_content = export_markdown(f)
-            export_level_base(f)
-            export_website(f, md_content)
 
             export_pdf(f, md_content)
             export_docx(f)
