@@ -99,7 +99,6 @@ if __name__ == "__main__":
         # print(f"processing {f}...")
 
             md_content = export_markdown(f)
-            export_level_base(f)
 
             export_pdf(f, md_content)
             export_docx(f)
