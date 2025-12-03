@@ -43,11 +43,19 @@ RelatedAides:
         rel_type: "see also"
 
 Relevant data:
+  Identifiers: []
+  Name variations: []
   Tags:
     Activity: []
     Type of objects: []
     Geographical:
       - "[Indonesia](https://sws.geonames.org/1643084/)"
+  Period of activity: 
+    Year of start: []
+    Year of end: []
+  Collections:
+    General remarks: []
+    Within the Data Hub: []
 
 Main-text:
   content: |
