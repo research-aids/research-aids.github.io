@@ -21,7 +21,7 @@ jobs:
           rm -rv ${{ github.workspace }}/EXPORTS/MD
           rm -rv ${{ github.workspace }}/EXPORTS/DOCX
           rm -rv ${{ github.workspace }}/EXPORTS/PDF
-          rm -rv ${{ github.workspace }}/EXPORTS/WEBSITE
+          # rm -rv ${{ github.workspace }}/EXPORTS/WEBSITE
 
       - name: running python script
         run: |
