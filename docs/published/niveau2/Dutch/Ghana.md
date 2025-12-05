@@ -10,7 +10,7 @@ nav_exclude: False
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/Ghana.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/Ghana.docx){: .btn .btn-blue }
+./EXPORTS/MD/published/niveau2/English/Ghana[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/Ghana.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/Ghana.docx){: .btn .btn-blue }
 
 
 # Ghana

@@ -10,7 +10,7 @@ nav_exclude: False
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/KoninklijkeDefensieMus.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/KoninklijkeDefensieMus.docx){: .btn .btn-blue }
+./EXPORTS/MD/review/niveau3/English/KoninklijkeDefensieMus[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/KoninklijkeDefensieMus.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/KoninklijkeDefensieMus.docx){: .btn .btn-blue }
 
 
 # Stichting Koninklijke Defensiemusea

@@ -10,7 +10,7 @@ nav_exclude: False
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/Dutch/Reporting.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/Dutch/Reporting.docx){: .btn .btn-blue }
+./EXPORTS/MD/published/niveau1/English/Reporting[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/Dutch/Reporting.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/Dutch/Reporting.docx){: .btn .btn-blue }
 
 
 # Verslagleggen

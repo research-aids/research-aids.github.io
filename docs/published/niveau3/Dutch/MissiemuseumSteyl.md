@@ -10,7 +10,7 @@ nav_exclude: False
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/MissiemuseumSteyl.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/MissiemuseumSteyl.docx){: .btn .btn-blue }
+./EXPORTS/MD/published/niveau3/English/MissiemuseumSteyl[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/MissiemuseumSteyl.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/MissiemuseumSteyl.docx){: .btn .btn-blue }
 
 
 # Missiemuseum Steyl

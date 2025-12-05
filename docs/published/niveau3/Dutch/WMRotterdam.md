@@ -10,7 +10,7 @@ nav_exclude: False
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/WMRotterdam.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/WMRotterdam.docx){: .btn .btn-blue }
+./EXPORTS/MD/published/niveau3/English/WMRotterdam[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/WMRotterdam.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/WMRotterdam.docx){: .btn .btn-blue }
 
 
 # Wereldmuseum Rotterdam

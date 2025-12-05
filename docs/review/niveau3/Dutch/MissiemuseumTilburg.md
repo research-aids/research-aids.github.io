@@ -10,7 +10,7 @@ nav_exclude: False
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/MissiemuseumTilburg.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/MissiemuseumTilburg.docx){: .btn .btn-blue }
+./EXPORTS/MD/review/niveau3/English/MissiemuseumTilburg[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/MissiemuseumTilburg.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/MissiemuseumTilburg.docx){: .btn .btn-blue }
 
 
 # Nederlands Volkenkundig Missiemuseum

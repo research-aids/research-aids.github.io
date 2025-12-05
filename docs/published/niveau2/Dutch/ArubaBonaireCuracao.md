@@ -10,7 +10,7 @@ nav_exclude: False
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/ArubaBonaireCuracao.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/ArubaBonaireCuracao.docx){: .btn .btn-blue }
+./EXPORTS/MD/published/niveau2/English/ArubaBonaireCuracao[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/ArubaBonaireCuracao.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/ArubaBonaireCuracao.docx){: .btn .btn-blue }
 
 
 # Aruba, Bonaire en Curaçao
