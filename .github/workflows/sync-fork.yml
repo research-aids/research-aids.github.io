@@ -16,12 +16,12 @@ jobs:
           # scopes
           token: ${{ secrets.WORKFLOW_TOKEN }}
 
-      - name: "sync with colonial-collections/research-guides-dev. --force overrides everything (current solution from here: https://stackoverflow.com/questions/7244321/how-do-i-update-or-sync-a-forked-repository-on-github)!"
+      - name: "sync with colonial-collections/research-aids. --force overrides everything (current solution from here: https://stackoverflow.com/questions/7244321/how-do-i-update-or-sync-a-forked-repository-on-github)!"
         run: |
           git config user.email "valevogelmann@gmail.com"
           git config user.name "valevo"
           git reset --hard
-          git remote add upstream https://github.com/colonial-heritage/research-guides-dev.git
+          git remote add upstream https://github.com/colonial-heritage/research-aids.git
           git fetch upstream
 
           # EXPERIMENTAL
@@ -46,11 +46,16 @@ jobs:
           cp -r --force $WORK_DIR/research-aids.github.io-code/docs $WORK_DIR
           cp --force $WORK_DIR/research-aids.github.io-code/docs/pages.yml $WORK_DIR/.github/workflows
           # cp --force $WORK_DIR/docs/ci.yml $WORK_DIR/.github/workflows
+
+          cp --force $WORK_DIR/research-aids.github.io-code/make_website.py $WORK_DIR
+          python $WORK_DIR/make_website.py
+
           
           cp --force $WORK_DIR/research-aids.github.io-code/clean_up.py $WORK_DIR
           python $WORK_DIR/clean_up.py
 
-          rm -rf $WORK_DIR/research-aids.github.io-code
+          #rm -rf $WORK_DIR/research-aids.github.io-code
+          rm -f $WORK_DIR/clean_up.py
         env:
           WORK_DIR: ${{ github.workspace }}
       - name: pushing generated files back to repo 
