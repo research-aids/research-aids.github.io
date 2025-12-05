@@ -2,7 +2,7 @@
 layout: default
 title: niveau2
 nav_enabled: true
-has_toc: true
+has_toc: false
 parent: Review
 ---
 This is level 2 of the RAs.
