@@ -5,40 +5,50 @@ parent: niveau2
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-11-04
+date: 2025-12-05
+nav_exclude: True
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/PDF/niveau2/English/Themes.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/DOCX/niveau2/English/Themes.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/English/Themes){: .btn .btn-blue }			[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/English/Themes){: .btn .btn-blue }
 
+Level: 2
 
-# Themes
+Title: "Themes"
 
+Abstract: "This page is under construction"
 
-## Abstract
+RelatedAides:
+  - "Christian missionaries in colonised territories":
+        link: "published/niveau2/English/ChristianMission_20240417.yml"
+        rel_type: "see also"
+  - "Civil servants in colonised territories":
+        link: "published/niveau2/English/CivilServants_20240316.yml"
+        rel_type: "see also" 
+  - "Army and navy personnel in colonised territories":
+        link: "published/niveau2/English/MilitaryAndNavy_20240417.yml"
+        rel_type: "see also"
+  - "Scientific research in colonised territories":
+        link: "published/niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
+  - "The trade in objects from a colonial context":
+        link: "published/niveau2/English/Trade_20240316.yml"
+        rel_type: "see also"
 
-This page is under construction
+Relevant data: []
 
-**This page is under construction.**
+Main-text:
+  content: |
+    **This page is under construction.**
+  content-type: text/markdown
 
+Sources: 
+  Primary Sources: []
+  Secondary sources: []
 
-## Related Aids
-
- - [Christian missionaries in colonised territories](published/niveau2/English/ChristianMission_20240417.yml)  
- - [Civil servants in colonised territories](published/niveau2/English/CivilServants_20240316.yml)  
- - [Army and navy personnel in colonised territories](published/niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Scientific research in colonised territories](published/niveau2/English/Science_20240821.yml)  
- - [The trade in objects from a colonial context](published/niveau2/English/Trade_20240316.yml)  
-
-## Primary Sources
-
-## Secondary sources
-
-
-
----
-## Relevant Data 
-TO BE FILLED
-
-_last edited by Wiebe Reints as original_author on 2025-06-12_
-        
+editing_metadata:
+  - date: 2025-06-12
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of this RA to make a new division on the landing page. 

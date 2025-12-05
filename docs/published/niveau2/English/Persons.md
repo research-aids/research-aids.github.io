@@ -5,37 +5,43 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-10-01
+date: 2025-12-05
+nav_exclude: True
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/PDF/niveau2/English/Persons.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/published/DOCX/niveau2/English/Persons.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/English/Persons){: .btn .btn-blue }			[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/English/Persons){: .btn .btn-blue }
 
+Level: 2
 
-# Persons
+Title: "Persons"
 
+Abstract: "xxx"
 
-## Abstract
+RelatedAides:
+  - "C.G.C. Reinwardt":
+        link: "niveau3/Dutch/Reinwardt_20241217.yml"
+        rel_type: "see also" 
 
-xxx
+Relevant data: []
 
-**This page in under construction.**
+Main-text:
+  content: |
+    **This page in under construction.**
+  content-type: text/markdown
 
+Sources: 
+  Primary Sources: []
+  Secondary sources: []
 
-## Related Aids
-
- - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
-
-## Primary Sources
-
-## Secondary sources
-
-
-
----
-## Relevant Data 
-TO BE FILLED
-
-_first edited by Wiebe Reints as original_author on 2025-01-13_  
-_last edited by Wiebe Reints as original_author on 2025-06-12_
-        
+editing_metadata:
+  - date: 2025-01-13
+    applies_to:
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of this RA.
+  - date: 2025-06-12
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Adding this RA to LP. 

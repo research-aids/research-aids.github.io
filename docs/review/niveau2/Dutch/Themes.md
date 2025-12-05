@@ -1,44 +1,54 @@
 ---
 layout: default
-title: Thema's
+title: Themes
 parent: niveau2
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-10-30
+date: 2025-12-05
+nav_exclude: False
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/PDF/niveau2/Dutch/Themes.pdf){: .btn .btn-blue } |||    [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-guides-dev/refs/heads/main/EXPORTS/review/DOCX/niveau2/Dutch/Themes.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/Dutch/Themes){: .btn .btn-blue }			[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/Dutch/Themes){: .btn .btn-blue }
 
+Level: 2
 
-# Thema's
+Title: "Thema's"
 
+Abstract: "Deze pagina is nog in ontwikkeling."
 
-## Abstract
+RelatedAides:
+  - "Zendelingen en missionarissen in gekoloniseerde gebieden":
+        link: "published/niveau2/Dutch/ChristianMission_20240326.yml"
+        rel_type: "see also"
+  - "Ambtenaren in gekoloniseerde gebieden":
+        link: "published/niveau2/Dutch/CivilServants_20240320.yml"
+        rel_type: "see also" 
+  - "Leger- en marinepersoneel in gekoloniseerde gebieden":
+        link: "published/niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+        rel_type: "see also"
+  - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
+        link: "published/niveau2/Dutch/Science_20240814.yml"
+        rel_type: "see also"
+  - "De handel in objecten uit een koloniale context":
+        link: "published/niveau2/Dutch/Trade_20240326.yml"
+        rel_type: "see also"
 
-Deze pagina is nog in ontwikkeling.
+Relevant data: []
 
-**Deze pagina is nog in ontwikkeling.**
+Main-text:
+  content: |
+    **Deze pagina is nog in ontwikkeling.**
+  content-type: text/markdown
 
+Sources: 
+  Primary Sources: []
+  Secondary sources: []
 
-## Related Aids
-
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](published/niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](published/niveau2/Dutch/CivilServants_20240320.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](published/niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](published/niveau2/Dutch/Science_20240814.yml)  
- - [De handel in objecten uit een koloniale context](published/niveau2/Dutch/Trade_20240326.yml)  
-
-## Primary Sources
-
-## Secondary sources
-
-
-
----
-## Relevant Data 
-TO BE FILLED
-
-_last edited by Wiebe Reints as original_author on 2025-06-12_
-        
+editing_metadata:
+  - date: 2025-06-12
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of this RA to make a new division on the landing page. 

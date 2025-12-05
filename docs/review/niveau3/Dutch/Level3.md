@@ -1,0 +1,76 @@
+---
+layout: default
+title: Level3
+parent: niveau3
+ancestor: Review
+nav_enabled: true
+has_toc: true
+date: 2025-12-05
+nav_exclude: False
+--- 
+
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/Level3){: .btn .btn-blue }			[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/Level3){: .btn .btn-blue }
+
+Level: 3
+
+Title: ""
+
+Abstract: ""
+
+RelatedAides: []
+
+Relevant data:
+  Identifiers: []
+  Name variations: []
+  Tags:
+    Activity:
+      - []
+    Type of objects: 
+      - []
+    Geographical:
+      - []
+  Period of activity: 
+    Year of start: []
+    Year of end: []
+  Collections:
+    General remarks:
+      content: |
+        "Remarks regarding the relevant collections for this research aid can be provided here."
+      content-type: text/markdown
+    Within the Data Hub: "Here a link to the relevant objects within the Data Hub can be provided."
+      
+Main-text:
+  content: |
+    ### Description
+    
+    This section is meant for some descriptive information on the topic of the research aid, in the case of Level 3 research aides this regards more specific information about the topic of the RA. This could be a short (collection) history or information about why this topic is relevant regarding colonial collections. (This section might be combined with the Provenance Research section.). You can use Markdown for the formatting of the text.
+    
+    ### Provenance research
+    
+    This section is meant for specific information regarding (provenance) research into the topic of the research aid, such as tips for researching relevant archives or other relevant provenance information. You can use Markdown for the formatting of the text.
+  content-type: text/markdown
+
+Sources:
+  Primary sources:
+    - Type of source: "Here you note what kind of source you provide (archive/map/etc.)"
+      Name: "Here you note the name of the source."
+      Link: "Here you note a (permanent) link to the source."
+      Description and remarks: "Here you note a short description of what kind of information the source provides."
+  Secondary sources:
+    - Type of source: "Here you note what kind of source you provide (article/bookp/etc.)"
+      Name: "Here you note the name of the source in bibliography style (Graaff, M.G.H.A. de, Gids voor onderzoek in het archief van het Ministerie van Koloniën in beheer bij het Nationaal Archief, 1814-1951. Den Haag, 2015.)."
+      Link: "Here you note a (permanent) link to the source. This could be a DOI, or otherwise an ISBN or OCLC code. "
+      Description and remarks: "Here you note a short description of what kind of information the source provides."
+
+Editing_metadata:
+  - Date: #mandatory (yyyy-mm-dd)
+    Applies_to: #optional
+    Author: #mandatory
+    Role: #mandatory
+    Editing_notes: #optional
+      
+
+
+    
+

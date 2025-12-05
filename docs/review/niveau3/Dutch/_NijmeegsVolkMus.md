@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NijmeegsVolkMus
+title: _NijmeegsVolkMus
 parent: niveau3
 ancestor: Review
 nav_enabled: true
@@ -10,22 +10,22 @@ nav_exclude: False
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/NijmeegsVolkMus){: .btn .btn-blue }			[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/NijmeegsVolkMus){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/_NijmeegsVolkMus){: .btn .btn-blue }			[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/_NijmeegsVolkMus){: .btn .btn-blue }
 
 Level: 3
 
 Title: "Nijmeegs Volkenkundig Museum"
 
-Abstract: "Het Nijmeegs Volkenkundig Museum is een voormalig museum dat in 1979 werd opgericht als onderdeel van de Katholieke Universiteit Nijmegen (tegenwoordig de Radboud Universiteit). Het museum beheerde een ruime collectie, waarvan een groot bestond uit bruiklenen. Na de sluiting van het museum in 2005 is een deel van de collectie teruggegeven aan de bruikleengevers, andere delen zijn elders ondergebracht of verkocht."
+Abstract: "Het Nijmeegs Volkenkundig Museum is een voormalig museum dat in 1979 werd opgericht als onderdeel van de Katholieke Universiteit Nijmegen (tegenwoordig de Radboud Universiteit). Het museum beheerde een ruime collectie, waarvan een groot deel in bruikleen was. Na de sluiting van het museum in 2005 is een deel van de collectie teruggegeven aan de bruikleengevers, andere delen zijn elders ondergebracht of verkocht."
 
 RelatedAides:
-  - "Musea en collecties":
+  - "Musea en efgoedbeherende instellingen":
         link: "niveau2/Dutch/Museum_20250113.yml"
         rel_type: "see also"
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
         link: "niveau2/Dutch/ChristianMission_20240326.yml"
         rel_type: "see also"
-  - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
+  - "Wetenschap":
         link: "niveau2/Dutch/Science_20240814.yml"
         rel_type: "see also"
   - "Missiemuseum Steyl":
@@ -34,12 +34,12 @@ RelatedAides:
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
         link: "niveau3/Dutch/MOudenbosch_20250603.yml"
         rel_type: "see also"
-#  - "Nederlands Volkenkundig Missiemuseum":
+  - "Nederlands Volkenkundig Missiemuseum":
   
   - "Nederlandsch Zendeling Genootschap":
         link: "niveau3/Dutch/NZG_20240314.yml"
         rel_type: "see also"
-#  - "Universitaire collecties":
+  - "Universitaire collecties":
 
   - "Wereldmuseum Berg en Dal":
         link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
@@ -67,9 +67,9 @@ Main-text:
   content: |
     ### Geschiedenis van het museum
     
-    Het Nijmeegs Volkenkundig Museum is een voormalig volkenkundig museum dat onderdeel was van de Radboud Universiteit in Nijmegen (voorheen de Katholieke Universiteit Nijmegen). Het museum werd in 1979 vanuit de vakgroep antropologie opgericht. Er werden tentoonstellingen gehouden voor het algemene publiek, maar de collectie werd ook gebruikt ter ondersteuning van het onderwijs. De collectie bestond uit zo'n 11.000 voorwerpen, waarvan een groot deel bestond uit bruiklenen. Zo beheerde het museum de collecties van verschillende congregaties en ook de zogenaamde 'Beijenscollectie' die voormalig KNIL-soldaat [Jean Bijens](https://nl.wikipedia.org/wiki/Jean_Beijens) in 1912 aan de gemeente Nijmegen had geschonken.
+    Het Nijmeegs Volkenkundig Museum is een voormalig volkenkundig museum dat onderdeel was van de Radboud Universiteit in Nijmegen (voorheen de Katholieke Universiteit Nijmegen). Het museum werd in 1979 vanuit de vakgroep antropologie opgericht. Er werden tentoonstellingen gehouden voor het algemene publiek, maar de collectie werd ook gebruikt ter ondersteuning van het onderwijs. De collectie bestond uit zo'n 11.000 voorwerpen, waarvan een groot deel in bruikleen was. Zo beheerde het museum de collecties van verschillende congregaties en ook de zogenaamde 'Beijenscollectie' die voormalig KNIL-soldaat [Jean Bijens](https://nl.wikipedia.org/wiki/Jean_Beijens) in 1912 aan de gemeente Nijmegen had geschonken.
 
-    In 2005 werd besloten tot sluiting van het Nijmeegs Volkenkundig Museum. Een groot deel van de collectie bleef nadien toegankelijk in het depot van de Radboud Universiteit. De Beijenscollectie werd in 2010 overgedragen aan [Museum Bronbeek](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f). De objectcollectie van de Paters Capucijnen zijn in 2011 in langdurige bruikleen gegeven aan de [Universiteit Gent](https://www.gum.gent/nl/deelcollectie-etnografie). In 2018 werd het depot gesloten en de [restanten verkocht](https://www.voxweb.nl/nieuws/te-koop-ethiopische-christenen-en-andere-museumrestjes).
+    In 2005 werd besloten tot sluiting van het Nijmeegs Volkenkundig Museum. Een groot deel van de collectie bleef nadien toegankelijk in het depot van de Radboud Universiteit. De Beijenscollectie werd in 2010 overgedragen aan [Museum Bronbeek](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f). De objectcollectie van de Paters Capucijnen zijn in 2011 in langdurig bruikleen gegeven aan de [Universiteit Gent](https://www.gum.gent/nl/deelcollectie-etnografie). In 2018 werd het depot gesloten en de [restanten verkocht](https://www.voxweb.nl/nieuws/te-koop-ethiopische-christenen-en-andere-museumrestjes).
     
     ### Herkomstonderzoek
 
@@ -81,17 +81,14 @@ Main-text:
   content-type: text/markdown
 
 Sources: []
+
 Editing_metadata:
-  - Date: 2025-07-07
+  - Date: 20250707
     Applies_to: #optional
     Author: Wiebe Reints
     Role: original_author
-    Editing_notes: #optional  
-  - Date: 2025-09-16 
-    Applies_to: Main-text
-    Author: Maarten van der Bent
-    Role: reviewer
-    Editing_notes: Maarten's comments were processed by Wiebe Reints. 
+    Editing_notes: #optional
+      
 
 
     
