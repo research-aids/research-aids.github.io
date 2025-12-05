@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MOudenbosch
+title: Natuurhistorisch en Volkenkundig Museum Oudenbosch
 parent: niveau3
 ancestor: Published
 nav_enabled: true
@@ -10,7 +10,9 @@ nav_exclude: True
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/MOudenbosch.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/MOudenbosch.docx){: .btn .btn-blue }
+[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/MOudenbosch.html){: .btn .btn-blue }
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/MOudenbosch.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/MOudenbosch.docx){: .btn .btn-blue }
 
 
 # Natuurhistorisch en Volkenkundig Museum Oudenbosch

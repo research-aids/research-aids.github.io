@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BGKW
+title: Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen
 parent: niveau3
 ancestor: Published
 nav_enabled: true
@@ -10,9 +10,9 @@ nav_exclude: False
 --- 
 
 
-see also [the English version](https://research-aids.github.io//published/niveau3/English/BGKW.html)
+[English version](https://research-aids.github.io//published/niveau3/English/BGKW.html){: .btn .btn-blue }
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/BGKW.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/BGKW.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/BGKW.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/BGKW.docx){: .btn .btn-blue }
 
 
 # Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen

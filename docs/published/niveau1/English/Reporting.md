@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reporting
+title: Writing a provenance report
 parent: niveau1
 ancestor: Published
 nav_enabled: true
@@ -10,7 +10,9 @@ nav_exclude: True
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/Reporting.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/Reporting.docx){: .btn .btn-blue }
+[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/Reporting.html){: .btn .btn-blue }
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/Reporting.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/Reporting.docx){: .btn .btn-blue }
 
 
 # Writing a provenance report

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KITLV
+title: Koninklijk Instituut voor Taal-, Land- en Volkenkunde
 parent: niveau3
 ancestor: Published
 nav_enabled: true
@@ -10,9 +10,9 @@ nav_exclude: False
 --- 
 
 
-see also [the English version](https://research-aids.github.io//published/niveau3/English/KITLV.html)
+[English version](https://research-aids.github.io//published/niveau3/English/KITLV.html){: .btn .btn-blue }
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/KITLV.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/KITLV.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/KITLV.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/KITLV.docx){: .btn .btn-blue }
 
 
 # Koninklijk Instituut voor Taal-, Land- en Volkenkunde

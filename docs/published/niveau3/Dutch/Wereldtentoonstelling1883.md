@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wereldtentoonstelling1883
+title: Internationale Koloniale en Uitvoerhandel Tentoonstelling
 parent: niveau3
 ancestor: Published
 nav_enabled: true
@@ -10,9 +10,9 @@ nav_exclude: False
 --- 
 
 
-see also [the English version](https://research-aids.github.io//published/niveau3/English/Wereldtentoonstelling1883.html)
+[English version](https://research-aids.github.io//published/niveau3/English/Wereldtentoonstelling1883.html){: .btn .btn-blue }
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/Wereldtentoonstelling1883.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/Wereldtentoonstelling1883.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/Wereldtentoonstelling1883.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/Wereldtentoonstelling1883.docx){: .btn .btn-blue }
 
 
 # Internationale Koloniale en Uitvoerhandel Tentoonstelling

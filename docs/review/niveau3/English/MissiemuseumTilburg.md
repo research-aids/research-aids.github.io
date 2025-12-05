@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MissiemuseumTilburg
+title: Nederlands Volkenkundig Missiemuseum
 parent: niveau3
 ancestor: Review
 nav_enabled: true
@@ -10,7 +10,9 @@ nav_exclude: True
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/English/MissiemuseumTilburg.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/MissiemuseumTilburg.docx){: .btn .btn-blue }
+[Nederlandse versie](https://research-aids.github.io//review/niveau3/Dutch/MissiemuseumTilburg.html){: .btn .btn-blue }
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/English/MissiemuseumTilburg.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/MissiemuseumTilburg.docx){: .btn .btn-blue }
 
 
 # Nederlands Volkenkundig Missiemuseum

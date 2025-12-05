@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Naturalis
+title: Naturalis Biodiversity Center
 parent: niveau3
 ancestor: Published
 nav_enabled: true
@@ -10,7 +10,9 @@ nav_exclude: True
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/Naturalis.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/Naturalis.docx){: .btn .btn-blue }
+[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/Naturalis.html){: .btn .btn-blue }
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/Naturalis.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/Naturalis.docx){: .btn .btn-blue }
 
 
 # Naturalis Biodiversity Center

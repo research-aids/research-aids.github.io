@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HoofdcursusKampen
+title: Hoofdcursus Kampen
 parent: niveau3
 ancestor: Published
 nav_enabled: true
@@ -10,9 +10,9 @@ nav_exclude: False
 --- 
 
 
-see also [the English version](https://research-aids.github.io//published/niveau3/English/HoofdcursusKampen.html)
+[English version](https://research-aids.github.io//published/niveau3/English/HoofdcursusKampen.html){: .btn .btn-blue }
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/HoofdcursusKampen.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/HoofdcursusKampen.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/HoofdcursusKampen.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/HoofdcursusKampen.docx){: .btn .btn-blue }
 
 
 # Hoofdcursus Kampen

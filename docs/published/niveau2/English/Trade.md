@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trade
+title: The trade in objects from a colonial context
 parent: niveau2
 ancestor: Published
 nav_enabled: true
@@ -10,7 +10,9 @@ nav_exclude: True
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/English/Trade.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/English/Trade.docx){: .btn .btn-blue }
+[Nederlandse versie](https://research-aids.github.io//published/niveau2/Dutch/Trade.html){: .btn .btn-blue }
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/English/Trade.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/English/Trade.docx){: .btn .btn-blue }
 
 
 # The trade in objects from a colonial context

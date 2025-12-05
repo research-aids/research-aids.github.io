@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WMAmsterdam
+title: Wereldmuseum Amsterdam
 parent: niveau3
 ancestor: Published
 nav_enabled: true
@@ -10,7 +10,9 @@ nav_exclude: True
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/WMAmsterdam.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/WMAmsterdam.docx){: .btn .btn-blue }
+[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/WMAmsterdam.html){: .btn .btn-blue }
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/WMAmsterdam.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/WMAmsterdam.docx){: .btn .btn-blue }
 
 
 # Wereldmuseum Amsterdam

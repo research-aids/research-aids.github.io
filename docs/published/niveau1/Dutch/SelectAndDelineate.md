@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SelectAndDelineate
+title: Selecteren en afbakenen
 parent: niveau1
 ancestor: Published
 nav_enabled: true
@@ -10,9 +10,9 @@ nav_exclude: False
 --- 
 
 
-see also [the English version](https://research-aids.github.io//published/niveau1/English/SelectAndDelineate.html)
+[English version](https://research-aids.github.io//published/niveau1/English/SelectAndDelineate.html){: .btn .btn-blue }
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/Dutch/SelectAndDelineate.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/Dutch/SelectAndDelineate.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/Dutch/SelectAndDelineate.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/Dutch/SelectAndDelineate.docx){: .btn .btn-blue }
 
 
 # Selecteren en afbakenen

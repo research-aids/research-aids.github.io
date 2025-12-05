@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MilitaryAndNavy
+title: Leger- en marinepersoneel in gekoloniseerde gebieden
 parent: niveau2
 ancestor: Published
 nav_enabled: true
@@ -10,9 +10,9 @@ nav_exclude: False
 --- 
 
 
-see also [the English version](https://research-aids.github.io//published/niveau2/English/MilitaryAndNavy.html)
+[English version](https://research-aids.github.io//published/niveau2/English/MilitaryAndNavy.html){: .btn .btn-blue }
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/MilitaryAndNavy.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/MilitaryAndNavy.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/MilitaryAndNavy.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/MilitaryAndNavy.docx){: .btn .btn-blue }
 
 
 # Leger- en marinepersoneel in gekoloniseerde gebieden
