@@ -10,186 +10,44 @@ nav_exclude: False
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau0/Dutch/TopLevel){: .btn .btn-blue }			[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau0/Dutch/TopLevel){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau0/Dutch/TopLevel.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau0/Dutch/TopLevel.docx){: .btn .btn-blue }
 
-Level: 0
 
-Title: "Zoekhulpen Koloniale Collecties"
+# Zoekhulpen Koloniale Collecties
 
-Subtitle: "Zoekhulpen bij het doen van herkomstonderzoek naar koloniale collecties"
 
-Content:
-  content: |
-    **Deze zoekhulpen zijn nog in ontwikkeling. Ze worden doorlopend gewijzigd, verplaatst en aangevuld.** 
-    
-    Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doen van (herkomst)onderzoek naar koloniale collecties. Ze bevatten informatie over het doen van onderzoek naar objecten die zijn verworven in een koloniale context en nu onderdeel zijn van een Nederlandse museumcollectie. Naast een korte beschrijving van het onderwerp, geven de zoekhulpen specifieke onderzoekstips en wordt er verwezen naar relevant bronmateriaal.
+## Zoekhulpen bij het doen van herkomstonderzoek naar koloniale collecties
 
-    We zijn benieuwd naar je ervaring als gebruiker van de zoekhulpen. Via deze [vragenlijst](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffhqoDmWSdt9Fjwp6_b0ouT9UMDFNOEJBNEJaTzdBTlhUNEJJVjdGT0VKNC4u) kan je suggesties doen voor nieuwe onderwerpen of aanvullende informatie met ons delen.
+**Deze zoekhulpen zijn nog in ontwikkeling. Ze worden doorlopend gewijzigd, verplaatst en aangevuld.** 
 
-    _De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Koloniale Collecties](https://www.colonialcollections.nl/). De zoekhulpen zijn geschreven door onderzoekers van het [Expertisecentrum Restitutie](https://www.niod.nl/onderzoek/expertisecentrum-restitutie) van het NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies._
-  content-type: text/markdown
+Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doen van (herkomst)onderzoek naar koloniale collecties. Ze bevatten informatie over het doen van onderzoek naar objecten die zijn verworven in een koloniale context en nu onderdeel zijn van een Nederlandse museumcollectie. Naast een korte beschrijving van het onderwerp, geven de zoekhulpen specifieke onderzoekstips en wordt er verwezen naar relevant bronmateriaal.
 
-Breakdown:
-  "Herkomstonderzoek naar koloniale collecties":
-    - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
-        rel_type: "see also"
-    - "Onderzoeken":
-        link: "niveau1/Dutch/Onderzoeken_20240425.yml"
-        rel_type: "see also"
-    - "Bronnen":
-        link: "niveau1/Dutch/Bronnen_20240425.yml"
-        rel_type: "see also"
-    - "Verslagleggen":
-        link: "niveau1/Dutch/Verslagleggen_20240501.yml"
-        rel_type: "see also"
-    - "Het Nederlandse restitutiebeleid":
-        link: "niveau1/Dutch/RestitutionPolicy_20250123.yml"
-        rel_type: "see also"
-  "Categorieën en thema's":
-    - "Musea en collecties":
-        link: "niveau2/Dutch/Museum_20250113.yml"
-        rel_type: "see also"
-        Deelonderwerpen:
-          - "Etnografisch Museum Artis":
-              link: "niveau3/Dutch/EMArtis_20240711.yml"
-              rel_type: "see also"
-          - "Hoofdcursus Kampen":
-              link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
-              rel_type: "see also"
-          - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
-              link: "niveau3/Dutch/BGKW_20240827.yml"
-              rel_type: "see also"
-          - "Koninklijk Kabinet van Zeldzaamheden":
-              link: "niveau3/Dutch/KKZ_20240313.yml"
-              rel_type: "see also"
-          - "Missiemuseum Steyl":
-              link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
-              rel_type: "see also"
-          - "Museon-Omniversum":
-              link: "niveau3/Dutch/Museon_20250429.yml"
-              rel_type: "see also"
-          - "Museum Bronbeek":
-              link: "niveau3/Dutch/Bronbeek_20241002.yml"
-              rel_type: "see also"
-          - "Museum Nusantara":
-              link: "niveau3/Dutch/MNusantara_20250130.yml"
-              rel_type: "see also"
-          - "Naturalis Biodiversity Center":
-              link: "niveau3/Dutch/Naturalis_20240710.yml"
-              rel_type: "see also"
-          - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-              link: "niveau3/Dutch/MOudenbosch_20250603.yml"
-              rel_type: "see also"
-          - "Rijksmuseum Amsterdam":
-              link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
-              rel_type: "see also"
-          - "Rijksmuseum van Oudheden":
-              link: "niveau3/Dutch/RMO_20241106.yml"
-              rel_type: "see also"
-          - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-              link: "niveau3/Dutch/GerardusLeeuw_20250513.yml"
-              rel_type: "see also"
-          - "Volkenkundig Museum Justinus van Nassau":
-              link: "niveau3/Dutch/JustinusNassau_20250225.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Amsterdam":
-              link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Berg en Dal":
-              link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Leiden":
-              link: "niveau3/Dutch/WMLeiden_20240327.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Rotterdam":
-              link: "niveau3/Dutch/WMRotterdam_20240822.yml"
-              rel_type: "see also"
-    - "Ambtenaren in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
-        rel_type: "see also"
-        Deelonderwerpen:
-          - "C.G.C. Reinwardt":
-              link: "niveau3/Dutch/Reinwardt_20241217.yml"
-              rel_type: "see also"    
-          - "Museum Nusantara":
-              link: "niveau3/Dutch/MNusantara_20250130.yml"
-              rel_type: "see also"
-    - "De handel in objecten uit een koloniale context":
-        link: "niveau2/Dutch/Handel_20240326.yml"
-        rel_type: "see also"
-        Deelonderwerpen:
-          - "Groote Koninklijke Bazar":
-              link: "niveau3/Dutch/KoninklijkeBazar_20240313.yml"
-              rel_type: "see also"
-          - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
-              link: "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"   
-              rel_type: "see also"       
-          - "Koninklijke Vereniging Vrienden der Aziatische Kunst":
-              link: "niveau3/Dutch/KVVAK_20240312.yml"
-              rel_type: "see also"
-          - "Kunsthandel Van Lier":
-              link: "niveau3/Dutch/KunsthandelVanLier_20240313.yml"
-              rel_type: "see also"
-    - "Leger- en marinepersoneel in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
-        rel_type: "see also"
-        Deelonderwerpen:
-          - "Hoofdcursus Kampen":
-              link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
-              rel_type: "see also"
-          - "Museum Bronbeek":
-              link: "niveau3/Dutch/Bronbeek_20241002.yml"
-              rel_type: "see also"
-          - "Volkenkundig Museum Justinus van Nassau":
-              link: "niveau3/Dutch/JustinusNassau_20250225.yml"
-              rel_type: "see also"
-    - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/Science_20240814.yml"
-        rel_type: "see also"
-        Deelonderwerpen:
-          - "Koninklijk Instituut voor Taal- Land- en Volkenkunde":
-              link: "niveau3/Dutch/KITLV_20240704.yml"
-              rel_type: "see also"
-          - "Naturalis Biodiversity Center":
-              link: "niveau3/Dutch/Naturalis_20240710.yml"
-              rel_type: "see also"
-          - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-              link: "niveau3/Dutch/GerardusLeeuw_20250513.yml"
-              rel_type: "see also"
-          - "Wageningen University & Research":
-              link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
-              rel_type: "see also"
-    - "Zendelingen en missionarissen in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/ZendingEnMissie_20240326.yml"
-        rel_type: "see also"
-        Deelonderwerpen:
-          - "Missiemuseum Steyl":
-              link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
-              rel_type: "see also"
-          - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-              link: "niveau3/Dutch/MOudenbosch_20250603.yml"
-              rel_type: "see also"
-          - "Nederlandsch Zendeling Genootschap": 
-              link: "niveau3/Dutch/NZG_20240314.yml"
-              rel_type: "see also"
-          - "Wereldmuseum Berg en Dal":
-              link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
-              rel_type: "see also"
-  "Locaties":   
-    - "Aruba, Bonaire en Curaçao":
-        link: "niveau2/Dutch/ArubaBonaireCuracao_20250619.yml"
-        rel_type: "see also"
-    - "Saba, Sint Eustatius en Sint Maarten":
-        link: "niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml"
-        rel_type: "see also"        
-    - "Ghana":
-        link: "niveau2/Dutch/SabaStEustatiusStMaarten_20250901.yml"
-        rel_type: "see also"  
+We zijn benieuwd naar je ervaring als gebruiker van de zoekhulpen. Via deze [vragenlijst](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffhqoDmWSdt9Fjwp6_b0ouT9UMDFNOEJBNEJaTzdBTlhUNEJJVjdGT0VKNC4u) kan je suggesties doen voor nieuwe onderwerpen of aanvullende informatie met ons delen.
 
-editing_metadata:
-  - date: 2024-06-06
-    applies_to: 
-    author: wiebe reints
-    role: original_author
-    editing_notes: metadata added on 2025-06-02. from now, major changes to the file need to be logged here.        
+_De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Koloniale Collecties](https://www.colonialcollections.nl/). De zoekhulpen zijn geschreven door onderzoekers van het [Expertisecentrum Restitutie](https://www.niod.nl/onderzoek/expertisecentrum-restitutie) van het NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies._
+
+
+### Herkomstonderzoek naar koloniale collecties
+             - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
+ - [Onderzoeken](niveau1/Dutch/Onderzoeken_20240425.yml)  
+ - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
+ - [Verslagleggen](niveau1/Dutch/Verslagleggen_20240501.yml)  
+ - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)  
+
+### Categorieën en thema's
+             - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
+ - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)  
+
+### Locaties
+             - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
+ - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)  
+ - [Ghana](niveau2/Dutch/SabaStEustatiusStMaarten_20250901.yml)  
+
+        
+
+_last edited by wiebe reints as original_author on 2024-06-06_
+        SOMETHING STUPID

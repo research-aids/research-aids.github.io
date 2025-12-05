@@ -10,66 +10,53 @@ nav_exclude: False
 --- 
 
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/Dutch/Suriname){: .btn .btn-blue }			[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/Dutch/Suriname){: .btn .btn-blue }
-
-Level: 2
-
-Title: "Suriname"
-
-Abstract: "Te schrijven."
-
-RelatedAides:
-  - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelectAndDelineate_20240425.yml"
-        rel_type: "see also"
-  - "Bronnen":
-        link: "niveau1/Dutch/Sources_20240425.yml"
-        rel_type: "see also"
-  - "Ambtenaren":
-        link: "niveau2/Dutch/CivilServants_20240320.yml"
-        rel_type: "see also"
-  - "Leger en marine":
-        link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
-        rel_type: "see also"
-  - "Koninklijk Instituut voor Taal-, Land en Volkenkunde":
-        link: "niveau3/Dutch/KITLV_20240704.yml"
-        rel_type: "see also"
-  - "Rijksmuseum Amsterdam":
-        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
-        rel_type: "see also"
-  - "Wereldmuseum Amsterdam":
-        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
-        rel_type: "see also"
-  - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
-        rel_type: "see also"
-  - "Wereldmuseum Rotterdam": 
-        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
-        rel_type: "see also" 
-
-Relevant data:
-  Tags:
-    Activity: []
-    Type of objects: []
-    Geographical:
-      - "[Suriname](https://sws.geonames.org/3382998)"
-
-Main-text:
-  content: |
-    ### Beschrijving
-    
-    Langs de Surinamerivier werd in 1651 door Sir Frances Willoughby, de Engelse gouverneur van Barbados, een plantagekolonie gesticht. Aanleiding hiervoor was het  Deze kolonie diende ter uitbreiding van de suikerplantages op het kleine eiland Barbados. 
-
-    Suriname werd in 1651 gekoloniseerd door Sir Frances Willoughby, de Engelse gouverneur van Barbados, die langs de oevers van de Surinamerivier uitbreiding zocht voor zijn suikerplantages op het kleine eiland Barbados AANPASSEN. In 1667 werd deze kolonie tijdens de Tweede Engels-Nederlandse Oorlog door een Zeeuwse vloot veroverd. In 1683 verkochten de Zeeuwen de kolonie aan de West-Indische Compagnie (WIC), waarna er een Sociëteit van Suriname werd opgericht om de kolonie te besturen. Deze sociëteit had in gelijke verhoudingen de WIC, de familie Van Aerssen van Sommelsdijck en de stad Amsterdam als aandeelhouders. Na. In 1954 aanvaardde Suriname samen met Nederland en de Nederlandse Antillen het Statuut voor het Koninkrijk der Nederlanden. 
-
-    ### Verzamelen in Suriname
-    Test of wijzigingen doorkomen.
-
-    Verzamelingen in buitenland.
-    Jaren 30 Leon-Gontran Damas aan de Marowijnerivier.
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/Dutch/Suriname.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/Dutch/Suriname.docx){: .btn .btn-blue }
 
 
-    ### Natuurhistorisch verzamelen?
+# Suriname
 
-    ### Herkomstonderzoek
-  content-type: text/markdown
+
+## Abstract
+
+Te schrijven.
+
+### Beschrijving
+
+Langs de Surinamerivier werd in 1651 door Sir Frances Willoughby, de Engelse gouverneur van Barbados, een plantagekolonie gesticht. Aanleiding hiervoor was het  Deze kolonie diende ter uitbreiding van de suikerplantages op het kleine eiland Barbados. 
+
+Suriname werd in 1651 gekoloniseerd door Sir Frances Willoughby, de Engelse gouverneur van Barbados, die langs de oevers van de Surinamerivier uitbreiding zocht voor zijn suikerplantages op het kleine eiland Barbados AANPASSEN. In 1667 werd deze kolonie tijdens de Tweede Engels-Nederlandse Oorlog door een Zeeuwse vloot veroverd. In 1683 verkochten de Zeeuwen de kolonie aan de West-Indische Compagnie (WIC), waarna er een Sociëteit van Suriname werd opgericht om de kolonie te besturen. Deze sociëteit had in gelijke verhoudingen de WIC, de familie Van Aerssen van Sommelsdijck en de stad Amsterdam als aandeelhouders. Na. In 1954 aanvaardde Suriname samen met Nederland en de Nederlandse Antillen het Statuut voor het Koninkrijk der Nederlanden. 
+
+### Verzamelen in Suriname
+Test of wijzigingen doorkomen.
+
+Verzamelingen in buitenland.
+Jaren 30 Leon-Gontran Damas aan de Marowijnerivier.
+
+
+### Natuurhistorisch verzamelen?
+
+### Herkomstonderzoek
+
+
+## Related Aids
+
+ - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
+ - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
+ - [Ambtenaren](niveau2/Dutch/CivilServants_20240320.yml)  
+ - [Leger en marine](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
+ - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+
+THIS RA HAS NO SOURCES
+
+---
+## Relevant Data 
+TO BE FILLED
+
+_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+
+(notes: This event was automatically created because the YAML file's edit history was empty.)_
+        SOMETHING STUPID
