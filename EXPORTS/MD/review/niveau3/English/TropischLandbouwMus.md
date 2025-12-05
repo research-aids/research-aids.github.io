@@ -1,0 +1,85 @@
+
+# Tropisch Landbouwmuseum
+
+
+## Abstract
+
+The Tropisch Landbouwmuseum (Museum of Tropical Agriculture) in Deventer is a former museum that was affiliated with the Rijks Hogere Landbouwschool (National Higher Agricultural School) there. The collection therefore focused purely on objects related to agriculture in areas colonised by the Netherlands. In 1968, the museum closed its doors, after which the collection was transferred to the Gerardus van der Leeuw Ethnographic Museum in Groningen.
+
+### History of the museum
+
+At the beginning of the twentieth century, there was a growing desire in the Netherlands for an agricultural school that focused specifically on teaching “colonial agriculture”, i.e. the cultivation of plants and crops in regions colonised by the Netherlands. Eventually, the city of Deventer in Overijssel was chosen as the location for this new Middelbare Koloniale Landbouw School (Secondary School for Colonial Agriculture). At the same time, the idea arose to hold a colonial agricultural exhibition in the summer before the opening of the agricultural school in order to build up a collection that could be used for educational purposes. A specially established committee wrote to the various governors of the Dutch colonies asking them to contribute to the exhibition, and private individuals also sent objects to Deventer. The objects displayed during this Colonial Agricultural Exhibition in July 1912 were specifically related to agriculture and related activities. The collected objects were divided into fourteen categories, which can be found in the book _[The Deventer Collection](https://www.rug.nl/museum/collections/ethnological/colonial-agricultural-museum-deventer)_.
+
+Following the agricultural exhibition, the Vereniging 'Koloniaal Landbouwmuseum' (Association for the Museum of Colonial Agriculture) was founded in 1913, which began collecting funds to finance the construction of the desired museum. Construction began in 1914, and on 27 May 1915, the Colonial Agricultural Museum opened its doors on the Brinkgrevestraat. The West Indian section of the Colonial Museum in Haarlem (a predecessor of the [Wereldmuseum Amsterdam](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208)) served as a source of inspiration for the museum hall of the Colonial Agricultural Museum. Larger objects were exhibited on the ground floor, such as a replica of one of the four central gates of Borobudur on Java. The ethnographic collection was displayed in the gallery surrounding the museum hall. The collection policy of the Museum for Colonial Agriculture focused entirely on objects related to agriculture: objects were only included in the collection if they had a direct connection with agriculture or were indispensable for providing an impression of the environment in which it was practised.
+
+Na de Tweede Wereldoorlog werd al snel besloten de naam van het museum te veranderen naar Indisch Landbouwmuseum, toen Indonesië in 1949 officieel onafhankelijkheid verwierf besloot men de naam aan te passen naar Tropisch Landbouwmuseum Deventer. Hiermee ging het museum een gelijksoortige naamsontwikkeling door als het Wereldmuseum Amsterdam in de jaren na de Tweede Wereldoorlog. Deze periode werd ook gekenmerkt door verschillende financiële moeilijkheden waar het Tropisch Landbouwmuseum mee te maken kreeg. Er werd kortstondig onderzocht of het museum, net als het [Volkenkundig Museum Justinus van Nassau](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F96bbbf3d16181dcb47d3b6d6a5134899), onderdeel kon gaan uitmaken van het toenmalige [Rijksmuseum voor Volkenkunde](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) in Leiden. Van een overname is het echter nooit gekomen. Toen de museumdirecteur en de conciërge, de enige twee medewerkers van het museum, per 1 januari 1968 hun functie neer te leggen, betekende dat ook het einde van het Tropisch Landbouwmuseum in Deventer. 
+
+In 1972, the municipality of Deventer decided to donate the collection of the former Museum for Tropical Agriculture to the [Volkenkundig Museum “Gerardus van der Leeuw”](https://app.colonialcollections.nl/nl/research-aids/ https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd40d1b8cb736d6f4e8b697af45a628ee). This museum closed its doors in 2003, but the University Museum of Groningen still manages the Deventer collection.
+
+![Postcard from around 1915 showing the building of the Museum for Tropical Agriculture in Deventer](https://openatlantis.mijnstadmijndorp.nl/HttpHandler/icoon.ico?icoon=502414248)
+_The building of the Museum for Tropical Agriculture, around 1915._ ([Collectie Overijssel](https://proxy.archieven.nl/thumb/45/12905404185651C4E0504C91A4062E7A))
+
+### Provenance research
+
+Collectie Overijssel (the provincial archive of Overijssel, which also manages the Deventer city archive) contains relevant material relating to the Museum for Tropical Agriculture in various archive accesses. The Deventer municipal council archive (1950-1993) contains material on the [rededication of the collection](https://proxy.archieven.nl/20/84381A13E53D42B5A277F2B7F07316BA), the [museum library](https://proxy.archieven.nl/20/72731108F93D4D6DA59E653040FCD6CB), [minutes](https://proxy.archieven.nl/20/01D85CD71979494D8BBFB372C3D0FC88) and [annual reports](https://proxy.archieven.nl/20/01D85CD71979494D8BBFB372C3D0FC88). The archives of the association that managed the museum are also kept at Collectie Overijssel. This includes a catalogue of the 1912 Agricultural Exhibition (also available via the [Leiden University Library](http://hdl.handle.net/1887.1/item:3761833)) and material on the further development of the museum collection. Finally, there is the [archive of the Middelbare Koloniale Landbouwschool](https://proxy.archieven.nl/20/85648BDC0AD441BF93308E8D802BFEAA), which also contains relevant material about the Tropical Agricultural Museum.
+
+Specific information about the objects from the former Museum for Tropical Agriculture is part of the collection managed in Groningen. For more information about the former [Gerardus van der Leeuw Museum of Ethnology](https://app.colonialcollections.nl/nl/research-aids/ https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fd40d1b8cb736d6f4e8b697af45a628ee) see the relevant search aid. 
+
+
+## Related Aids
+
+ - [Museums and collections](niveau2/English/Museum_20250113.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)  
+ - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
+
+## Primary sources
+
+Archive:
+  > *NL-DvCO, 1441 Gemeentebestuur van Deventer III (1951-1993)*
+  > _Access 1.852.13 'Musea', contains various relevant archive material about the former Museum for Tropical Agriculture._  
+
+  > [https://proxy.archieven.nl/20/1F772453BFEC46B1803F2739D2D1484A](https://proxy.archieven.nl/20/1F772453BFEC46B1803F2739D2D1484A)
+
+Archive:
+  > *NL-DvCO, 0985 Vereniging museum voor Tropische Landbouw*
+  > _Archive of the association that managed the former Museum for Tropical Agriculture. The archive includes various catalogues of the museum collection._  
+
+  > [https://proxy.archieven.nl/20/CE2591A0210B49ABAD70CD97AC12058A](https://proxy.archieven.nl/20/CE2591A0210B49ABAD70CD97AC12058A)
+
+Archive:
+  > *NL-DvCO, 0504 Middelbare Koloniale Landbouwschool, later Rijks Hogere Landbouwschool te Deventer*
+  > _Archive of the former Middelbare Koloniale Landbouwschool in Deventer. The collection of the Museum for Tropical Agriculture was used to support teaching at the Koloniale Landbouwschool._  
+
+  > [https://proxy.archieven.nl/20/85648BDC0AD441BF93308E8D802BFEAA](https://proxy.archieven.nl/20/85648BDC0AD441BF93308E8D802BFEAA)
+
+## Secondary sources
+
+Book:
+  > *Arnoldus, G. De collectie Deventer. Volkenkundig Museum ‘Gerardus van der Leeuw’, Universiteit van Groningen, 2003.*
+  > _Book and catalogue from 2003 (in dutch) providing extensive background information about the former Museum for Tropical Agriculture in Deventer. It also offers an overview of the museum's collection, which was donated to the Volkenkundig Museum “Gerardus van der Leeuw” in 1972._  
+
+  > [https://www.rug.nl/society-business/university-museum/collections/ethnological/pdf/tdcatalogus.pdf](https://www.rug.nl/society-business/university-museum/collections/ethnological/pdf/tdcatalogus.pdf), [ISBN 9789080083295](https://isbnsearch.org/isbn/9789080083295), [WorldCat 66725336](https://search.worldcat.org/title/66725336)
+
+Book:
+  > *Zeijlstra, H. H. Het Koloniaal Landbouw-museum te Deventer. De Bussy, 1915.*
+  > _Booklet (in Dutch) that is a retyped version of an article in the magazine Eigen Haard. The article describes the origins of the Museum for Tropical Agriculture and provides an overview of the collection and what was on display in the museum._  
+
+  > [https://resolver.kb.nl/resolve?urn=MMKB02:100003305](https://resolver.kb.nl/resolve?urn=MMKB02:100003305)
+
+Catalogue:
+  > *Catalogus der koloniale landbouwtentoonstelling, Deventer 1912*
+  > _Catalogue of the agricultural exhibition held in 1912, which collection served as the basis for the later Museum for Tropical Agriculture._  
+
+  > [http://hdl.handle.net/1887.1/item:3761833](http://hdl.handle.net/1887.1/item:3761833)
+
+
+
+---
+## Relevant Data 
+TO BE FILLED
+
+_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+
+(notes: This event was automatically created because the YAML file's edit history was empty.)_
+        
