@@ -10,7 +10,9 @@ nav_exclude: False
 --- 
 
 
-./EXPORTS/MD/review/niveau2/English/Indonesia[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/Dutch/Indonesia.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/Dutch/Indonesia.docx){: .btn .btn-blue }
+see also [the English version](https://research-aids.github.io//review/niveau2/English/Indonesia.html)
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/Dutch/Indonesia.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/Dutch/Indonesia.docx){: .btn .btn-blue }
 
 
 # Indonesië

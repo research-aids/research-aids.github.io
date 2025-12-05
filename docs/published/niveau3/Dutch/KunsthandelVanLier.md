@@ -10,7 +10,9 @@ nav_exclude: False
 --- 
 
 
-./EXPORTS/MD/published/niveau3/English/KunsthandelVanLier[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/KunsthandelVanLier.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/KunsthandelVanLier.docx){: .btn .btn-blue }
+see also [the English version](https://research-aids.github.io//published/niveau3/English/KunsthandelVanLier.html)
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/KunsthandelVanLier.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/KunsthandelVanLier.docx){: .btn .btn-blue }
 
 
 # Kunsthandel Van Lier

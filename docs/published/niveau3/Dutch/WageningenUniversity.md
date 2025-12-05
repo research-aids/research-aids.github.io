@@ -10,7 +10,9 @@ nav_exclude: False
 --- 
 
 
-./EXPORTS/MD/published/niveau3/English/WageningenUniversity[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/WageningenUniversity.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/WageningenUniversity.docx){: .btn .btn-blue }
+see also [the English version](https://research-aids.github.io//published/niveau3/English/WageningenUniversity.html)
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/WageningenUniversity.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/WageningenUniversity.docx){: .btn .btn-blue }
 
 
 # Wageningen University & Research

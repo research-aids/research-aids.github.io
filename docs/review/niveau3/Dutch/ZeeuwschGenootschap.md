@@ -10,7 +10,9 @@ nav_exclude: False
 --- 
 
 
-./EXPORTS/MD/review/niveau3/English/ZeeuwschGenootschap[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/ZeeuwschGenootschap.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/ZeeuwschGenootschap.docx){: .btn .btn-blue }
+see also [the English version](https://research-aids.github.io//review/niveau3/English/ZeeuwschGenootschap.html)
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/ZeeuwschGenootschap.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/ZeeuwschGenootschap.docx){: .btn .btn-blue }
 
 
 # Koninklijk Zeeuwsch Genootschap der Wetenschappen

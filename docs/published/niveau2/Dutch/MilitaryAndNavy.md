@@ -10,7 +10,9 @@ nav_exclude: False
 --- 
 
 
-./EXPORTS/MD/published/niveau2/English/MilitaryAndNavy[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/MilitaryAndNavy.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/MilitaryAndNavy.docx){: .btn .btn-blue }
+see also [the English version](https://research-aids.github.io//published/niveau2/English/MilitaryAndNavy.html)
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/MilitaryAndNavy.pdf){: .btn .btn-blue }&emsp;[Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/MilitaryAndNavy.docx){: .btn .btn-blue }
 
 
 # Leger- en marinepersoneel in gekoloniseerde gebieden
