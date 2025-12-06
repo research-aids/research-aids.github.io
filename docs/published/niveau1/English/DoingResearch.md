@@ -5,14 +5,14 @@ parent: niveau1
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-05
+date: 2025-12-06
 nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/DoingResearch.html){: .btn .btn-blue }
+[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/DoingResearch.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/DoingResearch.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/DoingResearch.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/DoingResearch.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/DoingResearch.docx){: .btn .btn-outline target="_blank"}
 
 
 # Doing research

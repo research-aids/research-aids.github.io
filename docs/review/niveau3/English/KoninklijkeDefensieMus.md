@@ -5,14 +5,14 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-05
+date: 2025-12-06
 nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//review/niveau3/Dutch/KoninklijkeDefensieMus.html){: .btn .btn-blue }
+[Nederlandse versie](https://research-aids.github.io//review/niveau3/Dutch/KoninklijkeDefensieMus.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/English/KoninklijkeDefensieMus.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/KoninklijkeDefensieMus.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/English/KoninklijkeDefensieMus.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/KoninklijkeDefensieMus.docx){: .btn .btn-outline target="_blank"}
 
 
 # Stichting Koninklijke Defensiemusea

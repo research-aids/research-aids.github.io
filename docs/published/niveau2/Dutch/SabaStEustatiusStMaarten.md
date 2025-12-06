@@ -5,14 +5,14 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-05
+date: 2025-12-06
 nav_exclude: False
 --- 
 
 
-[English version](https://research-aids.github.io//published/niveau2/English/SabaStEustatiusStMaarten.html){: .btn .btn-blue }
+[English version](https://research-aids.github.io//published/niveau2/English/SabaStEustatiusStMaarten.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/SabaStEustatiusStMaarten.pdf){: .btn .btn-blue }        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/SabaStEustatiusStMaarten.docx){: .btn .btn-blue }
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/SabaStEustatiusStMaarten.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/SabaStEustatiusStMaarten.docx){: .btn .btn-outline target="_blank"}
 
 
 # Saba, Sint Eustatius en Sint Maarten
