@@ -13,9 +13,9 @@ nav_exclude: False
 
 # De handel in objecten uit een koloniale context
 
-[English version](https://research-aids.github.io//published/niveau2/English/Trade.html){: .btn .btn-outline .mr-5}
+[English version](https://research-aids.github.io//published/niveau2/English/Trade.html){: .btn .btn-outline .flex-justify-between}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/Trade.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/Trade.docx){: .btn .btn-outline .mr-5}
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/Trade.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/Trade.docx){: .btn .btn-outline .flex-justify-between}
 
 
 

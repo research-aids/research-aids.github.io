@@ -13,9 +13,9 @@ nav_exclude: False
 
 # Universitaire collecties
 
-[English version](https://research-aids.github.io//review/niveau3/English/UniversityMus.html){: .btn .btn-outline .mr-5}
+[English version](https://research-aids.github.io//review/niveau3/English/UniversityMus.html){: .btn .btn-outline .flex-justify-between}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/UniversityMus.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/UniversityMus.docx){: .btn .btn-outline .mr-5}
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/UniversityMus.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/UniversityMus.docx){: .btn .btn-outline .flex-justify-between}
 
 
 

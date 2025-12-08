@@ -13,9 +13,9 @@ nav_exclude: False
 
 # Wereldmuseum Amsterdam
 
-[English version](https://research-aids.github.io//published/niveau3/English/WMAmsterdam.html){: .btn .btn-outline .mr-5}
+[English version](https://research-aids.github.io//published/niveau3/English/WMAmsterdam.html){: .btn .btn-outline .flex-justify-between}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/WMAmsterdam.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/WMAmsterdam.docx){: .btn .btn-outline .mr-5}
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/WMAmsterdam.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/WMAmsterdam.docx){: .btn .btn-outline .flex-justify-between}
 
 
 

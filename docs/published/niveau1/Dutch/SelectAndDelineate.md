@@ -13,9 +13,9 @@ nav_exclude: False
 
 # Selecteren en afbakenen
 
-[English version](https://research-aids.github.io//published/niveau1/English/SelectAndDelineate.html){: .btn .btn-outline .mr-5}
+[English version](https://research-aids.github.io//published/niveau1/English/SelectAndDelineate.html){: .btn .btn-outline .flex-justify-between}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/Dutch/SelectAndDelineate.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/Dutch/SelectAndDelineate.docx){: .btn .btn-outline .mr-5}
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/Dutch/SelectAndDelineate.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/Dutch/SelectAndDelineate.docx){: .btn .btn-outline .flex-justify-between}
 
 
 

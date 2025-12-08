@@ -13,9 +13,9 @@ nav_exclude: False
 
 # Indonesië
 
-[English version](https://research-aids.github.io//review/niveau2/English/Indonesia.html){: .btn .btn-outline .mr-5}
+[English version](https://research-aids.github.io//review/niveau2/English/Indonesia.html){: .btn .btn-outline .flex-justify-between}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/Dutch/Indonesia.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/Dutch/Indonesia.docx){: .btn .btn-outline .mr-5}
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/Dutch/Indonesia.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/Dutch/Indonesia.docx){: .btn .btn-outline .flex-justify-between}
 
 
 

@@ -13,7 +13,7 @@ nav_exclude: True
 
 # Nijmeegs Volkenkundig Museum
 
-[Nederlandse versie](https://research-aids.github.io//review/niveau3/Dutch/NijmeegsVolkMus.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/English/NijmeegsVolkMus.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/NijmeegsVolkMus.docx){: .btn .btn-outline .mr-5}
+[Nederlandse versie](https://research-aids.github.io//review/niveau3/Dutch/NijmeegsVolkMus.html){: .btn .btn-outline .flex-justify-between}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/English/NijmeegsVolkMus.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/NijmeegsVolkMus.docx){: .btn .btn-outline .flex-justify-between}
 
 
 

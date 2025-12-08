@@ -13,7 +13,7 @@ nav_exclude: True
 
 # Writing a provenance report
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/Reporting.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/Reporting.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/Reporting.docx){: .btn .btn-outline .mr-5}
+[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/Reporting.html){: .btn .btn-outline .flex-justify-between}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/Reporting.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/Reporting.docx){: .btn .btn-outline .flex-justify-between}
 
 
 

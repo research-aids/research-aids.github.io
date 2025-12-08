@@ -13,9 +13,9 @@ nav_exclude: False
 
 # Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen
 
-[English version](https://research-aids.github.io//published/niveau3/English/BGKW.html){: .btn .btn-outline .mr-5}
+[English version](https://research-aids.github.io//published/niveau3/English/BGKW.html){: .btn .btn-outline .flex-justify-between}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/BGKW.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/BGKW.docx){: .btn .btn-outline .mr-5}
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/BGKW.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/BGKW.docx){: .btn .btn-outline .flex-justify-between}
 
 
 

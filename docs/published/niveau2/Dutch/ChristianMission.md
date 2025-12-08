@@ -13,9 +13,9 @@ nav_exclude: False
 
 # Zendelingen en missionarissen in gekoloniseerde gebieden
 
-[English version](https://research-aids.github.io//published/niveau2/English/ChristianMission.html){: .btn .btn-outline .mr-5}
+[English version](https://research-aids.github.io//published/niveau2/English/ChristianMission.html){: .btn .btn-outline .flex-justify-between}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/ChristianMission.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/ChristianMission.docx){: .btn .btn-outline .mr-5}
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/ChristianMission.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/ChristianMission.docx){: .btn .btn-outline .flex-justify-between}
 
 
 

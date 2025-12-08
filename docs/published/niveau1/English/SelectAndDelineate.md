@@ -13,7 +13,7 @@ nav_exclude: True
 
 # Select and delineate
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/SelectAndDelineate.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/SelectAndDelineate.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/SelectAndDelineate.docx){: .btn .btn-outline .mr-5}
+[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/SelectAndDelineate.html){: .btn .btn-outline .flex-justify-between}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/SelectAndDelineate.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/SelectAndDelineate.docx){: .btn .btn-outline .flex-justify-between}
 
 
 
