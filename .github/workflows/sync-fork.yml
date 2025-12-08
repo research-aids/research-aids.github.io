@@ -42,7 +42,8 @@ jobs:
         run: |
           git clone https://github.com/research-aids/research-aids.github.io-code.git
           cp --force $WORK_DIR/research-aids.github.io-code/sync-fork.yml $WORK_DIR/.github/workflows
-          
+
+          rm -rfv $WORK_DIR/docs
           cp -r --force $WORK_DIR/research-aids.github.io-code/docs $WORK_DIR
           cp --force $WORK_DIR/research-aids.github.io-code/docs/pages.yml $WORK_DIR/.github/workflows
           # cp --force $WORK_DIR/docs/ci.yml $WORK_DIR/.github/workflows
