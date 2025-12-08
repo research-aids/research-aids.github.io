@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau0/Dutch/TopLevel.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau0/English/TopLevel.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau0/English/TopLevel.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau0/Dutch/TopLevel.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau0/English/TopLevel.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau0/English/TopLevel.docx){: .btn .btn-outline .mr-5}
 
-# Colonial Collections Research Aids
+ Colonial Collections Research Aids
 
 
 ## Research aids for conducting provenance research into colonial collections
@@ -52,4 +52,4 @@ _The Digital Research Aids are a project of the [Consortium Colonial Collections
         
 
 _last edited by wiebe reints as original_author on 2024-06-06_
-        SOMETHING STUPID
+        

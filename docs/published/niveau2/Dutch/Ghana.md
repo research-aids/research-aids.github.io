@@ -10,12 +10,14 @@ nav_exclude: False
 --- 
 
 
-[English version](https://research-aids.github.io//published/niveau2/English/Ghana.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/Ghana.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/Ghana.docx){: .btn .btn-outline target="_blank"}
+#
 
+[English version](https://research-aids.github.io//published/niveau2/English/Ghana.html){: .btn .btn-outline .mr-5}
 
-# Ghana
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/Ghana.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/Ghana.docx){: .btn .btn-outline .mr-5}
+
+ Ghana
 
 
 ## Abstract
@@ -132,4 +134,4 @@ Hoofdstuk in een catalogus:
 TO BE FILLED
 
 _last edited by Maarten van der Bent as original_author on 2025-09-01_
-        SOMETHING STUPID
+        

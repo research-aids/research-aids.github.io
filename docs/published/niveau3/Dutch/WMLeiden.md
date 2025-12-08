@@ -10,12 +10,14 @@ nav_exclude: False
 --- 
 
 
-[English version](https://research-aids.github.io//published/niveau3/English/WMLeiden.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/WMLeiden.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/WMLeiden.docx){: .btn .btn-outline target="_blank"}
+#
 
+[English version](https://research-aids.github.io//published/niveau3/English/WMLeiden.html){: .btn .btn-outline .mr-5}
 
-# Wereldmuseum Leiden
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/WMLeiden.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/WMLeiden.docx){: .btn .btn-outline .mr-5}
+
+ Wereldmuseum Leiden
 
 
 ## Abstract
@@ -108,4 +110,4 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-03-27_  
 _last edited by Tom Quist as editor on 2025-06-19_
-        SOMETHING STUPID
+        

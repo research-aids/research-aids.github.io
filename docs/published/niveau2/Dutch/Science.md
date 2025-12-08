@@ -10,12 +10,14 @@ nav_exclude: False
 --- 
 
 
-[English version](https://research-aids.github.io//published/niveau2/English/Science.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/Science.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/Science.docx){: .btn .btn-outline target="_blank"}
+#
 
+[English version](https://research-aids.github.io//published/niveau2/English/Science.html){: .btn .btn-outline .mr-5}
 
-# Wetenschappelijk onderzoek in gekoloniseerde gebieden
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/Dutch/Science.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/Dutch/Science.docx){: .btn .btn-outline .mr-5}
+
+ Wetenschappelijk onderzoek in gekoloniseerde gebieden
 
 
 ## Abstract
@@ -82,4 +84,4 @@ Artikel:
 TO BE FILLED
 
 _last edited by Wiebe Reints as original_author on 2024-08-14_
-        SOMETHING STUPID
+        

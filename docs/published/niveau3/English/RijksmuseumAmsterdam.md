@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/RijksmuseumAmsterdam.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/RijksmuseumAmsterdam.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/RijksmuseumAmsterdam.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/RijksmuseumAmsterdam.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/RijksmuseumAmsterdam.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/RijksmuseumAmsterdam.docx){: .btn .btn-outline .mr-5}
 
-# Rijksmuseum Amsterdam
+ Rijksmuseum Amsterdam
 
 
 ## Abstract
@@ -77,4 +77,4 @@ TO BE FILLED
 _first edited by Wiebe Reints as original_author on 2024-09-05_  
 _last edited by Abacus as translator on 2025-04-24
 (applies to section: Main-text; Sources)_
-        SOMETHING STUPID
+        

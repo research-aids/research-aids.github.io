@@ -10,12 +10,14 @@ nav_exclude: False
 --- 
 
 
-[English version](https://research-aids.github.io//published/niveau3/English/MissiemuseumSteyl.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/MissiemuseumSteyl.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/MissiemuseumSteyl.docx){: .btn .btn-outline target="_blank"}
+#
 
+[English version](https://research-aids.github.io//published/niveau3/English/MissiemuseumSteyl.html){: .btn .btn-outline .mr-5}
 
-# Missiemuseum Steyl
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/MissiemuseumSteyl.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/MissiemuseumSteyl.docx){: .btn .btn-outline .mr-5}
+
+ Missiemuseum Steyl
 
 
 ## Abstract
@@ -83,4 +85,4 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-10-21_  
 _last edited by Paul Voogt; Nina van der Werf as reviewer on 2025-10-21_
-        SOMETHING STUPID
+        

@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau2/Dutch/SabaStEustatiusStMaarten.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/English/SabaStEustatiusStMaarten.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/English/SabaStEustatiusStMaarten.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau2/Dutch/SabaStEustatiusStMaarten.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/English/SabaStEustatiusStMaarten.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/English/SabaStEustatiusStMaarten.docx){: .btn .btn-outline .mr-5}
 
-# Saba, Sint Eustatius and Sint Maarten
+ Saba, Sint Eustatius and Sint Maarten
 
 
 ## Abstract
@@ -98,4 +98,4 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-11-25_  
 _last edited by Abacus as translator on 2025-10-21_
-        SOMETHING STUPID
+        

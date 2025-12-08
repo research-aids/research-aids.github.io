@@ -10,12 +10,14 @@ nav_exclude: False
 --- 
 
 
-[English version](https://research-aids.github.io//published/niveau3/English/Bronbeek.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/Bronbeek.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/Bronbeek.docx){: .btn .btn-outline target="_blank"}
+#
 
+[English version](https://research-aids.github.io//published/niveau3/English/Bronbeek.html){: .btn .btn-outline .mr-5}
 
-# Museum Bronbeek
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/Bronbeek.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/Bronbeek.docx){: .btn .btn-outline .mr-5}
+
+ Museum Bronbeek
 
 
 ## Abstract
@@ -92,4 +94,4 @@ TO BE FILLED
 _first edited by Wiebe Reints as original_author on 2024-10-02_  
 _last edited by Pauljac Verhoeven; John Klein Nagelvoort  on 2025-07-07
 (applies to section: Main-text; Sources)_
-        SOMETHING STUPID
+        

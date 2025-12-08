@@ -10,12 +10,14 @@ nav_exclude: False
 --- 
 
 
-[English version](https://research-aids.github.io//published/niveau3/English/WMRotterdam.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/WMRotterdam.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/WMRotterdam.docx){: .btn .btn-outline target="_blank"}
+#
 
+[English version](https://research-aids.github.io//published/niveau3/English/WMRotterdam.html){: .btn .btn-outline .mr-5}
 
-# Wereldmuseum Rotterdam
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/Dutch/WMRotterdam.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/Dutch/WMRotterdam.docx){: .btn .btn-outline .mr-5}
+
+ Wereldmuseum Rotterdam
 
 
 ## Abstract
@@ -90,4 +92,4 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-08-22_  
 _last edited by Tom Quist as editor on 2025-06-19_
-        SOMETHING STUPID
+        

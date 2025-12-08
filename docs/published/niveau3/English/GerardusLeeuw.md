@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/GerardusLeeuw.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/GerardusLeeuw.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/GerardusLeeuw.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/GerardusLeeuw.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/GerardusLeeuw.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/GerardusLeeuw.docx){: .btn .btn-outline .mr-5}
 
-# Volkenkundig Museum 'Gerardus van der Leeuw'
+ Volkenkundig Museum 'Gerardus van der Leeuw'
 
 
 ## Abstract
@@ -97,4 +97,4 @@ TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-05-13_  
 _last edited by Rosalie Hans as reviewer on 2025-10-21_
-        SOMETHING STUPID
+        

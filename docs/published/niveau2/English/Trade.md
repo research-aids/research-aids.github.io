@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau2/Dutch/Trade.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/English/Trade.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/English/Trade.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau2/Dutch/Trade.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/English/Trade.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/English/Trade.docx){: .btn .btn-outline .mr-5}
 
-# The trade in objects from a colonial context
+ The trade in objects from a colonial context
 
 
 ## Abstract
@@ -102,4 +102,4 @@ TO BE FILLED
 _first edited by wiebe reints as original_author on 2024-03-16_  
 _last edited by abacus as translator on 2025-03-12
 (applies to section: Main-text; Sources)_
-        SOMETHING STUPID
+        

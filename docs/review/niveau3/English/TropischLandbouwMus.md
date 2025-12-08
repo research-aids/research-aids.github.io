@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//review/niveau3/Dutch/TropischLandbouwMus.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/English/TropischLandbouwMus.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/TropischLandbouwMus.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//review/niveau3/Dutch/TropischLandbouwMus.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/English/TropischLandbouwMus.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/TropischLandbouwMus.docx){: .btn .btn-outline .mr-5}
 
-# Tropisch Landbouwmuseum
+ Tropisch Landbouwmuseum
 
 
 ## Abstract
@@ -98,4 +98,4 @@ TO BE FILLED
 _last edited by UNKNOWN as UNKNOWN on 2025-12-04
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
-        SOMETHING STUPID
+        

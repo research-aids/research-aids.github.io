@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/MOudenbosch.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/MOudenbosch.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/MOudenbosch.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/MOudenbosch.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/MOudenbosch.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/MOudenbosch.docx){: .btn .btn-outline .mr-5}
 
-# Natuurhistorisch en Volkenkundig Museum Oudenbosch
+ Natuurhistorisch en Volkenkundig Museum Oudenbosch
 
 
 ## Abstract
@@ -82,4 +82,4 @@ TO BE FILLED
 _last edited by UNKNOWN as UNKNOWN on 2025-12-04
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
-        SOMETHING STUPID
+        

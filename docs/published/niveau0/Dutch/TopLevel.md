@@ -10,12 +10,14 @@ nav_exclude: False
 --- 
 
 
-[English version](https://research-aids.github.io//published/niveau0/English/TopLevel.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau0/Dutch/TopLevel.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau0/Dutch/TopLevel.docx){: .btn .btn-outline target="_blank"}
+#
 
+[English version](https://research-aids.github.io//published/niveau0/English/TopLevel.html){: .btn .btn-outline .mr-5}
 
-# Zoekhulpen Koloniale Collecties
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau0/Dutch/TopLevel.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau0/Dutch/TopLevel.docx){: .btn .btn-outline .mr-5}
+
+ Zoekhulpen Koloniale Collecties
 
 
 ## Zoekhulpen bij het doen van herkomstonderzoek naar koloniale collecties
@@ -52,4 +54,4 @@ _De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Kolonia
         
 
 _last edited by wiebe reints as original_author on 2024-06-06_
-        SOMETHING STUPID
+        

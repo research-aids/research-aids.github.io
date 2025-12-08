@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau2/Dutch/Science.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/English/Science.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/English/Science.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau2/Dutch/Science.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau2/English/Science.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau2/English/Science.docx){: .btn .btn-outline .mr-5}
 
-# Scientific research in colonised territories
+ Scientific research in colonised territories
 
 
 ## Abstract
@@ -88,4 +88,4 @@ TO BE FILLED
 _first edited by wiebe reints as original_author on 2024-08-21_  
 _last edited by abacus as translator on 2025-03-12
 (applies to section: Main-text; Sources)_
-        SOMETHING STUPID
+        

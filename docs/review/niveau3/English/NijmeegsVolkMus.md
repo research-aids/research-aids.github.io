@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//review/niveau3/Dutch/NijmeegsVolkMus.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/English/NijmeegsVolkMus.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/NijmeegsVolkMus.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//review/niveau3/Dutch/NijmeegsVolkMus.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/English/NijmeegsVolkMus.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/English/NijmeegsVolkMus.docx){: .btn .btn-outline .mr-5}
 
-# Nijmeegs Volkenkundig Museum
+ Nijmeegs Volkenkundig Museum
 
 
 ## Abstract
@@ -56,4 +56,4 @@ TO BE FILLED
 _last edited by UNKNOWN as UNKNOWN on 2025-12-04
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
-        SOMETHING STUPID
+        

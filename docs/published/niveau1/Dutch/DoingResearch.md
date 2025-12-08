@@ -10,12 +10,14 @@ nav_exclude: False
 --- 
 
 
-[English version](https://research-aids.github.io//published/niveau1/English/DoingResearch.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/Dutch/DoingResearch.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/Dutch/DoingResearch.docx){: .btn .btn-outline target="_blank"}
+#
 
+[English version](https://research-aids.github.io//published/niveau1/English/DoingResearch.html){: .btn .btn-outline .mr-5}
 
-# Onderzoeken
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/Dutch/DoingResearch.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/Dutch/DoingResearch.docx){: .btn .btn-outline .mr-5}
+
+ Onderzoeken
 
 
 ## Abstract
@@ -99,4 +101,4 @@ Een aantal van de Nederlandse bronnen voor herkomstonderzoek naar koloniale coll
 
 
 _last edited by wiebe reints as original_author on 2024-04-25_
-        SOMETHING STUPID
+        

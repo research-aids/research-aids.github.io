@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/SelectAndDelineate.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/SelectAndDelineate.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/SelectAndDelineate.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/SelectAndDelineate.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/SelectAndDelineate.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/SelectAndDelineate.docx){: .btn .btn-outline .mr-5}
 
-# Select and delineate
+ Select and delineate
 
 
 ## Abstract
@@ -69,4 +69,4 @@ Provenance research can also be undertaken proactively, for example if the custo
 _first edited by wiebe reints as original_author on 2024-04-25_  
 _last edited by abacus as translator on 2025-03-12
 (applies to section: Main-text)_
-        SOMETHING STUPID
+        

@@ -10,12 +10,14 @@ nav_exclude: False
 --- 
 
 
-[English version](https://research-aids.github.io//review/niveau3/English/ZeeuwschGenootschap.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/ZeeuwschGenootschap.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/ZeeuwschGenootschap.docx){: .btn .btn-outline target="_blank"}
+#
 
+[English version](https://research-aids.github.io//review/niveau3/English/ZeeuwschGenootschap.html){: .btn .btn-outline .mr-5}
 
-# Koninklijk Zeeuwsch Genootschap der Wetenschappen
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/ZeeuwschGenootschap.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/ZeeuwschGenootschap.docx){: .btn .btn-outline .mr-5}
+
+ Koninklijk Zeeuwsch Genootschap der Wetenschappen
 
 
 ## Abstract
@@ -90,4 +92,4 @@ TO BE FILLED
 _last edited by UNKNOWN as UNKNOWN on 2025-12-04
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
-        SOMETHING STUPID
+        

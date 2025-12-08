@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/Reporting.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/Reporting.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/Reporting.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/Reporting.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/Reporting.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/Reporting.docx){: .btn .btn-outline .mr-5}
 
-# Writing a provenance report
+ Writing a provenance report
 
 
 ## Abstract
@@ -74,4 +74,4 @@ The Wereldmuseum publication [Words Matter](https://amsterdam.wereldmuseum.nl/si
 _first edited by wiebe reints as original_author on 2024-05-01_  
 _last edited by abacus as translator on 2025-03-12
 (applies to section: Main-text)_
-        SOMETHING STUPID
+        

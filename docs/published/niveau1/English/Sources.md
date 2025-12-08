@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/Sources.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/Sources.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/Sources.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau1/Dutch/Sources.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau1/English/Sources.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau1/English/Sources.docx){: .btn .btn-outline .mr-5}
 
-# Sources
+ Sources
 
 
 ## Abstract
@@ -114,4 +114,4 @@ Some collectors and organisations were active in several European countries, whi
 _first edited by wiebe reints as original_author on 2024-05-01_  
 _last edited by abacus as translator on 2025-03-12
 (applies to section: Maint-text)_
-        SOMETHING STUPID
+        

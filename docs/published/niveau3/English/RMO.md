@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/RMO.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/RMO.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/RMO.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/RMO.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/RMO.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/RMO.docx){: .btn .btn-outline .mr-5}
 
-# Rijksmuseum van Oudheden
+ Rijksmuseum van Oudheden
 
 
 ## Abstract
@@ -121,4 +121,4 @@ TO BE FILLED
 _first edited by Wiebe Reints as original_author on 2024-11-06_  
 _last edited by Abacus as translator on 2025-04-24
 (applies to section: Main-text; Sources)_
-        SOMETHING STUPID
+        

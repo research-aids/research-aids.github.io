@@ -10,12 +10,12 @@ nav_exclude: True
 --- 
 
 
-[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/KITLV.html){: .btn .btn-outline target="_blank"}
 
-[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/KITLV.pdf){: .btn .btn-outline target="_blank"}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/KITLV.docx){: .btn .btn-outline target="_blank"}
+#
 
+[Nederlandse versie](https://research-aids.github.io//published/niveau3/Dutch/KITLV.html){: .btn .btn-outline .mr-5}        [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/published/niveau3/English/KITLV.pdf){: .btn .btn-outline .mr-5}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/published/niveau3/English/KITLV.docx){: .btn .btn-outline .mr-5}
 
-# Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)
+ Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)
 
 
 ## Abstract
@@ -121,4 +121,4 @@ TO BE FILLED
 _first edited by Wiebe Reints as original_author on 2024-07-04_  
 _last edited by Abacus as translator on 2025-04-07
 (applies to section: Main-text; Sources)_
-        SOMETHING STUPID
+        
