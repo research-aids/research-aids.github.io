@@ -30,14 +30,14 @@ Voor specifieke informatie over objecten kan ook contact op worden genomen met h
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
+ - [Bronnen](niveau1/Dutch/Sources.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission.yml)  
+ - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  
+ - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch.yml)  
 
 ## Primary sources
 

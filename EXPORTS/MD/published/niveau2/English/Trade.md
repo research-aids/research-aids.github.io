@@ -33,21 +33,21 @@ The French portal [AGORHA](https://agorha.inha.fr) also contains information on 
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar_2040503.yml)  
- - [Kunsthandel Van Lier](niveau3/English/KunsthandelVanLier_20240507.yml)  
- - [Royal Asian Art Society in the Netherlands](niveau3/English/RAAS_20240508.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Artis Ethnograpic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Select and delineate](niveau1/English/SelectAndDelineate.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
+ - [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar.yml)  
+ - [Kunsthandel Van Lier](niveau3/English/KunsthandelVanLier.yml)  
+ - [Royal Asian Art Society in the Netherlands](niveau3/English/RAAS.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  
+ - [Artis Ethnograpic Museum](niveau3/English/EMArtis.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam.yml)  
+ - [Rijksmuseum van Oudheden](niveau3/English/RMO.yml)  
+ - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883.yml)  
 
 ## Primary sources
 

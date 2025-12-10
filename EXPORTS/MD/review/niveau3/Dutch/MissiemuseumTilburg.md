@@ -27,12 +27,12 @@ Ook bij de Radboud Universiteit wordt een geringe hoeveelheid relevant archiefma
 
 ## Related Aids
 
- - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Missiemuseum Steyl](published/niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
+ - [Musea en collecties](niveau2/Dutch/Museum3.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission.yml)  
+ - [Missiemuseum Steyl](published/niveau3/Dutch/MissiemuseumSteyl.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch.yml)  
+ - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG.yml)  
+ - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal.yml)  
 
 ## Primary sources
 

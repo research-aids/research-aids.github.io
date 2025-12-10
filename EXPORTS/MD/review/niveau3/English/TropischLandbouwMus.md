@@ -28,10 +28,10 @@ Specific information about the objects from the former Museum for Tropical Agric
 
 ## Related Aids
 
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)  
- - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
+ - [Museums and collections](niveau2/English/Museum.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw.yml)  
+ - [Wageningen University & Research](niveau3/English/WageningenUniversity.yml)  
 
 ## Primary sources
 

@@ -19,13 +19,13 @@ Het archief van de Landbouwhogeschool tot 1959 bevindt zich bij het [Gelders Arc
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
- - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis.yml)  
+ - [Museum Nusantara](niveau3/Dutch/MNusantara.yml)  
+ - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen.yml)  
+ - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw.yml)  
 
 ## Primary sources
 

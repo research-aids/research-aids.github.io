@@ -26,12 +26,12 @@ Sinds het volkenkundig museum van de Koninklijke Militaire Academie in Breda van
 
 ## Related Aids
 
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
- - [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)  
- - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
- - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity.yml)  
+ - [Museum Bronbeek](niveau3/Dutch/Bronbeek.yml)  
+ - [Museum Nusantara](niveau3/Dutch/MNusantara.yml)  
+ - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen.yml)  
 
 ## Primary sources
 

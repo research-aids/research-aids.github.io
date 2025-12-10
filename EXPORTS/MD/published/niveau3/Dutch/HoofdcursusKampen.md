@@ -19,11 +19,11 @@ Het archief van de etnografische verzameling van de Hoofdcursus is gezamenlijk m
 
 ## Related Aids
 
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
- - [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)  
- - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy.yml)  
+ - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity.yml)  
+ - [Museum Bronbeek](niveau3/Dutch/Bronbeek.yml)  
+ - [Museum Nusantara](niveau3/Dutch/MNusantara.yml)  
+ - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau.yml)  
 
 ## Primary sources
 

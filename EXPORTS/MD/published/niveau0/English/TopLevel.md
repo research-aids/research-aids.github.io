@@ -14,24 +14,23 @@ _The Digital Research Aids are a project of the [Consortium Colonial Collections
 
 
 ### Provenance research into colonial collections
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
- - [Doing research](niveau1/English/DoingResearch_20240425.yml)  
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Reporting](niveau1/English/Reporting_20240501.yml)  
- - [The Dutch restitution policy](niveau1/English/RestitutionPolicy_20250123.yml)  
+ - [Select and delineate](niveau1/English/SelectAndDelineate.yml)  
+ - [Doing research](niveau1/English/DoingResearch.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Reporting](niveau1/English/Reporting.yml)  
 
 ### Themes and categories
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
+ - [Museums and collections](niveau2/English/Museum.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Christian missionaries in colonised territories](niveau2/English/ChristianMission.yml)  
 
 ### Locations
- - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao_20250619.yml)  
- - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten_202501619.yml)  
- - [Ghana](niveau2/English/Ghana_20250901.yml)  
+ - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao.yml)  
+ - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten.yml)  
+ - [Ghana](niveau2/English/Ghana.yml)  
 
         
 

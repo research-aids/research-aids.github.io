@@ -50,17 +50,17 @@ If you have questions regarding your research or would like to visit the collect
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.ymll)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)  
- - [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)  
- - [Museon-Omniversum](niveau3/English/Museon_20250513.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Wageningen University & Research](niveau3/English/WageningenUniversity.ymll)  
+ - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW.yml)  
+ - [C.G.C. Reinwardt](niveau3/English/Reinwardt.yml)  
+ - [Museon-Omniversum](niveau3/English/Museon.yml)  
+ - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch.yml)  
 
 ## Primary sources
 

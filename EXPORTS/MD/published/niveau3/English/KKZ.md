@@ -25,15 +25,15 @@ In addition, archival documents are held at the [National Archives of the Nether
 
 ## Related Aids
 
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar_2040503.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Artis Ethnographic Museum](niveau3/English/EMArtis.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam.yml)  
+ - [Rijksmuseum van Oudheden](niveau3/English/RMO.yml)  
 
 ## Primary sources
 

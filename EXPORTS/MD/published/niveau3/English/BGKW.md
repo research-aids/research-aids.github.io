@@ -28,18 +28,18 @@ As described, the minutes of the Bataviaasch Genootschap contain much informatio
 
 ## Related Aids
 
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Artis Etnographic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
- - [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV.yml)  
+ - [Naturalis Biodiversity Center](niveau3/English/Naturalis.yml)  
+ - [Artis Etnographic Museum](niveau3/English/EMArtis.yml)  
+ - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam.yml)  
+ - [Rijksmuseum van Oudheden](niveau3/English/RMO.yml)  
+ - [C.G.C. Reinwardt](niveau3/English/Reinwardt.yml)  
 
 ## Primary sources
 

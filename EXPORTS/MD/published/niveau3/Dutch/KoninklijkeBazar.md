@@ -17,10 +17,10 @@ Het is niet bekend of het archief van de Groote Koninklijke Bazar bewaard is geb
 
 ## Related Aids
 
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)  
+ - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier.yml)  
 
 ## Primary sources
 

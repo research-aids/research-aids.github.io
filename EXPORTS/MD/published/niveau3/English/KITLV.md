@@ -30,13 +30,13 @@ The KITLV text collections can be requested through the UBL's [online catalogue]
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao_20250619.yml)  
- - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten_202501619.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao.yml)  
+ - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten.yml)  
 
 ## Primary sources
 

@@ -36,14 +36,14 @@ Andere relevante links:
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
- - [Ambtenaren](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
- - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate.yml)  
+ - [Ambtenaren](niveau2/Dutch/CivilServants.yml)  
+ - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao.yml)  
+ - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](niveau3/Dutch/KITLV.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
 
 ## Primary sources
 

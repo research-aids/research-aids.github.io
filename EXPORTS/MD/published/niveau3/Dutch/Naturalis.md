@@ -50,17 +50,17 @@ Als je als onderzoeker vragen hebt of de collectie wil bezoeken, kan je een verz
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)  
- - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
- - [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)  
- - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
+ - [Bronnen](niveau1/Dutch/Sources.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity.yml)  
+ - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW.yml)  
+ - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt.yml)  
+ - [Museon-Omniversum](niveau3/Dutch/Museon.yml)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch.yml)  
 
 ## Primary sources
 

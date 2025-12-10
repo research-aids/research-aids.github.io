@@ -33,18 +33,18 @@ Van sommige Nederlanders in overheidsdienst zijn persoonlijke archieven bewaard 
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
- - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
- - [Ghana](niveau2/Dutch/Ghana_20250901.yml)  
- - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
- - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)  
- - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
- - [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen.yml)  
+ - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine.yml)  
+ - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao.yml)  
+ - [Ghana](niveau2/Dutch/Ghana.yml)  
+ - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt.yml)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883.yml)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW.yml)  
+ - [Museum Nusantara](niveau3/Dutch/MNusantara.yml)  
+ - [Museon-Omniversum](niveau3/Dutch/Museon.yml)  
 
 ## Primary sources
 

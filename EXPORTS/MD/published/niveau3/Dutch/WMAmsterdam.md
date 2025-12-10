@@ -26,19 +26,19 @@ De collectie van het Wereldmuseum Amsterdam is binnen de collectie van Wereldmus
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
+ - [Bronnen](niveau1/Dutch/Sources.yml)  
+ - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  
+ - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis.yml)  
+ - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
+ - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam.yml)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch.yml)  
 
 ## Primary sources
 

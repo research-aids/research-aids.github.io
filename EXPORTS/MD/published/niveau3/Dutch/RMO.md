@@ -31,14 +31,14 @@ Ook correspondentiearchieven tussen de verschillende instellingen of schenkers z
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
+ - [Bronnen](niveau1/Dutch/Sources.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade.yml)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam.yml)  
+ - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt.yml)  
 
 ## Primary sources
 

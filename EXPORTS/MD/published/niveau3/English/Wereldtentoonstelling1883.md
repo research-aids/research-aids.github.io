@@ -28,17 +28,17 @@ The various museums that subsequently received objects have archive material abo
 
 ## Related Aids
 
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Artis Ethnographic Museum](niveau3/English/EMArtis.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam.yml)  
+ - [Museum Nusantara](niveau3/English/MNusantara.yml)  
+ - [Naturalis Biodiversity Center](niveau3/English/Naturalis.yml)  
+ - [Museum Bronbeek](niveau3/English/Bronbeek.yml)  
 
 ## Primary sources
 

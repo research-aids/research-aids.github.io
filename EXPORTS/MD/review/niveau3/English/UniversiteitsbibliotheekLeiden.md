@@ -21,9 +21,9 @@ The UBL's [digital catalogue](https://www.bibliotheek.universiteitleiden.nl/) ca
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV.yml)  
 
 ## Primary sources
 

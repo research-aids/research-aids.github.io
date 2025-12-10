@@ -27,12 +27,12 @@ Radboud University also holds a small amount of relevant archive material about 
 
 ## Related Aids
 
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
- - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
+ - [Museums and collections](niveau2/English/Museum.yml)  
+ - [Christian missionaries in colonised territories](niveau2/English/ChristianMission.yml)  
+ - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch.yml)  
+ - [Nederlandsch Zendeling Genootschap](niveau3/English/NZG.yml)  
+ - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal.yml)  
 
 ## Primary sources
 

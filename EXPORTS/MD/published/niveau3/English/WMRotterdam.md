@@ -28,15 +28,15 @@ The photograph collection of the Wereldmuseum Rotterdam has been transferred to 
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
+ - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal.yml)  
+ - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch.yml)  
 
 ## Primary sources
 

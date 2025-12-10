@@ -33,20 +33,20 @@ De Franse portal [AGORHA](https://agorha.inha.fr) bevat informatie over personen
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Ghana](published/niveau2/Dutch/Ghana_20250901.yml)  
- - [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)  
- - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
- - [Koninklijke Vereniging Vrienden der Aziatische Kunst](niveau3/Dutch/KVVAK_20240312.yml)  
- - [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission.yml)  
+ - [Ghana](published/niveau2/Dutch/Ghana.yml)  
+ - [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar.yml)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883.yml)  
+ - [Koninklijke Vereniging Vrienden der Aziatische Kunst](niveau3/Dutch/KVVAK.yml)  
+ - [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
 
 ## Primary sources
 

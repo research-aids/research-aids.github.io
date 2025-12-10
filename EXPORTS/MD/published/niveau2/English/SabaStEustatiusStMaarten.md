@@ -36,15 +36,15 @@ Other relevant resources:
 
 ## Related Aids
 
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Civil servants](niveau2/English/CivilServants_20240316.yml)  
- - [Military and navy](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
+ - [Select and delineate](niveau1/English/SelectAndDelineate.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Civil servants](niveau2/English/CivilServants.yml)  
+ - [Military and navy](niveau2/English/MilitaryAndNavy.yml)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam.yml)  
 
 ## Primary sources
 

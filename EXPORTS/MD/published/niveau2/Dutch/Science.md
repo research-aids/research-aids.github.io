@@ -27,17 +27,17 @@ Tot slot is het mogelijk dat archieven in de voormalige gekoloniseerde gebieden 
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)  
- - [Ghana](niveau2/Dutch/Ghana_20250901.yml)  
- - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
- - [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
- - [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie.yml)  
+ - [Ghana](niveau2/Dutch/Ghana.yml)  
+ - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt.yml)  
+ - [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV.yml)  
+ - [Museon-Omniversum](niveau3/Dutch/Museon.yml)  
+ - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis.yml)  
+ - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw.yml)  
+ - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity.yml)  
 
 ## Secondary sources
 

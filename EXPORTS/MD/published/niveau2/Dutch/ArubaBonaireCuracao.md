@@ -58,16 +58,16 @@ Andere relevante links:
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)  
- - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
- - [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants.yml)  
+ - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
+ - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](niveau3/Dutch/KITLV.yml)  
+ - [Museon-Omniversum](niveau3/Dutch/Museon.yml)  
+ - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
 
 ## Primary sources
 

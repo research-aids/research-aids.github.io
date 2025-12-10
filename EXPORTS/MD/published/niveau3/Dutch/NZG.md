@@ -23,9 +23,9 @@ In het [Repetorium van Nederlandse zendings- en missie-archieven 1800-1960](http
 
 ## Related Aids
 
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
- - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie.yml)  
+ - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal.yml)  
+ - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl.yml)  
 
 ## Primary sources
 

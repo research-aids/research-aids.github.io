@@ -40,16 +40,16 @@ Voor onderzoek naar de zendingen aan het Koninklijk Kabinet van Zeldzaamheden ku
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [De handel in objecten uit een koloniale context](published/niveau2/Dutch/Trade_20240326.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants.yml)  
+ - [De handel in objecten uit een koloniale context](published/niveau2/Dutch/Trade.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  
+ - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
 
 ## Primary sources
 

@@ -24,16 +24,16 @@ The collection of the Natuurhistorisch en Volkenkundig Museum Oudenbosch is full
 
 ## Related Aids
 
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
- - [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)  
+ - [Christian missionaries in colonised territories](niveau2/English/ChristianMission.yml)  
+ - [Museums and collections](niveau2/English/Museum.yml)  
+ - [Artis Ethnographic Museum](niveau3/English/EMArtis.yml)  
+ - [Naturalis Biodiversity Center](niveau3/English/Naturalis.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
+ - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam.yml)  
+ - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw.yml)  
 
 ## Primary sources
 

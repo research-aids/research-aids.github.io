@@ -25,15 +25,15 @@ Daarnaast zijn er archiefstukken bij het [Nationaal Archief](https://www.nationa
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
- - [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Ethnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine.yml)  
+ - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel.yml)  
+ - [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Ethnografisch Museum Artis](niveau3/Dutch/EMArtis.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam.yml)  
+ - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO.yml)  
 
 ## Primary sources
 

@@ -28,10 +28,10 @@ Specifieke informatie over de objecten uit het voormalige Tropische Landbouwmuse
 
 ## Related Aids
 
- - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
+ - [Musea en collecties](niveau2/Dutch/Museum.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw.yml)  
+ - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity.yml)  
 
 ## Primary sources
 

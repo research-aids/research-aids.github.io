@@ -17,10 +17,10 @@ It is not known whether the business records of Groote Koninklijke Bazar have be
 
 ## Related Aids
 
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Royal Cabinet of Curiosities](niveau3/Dutch/KKZ_20240313.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Kunsthandel Van Lier](niveau3/English/KunsthandelVanLier_20240507.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Royal Cabinet of Curiosities](niveau3/Dutch/KKZ.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Kunsthandel Van Lier](niveau3/English/KunsthandelVanLier.yml)  
 
 ## Primary sources
 

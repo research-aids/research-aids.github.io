@@ -21,8 +21,8 @@ Not all of the Asian art collection in the Rijksmuseum is on loan from the KVVAK
 
 ## Related Aids
 
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam.yml)  
 
 ## Primary sources
 

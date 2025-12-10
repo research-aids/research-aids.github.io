@@ -35,14 +35,14 @@ Archives of correspondence between various institutions or donors such as C.G.C.
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW.yml)  
+ - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam.yml)  
+ - [C.G.C. Reinwardt](niveau3/English/Reinwardt.yml)  
 
 ## Primary sources
 

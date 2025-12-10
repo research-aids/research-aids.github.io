@@ -35,11 +35,11 @@ Voor archiefmateriaal met betrekking tot de drie musea die onder de Stichting Ko
 
 ## Related Aids
 
- - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)  
- - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
+ - [Musea en collecties](niveau2/Dutch/Museum.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy.yml)  
+ - [Museum Bronbeek](niveau3/Dutch/Bronbeek.yml)  
+ - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen.yml)  
+ - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau.yml)  
 
 ## Primary sources
 

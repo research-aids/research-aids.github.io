@@ -24,9 +24,9 @@ The complete Koninklijke Verzamelingen can be consulted [online](https://www.kon
 
 ## Related Aids
 
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [Museums and collections](niveau2/English/Museum.yml)  
+ - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  
 
 ## Primary sources
 

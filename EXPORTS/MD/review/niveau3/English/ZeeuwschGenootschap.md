@@ -30,12 +30,12 @@ In addition to the archive and the collection website, the Zeeland Scientific So
 
 ## Related Aids
 
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Ghana](niveau2/English/Ghana_20250901.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Ghana](niveau2/English/Ghana.yml)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW.yml)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV.yml)  
+ - [Naturalis Biodiversity Center](niveau3/English/Naturalis.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
 
 ## Primary sources
 

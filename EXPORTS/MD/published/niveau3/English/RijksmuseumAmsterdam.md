@@ -24,17 +24,17 @@ The [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/o
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Royal Asian Art Society in the Netherlands](niveau3/English/KVVAK_20240508.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml")  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  
+ - [Royal Asian Art Society in the Netherlands](niveau3/English/KVVAK.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml")  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Rijksmuseum van Oudheden](niveau3/English/RMO.yml)  
+ - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883.yml)  
 
 ## Primary sources
 

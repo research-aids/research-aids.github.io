@@ -40,13 +40,12 @@ Provenance research can also be undertaken proactively, for example if the custo
 
 ## Related Aids
 
- - [Doing research](niveau1/English/DoingResearch_20240425.yml)  
- - [Introduction to conducting provenance research](niveau1/English/Introduction_20250120.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
+ - [Doing research](niveau1/English/DoingResearch.yml)  
+ - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Christian missionaries in colonised territories](niveau2/English/ChristianMission.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
 
 
 

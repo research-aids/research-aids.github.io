@@ -40,15 +40,14 @@ Herkomstonderzoek kan ook proactief worden uitgevoerd. Bijvoorbeeld, wanneer de 
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)  
- - [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)  
- - [Verslagleggen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
+ - [Bronnen](niveau1/Dutch/Sources.yml)  
+ - [Onderzoeken](niveau1/Dutch/DoingResearch.yml)  
+ - [Verslagleggen](niveau1/Dutch/SelectAndDelineate.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants.yml)  
+ - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
 
 
 

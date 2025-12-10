@@ -23,9 +23,9 @@ Theo van Baaren's personal archive also contains (limited) information about his
 
 ## Related Aids
 
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/English/Science_20240821.yml)  
- - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/English/Science.yml)  
+ - [Wageningen University & Research](niveau3/English/WageningenUniversity.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch.yml)  
 
 ## Primary sources
 

@@ -35,11 +35,11 @@ Archival material relating to the three museums that fall under the Royal Defenc
 
 ## Related Aids
 
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)  
- - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
+ - [Museums and collections](niveau2/English/Museum.yml)  
+ - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
+ - [Museum Bronbeek](niveau3/English/Bronbeek.yml)  
+ - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen.yml)  
+ - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau.yml)  
 
 ## Primary sources
 

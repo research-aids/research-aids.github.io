@@ -77,10 +77,9 @@ Verzamelaars en organisaties kunnen in meerdere Europese landen actief geweest z
 
 ## Related Aids
 
- - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)  
- - [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)  
- - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
- - [Verslagleggen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
+ - [Onderzoeken](niveau1/Dutch/DoingResearch.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate.yml)  
+ - [Verslagleggen](niveau1/Dutch/SelectAndDelineate.yml)  
 
 
 

@@ -40,12 +40,12 @@ For research into the shipments to the Royal Cabinet of Curiosities please follo
 
 ## Related Aids
 
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240327.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/English/KKZ_20240313.yml)  
- - [Etnografisch Museum Artis](niveau3/English/EMArtis_20240711.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_20240822.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20240710.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](niveau3/English/KKZ.yml)  
+ - [Etnografisch Museum Artis](niveau3/English/EMArtis.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam.yml)  
+ - [Naturalis Biodiversity Center](niveau3/English/Naturalis.yml)  
 
 ## Primary sources
 

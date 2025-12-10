@@ -76,10 +76,9 @@ A number of the Dutch-language sources for provenance research into colonial col
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
- - [Reporting](niveau1/English/Reporting_20240501.yml)  
- - [The Dutch restitution policy](niveau1/English/RestitutionPolicy_20250123.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Select and delineate](niveau1/English/SelectAndDelineate.yml)  
+ - [Reporting](niveau1/English/Reporting.yml)  
 
 
 
