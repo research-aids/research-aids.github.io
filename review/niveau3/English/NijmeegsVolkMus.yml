@@ -65,12 +65,13 @@ Main-text:
   content-type: text/markdown
 
 Sources: []
-Editing_metadata:
-  - Date: 2025-11-19
-    Applies_to: #optional
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: Creation of the research aid  
+editing_metadata:
+  - date: 2025-11-19
+    applies_to: #optional
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of the research aid  
 
 
     
+
