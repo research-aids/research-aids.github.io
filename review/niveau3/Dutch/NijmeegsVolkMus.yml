@@ -65,17 +65,18 @@ Main-text:
   content-type: text/markdown
 
 Sources: []
-Editing_metadata:
-  - Date: 2025-07-07
-    Applies_to: #optional
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: #optional  
-  - Date: 2025-09-16 
-    Applies_to: Main-text
-    Author: Maarten van der Bent
-    Role: reviewer
-    Editing_notes: Maarten's comments were processed by Wiebe Reints. 
+editing_metadata:
+  - date: 2025-07-07
+    applies_to: #optional
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: #optional  
+  - date: 2025-09-16 
+    applies_to: Main-text
+    author: Maarten van der Bent
+    role: reviewer
+    editing_notes: Maarten's comments were processed by Wiebe Reints. 
 
 
     
+
