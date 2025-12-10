@@ -93,14 +93,15 @@ Sources:
         - ISBN: "9789024644247"
       Description and remarks: Booklet from 1982 with descriptions of various museums. The chapter 'Van vreemde volken' (Of foreign peoples) briefly discusses the Nederlands Volkenkundig Missiemuseum in Tilburg.
 
-Editing_metadata:
-  - Date: 2025-11-19
-    Applies_to: 
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: Creation of the research aid.
+editing_metadata:
+  - date: 2025-11-19
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of the research aid.
 
       
 
 
     
+
