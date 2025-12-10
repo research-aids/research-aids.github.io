@@ -20,7 +20,7 @@ Main-text:
     This section is meant for information regarding (provenance) research into the topic of the research aid, such as specific tips for researching relevant archives or other relevant provenance information. In the case of Level 2 research aides, the aid provides more general information regarding the topic of the research aid. You can use Markdown for the formatting of the text.
   content-type: text/markdown
 
-Editing_metadata:
+editing_metadata:
   - Date: #mandatory (yyyy-mm-dd)
     Applies_to: #optional
     Author: #mandatory
