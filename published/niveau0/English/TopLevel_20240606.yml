@@ -1,0 +1,178 @@
+Level: 0
+
+Title: "Colonial Collections Research Aids"
+
+Subtitle: "Research aids for conducting provenance research into colonial collections"
+
+Content:
+  content: |
+    **The research aids are constantly under construction and therefore subject to changes.** 
+    
+    On this page you can find various research aids that can assist you in doing (provenance) research on colonial collections. The research aids contain information about conducting research on objects that were acquired in a colonial context and which are currently part of museum collections in the Netherlands. Besides a brief description of the subject, the research aids provide specific research tips and references to relevant source material.
+
+    We are curious about your thoughts on the digital research aids. Through this [questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffhqoDmWSdt9Fjwp6_b0ouT9UMDFNOEJBNEJaTzdBTlhUNEJJVjdGT0VKNC4u) you can provide us with feedback or additional information.
+
+    _The Digital Research Aids are a project of the [Consortium Colonial Collections](https://www.colonialcollections.nl/en/). The research aids were created by researchers from the Expert Centre Restitution of the [NIOD Institute for War, Holocaust and Genocide Studies](https://www.niod.nl/en/research/expert-centre-restitution)._
+  content-type: text/markdown
+
+Breakdown:
+  "Provenance research into colonial collections":
+    - "Select and delineate":
+        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        rel_type: "see also"
+    - "Doing research":
+        link: "niveau1/English/DoingResearch_20240425.yml"
+        rel_type: "see also"
+    - "Sources":
+        link: "niveau1/English/Sources_20240501.yml"
+        rel_type: "see also"
+    - "Reporting":
+        link: "niveau1/English/Reporting_20240501.yml"
+        rel_type: "see also"
+    - "The Dutch restitution policy":
+        link: "niveau1/English/RestitutionPolicy_20250123.yml"
+        rel_type: "see also"
+  "Themes and categories":
+    - "Museums and collections":
+        link: "niveau2/English/Museum_20250113.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "Artis Ethnographic Museum":
+              link: "niveau3/English/EMArtis_20240712.yml"
+              rel_type: "see also" 
+          - "Hoofdcursus Kampen":
+              link: "niveau3/English/HoofdcursusKampen_20250513.yml"
+              rel_type: "see also"
+          - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
+              link: "niveau3/English/BGKW_20240905.yml"
+              rel_type: "see also"
+          - "Missiemuseum Steyl":
+              link: "niveau3/English/MissiemuseumSteyl_20241021.yml"
+              rel_type: "see also"
+          - "Museon-Omniversum":
+              link: "niveau3/English/Museon_20250513.yml"
+              rel_type: "see also"
+          - "Museum Bronbeek":
+              link: "niveau3/English/Bronbeek_20241002.yml"
+              rel_type: "see also"
+          - "Museum Nusantara":
+              link: "niveau3/English/MNusantara_20250225.yml"
+              rel_type: "see also"
+          - "Naturalis Biodiversity Center":
+              link: "niveau3/English/Naturalis_20270710.yml"
+              rel_type: "see also"
+          - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
+              link: "niveau3/English/MOudenbosch_20250603.yml"
+              rel_type: "see also"
+          - "Rijksmuseum Amsterdam":
+              link: "niveau3/English/RijksmuseumAmsterdam_20240905.yml"
+              rel_type: "see also"
+          - "Rijksmuseum van Oudheden":
+              link: "niveau3/English/RMO_20241106.yml"
+              rel_type: "see also"
+          - "Royal Cabinet of Curiosities":
+              link: "niveau3/English/KKZ_20240417.yml"
+              rel_type: "see also"
+          - "Volkenkundig Museum 'Gerardus van der Leeuw'":
+              link: "niveau3/English/GerardusLeeuw_20250602.yml"
+              rel_type: "see also"
+          - "Volkenkundig Museum Justinus van Nassau":
+              link: "niveau3/English/JustinusNassau_20250513.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Amsterdam":
+              link: "niveau3/English/WMAmsterdam_20240809.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Berg en Dal":
+              link: "niveau3/English/WMBergEnDal_20241001.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Leiden":
+              link: "niveau3/English/WMLeiden_20240508.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Rotterdam":
+              link: "niveau3/English/WMRotterdam_2040822.yml"
+              rel_type: "see also"
+    - "Civil servants in colonised territories":
+        link: "niveau2/English/CivilServants_20240316.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "C.G.C. Reinwardt":
+              link: "niveau3/English/Reinwardt_20241217.yml"
+              rel_type: "see also"
+          - "Museum Nusantara":
+              link: "niveau3/English/MNusantara_20250225.yml"
+              rel_type: "see also"
+    - "The trade in objects from a colonial context":
+        link: "niveau2/English/Trade_20240316.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "Groote Koninklijke Bazar":
+              link: "niveau3/English/KoninklijkeBazar_2040503.yml"
+              rel_type: "see also"
+          - "International Colonial and Export Exhibition 1883":
+              link: "niveau3/English/Wereldtentoonstelling1883_20250602.yml"
+              rel_type: "see also"
+          - "Kunsthandel Van Lier":
+              link: "niveau3/English/KunsthandelVanLier_20240507.yml"
+              rel_type: "see also"
+          - "Royal Asian Art Society in the Netherlands":
+              link: "niveau3/English/KVVAK_20240508.yml"
+              rel_type: "see also"
+    - "Army and navy personnel in colonised territories":
+        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "Hoofdcursus Kampen":
+              link: "niveau3/English/HoofdcursusKampen_20250513.yml"
+              rel_type: "see also"
+          - "Museum Bronbeek":
+              link: "niveau3/English/Bronbeek_20241002.yml"
+              rel_type: "see also"
+          - "Volkenkundig Museum Justinus van Nassau":
+              link: "niveau3/English/JustinusNassau_20250513.yml"
+              rel_type: "see also"
+    - "Scientific research in colonised territories":
+        link: "niveau2/English/Science_20240821.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
+              link: "niveau3/English/KITLV_20240704.yml"
+              rel_type: "see also"
+          - "Volkenkundig museum 'Gerardus van der Leeuw'":
+              link: "niveau3/English/GerardusLeeuw_20250602.yml"
+              rel_type: "see also"
+          - "Wageningen University & Research":
+              link: "niveau3/English/WageningenUniversity_20240508.yml"
+              rel_type: "see also"
+    - "Christian missionaries in colonised territories":
+        link: "niveau2/English/ChristianMission_20240417.yml"
+        rel_type: "see also"
+        Subtopics:
+          - "Missiemuseum Steyl":
+              link: "niveau3/English/MissiemuseumSteyl_20241021.yml"
+              rel_type: "see also"
+          - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
+              link: "niveau3/English/MOudenbosch_20250603.yml"
+              rel_type: "see also"
+          - "Nederlandsch Zendeling Genootschap":
+              link: "niveau3/English/NZG_20240508.yml"
+              rel_type: "see also"
+          - "Wereldmuseum Berg en Dal":
+              link: "niveau3/English/WMBergEnDal_20241001.yml"
+              rel_type: "see also"
+  "Locations": 
+    - "Aruba, Bonaire and Curaçao":
+        link: "niveau2/English/ArubaBonaireCuracao_20250619.yml"
+        rel_type: "see also"
+    - "Saba, Sint Eustatius and Sint Maarten":
+        link: "niveau2/English/SabaStEustatiusStMaarten_202501619.yml"
+        rel_type: "see also"  
+    - "Ghana":
+        link: "niveau2/English/Ghana_20250901.yml"
+        rel_type: "see also"  
+
+editing_metadata:
+  - date: 2024-06-06
+    applies_to: 
+    author: wiebe reints
+    role: original_author
+    editing_notes: metadata added on 2025-06-02. from now, major changes to the file need to be logged here.     
