@@ -14,14 +14,14 @@ _De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Kolonia
 
 
 ### Herkomstonderzoek naar koloniale collecties
-             - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
  - [Onderzoeken](niveau1/Dutch/Onderzoeken_20240425.yml)  
  - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
  - [Verslagleggen](niveau1/Dutch/Verslagleggen_20240501.yml)  
  - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)  
 
 ### Categorieën en thema's
-             - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
+ - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
@@ -29,7 +29,7 @@ _De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Kolonia
  - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)  
 
 ### Locaties
-             - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
+ - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
  - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)  
  - [Ghana](niveau2/Dutch/SabaStEustatiusStMaarten_20250901.yml)  
 
