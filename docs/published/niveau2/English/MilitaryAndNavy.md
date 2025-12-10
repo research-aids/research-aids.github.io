@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -41,14 +41,9 @@ The personnel files of soldiers deployed to Indonesia in 1945-1949 will be at th
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/RCC_20240417.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.htmlsh/SelectAndDelhttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlin colonised territohttps://research-aids.github.io/published/niveau2/English/Science.html20240316.yml)  
+ - [https://research-aids.github.io/published/niveau2/English/Trade.htmlerritories](niveau2/English/Science_20240821.yml)  
+ - [The trade inhttps://research-aids.github.io/published/niveau3/English/WMAmsterdamhttps://research-aids.github.io/published/niveau3/English/WMLeidenhttps://research-aids.github.io/published/niveau3/English/WMRotthttps://research-aids.github.io/published/niveau3/English/Bronbeek.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdahttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.htmlereldmuseum Leihttps://research-aids.github.io/published/niveau3/English/JustinusNassau.html  
  - [Wereldmuseum Leiden](niveau3/English/WMRotterdam_2040822.yml)  
  - [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  

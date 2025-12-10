@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -41,12 +41,7 @@ Jaren 30 Leon-Gontran Damas aan de Marowijnerivier.
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Ambtenaren](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Leger en marine](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
+ - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/Selecthttps://research-aids.github.io/published/niveau1/Dutchttps://research-aids.github.io/published/niveau2/Dutch/CivilServhttps://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.htmlu2/Dutch/CivilServants_20240https://research-aids.github.io/published/niveau3/Dutch/KITLV.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.htmljksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
  - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
@@ -57,7 +52,7 @@ THIS RA HAS NO SOURCES
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

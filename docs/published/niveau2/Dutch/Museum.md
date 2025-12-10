@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -54,17 +54,10 @@ Hoewel deze thematische onderverdeling een goed overzicht geeft over de manieren
 
 ## Related Aids
 
- - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
- - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
- - [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)  
- - [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)  
- - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
- - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  
+ - [Etnografisch Museum Artis](https://research-aids.github.io/published/niveau3/Dutch/EMArtihttps://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.htmltch/HoofdcursusKampen_20250428.yml)  
+ https://research-aids.github.io/published/niveau3/Dutch/BGKW.htmltschap van Khttps://research-aids.github.io/published/niveau3/Dutch/KKhttps://research-aids.github.io/published/niveau3/Dutch/MissiemuseumStehttps://research-aids.github.io/published/niveau3/Dutch/Muhttps://research-aids.github.io/published/niveau3/Dutch/Bronbhttps://research-aids.github.io/published/niveau3/Dutch/MNusantara.htmleum Shttps://research-aids.github.io/published/niveau3/Dutch/Naturalis.htmll_20241021.yml)  
+ - [Musehttps://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.htmlhttps://research-aids.github.io/published/niveau3/Dutch/RMO.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html - [Museum Nusantarahttps://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.html  
+ - [Naturalihttps://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/Dutch/WMBergEnDalhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.htmlOudheden](niveau3/Dutch/RMO_20241106.yml)  
  - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
  - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  

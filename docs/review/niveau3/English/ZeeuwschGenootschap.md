@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -45,10 +45,8 @@ In addition to the archive and the collection website, the Zeeland Scientific So
 
 ## Related Aids
 
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Ghana](niveau2/English/Ghana_20250901.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/Ehttps://research-aids.github.io/published/niveau2/English/Ghana.htmlniveau2/English/Ghana_20250901.yml)  
+ https://research-aids.github.io/published/niveau3/English/BGKW.htmlchap van Kunsten en Wetenschappen](niveau3/English/Bhttps://research-aids.github.io/published/niveau3/English/KITLV.htmlerlanhttps://research-aids.github.io/published/niveau3/English/Naturalishttps://research-aids.github.io/published/niveau3/English/WMLeiden.html/English/KITLV_20240704.yml)  
  - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
 
@@ -86,7 +84,7 @@ Magazine:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -53,11 +53,7 @@ Andere relevante links:
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
- - [Ambtenaren](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
- - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
+ - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndhttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2https://research-aids.github.io/published/niveau2/Dutch/ArubaBonaireCuracao.html, Bonaire en Curaçao](niveauhttps://research-aids.github.io/published/niveau3/Dutch/KITLV.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html/RijksmuseumAmsterdam_20241006.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
  - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  

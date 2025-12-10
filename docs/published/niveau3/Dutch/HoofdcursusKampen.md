@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -36,10 +36,8 @@ Het archief van de etnografische verzameling van de Hoofdcursus is gezamenlijk m
 
 ## Related Aids
 
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
- - [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)  
- - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html)  
+ - [https://research-aids.github.io/published/niveau3/Dutch/WageningenUniverhttps://research-aids.github.io/published/niveau3/Dutch/Bronbhttps://research-aids.github.io/published/niveau3/Dutch/MNusantara.htmlek](niveau3/Duthttps://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.htmlsantara](niveau3/Dutch/MNusantara_20250130.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
 
 ## Primary sources

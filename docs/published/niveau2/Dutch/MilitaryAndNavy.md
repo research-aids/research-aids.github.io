@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -49,12 +49,8 @@ De personeelsdossiers van de soldaten die in 1945-1949 naar Indonesië zijn uitg
  - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
- - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](published/niveau3/Dutch/BGKW_20240827.yml)  
- - [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.html)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](published/niveau3/Dutch/BGKW_202https://research-aids.github.io/published/niveau3/Dutch/Bronbeek.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeidenhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmlam](niveau3/Duthttps://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.htmlmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
 

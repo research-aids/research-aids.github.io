@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -48,16 +48,10 @@ The French portal [AGORHA](https://agorha.inha.fr) also contains information on 
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar_2040503.yml)  
- - [Kunsthandel Van Lier](niveau3/English/KunsthandelVanLier_20240507.yml)  
- - [Royal Asian Art Society in the Netherlands](niveau3/English/RAAS_20240508.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Artis Ethnograpic Museum](niveau3/English/EMArtis_20240712.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.htmlsh/SelectAndDelhttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlin colonised territorieshttps://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [Army and navy personnel in colonised territories](niveau2/English/Mhttps://research-aids.github.io/published/niveau3/English/KunsthandelVanLier.htmlklijke Bazar](niveau3/English/KoninklijkeBazaar_2040503.yml)  
+ - [Kunsthandel Vhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmllVanhttps://research-aids.github.io/published/niveau3/English/KKZ.htmlhttps://research-aids.github.io/published/niveau3/English/EMArtis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/RMO.htmlKKZ_20240417.yml)  
+ - [Ahttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.html712.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
  - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  

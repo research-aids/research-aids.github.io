@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -43,13 +43,8 @@ The photograph collection of the Wereldmuseum Rotterdam has been transferred to 
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [The trade inhttps://research-aids.github.io/published/niveau2/English/Trade.htmlniveau2/English/Trade_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised territorihttps://research-aids.github.io/published/niveau2/English/Sciencehttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDal.htmlWereldmuseum Leiden](nivehttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlAmsterdam](niveau3/Englishhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.htmluseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
  - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
 

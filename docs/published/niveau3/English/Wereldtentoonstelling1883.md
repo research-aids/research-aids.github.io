@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -43,13 +43,8 @@ The various museums that subsequently received objects have archive material abo
 
 ## Related Aids
 
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2/English/Scienchttps://research-aids.github.io/published/niveau2/English/Trade.html https://research-aids.github.io/published/niveau3/English/EMArtis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdamhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterhttps://research-aids.github.io/published/niveau3/English/MNusantara.htmlereldhttps://research-aids.github.io/published/niveau3/English/Naturhttps://research-aids.github.io/published/niveau3/English/Bronbeek.htmlmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
  - [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)  
  - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  

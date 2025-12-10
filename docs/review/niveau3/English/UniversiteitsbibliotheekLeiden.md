@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -36,9 +36,9 @@ The UBL's [digital catalogue](https://www.bibliotheek.universiteitleiden.nl/) ca
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2/English/Science_20240821.yml)  
+ - [Royal Nethhttps://research-aids.github.io/published/niveau3/English/KITLV.htmlan and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
 
 ## Primary sources
 
@@ -68,7 +68,7 @@ Website:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

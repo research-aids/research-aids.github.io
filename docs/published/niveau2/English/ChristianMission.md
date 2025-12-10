@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -42,11 +42,8 @@ Archives of missionary organisations are scattered. Substantial archival collect
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.htmlsh/SelectAndDelineathttps://research-aids.github.io/published/niveau2/English/Science.htmlearch in chttps://research-aids.github.io/published/niveau3/English/NZG.htmlglish/Science_202408https://research-aids.github.io/published/niveau2/English/Scienchttps://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.html08.yml)  
+ - [Scientific rhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.html2/English/Science_20240821.yml)  
  - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
 

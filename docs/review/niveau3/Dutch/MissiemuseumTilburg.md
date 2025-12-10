@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -44,11 +44,9 @@ Ook bij de Radboud Universiteit wordt een geringe hoeveelheid relevant archiefma
 
 ## Related Aids
 
- - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Missiemuseum Steyl](published/niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
+ - [Musea en collecties](https://research-aids.github.io/published/niveau2/Dutch/Museum.html)  
+ - [Zendelingen en missionarhttps://research-aids.github.io/published/niveau2/Dutch/ChristianMission.htmlutch/ChristianMission_20240326.yml)  
+ - [Missiemuseum Steyl](published/niveau3/Dutch/MissiemuseumSteyl_2024https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.htmllkenkundighttps://research-aids.github.io/published/niveau3/Dutch/NZG.htmlhttps://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.htmlderlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
 
 ## Primary sources
@@ -79,7 +77,7 @@ Boek:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

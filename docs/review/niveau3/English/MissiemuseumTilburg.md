@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -42,10 +42,9 @@ Radboud University also holds a small amount of relevant archive material about 
 
 ## Related Aids
 
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
- - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Museums and collections](https://research-aids.github.io/published/niveau2/English/Museum.html)  
+ - [Christian missihttps://research-aids.github.io/published/niveau2/English/ChristianMissiohttps://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.html [Missiemuseum Steyl](nivehttps://research-aids.github.io/published/niveau3/English/MOudenbosch.htmlml)  
+ - [https://research-aids.github.io/published/niveau3/English/NZG.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDal.htmlenbosch_20250603.yml)  
  - [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
 
@@ -77,7 +76,7 @@ Book:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

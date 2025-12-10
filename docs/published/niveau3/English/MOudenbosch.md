@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -39,12 +39,8 @@ The collection of the Natuurhistorisch en Volkenkundig Museum Oudenbosch is full
 
 ## Related Aids
 
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
- - [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
+ - [Christian missionaries in colonised territories](https://research-aids.github.io/published/niveau2/English/ChristianMission.htmhttps://research-aids.github.io/published/niveau2/English/Museum.htmlihttps://research-aids.github.io/published/niveau3/English/EMArtis.html
+ - [https://research-aids.github.io/published/niveau3/English/Naturalis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDalhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdhttps://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.htmlldmuseum Berg en Dalhttps://research-aids.github.io/published/niveau3/English/GerardusLeeuw.html)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
  - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
  - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
@@ -78,7 +74,7 @@ Video:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

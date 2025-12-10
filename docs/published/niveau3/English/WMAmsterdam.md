@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -41,16 +41,8 @@ The collection of the Wereldmuseum Amsterdam can be found within the Wereldmuseu
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/KITLV_20240704.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [The trade inhttps://research-aids.github.io/published/niveau2/English/Trade.htmlniveau2/English/Trade_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised territorihttps://research-aids.github.io/published/niveau2/English/Science.html2024https://research-aids.github.io/published/niveau3/English/KKZ.htmlrhttps://research-aids.github.io/published/niveau3/English/EMArtis.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDalhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.htmltis Ethnographic Museum](niveau3/Englihttps://research-aids.github.io/published/niveau3/English/KITLV.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdhttps://research-aids.github.io/published/niveau3/English/Museon.htmleldmuseum Leiden](niveau3https://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlterdam](niveau3/English/WMhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.htmlBataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/KITLV_20240704.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
  - [Museon-Omniversum](niveau3/English/Museon_20250513.yml)  
  - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  

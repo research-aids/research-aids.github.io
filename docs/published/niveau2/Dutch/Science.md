@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -47,12 +47,7 @@ Tot slot is het mogelijk dat archieven in de voormalige gekoloniseerde gebieden 
  - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
  - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)  
- - [Ghana](niveau2/Dutch/Ghana_20250901.yml)  
- - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
- - [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
- - [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  
+ - [Ghana](https://research-aids.github.io/published/niveau2/Dutch/Ghhttps://research-aids.github.io/published/niveau3/Dutch/Reinwardt.htmlveau3/Dutch/Reinwardt_202412https://research-aids.github.io/published/niveau3/Dutch/KIThttps://research-aids.github.io/published/niveau3/Dutch/Museon.htmlkenkuhttps://research-aids.github.io/published/niveau3/Dutch/Naturalis.htmlhttps://research-aids.github.io/published/niveau3/Dutch/RMO.htmlveau3/Dutch/Museon_2https://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.htmly Centerhttps://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.htmlijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  
  - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)  
  - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
 

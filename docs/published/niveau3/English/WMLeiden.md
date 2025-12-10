@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -45,20 +45,10 @@ Documents related to the Wereldmuseum Leiden can also be found at the Dutch Nati
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar_2040503.yml)  
- - [Kunsthandel Van Lier](niveau3/English/KunsthandelVanLier_20240507.yml)  
- - [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies](niveau3/English/KITLV_20240704.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [The trade inhttps://research-aids.github.io/published/niveau2/English/Trade.htmlniveau2/English/Trade_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised terrhttps://research-aids.github.io/published/niveau2/English/CivilServants.html0240https://research-aids.github.io/published/niveau3/English/KKZ.html colonised territories](niveau2/English/CivilServants_20240316.yml)  
+ - [Rhttps://research-aids.github.io/published/niveau3/English/KunsthandelVanLier.htmlZhttps://research-aids.github.io/published/niveau3/English/EMArtis.htmljke Bazar](niveau3/English/KoninklijkeBhttps://research-aids.github.io/published/niveau3/English/BGKW.htmldel Vhttps://research-aids.github.io/published/niveau3/English/Naturalis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.htmhttps://research-aids.github.io/published/niveau3/English/WMBergEnDal.htmlaasch Genootschap van Wetenschappen en Kunsthttps://research-aids.github.io/published/niveau3/English/KITLV.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/https://research-aids.github.io/published/niveau3/English/Reinwahttps://research-aids.github.io/published/niveau3/English/MNusantara.html_20240809.yml) https://research-aids.github.io/published/niveau3/English/JustinusNassau.htmlsh/WMRotterdam_2040822.ymhttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlergEnDal_20241001.yml)  
+ https://research-aids.github.io/published/niveau3/English/MOudenbosch.htmlast Asian and Caribbean Studies](niveau3/English/KITLV_20240704.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
  - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
  - [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)  

@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -39,13 +39,11 @@ The [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/o
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Royal Asian Art Society in the Netherlands](niveau3/English/KVVAK_20240508.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Civil shttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlEnglish/CivilServants_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised territorihttps://research-aids.github.io/published/niveau2/English/Science.html20240417.yml)  
+ - [https://research-aids.github.io/published/niveau2/English/Trade.htmlerrihttps://research-aids.github.io/published/niveau3/English/KKZ.html20240821.yml)  
+ -https://research-aids.github.io/published/niveau3/English/KVVAK.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.https://research-aids.github.io/published/niveau3/English/WMLeiden.htmlhttps://research-aids.github.io/published/niveau3/English/RMO.htmlZ_20240417.yml)  
+ - [Royhttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlsh/KVVAK_20240508.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml")  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
  - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  

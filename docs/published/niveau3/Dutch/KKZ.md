@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -45,10 +45,7 @@ Daarnaast zijn er archiefstukken bij het [Nationaal Archief](https://www.nationa
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
- - [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Ethnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
+ - [Groote Koninklijke Bazar](https://research-aids.github.io/published/niveau3/Dutch/KoninklijkeBazarhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmlivhttps://research-aids.github.io/published/niveau3/Dutch/EMArtis.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/Dutch/RMO.htmltch/WMAmsterdam_20240711.yml)  
  - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
  - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  
 

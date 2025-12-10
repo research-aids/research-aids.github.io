@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -45,12 +45,8 @@ For specific information on objects the Wereldmuseum can also be contacted at [c
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Christian missihttps://research-aids.github.io/published/niveau2/English/ChristianMission.htmllish/Chrishttps://research-aids.github.io/published/niveau3/English/NZGhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.hhttps://research-aids.github.io/published/niveau3/English/WMAmsterdahttps://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.htmlldmuseum Rotterdam](niveauhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.html[Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
  - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
 

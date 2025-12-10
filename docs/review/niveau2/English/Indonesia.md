@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -59,13 +59,10 @@ In addition to museum archives, there are several other institutions in the Neth
 
 ## Related Aids
 
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
+ - [Select and delineate](https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.html)  
+ - [Civil shttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlEnglish/CivilServants_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised territorihttps://research-aids.github.io/published/niveau2/English/Science.html20240417.yml)  
+ - [Scihttps://research-aids.github.io/published/niveau2/English/ChristianMission.htmlveau2/English/Science_20240821.yml)  
+ https://research-aids.github.io/published/niveau3/English/BGKW.htmlnised territories](niveau2/English/ChristianMission_https://research-aids.github.io/published/niveau3/English/Khttps://research-aids.github.io/published/niveau3/English/Bronbeek.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdamhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.htmllish/KITLV_20240704.yml)  
  - [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
@@ -78,7 +75,7 @@ THIS RA HAS NO SOURCES
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

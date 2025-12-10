@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -47,10 +47,8 @@ Naast het archief en de collectiewebsite, geeft het Zeeuws Genootschap der Weten
 
 ## Related Aids
 
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Ghana](niveau2/Dutch/Ghana_20250901.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)  
- - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2https://research-aids.github.io/published/niveau2/Dutch/Ghana.html](niveau2/Dutch/Ghana_20250901.yml)  
+ https://research-aids.github.io/published/niveau3/Dutch/BGKW.htmltschap van Kunsten en Wetenschttps://research-aids.github.io/published/niveau3/Dutch/KITLV.html827.yhttps://research-aids.github.io/published/niveau3/Dutch/Naturalishttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmliveau3/Dutch/KITLV_20240704.yml)  
  - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
 
@@ -88,7 +86,7 @@ Tijdschrift:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

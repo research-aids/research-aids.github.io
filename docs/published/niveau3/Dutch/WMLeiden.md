@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -51,17 +51,10 @@ Bij het Nationaal Archief zijn ook documenten te vinden met betrekking tot het W
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar_20240313.yml)  
- - [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)  
- - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
- - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/Dutch/KKZ.htmlhttps://research-aids.github.io/published/niveau3/Dutch/KoninklijkeBazar.https://research-aids.github.io/published/niveau3/Dutch/KunsthandelVanLier.html[https://research-aids.github.io/published/niveau3/Dutch/EMArtis.htmlh/KunsthandelVanLier_20240313.yml)  
+ -https://research-aids.github.io/published/niveau3/Dutch/BGKW.htmlveau3https://research-aids.github.io/published/niveau3/Dutch/Naturalis.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.htmlhttps://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.htmlis Biodiversity Center](niveahttps://research-aids.github.io/published/niveau3/Dutch/KITLV.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/Dutch/https://research-aids.github.io/published/niveau3/Dutch/Reinwahttps://research-aids.github.io/published/niveau3/Dutch/MNusantara.html0822.yml)  
+ - https://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.htmlWMBergEnDal_20241001.yml)  
+ - [Khttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html(niveau3/Dutch/KITLV_202407https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.htmliveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
  - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  
  - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
  - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  

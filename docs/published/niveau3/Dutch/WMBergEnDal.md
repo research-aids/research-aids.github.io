@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -49,10 +49,7 @@ Voor specifieke informatie over objecten kan ook contact op worden genomen met h
 
  - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
  - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
+ - [Nederlandsch Zendeling Genootschap](https://research-aids.github.io/published/niveau3/Dutch/NZGhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdahttps://research-aids.github.io/published/niveau3/Dutch/MissiemuseumSteyl.html [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html)  
  - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
 

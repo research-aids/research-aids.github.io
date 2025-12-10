@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -67,13 +67,9 @@ Als je als onderzoeker vragen hebt of de collectie wil bezoeken, kan je een verz
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)  
+ - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
+ - [Ambtehttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2/Dutch/CivilServants_2024032https://research-aids.github.io/published/niveau2/Dutch/Science.htmlrzoek in gekhttps://research-aids.github.io/published/niveau3/Dutch/KKZhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html - [Konihttps://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.html/KKZ_20240313.yml)  
+ - [Wereldmuseum Lhttps://research-aids.github.io/published/niveau3/Dutch/Bhttps://research-aids.github.io/published/niveau3/Dutch/Reinwarhttps://research-aids.github.io/published/niveau3/Dutch/Museon.htmliveau3/Dutch/WageningenUniversityhttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.htmlap van Wetenschappen en Kunhttps://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html  
  - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
  - [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)  
  - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  

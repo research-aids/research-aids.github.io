@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -43,13 +43,9 @@ As described, the minutes of the Bataviaasch Genootschap contain much informatio
 
 ## Related Aids
 
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Artis Etnographic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2/English/Science_20240821.yml)  
+ - [Royal Nethhttps://research-aids.github.io/published/niveau3/English/KITLV.htmlan anhttps://research-aids.github.io/published/niveau3/English/Naturalis.htmlhttps://research-aids.github.io/published/niveau3/English/EMArtis.htmluralhttps://research-aids.github.io/published/niveau3/English/KKZ.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdamhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/https://research-aids.github.io/published/niveau3/English/Reinwardt.htmlish/WMAmsterdam_20240809.yml)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
  - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  

@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -45,11 +45,8 @@ The KITLV text collections can be requested through the UBL's [online catalogue]
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Civil shttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlEnglish/CivilServanthttps://research-aids.github.io/published/niveau2/English/Science.htmlearch in colonised territories](niveau2https://research-aids.github.io/published/niveau3/English/BGKWhttps://research-aids.github.io/published/niveau3/English/WMLeiden.htmltshttps://research-aids.github.io/published/niveau2/English/ArubaBonaireCuracao.htmlsh/BGKW_20240https://research-aids.github.io/published/niveau2/English/SabaStEustatiusStMaarten.htmlLeiden_20240508.yml)  
  - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao_20250619.yml)  
  - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten_202501619.yml)  
 

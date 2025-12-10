@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -71,12 +71,8 @@ Other relevant resources:
 
 ## Related Aids
 
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Civil servants](niveau2/English/CivilServants_20240316.yml)  
- - [Military and navy](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
+ - [Select and delineate](https://research-aids.github.io/published/niveau1/English/Selecthttps://research-aids.github.io/published/niveau1/English/Sohttps://research-aids.github.io/published/niveau2/English/CivilServanhttps://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.htmllish/CivilServants_20240316.yml)  
+ - [Military and https://research-aids.github.io/published/niveau3/English/KITLV.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdamhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.htmlum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
  - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  

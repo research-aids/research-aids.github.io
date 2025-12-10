@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -51,9 +51,8 @@ Het museum beheert verschillende datasets over stamboeken van het KNIL, uitgezon
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
+ - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
+ - [Leger- en marinepershttps://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavhttps://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.html - [Hoofdcursushttps://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html20250428.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
 
 ## Primary sources

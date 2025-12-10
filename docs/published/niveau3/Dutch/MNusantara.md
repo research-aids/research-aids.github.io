@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -40,11 +40,7 @@ Het archief van Museum Nusantara is na de sluiting van het museum overgebracht n
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
- - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServantshttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmliveau3/Dhttps://research-aids.github.io/published/niveau3/Dutch/WageningenUniversithttps://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.htmleningenUniversihttps://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html](niveau3/Dutch/HoofdcursusKampenhttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
  - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
 
 ## Primary sources

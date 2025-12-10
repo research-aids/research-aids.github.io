@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -41,15 +41,11 @@ Archieven met betrekking tot het Etnografisch Museum Artis zijn verspreid over v
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)  
+ - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
+ - [Ambtehttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2/Dutch/CivilServants_202403https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html gekoloniseerde gebiedehttps://research-aids.github.io/published/niveau2/Dutch/Trade.html_20240326.yml)  
+ - [De handehttps://research-aids.github.io/published/niveau2/Dutch/Science.htmlntext](niveahttps://research-aids.github.io/published/niveau3/Dutch/KKZhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html2/Dutch/Science_20240814.yml)  
+ - [Konhttps://research-aids.github.io/published/niveau3/Dutch/BGhttps://research-aids.github.io/published/niveau3/Dutch/Museon.html0313.yml)  
+ - [Wereldmuseum Leidhttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.htmlmuseum Amsterdam](niveau3/Dhttps://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.htmloninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)  
  - [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)  
  - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  

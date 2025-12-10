@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -38,9 +38,7 @@ The [Repetorium van Nederlandse zendings- en missie-archieven 1800-1960] (https:
 
 ## Related Aids
 
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
- - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
+ - [Christian missionaries in colonised territories](https://research-aids.github.io/published/niveau2/English/ChristianMission.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDahttps://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.html [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
 
 ## Primary sources
 

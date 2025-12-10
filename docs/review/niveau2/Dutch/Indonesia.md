@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -61,13 +61,10 @@ Buiten de museumarchieven zijn er verschillende andere instellingen in Nederland
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
- - [Ambtenaren](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Leger en marine](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)  
- - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
+ - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndhttps://research-aids.github.io/published/niveau2/Dutch/CivilServhttps://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.htmll)  
+ - [Leger en marine](nivhttps://research-aids.github.io/published/niveau2/Dutch/Science.html6.yml)  
+ - [Wetenschappelijk onhttps://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html/Dutch/Science_20240814.yml)  
+ - [Zendhttps://research-aids.github.io/published/niveau3/Dutch/BGKW.htmlkoloniseerde gebieden](niveahttps://research-aids.github.io/published/niveau3/Dutch/Khttps://research-aids.github.io/published/niveau3/Dutch/Bronbeek.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.htmlniveau3/Dutch/KITLV_20240704.yml)  
  - [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)  
  - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
@@ -80,7 +77,7 @@ THIS RA HAS NO SOURCES
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

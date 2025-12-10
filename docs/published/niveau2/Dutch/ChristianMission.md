@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -46,11 +46,9 @@ Archieven van zending- en missieorganisaties zijn verspreid. Omvangrijke archief
 
  - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
  - [De handel in objecten uit een koloniale context](published/niveau2/Dutch/Trade_20240326.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
- - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [Natuurhistorisch ehttps://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.htmlau3/Dutch/https://research-aids.github.io/published/niveau3/Dutch/NZhttps://research-aids.github.io/published/niveau3/Dutch/MissiemuseumSteyl.htmlniveau3/Dutch/NZG_20240314.yml)  
+ - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml) https://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.htmln der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
 
 ## Primary sources

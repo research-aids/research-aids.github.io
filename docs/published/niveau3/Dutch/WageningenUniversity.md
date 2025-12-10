@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -37,11 +37,8 @@ Het archief van de Landbouwhogeschool tot 1959 bevindt zich bij het [Gelders Arc
 ## Related Aids
 
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
- - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ https://research-aids.github.io/published/niveau3/Dutch/Naturahttps://research-aids.github.io/published/niveau3/Dutch/MNusantarhttps://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.html/Dutch/MNusantahttps://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html](niveau3/Dutch/Hoofhttps://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.htmlkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
  - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)  
 
 ## Primary sources

@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -40,9 +40,8 @@ Ook het persoonlijk archief van Theo van Baaren bevat (beperkte) informatie over
 
 ## Related Aids
 
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [https://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.html/WageningenUniversity_2024https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.htmllkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
 
 ## Primary sources
 

@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -49,10 +49,9 @@ Ook correspondentiearchieven tussen de verschillende instellingen of schenkers z
 ## Related Aids
 
  - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [De handel in obhttps://research-aids.github.io/published/niveau2/Dutch/Trade.html](niveau2/Dutch/Trade_20240326.yml)  
+ https://research-aids.github.io/published/niveau3/Dutch/BGKW.htmltschap van Khttps://research-aids.github.io/published/niveau3/Dutch/KKZhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterhttps://research-aids.github.io/published/niveau3/Dutch/Reinwardt.html)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
  - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
  - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  

@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -88,11 +88,10 @@ The archives of the Agricultural College up to 1959 are held at the Gelderland A
 
 ## Related Aids
 
- - [Doing research](niveau1/English/DoingResearch_20240425.yml)  
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
+ - [Doing research](https://research-aids.github.io/published/niveau1/English/Dhttps://research-aids.github.io/published/niveau1/English/Sources.htmhttps://research-aids.github.io/published/niveau2/English/Museum.html)  
+ - [Museums and https://research-aids.github.io/published/niveau2/English/Science.html20250113.yml)  
+ - [Scientific research in colonisedhttps://research-aids.github.io/published/niveau3/English/KITLV.htmlnce_20240821.yml)  
+https://research-aids.github.io/published/niveau3/English/GerardusLeeuw.htmlst Asianhttps://research-aids.github.io/published/niveau3/English/WageningenUniversity.htmlITLV_20240704.yml)  
  - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)  
  - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
 
@@ -102,7 +101,7 @@ THIS RA HAS NO SOURCES
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

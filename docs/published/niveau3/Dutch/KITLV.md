@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -46,11 +46,8 @@ De tekstcollecties van het KITLV kunnen worden aangevraagd via de [online catalo
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW_20240827.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
+ - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
+ - [Ambtehttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2/Dutch/CivilServants_2024032https://research-aids.github.io/published/niveau2/Dutch/Science.htmlrzoek in gekoloniseerde gebieden](niveahttps://research-aids.github.io/published/niveau3/Dutch/BGKWhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmlehttps://research-aids.github.io/published/niveau2/Dutch/ArubaBonaireCuracao.html3/Dutch/BGKWhttps://research-aids.github.io/published/niveau2/Dutch/SabaStEustatiusStMaarten.htmltch/WMLeiden_20240327.yml)  
  - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
  - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)  
 

@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -38,18 +38,10 @@ Be aware that scientists may have been active at several institutions and so it 
 
 ## Related Aids
 
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)  
- - [Artis Etnographic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
+ - [Select and delineate](https://research-aids.github.io/published/niveau1/English/Selecthttps://research-aids.github.io/published/niveau1/English/Sources.htmlveau1/English/Shttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlin colonised territorieshttps://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [Army and navy phttps://research-aids.github.io/published/niveau2/English/ChristianMission.htmlglish/MilitaryAndNavy_20240417.yml)  
+ https://research-aids.github.io/published/niveau3/English/BGKW.htmlhttps://research-aids.github.io/published/niveau3/English/EMArtis.htmlhristianMission_20240417.yml)  
+ - [Koninklijk Batavhttps://research-aids.github.io/published/niveau3/English/KITLV.htmlWetenhttps://research-aids.github.io/published/niveau3/English/Naturalis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdahttps://research-aids.github.io/published/niveau3/English/WMLeiden.htmltute of https://research-aids.github.io/published/niveau3/English/WageningenUniversity.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/https://research-aids.github.io/published/niveau3/English/Reinwarhttps://research-aids.github.io/published/niveau3/English/Museon.htmldam](niveau3/English/WMAmhttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlveau3/English/WMRotthttps://research-aids.github.io/published/niveau3/English/GerardusLeeuw.htmlen](niveau3/English/WMLeiden_20240508.yml)  
  - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
  - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  

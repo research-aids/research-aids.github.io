@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -40,12 +40,9 @@ In addition, archival documents are held at the [National Archives of the Nether
 
 ## Related Aids
 
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar_2040503.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Army and navy pehttps://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.htmlglish/MilitaryAndNavhttps://research-aids.github.io/published/niveau2/English/Trade.html objects from a colonial context](niveau2/English/Trade_20240316.yml)  
+ -https://research-aids.github.io/published/niveau3/English/WMLeiden.htmlnhttps://research-aids.github.io/published/niveau3/English/EMArtis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/RMO.htmlEMArtis_20240712.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
  - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  

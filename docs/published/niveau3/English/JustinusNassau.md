@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -41,10 +41,7 @@ Ever since the ethnographic museum of the Royal Military Academy in Breda became
 
 ## Related Aids
 
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
- - [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavyhttps://research-aids.github.io/published/niveau3/English/WMLeiden.htmleau3/Enghttps://research-aids.github.io/published/niveau3/English/WageningenUniverhttps://research-aids.github.io/published/niveau3/English/Bronbhttps://research-aids.github.io/published/niveau3/English/MNusantarhttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html3/English/Bronbeek_20241002.yml)  
  - [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)  
  - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)  
 

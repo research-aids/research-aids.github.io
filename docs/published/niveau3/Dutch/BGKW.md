@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -45,12 +45,8 @@ Zoals beschreven is in de notulen van het Bataviaasch Genootschap veel informati
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Ethnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [Wetenschappelijk ondehttps://research-aids.github.io/published/niveau2/Dutch/Science.htmlniveau2/Dutch/Science_202408https://research-aids.github.io/published/niveau3/Dutch/KITLV.htmlut vohttps://research-aids.github.io/published/niveau3/Dutch/Naturalis.htmlu3https://research-aids.github.io/published/niveau3/Dutch/EMArtis.htmlaturalis Biohttps://research-aids.github.io/published/niveau3/Dutch/KKZ.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.htmlhttps://research-aids.github.io/published/niveau3/Dutch/https://research-aids.github.io/published/niveau3/Dutch/Reinwardt.html240313.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
  - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  

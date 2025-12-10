@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -39,8 +39,7 @@ The complete Koninklijke Verzamelingen can be consulted [online](https://www.kon
 
 ## Related Aids
 
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.htmhttps://research-aids.github.io/published/niveau2/English/Museum.htmliveahttps://research-aids.github.io/published/niveau3/English/KKZ.html 
  - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
 
 ## Primary sources
@@ -71,7 +70,7 @@ Book:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

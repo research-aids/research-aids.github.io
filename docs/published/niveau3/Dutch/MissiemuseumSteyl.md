@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -43,9 +43,8 @@ De collectie van het Missiemuseum is tot op heden niet volledig geregistreerd, d
 
 ## Related Aids
 
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html)  
+ - [Nehttps://research-aids.github.io/published/niveau3/Dutch/NZG.htmlhttps://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.html - [Wereldmuseum Berg en Dhttps://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
 
 ## Primary sources

@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -47,9 +47,8 @@ The museum manages various datasets on KNIL muster rolls, military personnel dep
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Army and navy pehttps://research-aids.github.io/published/niveau2/English/MilitaryAndNavhttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html [Hoofdcursus Khttps://research-aids.github.io/published/niveau3/English/JustinusNassau.html250513.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
 
 ## Primary sources

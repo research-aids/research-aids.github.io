@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -35,9 +35,7 @@ Het is niet bekend of het archief van de Groote Koninklijke Bazar bewaard is geb
 ## Related Aids
 
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/Dutch/KKZhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.https://research-aids.github.io/published/niveau3/Dutch/KunsthandelVanLier.html[Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)  
 
 ## Primary sources
 

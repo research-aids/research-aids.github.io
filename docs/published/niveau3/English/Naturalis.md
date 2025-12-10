@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -65,13 +65,10 @@ If you have questions regarding your research or would like to visit the collect
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.ymll)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Civil shttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlEnglish/CivilServanthttps://research-aids.github.io/published/niveau2/English/Science.htmlearchttps://research-aids.github.io/published/niveau3/English/KKZhttps://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [https://research-aids.github.io/published/niveau3/English/WageningenUniversity.html20240417.yml)  
+ - [Wereldmuseum Leiden]https://research-aids.github.io/published/niveau3/English/Bhttps://research-aids.github.io/published/niveau3/English/Reinwarhttps://research-aids.github.io/published/niveau3/English/Museon.htmllish/WageningenUniversityhttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlap van Wetenschappen en Kuhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.html)  
  - [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)  
  - [Museon-Omniversum](niveau3/English/Museon_20250513.yml)  
  - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  

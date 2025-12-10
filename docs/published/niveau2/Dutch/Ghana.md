@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -57,13 +57,9 @@ Voor onderzoek naar de zendingen aan het Koninklijk Kabinet van Zeldzaamheden ku
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [De handel in objecten uit een koloniale context](published/niveau2/Dutch/Trade_20240326.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
+ - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
+ - [Ambtehttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2/Dutch/CivilServants_20240320.yml)  
+ - [De handel in objecten uit een koloniale context](published/niveau2/Dutch/Trade_2024032https://research-aids.github.io/published/niveau2/Dutch/Science.htmlrhttps://research-aids.github.io/published/niveau3/Dutch/EMArtis.htmliveau2/Dutchhttps://research-aids.github.io/published/niveau3/Dutch/KKZ.htmltnogrhttps://research-aids.github.io/published/niveau3/Dutch/Naturalishttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html[Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
  - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  

@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -41,9 +41,8 @@ The Missiemuseum's collection is not fully registered although this is being wor
 
 ## Related Aids
 
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/English/NZG_20240508.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
+ - [Christian missionaries in colonised territories](https://research-aids.github.io/published/niveau2/English/ChristianMission.html)  
+ - [Nehttps://research-aids.github.io/published/niveau3/English/NZG.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDal.html [Wereldmuseum Berg en Dalhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.htmlml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
 
 ## Primary sources

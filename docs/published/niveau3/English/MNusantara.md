@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -38,11 +38,7 @@ After the closure of Museum Nusantara its archive was transferred to the [Delft 
 
 ## Related Aids
 
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
- - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServantshttps://research-aids.github.io/published/niveau3/English/WMLeiden.htmleau3/Enghttps://research-aids.github.io/published/niveau3/English/WageningenUniversithttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.htmlingenUniversityhttps://research-aids.github.io/published/niveau3/English/JustinusNassau.htmlveau3/English/Hoofdcursushttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmls van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
  - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
 
 ## Primary sources

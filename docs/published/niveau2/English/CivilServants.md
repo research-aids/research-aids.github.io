@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -47,16 +47,8 @@ Some personal archives of Dutch nationals in government service have been preser
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.htmlsh/SelectAndDelineate_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised territories](niveau2/Englishhttps://research-aids.github.io/published/niveau3/English/BGKW.html - [Koninklijk Batavhttps://research-aids.github.io/published/niveau2/English/Science.htmltenschappen](niveau3https://research-aids.github.io/published/niveau2/English/Trade.htmlScientific research in colonised territories](niveauhttps://research-aids.github.io/published/niveau3/English/KITLV.html - [https://research-aids.github.io/published/niveau3/English/KKZ.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdamhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterhttps://research-aids.github.io/published/niveau3/English/Reinwahttps://research-aids.github.io/published/niveau3/English/MNusantahttps://research-aids.github.io/published/niveau3/English/Museon.html
+ - [Wereldmuseum Amsterdhttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlreldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
  - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
  - [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)  

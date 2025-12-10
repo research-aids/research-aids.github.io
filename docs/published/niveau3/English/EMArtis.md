@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -39,15 +39,11 @@ Archives relating to the Artis Ethnographic Museum are spread across several ins
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [The trade in objects from a colonial context](niveau2/Dutch/Trade_20240326.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Civil shttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlEnglish/CivilServants_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised territorihttps://research-aids.github.io/published/niveau2/Dutch/Trade.htmlavy_20240417.yml)  
+https://research-aids.github.io/published/niveau2/English/Science.htmlnialhttps://research-aids.github.io/published/niveau3/English/KKZhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.html2/English/Science_20240821.yml)  
+ - [Rhttps://research-aids.github.io/published/niveau3/English/BGhttps://research-aids.github.io/published/niveau3/English/Museon.html)  
+ - [Wereldmuseum Leidhttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmldmuseum Amsterdam](niveau3https://research-aids.github.io/published/niveau3/English/MOudenbosch.html[Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)  
  - [Museon-Omniversum](niveau3/English/Museon_20250513.yml)  
  - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  

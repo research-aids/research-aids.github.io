@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -41,12 +41,9 @@ De collectie van Natuurhistorische en Volkenkundig Museum Oudenbosch is volledig
 
 ## Related Aids
 
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Musea en efgoedbeherende instellingen](niveau2/Dutch/Museum_20250113.yml)  
- - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html)  
+ - [Museahttps://research-aids.github.io/published/niveau2/Dutch/Museum.html(https://research-aids.github.io/published/niveau3/Dutch/EMArtis.html  
+ -https://research-aids.github.io/published/niveau3/Dutch/Naturalis.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/Dutch/WMBergEnDalhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdahttps://research-aids.github.io/published/niveau3/Dutch/MissiemuseumSteyl.html [Wereldmuseum Berg https://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.html01.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
  - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
  - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
@@ -80,7 +77,7 @@ Video:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

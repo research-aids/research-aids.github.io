@@ -5,7 +5,7 @@ parent: niveau1
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -64,9 +64,7 @@ The Wereldmuseum publication [Words Matter](https://amsterdam.wereldmuseum.nl/si
 
 ## Related Aids
 
- - [Doing research](niveau1/English/DoingResearch_20240425.yml)  
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Select and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
+ - [Doing research](https://research-aids.github.io/published/niveau1/English/Dhttps://research-aids.github.io/published/niveau1/English/Sources.https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.htmlelect and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
 
 
 

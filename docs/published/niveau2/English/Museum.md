@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -52,17 +52,8 @@ Whilst this thematic subdivision provides a good overview of the ways in which o
 
 ## Related Aids
 
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)  
- - [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)  
- - [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)  
- - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
- - [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)  
- - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
- - [Museon-Omniversum](niveau3/English/Museon_20250513.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/English/https://research-aids.github.io/published/niveau3/English/Bronbeek.htmlehttps://research-aids.github.io/published/niveau3/English/EMArtis.html
+ - [Artis Ethnographttps://research-aids.github.io/published/niveau3/English/GerardusLeeuhttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.htmldus van der Leehttps://research-aids.github.io/published/niveau3/English/JustinusNassau.html.ymlhttps://research-aids.github.io/published/niveau3/English/https://research-aids.github.io/published/niveau3/English/MNusantarhttps://research-aids.github.io/published/niveau3/English/MissiemuseumStehttps://research-aids.github.io/published/niveau3/English/Museon.htmlEnglihttps://research-aids.github.io/published/niveau3/English/Naturalis.htmlhttps://research-aids.github.io/published/niveau3/English/RMO.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDalhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.htmlm](niveau3/English/Museonhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.htmlity Center](niveau3/English/Naturalis_20270710.yml)  
  - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  

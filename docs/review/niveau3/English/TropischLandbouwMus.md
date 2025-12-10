@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -43,9 +43,8 @@ Specific information about the objects from the former Museum for Tropical Agric
 
 ## Related Aids
 
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)  
+ - [Museums and collections](https://research-aids.github.io/published/niveau2/English/Museum.html)  
+ - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2/English/Scienchttps://research-aids.github.io/published/niveau3/English/GerardusLeeuw.html'Gerarduhttps://research-aids.github.io/published/niveau3/English/WageningenUniversity.html0250602.yml)  
  - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
 
 ## Primary sources
@@ -94,7 +93,7 @@ Catalogue:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -51,14 +51,11 @@ Van sommige Nederlanders in overheidsdienst zijn persoonlijke archieven bewaard 
 ## Related Aids
 
  - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
- - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
- - [Ghana](niveau2/Dutch/Ghana_20250901.yml)  
- - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
- - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
+ - [De handel in objecten uit een koloniale context](https://research-aids.github.io/published/niveau2/Dutch/Trade.html)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)https://research-aids.github.io/published/niveau2/Dutch/Arubahttps://research-aids.github.io/published/niveau2/Dutch/Ghana.htmleCuracao_202https://research-aids.github.io/published/niveau2/Dutch/SabaStEustatiusStMaarten.html.yml)  
+ - [Saba, Sint Eustatihttps://research-aids.github.io/published/niveau2/Dutch/Sciehttps://research-aids.github.io/published/niveau3/Dutch/Reinwardt.html501619.yml)  
+ - [Wetenschappelijhttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html/Science_20240814.yml)  
+ - [C.G.C. Reinhttps://research-aids.github.io/published/niveau3/Dutch/Bhttps://research-aids.github.io/published/niveau3/Dutch/MNusantahttps://research-aids.github.io/published/niveau3/Dutch/Museon.htmlhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
  - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)  
  - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
  - [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)  

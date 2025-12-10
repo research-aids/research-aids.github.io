@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -41,13 +41,11 @@ De [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/op
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
- - [Koninklijke Vereniging Vrienden der Aziatische Kunst](niveau3/Dutch/KVVAK_20240312.yml)  
+ - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
+ - [Ambtehttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2/Dutch/CivilServants_202403https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html gekoloniseerde gebieden](nivhttps://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html
+ - [Wetenschappelijk ohttps://research-aids.github.io/published/niveau2/Dutch/Trade.htmlden](niveau2https://research-aids.github.io/published/niveau3/Dutch/KKZ.html6.yml)  
+ - [De handel in obhttps://research-aids.github.io/published/niveau3/Dutch/KVVAK.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmlhttps://research-aids.github.io/published/niveau3/Dutch/RMO.htmlZ_20240313.yml)  
+ - [Koninklijkehttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.htmltch/KVVAK_20240312.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
  - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  

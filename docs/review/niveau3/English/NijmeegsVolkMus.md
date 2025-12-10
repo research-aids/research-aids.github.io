@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -38,11 +38,8 @@ The Beijens Collection, which was transferred to Museum Bronbeek in Arnhem in 20
 
 ## Related Aids
 
- - [Museums and collections](niveau2/English/Museum_20250113.yml)  
- - [Christian missionaries in colonised territories](niveau2/English/ChristianMission_20240417.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Museums and collections](https://research-aids.github.io/published/niveau2/English/Museum.html)  
+ - [Christian missihttps://research-aids.github.io/published/niveau2/English/ChristianMission.htmllish/ChristianMissiohttps://research-aids.github.io/published/niveau2/English/Scienchttps://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.htmlEnglish/Science_20240821.yhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.htmlglish/Misshttps://research-aids.github.io/published/niveau3/English/WMBergEnDal.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDal.htmlosch](niveau3/English/MOudenbosch_20250603.yml)  
  - [Nederlandsch Zendeling Genootschap](niveau3/English/WMBergEnDal_20241001.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
 
@@ -52,7 +49,7 @@ THIS RA HAS NO SOURCES
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

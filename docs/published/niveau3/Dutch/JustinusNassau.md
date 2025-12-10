@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -43,10 +43,7 @@ Sinds het volkenkundig museum van de Koninklijke Militaire Academie in Breda van
 
 ## Related Aids
 
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
- - [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavyhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmliveau3/Dhttps://research-aids.github.io/published/niveau3/Dutch/WageningenUniverhttps://research-aids.github.io/published/niveau3/Dutch/Bronbhttps://research-aids.github.io/published/niveau3/Dutch/MNusantarhttps://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.htmlniveau3/Dutch/Bronbeek_20241002.yml)  
  - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
  - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
 

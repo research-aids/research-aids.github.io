@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -52,10 +52,8 @@ Voor archiefmateriaal met betrekking tot de drie musea die onder de Stichting Ko
 
 ## Related Aids
 
- - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy_20240326.yml)  
- - [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)  
- - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
+ - [Musea en collecties](https://research-aids.github.io/published/niveau2/Dutch/Museum.html)  
+ - [Leger- en marinepershttps://research-aids.github.io/published/niveau2/Dutch/MilitaryAndhttps://research-aids.github.io/published/niveau3/Dutch/Bronbeehttps://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.htmlu3/Dutch/Bronbehttps://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
 
 ## Primary sources
@@ -80,7 +78,7 @@ Collectiewebsite:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

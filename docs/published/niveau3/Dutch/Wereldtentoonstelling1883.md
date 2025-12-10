@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -45,13 +45,9 @@ Bij de verschillende musea die naderhand objecten hebben ontvangen is archiefmat
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants_20240320.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade_20240326.yml)  
- - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [Wetenschappelijk ondehttps://research-aids.github.io/published/niveau2/Dutch/Science.htmlniveau2/Dutch/Science_2https://research-aids.github.io/published/niveau2/Dutch/Trade.htmlohttps://research-aids.github.io/published/niveau3/Dutch/EMArtis.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterhttps://research-aids.github.io/published/niveau3/Dutch/MNusantara.html
+ - [https://research-aids.github.io/published/niveau3/Dutch/Naturhttps://research-aids.github.io/published/niveau3/English/Bronbeek.htmlWereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
  - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
  - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
  - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  

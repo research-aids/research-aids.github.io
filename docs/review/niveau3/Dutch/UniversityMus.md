@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -90,11 +90,7 @@ Het archief van de Landbouwhogeschool tot 1959 bevindt zich bij het [Gelders Arc
 
 ## Related Aids
 
- - [Onderzoeken](niveau1/Dutch/DoingResearch_20240425.yml)  
- - [Bronnen](niveau1/Dutch/Sources_20240425.yml)  
- - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
- - [Wetenschap](niveau2/Dutch/Science_20240814.yml)  
- - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
+ - [Onderzoeken](https://research-aids.github.io/published/niveau1/Dutch/Dhttps://research-aids.github.io/published/niveau1/Dutch/Sourceshttps://research-aids.github.io/published/niveau2/Duthttps://research-aids.github.io/published/niveau2/Dutch/Science.htmlen collecties](niveau2/Dutch/https://research-aids.github.io/published/niveau3/Dutch/KITLV.htmlschap](nhttps://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.htmllijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
  - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
  - [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)  
 
@@ -104,7 +100,7 @@ THIS RA HAS NO SOURCES
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-04
+_last edited by UNKNOWN as UNKNOWN on 2025-12-10
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

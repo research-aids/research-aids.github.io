@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -34,11 +34,10 @@ The archives of the Agricultural College until 1959 are held in the [Gelders Arc
 
 ## Related Aids
 
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)  
- - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2https://research-aids.github.io/published/niveau3/English/Naturahttps://research-aids.github.io/published/niveau3/English/MNusantarhttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html
+ - [Museum Nushttps://research-aids.github.io/published/niveau3/English/JustinusNassau.html.yml)  
+ - [Hoofdcurhttps://research-aids.github.io/published/niveau3/English/GerardusLeeuw.htmlpen_20250513.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
  - [Volkenkundig museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)  
 

@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -34,10 +34,8 @@ The archive of the ethnographic collection of the Main Course was merged with th
 
 ## Related Aids
 
- - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy_20240417.yml)  
- - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
- - [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)  
- - [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [https://research-aids.github.io/published/niveau3/English/WageningenUniverhttps://research-aids.github.io/published/niveau3/English/Bronbhttps://research-aids.github.io/published/niveau3/English/MNusantara.htmlniveau3/Englishhttps://research-aids.github.io/published/niveau3/English/JustinusNassau.htmlara](niveau3/English/MNusantara_20250225.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
 
 ## Primary sources

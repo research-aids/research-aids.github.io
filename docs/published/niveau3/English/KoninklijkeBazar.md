@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -32,9 +32,8 @@ It is not known whether the business records of Groote Koninklijke Bazar have be
 
 ## Related Aids
 
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Royal Cabinet of Curiosities](niveau3/Dutch/KKZ_20240313.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
+ - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
+https://research-aids.github.io/published/niveau3/Dutch/KKZhttps://research-aids.github.io/published/niveau3/English/WMLeiden.https://research-aids.github.io/published/niveau3/English/KunsthandelVanLier.htmlish/WMLeiden_20240508.yml)  
  - [Kunsthandel Van Lier](niveau3/English/KunsthandelVanLier_20240507.yml)  
 
 ## Primary sources

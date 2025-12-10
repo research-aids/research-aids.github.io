@@ -5,7 +5,7 @@ parent: niveau0
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: False
 --- 
 
@@ -31,23 +31,19 @@ _De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Kolonia
 
 
 ### Herkomstonderzoek naar koloniale collecties
-             - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
  - [Onderzoeken](niveau1/Dutch/Onderzoeken_20240425.yml)  
  - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
  - [Verslagleggen](niveau1/Dutch/Verslagleggen_20240501.yml)  
  - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)  
 
 ### Categorieën en thema's
-             - [Musea en collecties](niveau2/Dutch/Museum_20250113.yml)  
+ - [Musea en collecties](https://research-aids.github.io/published/niveau2/Dutch/Museum.html)  
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)  
-
-### Locaties
-             - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
- - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)  
+ - [Wetenschappelijk ondehttps://research-aids.github.io/published/niveau2/Dutch/Science.htmlniveau2/Dutch/Science_20240814.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnhttps://research-aids.github.io/published/niveau2/Dutch/ArubaBonaireCuracao.html, Bonaire enhttps://research-aids.github.io/published/niveau2/Dutch/SabaStEustahttps://research-aids.github.io/published/niveau2/Dutch/SabaStEustatiusStMaarten.htmlen Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)  
  - [Ghana](niveau2/Dutch/SabaStEustatiusStMaarten_20250901.yml)  
 
         

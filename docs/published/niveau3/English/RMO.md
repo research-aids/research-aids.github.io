@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -50,11 +50,8 @@ Archives of correspondence between various institutions or donors such as C.G.C.
 
 ## Related Aids
 
- - [Sources](niveau1/English/Sources_20240501.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [The trade in objects from a colonial context](niveau2/English/Trade_20240316.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW_20240905.yml)  
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2/English/Scienchttps://research-aids.github.io/published/niveau2/English/Trade.html objects from a colonial context](niveahttps://research-aids.github.io/published/niveau3/English/BGKW.html - [https://research-aids.github.io/published/niveau3/English/KKZhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterhttps://research-aids.github.io/published/niveau3/English/Reinwardt.htmlau3/English/KKZ_20240417.yml)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
  - [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)  

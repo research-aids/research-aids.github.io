@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-09
+date: 2025-12-10
 nav_exclude: True
 --- 
 
@@ -39,9 +39,8 @@ The Museon-Omniversium archive is managed by the [Municipal Archives of The Hagu
 
 ## Related Aids
 
- - [Civil servants in colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Scientific research in colonised territories](niveau2/English/Science_20240821.yml)  
- - [Artis Ethnographic Museum](niveau3/English/EMArtis_20240712.yml)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlvhttps://research-aids.github.io/published/niveau3/Englihttps://research-aids.github.io/published/niveau3/English/Naturalis.html Museum](niveau3/English/EMArtis_20240712.yml)  
  - [Naturalis](niveau3/English/Naturalis_20270710.yml)  
 
 ## Primary sources
