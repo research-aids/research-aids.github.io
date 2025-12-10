@@ -43,17 +43,18 @@ dutch = glob(f"{BASE_DIR}/*/Dutch/*.yml")
 yaml_files = dutch + eng
 
 
-def parse_filename(orig_path, has_path=False):
-    path_part = '.+\/' if has_path else ''
-    m = re.search(f'{path_part}(.*)_[0-9]+\.yml', orig_path)
-    m = re.search(f'{path_part}(.+)\.yml', orig_path)
-    if m:
-        return m.group(1)
-    raise ValueError(f"{orig_path} couldn't be parsed!")
+# def parse_filename(orig_path, has_path=False):
+#     path_part = '.+\/' if has_path else ''
+#     m = re.search(f'{path_part}(.*)_[0-9]+\.yml', orig_path)
+#     m = re.search(f'{path_part}(.+)\.yml', orig_path)
+#     if m:
+#         return m.group(1)
+#     raise ValueError(f"{orig_path} couldn't be parsed!")
 
 def parse_filepath(fp):
     *pref, level, lang, fname  = fp.split(os.path.sep)
-    return level, lang, parse_filename(fname)
+    aid_name, ext = fname.split(".")
+    return level, lang, aid_name
 
 
 def addlinkFilename(rels, lang):
