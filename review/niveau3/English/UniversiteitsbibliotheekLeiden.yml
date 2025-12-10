@@ -66,10 +66,11 @@ Sources:
         - URL: "https://collectionguides.universiteitleiden.nl/"
       Description and remarks: "This website provides access to the collection guides of the archives and collections of Leiden University Libraries. A collection guide provides a general description of the items within a collection or archive and provides information about the history and acquisition of the material. The collection guides on this website may also contain an inventory and links to digitised content."
 
-Editing_metadata:
-  - Date: 2025-11-25
-    Applies_to: #optional
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: Creation of the Research Aid
+editing_metadata:
+  - date: 2025-11-25
+    applies_to: #optional
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of the Research Aid
+
 
