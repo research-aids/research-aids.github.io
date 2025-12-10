@@ -71,7 +71,6 @@ Tijdschrift:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-10
-
-(notes: This event was automatically created because the YAML file's edit history was empty.)_
+_first edited by Wiebe Reints as original_author on 2025-09-25_  
+_last edited by Maarten van der Bent; Klaas Stutje as reviewer on 2025-11-19_
         
