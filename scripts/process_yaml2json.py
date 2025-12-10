@@ -138,7 +138,7 @@ def apply_func(yml, func, applies_to):
 
 for f in tqdm(yaml_files):
     print(f"processing {f}...")
-    try:
+    if True:
         with open(f) as handle:
             yaml_content = yaml.load(handle, Loader=NoDatesSafeLoader)
     
@@ -182,8 +182,8 @@ for f in tqdm(yaml_files):
     # except yaml.parser.ParserError:
     #     print(f)
     #     exit(1)
-    except ValueError:
-        print(f"{f}'s filename can't be parsed")
-        exit(1)
+    # except ValueError:
+    #     print(f"{f}'s filename can't be parsed")
+    #     exit(1)
 
 exit(0)
