@@ -6,7 +6,7 @@ Abstract: "Until 2003, Volkenkundig Museum Gerardus van der Leeuw was an ethnogr
 
 RelatedAides: 
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden": 
-        link: "niveau2/English/Science"
+        link: "niveau2/English/Science.yml"
         rel_type: "see also"
   - "Wageningen University & Research":
         link: "niveau3/English/WageningenUniversity.yml"
@@ -126,3 +126,4 @@ editing_metadata:
     role: reviewer
     editing_notes: RA was checked by Rosalie Hans (Provenance Researcher), comments were processed by Wiebe Reints. 
        
+
