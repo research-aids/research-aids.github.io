@@ -66,15 +66,16 @@ Sources:
         - URL: "https://collectionguides.universiteitleiden.nl/"
       Description and remarks: "Deze website biedt toegang tot de collectiegidsen van de archieven en collecties van de Universitaire Bibliotheken Leiden. Een collectiegids beschrijft op algemeen niveau de onderdelen binnen een collectie of archief en geeft informatie over de geschiedenis, verwerving van het materiaal. De collectiegidsen op deze website kunnen ook een inventaris bevatten en links naar gedigitaliseerde inhoud."
 
-Editing_metadata:
-  - Date: 2025-09-08
-    Applies_to: #optional
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: Creation of the Research Aid
-  - Date: 2025-11-19 
-    Applies_to: #optional
-    Author: Maarten van der Bent; Klaas Stutje
-    Role: reviewer
-    Editing_notes: Maarten and Klaas's comments were processed by Wiebe Reints.
+editing_metadata:
+  - date: 2025-09-08
+    applies_to: #optional
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of the Research Aid
+  - date: 2025-11-19 
+    applies_to: #optional
+    author: Maarten van der Bent; Klaas Stutje
+    role: reviewer
+    editing_notes: Maarten and Klaas's comments were processed by Wiebe Reints.
+
 
