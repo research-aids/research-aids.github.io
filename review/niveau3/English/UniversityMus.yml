@@ -112,14 +112,15 @@ Main-text:
 
 Sources: []
 
-Editing_metadata:
-  - Date: 20251201
-    Applies_to: 
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: Creation of the research aid.
+editing_metadata:
+  - date: 20251201
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of the research aid.
 
       
 
 
     
+
