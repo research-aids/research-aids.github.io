@@ -22,18 +22,17 @@ from md_to_website import download_button, front_matter
 EXPORT_DIR = "EXPORTS"
 GITHUB_RAW_BASE_URL = "https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/"
 
-
-
-def parse_filename(orig_path, has_path=False):
-    path_part = r'.+\/' if has_path else ''
-    m = re.search(fr'{path_part}(.*)_[0-9]+\.yml', orig_path)
-    if m:
-        return m.group(1)
-    raise ValueError(f"{orig_path} couldn't be parsed!")
+# def parse_filename(orig_path, has_path=False):
+#     path_part = r'.+\/' if has_path else ''
+#     m = re.search(fr'{path_part}(.*)_[0-9]+\.yml', orig_path)
+#     if m:
+#         return m.group(1)
+#     raise ValueError(f"{orig_path} couldn't be parsed!")
 
 def parse_filepath(fp):
     *pref, published, level, lang, fname = fp.split(os.path.sep)
-    return published, level, lang, parse_filename(fname)
+    aid_name, extension = fname.split(".")
+    return published, level, lang, aid_name
 
 
 def get_export_path(orig_path, export_folder, extension=None, make_dirs=True):
