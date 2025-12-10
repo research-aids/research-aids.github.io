@@ -73,12 +73,8 @@ def export_pdf(f, md_content):
 
 def export_docx(f):
     from pdf2docx import Converter
-
     pdf_file, _ = get_export_path(f, "PDF")
     docx_file, _ = get_export_path(f, "DOCX")
-
-
-    print(os.listdir(os.path.dirname(pdf_file)))
     # convert pdf to docx
     cv = Converter(pdf_file)
     cv.convert(docx_file)      # all pages by default

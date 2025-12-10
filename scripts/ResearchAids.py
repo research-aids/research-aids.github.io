@@ -176,7 +176,7 @@ class Level0(ResearchAid):
     def parse_breakdown(self, yml):
         for title, ls in yml.items():
             md = f"""### {title}
-            """
+"""
             for d in ls:
                 md += self.parse_topic(d)
             yield md
