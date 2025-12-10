@@ -90,13 +90,13 @@ Sources:
       Description and remarks: "Website die de collecties van verschillende maritieme musea in Nederland samenbrengt. De collectie van het Marinemuseum in Den Helder en het Mariniersmuseum in Rotterdam is doorzoekbaar op Maritiem Digitaal."
 
 Editing_metadata:
-  - Date: 2025-09-15
-    Applies_to: #optional
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: Creation of the Research Aid
-  - Date: 2025-11-19 
-    Applies_to: #optional
-    Author: Maarten van der Bent; Klaas Stutje
-    Role: reviewer
-    Editing_notes: Maarten and Klaas 's comments were processed by Wiebe Reints.
+  - date: 2025-09-15
+    applies_to: #optional
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of the Research Aid
+  - date: 2025-11-19 
+    applies_to: #optional
+    author: Maarten van der Bent; Klaas Stutje
+    role: reviewer
+    editing_notes: Maarten and Klaas 's comments were processed by Wiebe Reints.
