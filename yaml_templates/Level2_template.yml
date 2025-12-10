@@ -44,8 +44,8 @@ Sources: #This section is meant to provide the user with some more sources regar
       Description and remarks: "" #Here you note a short description of what kind of information the source provides.
 
 editing_metadata:
-  - Date: #mandatory (yyyy-mm-dd)
-    Applies_to: #optional
-    Author: #mandatory
-    Role: #mandatory
-    Editing_notes: #optional
+  - date: #mandatory (yyyy-mm-dd)
+    applies_to: #optional
+    author: #mandatory
+    role: #mandatory
+    editing_notes: #optional
