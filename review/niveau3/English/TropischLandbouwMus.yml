@@ -104,14 +104,15 @@ Sources:
         - URL: "http://hdl.handle.net/1887.1/item:3761833"
       Description and remarks: "Catalogue of the agricultural exhibition held in 1912, which collection served as the basis for the later Museum for Tropical Agriculture."
 
-Editing_metadata:
-  - Date: 2025-11-19
-    Applies_to: #optional
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: Creation of the research aid.
+editing_metadata:
+  - date: 2025-11-19
+    applies_to: #optional
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of the research aid.
 
       
 
 
     
+
