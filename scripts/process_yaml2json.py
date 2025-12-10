@@ -44,9 +44,9 @@ yaml_files = dutch + eng
 
 
 def parse_filename(orig_path, has_path=False):
-
     path_part = '.+\/' if has_path else ''
     m = re.search(f'{path_part}(.*)_[0-9]+\.yml', orig_path)
+    m = re.search(f'{path_part}(.+)\.yml', orig_path)
     if m:
         return m.group(1)
     raise ValueError(f"{orig_path} couldn't be parsed!")

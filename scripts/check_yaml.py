@@ -24,7 +24,7 @@ for f in tqdm(yaml_files):
 print(f"SUCCESS: all {len(yaml_files)} parsed properly, i.e. are valid YAML")
 
 def remove_path(f):
-    return (f.rsplit(".")[-2]).rsplit("/")[-1]
+    return (f.rsplit(".")[0]).rsplit("/")[-1]
 
 
 links = {}
@@ -38,7 +38,7 @@ for f in tqdm(yaml_files):
 G = nx.from_dict_of_lists(links)
 
 if nx.is_connected(G):
-    print(f"SUCCESS: there are no orphaned guides, i.e. every guide is referred to be at least another one!")
+    print("SUCCESS: there are no orphaned aids, i.e. every aids is referred to by at least another one!")
 else:
     raise ValueError("There are orphans in the graph!")
 
