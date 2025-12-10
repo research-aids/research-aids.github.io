@@ -89,9 +89,9 @@ Sources:
         - URL: "https://www.maritiemdigitaal.nl/index.cfm?event=page.home"
       Description and remarks: "Website that brings together the collections of various maritime museums in the Netherlands. The collections of the Marinemuseum in Den Helder and the Mariniersmuseum in Rotterdam can be browsed on Maritiem Digitaal."
 
-Editing_metadata:
-  - Date: 2025-11-19
-    Applies_to: #optional
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: Creation of the Research Aid
+editing_metadata:
+  - date: 2025-11-19
+    applies_to: #optional
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Creation of the Research Aid
