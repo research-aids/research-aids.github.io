@@ -41,9 +41,12 @@ Ever since the ethnographic museum of the Royal Military Academy in Breda became
 
 ## Related Aids
 
- - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavyhttps://research-aids.github.io/published/niveau3/English/WMLeiden.htmleau3/Enghttps://research-aids.github.io/published/niveau3/English/WageningenUniverhttps://research-aids.github.io/published/niveau3/English/Bronbhttps://research-aids.github.io/published/niveau3/English/MNusantarhttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html3/English/Bronbeek_20241002.yml)  
- - [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)  
- - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/English/WageningenUniversity.html)  
+ - [Museum Bronbeek](https://research-aids.github.io/published/niveau3/English/Bronbeek.html)  
+ - [Museum Nusantara](https://research-aids.github.io/published/niveau3/English/MNusantara.html)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html)  
 
 ## Primary sources
 

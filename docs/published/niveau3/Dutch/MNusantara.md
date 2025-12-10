@@ -40,8 +40,12 @@ Het archief van Museum Nusantara is na de sluiting van het museum overgebracht n
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServantshttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmliveau3/Dhttps://research-aids.github.io/published/niveau3/Dutch/WageningenUniversithttps://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.htmleningenUniversihttps://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html](niveau3/Dutch/HoofdcursusKampenhttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
- - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.html)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html)  
 
 ## Primary sources
 

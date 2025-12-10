@@ -42,12 +42,15 @@ De collectie van Natuurhistorische en Volkenkundig Museum Oudenbosch is volledig
 ## Related Aids
 
  - [Zendelingen en missionarissen in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html)  
- - [Museahttps://research-aids.github.io/published/niveau2/Dutch/Museum.html(https://research-aids.github.io/published/niveau3/Dutch/EMArtis.html  
- -https://research-aids.github.io/published/niveau3/Dutch/Naturalis.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/Dutch/WMBergEnDalhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdahttps://research-aids.github.io/published/niveau3/Dutch/MissiemuseumSteyl.html [Wereldmuseum Berg https://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.html01.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
- - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)  
+ - [Musea en efgoedbeherende instellingen](https://research-aids.github.io/published/niveau2/Dutch/Museum.html)  
+ - [Etnografisch Museum Artis](https://research-aids.github.io/published/niveau3/Dutch/EMArtis.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
+ - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html)  
+ - [Missiemuseum Steyl](https://research-aids.github.io/published/niveau3/Dutch/MissiemuseumSteyl.html)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.html)  
 
 ## Primary sources
 

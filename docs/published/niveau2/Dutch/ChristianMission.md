@@ -44,12 +44,14 @@ Archieven van zending- en missieorganisaties zijn verspreid. Omvangrijke archief
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
- - [De handel in objecten uit een koloniale context](published/niveau2/Dutch/Trade_20240326.yml)  
+ - [Selecteren en afbakenen][DOESN'T EXIST]  
+ - [De handel in objecten uit een koloniale context][DOESN'T EXIST]  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
- - [Natuurhistorisch ehttps://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.htmlau3/Dutch/https://research-aids.github.io/published/niveau3/Dutch/NZhttps://research-aids.github.io/published/niveau3/Dutch/MissiemuseumSteyl.htmlniveau3/Dutch/NZG_20240314.yml)  
- - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml) https://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.htmln der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html)  
+ - [Nederlandsch Zendeling Genootschap](https://research-aids.github.io/published/niveau3/Dutch/NZG.html)  
+ - [Missiemuseum Steyl](https://research-aids.github.io/published/niveau3/Dutch/MissiemuseumSteyl.html)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'][DOESN'T EXIST]  
+ - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.html)  
 
 ## Primary sources
 

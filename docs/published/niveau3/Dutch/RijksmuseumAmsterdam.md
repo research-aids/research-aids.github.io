@@ -42,14 +42,16 @@ De [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/op
 ## Related Aids
 
  - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
- - [Ambtehttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2/Dutch/CivilServants_202403https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html gekoloniseerde gebieden](nivhttps://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html
- - [Wetenschappelijk ohttps://research-aids.github.io/published/niveau2/Dutch/Trade.htmlden](niveau2https://research-aids.github.io/published/niveau3/Dutch/KKZ.html6.yml)  
- - [De handel in obhttps://research-aids.github.io/published/niveau3/Dutch/KVVAK.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmlhttps://research-aids.github.io/published/niveau3/Dutch/RMO.htmlZ_20240313.yml)  
- - [Koninklijkehttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.htmltch/KVVAK_20240312.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  
- - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html)  
+ - [De handel in objecten uit een koloniale context](https://research-aids.github.io/published/niveau2/Dutch/Trade.html)  
+ - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/Dutch/KKZ.html)  
+ - [Koninklijke Vereniging Vrienden der Aziatische Kunst](https://research-aids.github.io/published/niveau3/Dutch/KVVAK.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/Dutch/RMO.html)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html)  
 
 ## Primary sources
 

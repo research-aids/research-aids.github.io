@@ -41,7 +41,9 @@ De volledige Koninklijke Verzamelingen zijn [online raadpleegbaar](https://www.k
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServantshttps://research-aids.github.io/published/niveau2/Dutch/Museum.html(niveau2/Duthttps://research-aids.github.io/published/niveau3/Dutch/KKZ.htmlKoninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ_20240313.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [Musea en collecties](https://research-aids.github.io/published/niveau2/Dutch/Museum.html)  
+ - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/Dutch/KKZ.html)  
 
 ## Primary sources
 

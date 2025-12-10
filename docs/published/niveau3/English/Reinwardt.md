@@ -40,10 +40,11 @@ Many archival materials and works published by Reinwardt are available online. R
 ## Related Aids
 
  - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
- - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2/English/Science_20240821.yml)  
- https://research-aids.github.io/published/niveau3/English/BGKW.htmlchap https://research-aids.github.io/published/niveau3/English/Naturalishttps://research-aids.github.io/published/niveau3/English/WMLeiden.htmlhttps://research-aids.github.io/published/niveau3/English/RMO.htmlniveau3/English/Naturalis_20270710.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/English/BGKW.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/English/RMO.html)  
 
 ## Primary sources
 

@@ -93,8 +93,9 @@ Een aantal van de Nederlandse bronnen voor herkomstonderzoek naar koloniale coll
 ## Related Aids
 
  - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
- - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)  
- - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_2https://research-aids.github.io/published/niveau1/Dutch/Reporting.htmlveau1/Dutch/Reporting_20240501.yml)  
+ - [Het Nederlandse restitutiebeleid][DOESN'T EXIST]  
+ - [Selecteren en afbakenen][DOESN'T EXIST]  
+ - [Verslagleggen](https://research-aids.github.io/published/niveau1/Dutch/Reporting.html)  
 
 
 

@@ -47,11 +47,14 @@ Voor specifieke informatie over objecten kan ook contact op worden genomen met h
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)  
- - [Nederlandsch Zendeling Genootschap](https://research-aids.github.io/published/niveau3/Dutch/NZGhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdahttps://research-aids.github.io/published/niveau3/Dutch/MissiemuseumSteyl.html [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html)  
- - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl_20241021.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
+ - [Bronnen][DOESN'T EXIST]  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden][DOESN'T EXIST]  
+ - [Nederlandsch Zendeling Genootschap](https://research-aids.github.io/published/niveau3/Dutch/NZG.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
+ - [Missiemuseum Steyl](https://research-aids.github.io/published/niveau3/Dutch/MissiemuseumSteyl.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html)  
 
 ## Primary sources
 

@@ -93,16 +93,20 @@ Some collectors and organisations were active in several European countries, whi
 ## Related Aids
 
  - [Doing research](https://research-aids.github.io/published/niveau1/English/DoingResearch.html)  
- - [The Dutch restitution policy](niveau1/English/RestitutionPolicy_20250123.yml)  
- - [Civil shttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlEnglish/CivilServanthttps://research-aids.github.io/published/niveau2/English/Trade.html objects from a colonialhttps://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
- - [Army and navy phttps://research-aids.github.io/published/niveau2/English/ChristianMission.htmlglish/MilitaryAndNavhttps://research-aids.github.io/published/niveau2/English/Sciencehttps://research-aids.github.io/published/niveau3/English/WMLeiden.htmls](niveau2/English/ChristianMission_20240417.yml)  
-https://research-aids.github.io/published/niveau3/English/KITLV.htmled tehttps://research-aids.github.io/published/niveau3/English/Naturalis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMRotthttps://research-aids.github.io/published/niveau3/English/Bronbeek.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/RMO.htmlLV_20240704.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
+ - [The Dutch restitution policy][DOESN'T EXIST]  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [Christian missionaries in colonised territories](https://research-aids.github.io/published/niveau2/English/ChristianMission.html)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](https://research-aids.github.io/published/niveau3/English/KITLV.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Museum Bronbeek](https://research-aids.github.io/published/niveau3/English/Bronbeek.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/English/RMO.html)  
 
 
 

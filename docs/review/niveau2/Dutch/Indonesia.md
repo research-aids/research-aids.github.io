@@ -61,15 +61,18 @@ Buiten de museumarchieven zijn er verschillende andere instellingen in Nederland
 
 ## Related Aids
 
- - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndhttps://research-aids.github.io/published/niveau2/Dutch/CivilServhttps://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.htmll)  
- - [Leger en marine](nivhttps://research-aids.github.io/published/niveau2/Dutch/Science.html6.yml)  
- - [Wetenschappelijk onhttps://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html/Dutch/Science_20240814.yml)  
- - [Zendhttps://research-aids.github.io/published/niveau3/Dutch/BGKW.htmlkoloniseerde gebieden](niveahttps://research-aids.github.io/published/niveau3/Dutch/Khttps://research-aids.github.io/published/niveau3/Dutch/Bronbeek.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.htmlniveau3/Dutch/KITLV_20240704.yml)  
- - [Museum Bronbeek](niveau3/Dutch/Bronbeek_20241002.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
+ - [Ambtenaren](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [Leger en marine](https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/Dutch/BGKW.html)  
+ - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](https://research-aids.github.io/published/niveau3/Dutch/KITLV.html)  
+ - [Museum Bronbeek](https://research-aids.github.io/published/niveau3/Dutch/Bronbeek.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html)  
 
 THIS RA HAS NO SOURCES
 

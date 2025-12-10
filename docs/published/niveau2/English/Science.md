@@ -38,17 +38,25 @@ Be aware that scientists may have been active at several institutions and so it 
 
 ## Related Aids
 
- - [Select and delineate](https://research-aids.github.io/published/niveau1/English/Selecthttps://research-aids.github.io/published/niveau1/English/Sources.htmlveau1/English/Shttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlin colonised territorieshttps://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
- - [Army and navy phttps://research-aids.github.io/published/niveau2/English/ChristianMission.htmlglish/MilitaryAndNavy_20240417.yml)  
- https://research-aids.github.io/published/niveau3/English/BGKW.htmlhttps://research-aids.github.io/published/niveau3/English/EMArtis.htmlhristianMission_20240417.yml)  
- - [Koninklijk Batavhttps://research-aids.github.io/published/niveau3/English/KITLV.htmlWetenhttps://research-aids.github.io/published/niveau3/English/Naturalis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdahttps://research-aids.github.io/published/niveau3/English/WMLeiden.htmltute of https://research-aids.github.io/published/niveau3/English/WageningenUniversity.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/https://research-aids.github.io/published/niveau3/English/Reinwarhttps://research-aids.github.io/published/niveau3/English/Museon.htmldam](niveau3/English/WMAmhttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlveau3/English/WMRotthttps://research-aids.github.io/published/niveau3/English/GerardusLeeuw.htmlen](niveau3/English/WMLeiden_20240508.yml)  
- - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
- - [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)  
- - [Museon-Omniversum](niveau3/English/Museon_20250513.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
- - [Volkenkundig museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)  
+ - [Select and delineate](https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.html)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [Christian missionaries in colonised territories](https://research-aids.github.io/published/niveau2/English/ChristianMission.html)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/English/BGKW.html)  
+ - [Artis Etnographic Museum](https://research-aids.github.io/published/niveau3/English/EMArtis.html)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](https://research-aids.github.io/published/niveau3/English/KITLV.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/English/WageningenUniversity.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/English/RMO.html)  
+ - [C.G.C. Reinwardt](https://research-aids.github.io/published/niveau3/English/Reinwardt.html)  
+ - [Museon-Omniversum](https://research-aids.github.io/published/niveau3/English/Museon.html)  
+ - [International Colonial and Export Exhibition 1883](https://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.html)  
+ - [Volkenkundig museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/English/GerardusLeeuw.html)  
 
 ## Secondary sources
 

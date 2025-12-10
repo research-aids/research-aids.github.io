@@ -42,10 +42,13 @@ Archives of missionary organisations are scattered. Substantial archival collect
 
 ## Related Aids
 
- - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.htmlsh/SelectAndDelineathttps://research-aids.github.io/published/niveau2/English/Science.htmlearch in chttps://research-aids.github.io/published/niveau3/English/NZG.htmlglish/Science_202408https://research-aids.github.io/published/niveau2/English/Scienchttps://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.html08.yml)  
- - [Scientific rhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.html2/English/Science_20240821.yml)  
- - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Select and delineate](https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.html)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Nederlandsch Zendeling Genootschap](https://research-aids.github.io/published/niveau3/English/NZG.html)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Missiemuseum Steyl](https://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/English/MOudenbosch.html)  
 
 ## Primary sources
 

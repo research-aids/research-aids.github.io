@@ -88,12 +88,13 @@ The archives of the Agricultural College up to 1959 are held at the Gelderland A
 
 ## Related Aids
 
- - [Doing research](https://research-aids.github.io/published/niveau1/English/Dhttps://research-aids.github.io/published/niveau1/English/Sources.htmhttps://research-aids.github.io/published/niveau2/English/Museum.html)  
- - [Museums and https://research-aids.github.io/published/niveau2/English/Science.html20250113.yml)  
- - [Scientific research in colonisedhttps://research-aids.github.io/published/niveau3/English/KITLV.htmlnce_20240821.yml)  
-https://research-aids.github.io/published/niveau3/English/GerardusLeeuw.htmlst Asianhttps://research-aids.github.io/published/niveau3/English/WageningenUniversity.htmlITLV_20240704.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)  
- - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
+ - [Doing research](https://research-aids.github.io/published/niveau1/English/DoingResearch.html)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Museums and collections](https://research-aids.github.io/published/niveau2/English/Museum.html)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](https://research-aids.github.io/published/niveau3/English/KITLV.html)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/English/GerardusLeeuw.html)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/English/WageningenUniversity.html)  
 
 THIS RA HAS NO SOURCES
 

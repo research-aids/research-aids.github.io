@@ -45,10 +45,12 @@ In addition to the archive and the collection website, the Zeeland Scientific So
 
 ## Related Aids
 
- - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/Ehttps://research-aids.github.io/published/niveau2/English/Ghana.htmlniveau2/English/Ghana_20250901.yml)  
- https://research-aids.github.io/published/niveau3/English/BGKW.htmlchap van Kunsten en Wetenschappen](niveau3/English/Bhttps://research-aids.github.io/published/niveau3/English/KITLV.htmlerlanhttps://research-aids.github.io/published/niveau3/English/Naturalishttps://research-aids.github.io/published/niveau3/English/WMLeiden.html/English/KITLV_20240704.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Ghana](https://research-aids.github.io/published/niveau2/English/Ghana.html)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/English/BGKW.html)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](https://research-aids.github.io/published/niveau3/English/KITLV.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
 
 ## Primary sources
 

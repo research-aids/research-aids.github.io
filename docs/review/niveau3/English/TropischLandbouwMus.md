@@ -44,8 +44,9 @@ Specific information about the objects from the former Museum for Tropical Agric
 ## Related Aids
 
  - [Museums and collections](https://research-aids.github.io/published/niveau2/English/Museum.html)  
- - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2/English/Scienchttps://research-aids.github.io/published/niveau3/English/GerardusLeeuw.html'Gerarduhttps://research-aids.github.io/published/niveau3/English/WageningenUniversity.html0250602.yml)  
- - [Wageningen University & Research](niveau3/English/WageningenUniversity_20240508.yml)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/English/GerardusLeeuw.html)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/English/WageningenUniversity.html)  
 
 ## Primary sources
 

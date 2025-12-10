@@ -76,11 +76,15 @@ Andere relevante links:
 ## Related Aids
 
  - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
- - [Ambtehttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2/Dutch/Civihttps://research-aids.github.io/published/niveau2/Dutch/SabaStEustatiusStMaarten.htmln Sint Maarten](niveau2/Dutchhttps://research-aids.github.io/published/niveau3/Dutch/KIThttps://research-aids.github.io/published/niveau3/Dutch/Museon.htmlInstihttps://research-aids.github.io/published/niveau3/Dutch/Naturalis.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html/Naturalis_20240710.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [Saba, Sint Eustatius en Sint Maarten](https://research-aids.github.io/published/niveau2/Dutch/SabaStEustatiusStMaarten.html)  
+ - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](https://research-aids.github.io/published/niveau3/Dutch/KITLV.html)  
+ - [Museon-Omniversum](https://research-aids.github.io/published/niveau3/Dutch/Museon.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html)  
 
 ## Primary sources
 

@@ -68,12 +68,16 @@ Als je als onderzoeker vragen hebt of de collectie wil bezoeken, kan je een verz
 ## Related Aids
 
  - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
- - [Ambtehttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2/Dutch/CivilServants_2024032https://research-aids.github.io/published/niveau2/Dutch/Science.htmlrzoek in gekhttps://research-aids.github.io/published/niveau3/Dutch/KKZhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html - [Konihttps://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.html/KKZ_20240313.yml)  
- - [Wereldmuseum Lhttps://research-aids.github.io/published/niveau3/Dutch/Bhttps://research-aids.github.io/published/niveau3/Dutch/Reinwarhttps://research-aids.github.io/published/niveau3/Dutch/Museon.htmliveau3/Dutch/WageningenUniversityhttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.htmlap van Wetenschappen en Kunhttps://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html  
- - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
- - [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)  
- - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/Dutch/KKZ.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.html)  
+ - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](https://research-aids.github.io/published/niveau3/Dutch/BGKW.html)  
+ - [C.G.C. Reinwardt](https://research-aids.github.io/published/niveau3/Dutch/Reinwardt.html)  
+ - [Museon-Omniversum](https://research-aids.github.io/published/niveau3/Dutch/Museon.html)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html)  
 
 ## Primary sources
 

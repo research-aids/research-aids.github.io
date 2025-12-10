@@ -53,8 +53,10 @@ Voor archiefmateriaal met betrekking tot de drie musea die onder de Stichting Ko
 ## Related Aids
 
  - [Musea en collecties](https://research-aids.github.io/published/niveau2/Dutch/Museum.html)  
- - [Leger- en marinepershttps://research-aids.github.io/published/niveau2/Dutch/MilitaryAndhttps://research-aids.github.io/published/niveau3/Dutch/Bronbeehttps://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.htmlu3/Dutch/Bronbehttps://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html)  
+ - [Museum Bronbeek](https://research-aids.github.io/published/niveau3/Dutch/Bronbeek.html)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html)  
 
 ## Primary sources
 

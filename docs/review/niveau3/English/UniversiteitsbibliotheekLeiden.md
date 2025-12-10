@@ -37,8 +37,8 @@ The UBL's [digital catalogue](https://www.bibliotheek.universiteitleiden.nl/) ca
 ## Related Aids
 
  - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2/English/Science_20240821.yml)  
- - [Royal Nethhttps://research-aids.github.io/published/niveau3/English/KITLV.htmlan and Caribbean Studies (KITLV)](niveau3/English/KITLV_20240704.yml)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](https://research-aids.github.io/published/niveau3/English/KITLV.html)  
 
 ## Primary sources
 

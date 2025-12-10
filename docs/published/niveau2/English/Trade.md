@@ -48,15 +48,21 @@ The French portal [AGORHA](https://agorha.inha.fr) also contains information on 
 
 ## Related Aids
 
- - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.htmlsh/SelectAndDelhttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlin colonised territorieshttps://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
- - [Army and navy personnel in colonised territories](niveau2/English/Mhttps://research-aids.github.io/published/niveau3/English/KunsthandelVanLier.htmlklijke Bazar](niveau3/English/KoninklijkeBazaar_2040503.yml)  
- - [Kunsthandel Vhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmllVanhttps://research-aids.github.io/published/niveau3/English/KKZ.htmlhttps://research-aids.github.io/published/niveau3/English/EMArtis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/RMO.htmlKKZ_20240417.yml)  
- - [Ahttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.html712.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Select and delineate](https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.html)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [Groote Koninklijke Bazar][DOESN'T EXIST]  
+ - [Kunsthandel Van Lier](https://research-aids.github.io/published/niveau3/English/KunsthandelVanLier.html)  
+ - [Royal Asian Art Society in the Netherlands][DOESN'T EXIST]  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Royal Cabinet of Curiosities](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
+ - [Artis Ethnograpic Museum](https://research-aids.github.io/published/niveau3/English/EMArtis.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/English/RMO.html)  
+ - [International Colonial and Export Exhibition 1883](https://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.html)  
 
 ## Primary sources
 

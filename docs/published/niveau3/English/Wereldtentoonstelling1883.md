@@ -44,11 +44,16 @@ The various museums that subsequently received objects have archive material abo
 ## Related Aids
 
  - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
- - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2/English/Scienchttps://research-aids.github.io/published/niveau2/English/Trade.html https://research-aids.github.io/published/niveau3/English/EMArtis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdamhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterhttps://research-aids.github.io/published/niveau3/English/MNusantara.htmlereldhttps://research-aids.github.io/published/niveau3/English/Naturhttps://research-aids.github.io/published/niveau3/English/Bronbeek.htmlmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
+ - [Artis Ethnographic Museum](https://research-aids.github.io/published/niveau3/English/EMArtis.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
+ - [Museum Nusantara](https://research-aids.github.io/published/niveau3/English/MNusantara.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
+ - [Museum Bronbeek](https://research-aids.github.io/published/niveau3/English/Bronbeek.html)  
 
 ## Primary sources
 

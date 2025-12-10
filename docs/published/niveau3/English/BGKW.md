@@ -44,13 +44,17 @@ As described, the minutes of the Bataviaasch Genootschap contain much informatio
 ## Related Aids
 
  - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
- - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2/English/Science_20240821.yml)  
- - [Royal Nethhttps://research-aids.github.io/published/niveau3/English/KITLV.htmlan anhttps://research-aids.github.io/published/niveau3/English/Naturalis.htmlhttps://research-aids.github.io/published/niveau3/English/EMArtis.htmluralhttps://research-aids.github.io/published/niveau3/English/KKZ.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdamhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/https://research-aids.github.io/published/niveau3/English/Reinwardt.htmlish/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
- - [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](https://research-aids.github.io/published/niveau3/English/KITLV.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
+ - [Artis Etnographic Museum](https://research-aids.github.io/published/niveau3/English/EMArtis.html)  
+ - [Royal Cabinet of Curiosities](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/English/RMO.html)  
+ - [C.G.C. Reinwardt](https://research-aids.github.io/published/niveau3/English/Reinwardt.html)  
 
 ## Primary sources
 

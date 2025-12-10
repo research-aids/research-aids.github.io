@@ -35,11 +35,12 @@ The archives of the Agricultural College until 1959 are held in the [Gelders Arc
 ## Related Aids
 
  - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
- - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2https://research-aids.github.io/published/niveau3/English/Naturahttps://research-aids.github.io/published/niveau3/English/MNusantarhttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html
- - [Museum Nushttps://research-aids.github.io/published/niveau3/English/JustinusNassau.html.yml)  
- - [Hoofdcurhttps://research-aids.github.io/published/niveau3/English/GerardusLeeuw.htmlpen_20250513.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
- - [Volkenkundig museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw_20250602.yml)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
+ - [Museum Nusantara](https://research-aids.github.io/published/niveau3/English/MNusantara.html)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/English/JustinusNassau.html)  
+ - [Volkenkundig museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/English/GerardusLeeuw.html)  
 
 ## Primary sources
 

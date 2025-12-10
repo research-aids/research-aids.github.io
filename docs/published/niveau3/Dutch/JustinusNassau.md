@@ -43,9 +43,12 @@ Sinds het volkenkundig museum van de Koninklijke Militaire Academie in Breda van
 
 ## Related Aids
 
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavyhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmliveau3/Dhttps://research-aids.github.io/published/niveau3/Dutch/WageningenUniverhttps://research-aids.github.io/published/niveau3/Dutch/Bronbhttps://research-aids.github.io/published/niveau3/Dutch/MNusantarhttps://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.htmlniveau3/Dutch/Bronbeek_20241002.yml)  
- - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
- - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen_20250428.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.html)  
+ - [Museum Bronbeek](https://research-aids.github.io/published/niveau3/Dutch/Bronbeek.html)  
+ - [Museum Nusantara](https://research-aids.github.io/published/niveau3/Dutch/MNusantara.html)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.html)  
 
 ## Primary sources
 

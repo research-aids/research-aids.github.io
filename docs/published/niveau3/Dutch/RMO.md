@@ -48,13 +48,14 @@ Ook correspondentiearchieven tussen de verschillende instellingen of schenkers z
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
+ - [Bronnen][DOESN'T EXIST]  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
- - [De handel in obhttps://research-aids.github.io/published/niveau2/Dutch/Trade.html](niveau2/Dutch/Trade_20240326.yml)  
- https://research-aids.github.io/published/niveau3/Dutch/BGKW.htmltschap van Khttps://research-aids.github.io/published/niveau3/Dutch/KKZhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterhttps://research-aids.github.io/published/niveau3/Dutch/Reinwardt.html)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
+ - [De handel in objecten uit een koloniale context](https://research-aids.github.io/published/niveau2/Dutch/Trade.html)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/Dutch/BGKW.html)  
+ - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/Dutch/KKZ.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html)  
+ - [C.G.C. Reinwardt](https://research-aids.github.io/published/niveau3/Dutch/Reinwardt.html)  
 
 ## Primary sources
 

@@ -94,9 +94,10 @@ Verzamelaars en organisaties kunnen in meerdere Europese landen actief geweest z
 
 ## Related Aids
 
- - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicy_20250123.yml)  
- - [Onderzoeken](https://research-aids.github.io/published/niveau1/Dutch/DoingResearch.htmhttps://research-aids.github.io/published/niveau1/Dutch/SelectAndDelhttps://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
- - [Verslagleggen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
+ - [Het Nederlandse restitutiebeleid][DOESN'T EXIST]  
+ - [Onderzoeken](https://research-aids.github.io/published/niveau1/Dutch/DoingResearch.html)  
+ - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
+ - [Verslagleggen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
 
 
 

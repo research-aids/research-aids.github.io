@@ -66,7 +66,9 @@ De publicatie [Woorden doen ertoe](https://www.tropenmuseum.nl/sites/default/fil
 ## Related Aids
 
  - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
- - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicyhttps://research-aids.github.io/published/niveau1/Dutch/DoingResearch.htmhttps://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.htmllecteren en afbakenen](niveau1/Dutch/SelectAndDelineate_20240425.yml)  
+ - [Het Nederlandse restitutiebeleid][DOESN'T EXIST]  
+ - [Onderzoeken](https://research-aids.github.io/published/niveau1/Dutch/DoingResearch.html)  
+ - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
 
 
 

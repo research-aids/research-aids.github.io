@@ -35,8 +35,10 @@ The archive of the ethnographic collection of the Main Course was merged with th
 ## Related Aids
 
  - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
- - [https://research-aids.github.io/published/niveau3/English/WageningenUniverhttps://research-aids.github.io/published/niveau3/English/Bronbhttps://research-aids.github.io/published/niveau3/English/MNusantara.htmlniveau3/Englishhttps://research-aids.github.io/published/niveau3/English/JustinusNassau.htmlara](niveau3/English/MNusantara_20250225.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/English/WageningenUniversity.html)  
+ - [Museum Bronbeek](https://research-aids.github.io/published/niveau3/English/Bronbeek.html)  
+ - [Museum Nusantara](https://research-aids.github.io/published/niveau3/English/MNusantara.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/English/JustinusNassau.html)  
 
 ## Primary sources
 

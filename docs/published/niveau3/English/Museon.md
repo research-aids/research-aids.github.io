@@ -40,8 +40,9 @@ The Museon-Omniversium archive is managed by the [Municipal Archives of The Hagu
 ## Related Aids
 
  - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
- - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlvhttps://research-aids.github.io/published/niveau3/Englihttps://research-aids.github.io/published/niveau3/English/Naturalis.html Museum](niveau3/English/EMArtis_20240712.yml)  
- - [Naturalis](niveau3/English/Naturalis_20270710.yml)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Artis Ethnographic Museum](https://research-aids.github.io/published/niveau3/English/EMArtis.html)  
+ - [Naturalis](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
 
 ## Primary sources
 

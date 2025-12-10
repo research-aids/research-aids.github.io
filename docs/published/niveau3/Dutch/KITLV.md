@@ -47,9 +47,12 @@ De tekstcollecties van het KITLV kunnen worden aangevraagd via de [online catalo
 ## Related Aids
 
  - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
- - [Ambtehttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2/Dutch/CivilServants_2024032https://research-aids.github.io/published/niveau2/Dutch/Science.htmlrzoek in gekoloniseerde gebieden](niveahttps://research-aids.github.io/published/niveau3/Dutch/BGKWhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmlehttps://research-aids.github.io/published/niveau2/Dutch/ArubaBonaireCuracao.html3/Dutch/BGKWhttps://research-aids.github.io/published/niveau2/Dutch/SabaStEustatiusStMaarten.htmltch/WMLeiden_20240327.yml)  
- - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao_20250619.yml)  
- - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](https://research-aids.github.io/published/niveau3/Dutch/BGKW.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Aruba, Bonaire en Curaçao](https://research-aids.github.io/published/niveau2/Dutch/ArubaBonaireCuracao.html)  
+ - [Saba, Sint Eustatius en Sint Maarten](https://research-aids.github.io/published/niveau2/Dutch/SabaStEustatiusStMaarten.html)  
 
 ## Primary sources
 

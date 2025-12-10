@@ -54,17 +54,24 @@ Hoewel deze thematische onderverdeling een goed overzicht geeft over de manieren
 
 ## Related Aids
 
- - [Etnografisch Museum Artis](https://research-aids.github.io/published/niveau3/Dutch/EMArtihttps://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.htmltch/HoofdcursusKampen_20250428.yml)  
- https://research-aids.github.io/published/niveau3/Dutch/BGKW.htmltschap van Khttps://research-aids.github.io/published/niveau3/Dutch/KKhttps://research-aids.github.io/published/niveau3/Dutch/MissiemuseumStehttps://research-aids.github.io/published/niveau3/Dutch/Muhttps://research-aids.github.io/published/niveau3/Dutch/Bronbhttps://research-aids.github.io/published/niveau3/Dutch/MNusantara.htmleum Shttps://research-aids.github.io/published/niveau3/Dutch/Naturalis.htmll_20241021.yml)  
- - [Musehttps://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.htmlhttps://research-aids.github.io/published/niveau3/Dutch/RMO.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html - [Museum Nusantarahttps://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.html  
- - [Naturalihttps://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/Dutch/WMBergEnDalhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.htmlOudheden](niveau3/Dutch/RMO_20241106.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Etnografisch Museum Artis](https://research-aids.github.io/published/niveau3/Dutch/EMArtis.html)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.html)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/Dutch/BGKW.html)  
+ - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/Dutch/KKZ.html)  
+ - [Missiemuseum Steyl](https://research-aids.github.io/published/niveau3/Dutch/MissiemuseumSteyl.html)  
+ - [Museon-Omniversum](https://research-aids.github.io/published/niveau3/Dutch/Museon.html)  
+ - [Museum Bronbeek](https://research-aids.github.io/published/niveau3/Dutch/Bronbeek.html)  
+ - [Museum Nusantara](https://research-aids.github.io/published/niveau3/Dutch/MNusantara.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/Dutch/RMO.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
+ - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html)  
 
 ## Primary Sources
 

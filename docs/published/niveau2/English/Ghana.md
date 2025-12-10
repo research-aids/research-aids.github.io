@@ -56,9 +56,11 @@ For research into the shipments to the Royal Cabinet of Curiosities please follo
 ## Related Aids
 
  - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
- - [Konihttps://research-aids.github.io/published/niveau3/English/KKZ.html]https://research-aids.github.io/published/niveau3/English/EMArtis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.htmlWerelhttps://research-aids.github.io/published/niveau3/English/Naturalis.htmlmsterdam_20240711.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_20240822.yml)  
- - [Naturalis Biodiversity Center](niveau3/English/Naturalis_20240710.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
+ - [Etnografisch Museum Artis](https://research-aids.github.io/published/niveau3/English/EMArtis.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
 
 ## Primary sources
 

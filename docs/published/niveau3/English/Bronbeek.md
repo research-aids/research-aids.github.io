@@ -48,8 +48,9 @@ The museum manages various datasets on KNIL muster rolls, military personnel dep
 ## Related Aids
 
  - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [Army and navy pehttps://research-aids.github.io/published/niveau2/English/MilitaryAndNavhttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html [Hoofdcursus Khttps://research-aids.github.io/published/niveau3/English/JustinusNassau.html250513.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/English/JustinusNassau.html)  
 
 ## Primary sources
 

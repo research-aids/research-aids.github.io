@@ -43,14 +43,19 @@ De collectie van het Wereldmuseum Amsterdam is binnen de collectie van Wereldmus
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
+ - [Bronnen][DOESN'T EXIST]  
+ - [De handel in objecten uit een koloniale context][DOESN'T EXIST]  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden][DOESN'T EXIST]  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
- - [Konihttps://research-aids.github.io/published/niveau3/Dutch/KKZ.htmlehttps://research-aids.github.io/published/niveau3/Dutch/EMArtis.htmlhttps://research-aids.github.io/published/niveau3/Dutch/WMBergEnDalhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.htmlveau3/Dutch/WMBergEnDal_20241001.yml)  https://research-aids.github.io/published/niveau3/Dutch/BGKW.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.htmlmuseum Rotterdam](niveau3/Dutch/Whttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html Genootschap van Wetenschaphttps://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html40827.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/Dutch/KKZ.html)  
+ - [Etnografisch Museum Artis](https://research-aids.github.io/published/niveau3/Dutch/EMArtis.html)  
+ - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html)  
+ - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](https://research-aids.github.io/published/niveau3/Dutch/BGKW.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html)  
 
 ## Primary sources
 

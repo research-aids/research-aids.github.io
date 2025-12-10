@@ -45,9 +45,11 @@ Ook bij de Radboud Universiteit wordt een geringe hoeveelheid relevant archiefma
 ## Related Aids
 
  - [Musea en collecties](https://research-aids.github.io/published/niveau2/Dutch/Museum.html)  
- - [Zendelingen en missionarhttps://research-aids.github.io/published/niveau2/Dutch/ChristianMission.htmlutch/ChristianMission_20240326.yml)  
- - [Missiemuseum Steyl](published/niveau3/Dutch/MissiemuseumSteyl_2024https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.htmllkenkundighttps://research-aids.github.io/published/niveau3/Dutch/NZG.htmlhttps://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.htmlderlandsch Zendeling Genootschap](niveau3/Dutch/NZG_20240314.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal_20241001.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html)  
+ - [Missiemuseum Steyl][DOESN'T EXIST]  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html)  
+ - [Nederlandsch Zendeling Genootschap](https://research-aids.github.io/published/niveau3/Dutch/NZG.html)  
+ - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.html)  
 
 ## Primary sources
 

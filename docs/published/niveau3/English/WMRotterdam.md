@@ -44,9 +44,14 @@ The photograph collection of the Wereldmuseum Rotterdam has been transferred to 
 ## Related Aids
 
  - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [The trade inhttps://research-aids.github.io/published/niveau2/English/Trade.htmlniveau2/English/Trade_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised territorihttps://research-aids.github.io/published/niveau2/English/Sciencehttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDal.htmlWereldmuseum Leiden](nivehttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlAmsterdam](niveau3/Englishhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.htmluseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/English/WMBergEnDal.html)  
+ - [International Colonial and Export Exhibition 1883](https://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/English/MOudenbosch.html)  
 
 ## Primary sources
 

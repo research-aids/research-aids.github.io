@@ -58,11 +58,15 @@ Voor onderzoek naar de zendingen aan het Koninklijk Kabinet van Zeldzaamheden ku
 ## Related Aids
 
  - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
- - [Ambtehttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2/Dutch/CivilServants_20240320.yml)  
- - [De handel in objecten uit een koloniale context](published/niveau2/Dutch/Trade_2024032https://research-aids.github.io/published/niveau2/Dutch/Science.htmlrhttps://research-aids.github.io/published/niveau3/Dutch/EMArtis.htmliveau2/Dutchhttps://research-aids.github.io/published/niveau3/Dutch/KKZ.htmltnogrhttps://research-aids.github.io/published/niveau3/Dutch/Naturalishttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html[Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [De handel in objecten uit een koloniale context][DOESN'T EXIST]  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [Etnografisch Museum Artis](https://research-aids.github.io/published/niveau3/Dutch/EMArtis.html)  
+ - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/Dutch/KKZ.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html)  
 
 ## Primary sources
 

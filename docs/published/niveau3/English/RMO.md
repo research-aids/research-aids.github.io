@@ -51,10 +51,13 @@ Archives of correspondence between various institutions or donors such as C.G.C.
 ## Related Aids
 
  - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [Scientific rhttps://research-aids.github.io/published/niveau2/English/Science.htmlveau2/English/Scienchttps://research-aids.github.io/published/niveau2/English/Trade.html objects from a colonial context](niveahttps://research-aids.github.io/published/niveau3/English/BGKW.html - [https://research-aids.github.io/published/niveau3/English/KKZhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterhttps://research-aids.github.io/published/niveau3/English/Reinwardt.htmlau3/English/KKZ_20240417.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/English/BGKW.html)  
+ - [Royal Cabinet of Curiosities](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
+ - [C.G.C. Reinwardt](https://research-aids.github.io/published/niveau3/English/Reinwardt.html)  
 
 ## Primary sources
 

@@ -40,14 +40,16 @@ The [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/o
 ## Related Aids
 
  - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [Civil shttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlEnglish/CivilServants_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised territorihttps://research-aids.github.io/published/niveau2/English/Science.html20240417.yml)  
- - [https://research-aids.github.io/published/niveau2/English/Trade.htmlerrihttps://research-aids.github.io/published/niveau3/English/KKZ.html20240821.yml)  
- -https://research-aids.github.io/published/niveau3/English/KVVAK.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.https://research-aids.github.io/published/niveau3/English/WMLeiden.htmlhttps://research-aids.github.io/published/niveau3/English/RMO.htmlZ_20240417.yml)  
- - [Royhttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlsh/KVVAK_20240508.yml)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
+ - [Royal Cabinet of Curiosities](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
+ - [Royal Asian Art Society in the Netherlands](https://research-aids.github.io/published/niveau3/English/KVVAK.html)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml")  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/English/RMO.html)  
+ - [International Colonial and Export Exhibition 1883](https://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.html)  
 
 ## Primary sources
 

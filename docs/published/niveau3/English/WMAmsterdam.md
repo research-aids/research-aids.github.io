@@ -42,11 +42,19 @@ The collection of the Wereldmuseum Amsterdam can be found within the Wereldmuseu
 ## Related Aids
 
  - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [The trade inhttps://research-aids.github.io/published/niveau2/English/Trade.htmlniveau2/English/Trade_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised territorihttps://research-aids.github.io/published/niveau2/English/Science.html2024https://research-aids.github.io/published/niveau3/English/KKZ.htmlrhttps://research-aids.github.io/published/niveau3/English/EMArtis.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDalhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.htmltis Ethnographic Museum](niveau3/Englihttps://research-aids.github.io/published/niveau3/English/KITLV.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdhttps://research-aids.github.io/published/niveau3/English/Museon.htmleldmuseum Leiden](niveau3https://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlterdam](niveau3/English/WMhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.htmlBataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/KITLV_20240704.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Museon-Omniversum](niveau3/English/Museon_20250513.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Royal Cabinet of Curiosities](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
+ - [Artis Ethnographic Museum](https://research-aids.github.io/published/niveau3/English/EMArtis.html)  
+ - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/English/WMBergEnDal.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](https://research-aids.github.io/published/niveau3/English/KITLV.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
+ - [Museon-Omniversum](https://research-aids.github.io/published/niveau3/English/Museon.html)  
+ - [International Colonial and Export Exhibition 1883](https://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/English/MOudenbosch.html)  
 
 ## Primary sources
 

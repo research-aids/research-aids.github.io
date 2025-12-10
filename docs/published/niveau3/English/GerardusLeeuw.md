@@ -39,7 +39,8 @@ Theo van Baaren's personal archive also contains (limited) information about his
 ## Related Aids
 
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/English/Science.html)  
- - [https://research-aids.github.io/published/niveau3/English/WageningenUniversity.html/WageningenUniversity_2024https://research-aids.github.io/published/niveau3/English/MOudenbosch.htmlenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/English/WageningenUniversity.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/English/MOudenbosch.html)  
 
 ## Primary sources
 

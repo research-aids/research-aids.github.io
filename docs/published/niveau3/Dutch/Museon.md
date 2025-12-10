@@ -41,8 +41,9 @@ Het archief van Museon-Omniversum wordt beheerd door het [Haags Gemeentearchief]
 ## Related Aids
 
  - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
- - [Wetenschappelijk ondehttps://research-aids.github.io/published/niveau2/Dutch/Science.htmlnhttps://research-aids.github.io/published/niveau3/Duthttps://research-aids.github.io/published/niveau3/Dutch/Naturalis.htmluseum Artis](niveau3/Dutch/EMArtis_20240711.yml)  
- - [Naturalis](niveau3/Dutch/Naturalis_20240710.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [Etnografisch Museum Artis](https://research-aids.github.io/published/niveau3/Dutch/EMArtis.html)  
+ - [Naturalis](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
 
 ## Primary sources
 

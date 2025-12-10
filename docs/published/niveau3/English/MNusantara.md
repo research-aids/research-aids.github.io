@@ -38,8 +38,12 @@ After the closure of Museum Nusantara its archive was transferred to the [Delft 
 
 ## Related Aids
 
- - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServantshttps://research-aids.github.io/published/niveau3/English/WMLeiden.htmleau3/Enghttps://research-aids.github.io/published/niveau3/English/WageningenUniversithttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.htmlingenUniversityhttps://research-aids.github.io/published/niveau3/English/JustinusNassau.htmlveau3/English/Hoofdcursushttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmls van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/English/WageningenUniversity.html)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/English/JustinusNassau.html)  
+ - [International Colonial and Export Exhibition 1883](https://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.html)  
 
 ## Primary sources
 

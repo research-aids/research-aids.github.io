@@ -91,9 +91,10 @@ A number of the Dutch-language sources for provenance research into colonial col
 
 ## Related Aids
 
- - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.https://research-aids.github.io/published/niveau1/English/SelectAnhttps://research-aids.github.io/published/niveau1/English/Reporting.html0240425.yml)  
- - [Reporting](niveau1/English/Reporting_20240501.yml)  
- - [The Dutch restitution policy](niveau1/English/RestitutionPolicy_20250123.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Select and delineate](https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.html)  
+ - [Reporting](https://research-aids.github.io/published/niveau1/English/Reporting.html)  
+ - [The Dutch restitution policy][DOESN'T EXIST]  
 
 
 

@@ -42,10 +42,11 @@ Veel archiefmateriaal en door Reinwardt gepubliceerde werken zijn online beschik
 ## Related Aids
 
  - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
- - [Wetenschappelijk ondehttps://research-aids.github.io/published/niveau2/Dutch/Science.htmlniveau2/Dutch/Science_20240814.yml)  
- https://research-aids.github.io/published/niveau3/Dutch/BGKW.htmltschahttps://research-aids.github.io/published/niveau3/Dutch/Naturalishttps://research-aids.github.io/published/niveauhttps://research-aids.github.io/published/niveau3/Dutch/RMO.htmlralis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [RMO](niveau3/Dutch/RMO_20241106.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/Dutch/BGKW.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [RMO](https://research-aids.github.io/published/niveau3/Dutch/RMO.html)  
 
 ## Primary sources
 

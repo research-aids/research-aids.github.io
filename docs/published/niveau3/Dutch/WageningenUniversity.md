@@ -36,10 +36,13 @@ Het archief van de Landbouwhogeschool tot 1959 bevindt zich bij het [Gelders Arc
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden][DOESN'T EXIST]  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
- https://research-aids.github.io/published/niveau3/Dutch/Naturahttps://research-aids.github.io/published/niveau3/Dutch/MNusantarhttps://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.html/Dutch/MNusantahttps://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html](niveau3/Dutch/Hoofhttps://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.htmlkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
+ - [Museum Nusantara](https://research-aids.github.io/published/niveau3/Dutch/MNusantara.html)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/Dutch/HoofdcursusKampen.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.html)  
 
 ## Primary sources
 

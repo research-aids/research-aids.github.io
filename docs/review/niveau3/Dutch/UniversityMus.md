@@ -90,9 +90,13 @@ Het archief van de Landbouwhogeschool tot 1959 bevindt zich bij het [Gelders Arc
 
 ## Related Aids
 
- - [Onderzoeken](https://research-aids.github.io/published/niveau1/Dutch/Dhttps://research-aids.github.io/published/niveau1/Dutch/Sourceshttps://research-aids.github.io/published/niveau2/Duthttps://research-aids.github.io/published/niveau2/Dutch/Science.htmlen collecties](niveau2/Dutch/https://research-aids.github.io/published/niveau3/Dutch/KITLV.htmlschap](nhttps://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.htmllijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV_20240704.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)  
+ - [Onderzoeken](https://research-aids.github.io/published/niveau1/Dutch/DoingResearch.html)  
+ - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
+ - [Musea en collecties](https://research-aids.github.io/published/niveau2/Dutch/Museum.html)  
+ - [Wetenschap](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](https://research-aids.github.io/published/niveau3/Dutch/KITLV.html)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.html)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'][DOESN'T EXIST]  
 
 THIS RA HAS NO SOURCES
 

@@ -41,14 +41,19 @@ The personnel files of soldiers deployed to Indonesia in 1945-1949 will be at th
 
 ## Related Aids
 
- - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.htmlsh/SelectAndDelhttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlin colonised territohttps://research-aids.github.io/published/niveau2/English/Science.html20240316.yml)  
- - [https://research-aids.github.io/published/niveau2/English/Trade.htmlerritories](niveau2/English/Science_20240821.yml)  
- - [The trade inhttps://research-aids.github.io/published/niveau3/English/WMAmsterdamhttps://research-aids.github.io/published/niveau3/English/WMLeidenhttps://research-aids.github.io/published/niveau3/English/WMRotthttps://research-aids.github.io/published/niveau3/English/Bronbeek.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdahttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.htmlereldmuseum Leihttps://research-aids.github.io/published/niveau3/English/JustinusNassau.html  
- - [Wereldmuseum Leiden](niveau3/English/WMRotterdam_2040822.yml)  
- - [Museum Bronbeek](niveau3/English/Bronbeek_20241002.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen_20250513.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Select and delineate](https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.html)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
+ - [Royal Cabinet of Curiosities][DOESN'T EXIST]  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Museum Bronbeek](https://research-aids.github.io/published/niveau3/English/Bronbeek.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/English/JustinusNassau.html)  
 
 ## Primary sources
 

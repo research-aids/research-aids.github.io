@@ -42,12 +42,15 @@ Daarnaast zijn er archiefstukken bij het [Nationaal Archief](https://www.nationa
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
- - [Groote Koninklijke Bazar](https://research-aids.github.io/published/niveau3/Dutch/KoninklijkeBazarhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmlivhttps://research-aids.github.io/published/niveau3/Dutch/EMArtis.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/Dutch/RMO.htmltch/WMAmsterdam_20240711.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden][DOESN'T EXIST]  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden][DOESN'T EXIST]  
+ - [De handel in objecten uit een koloniale context][DOESN'T EXIST]  
+ - [Groote Koninklijke Bazar](https://research-aids.github.io/published/niveau3/Dutch/KoninklijkeBazar.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Ethnografisch Museum Artis](https://research-aids.github.io/published/niveau3/Dutch/EMArtis.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/Dutch/RMO.html)  
 
 ## Primary sources
 

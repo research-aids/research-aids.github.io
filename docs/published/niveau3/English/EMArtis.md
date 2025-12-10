@@ -40,13 +40,17 @@ Archives relating to the Artis Ethnographic Museum are spread across several ins
 ## Related Aids
 
  - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [Civil shttps://research-aids.github.io/published/niveau2/English/CivilServants.htmlEnglish/CivilServants_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised territorihttps://research-aids.github.io/published/niveau2/Dutch/Trade.htmlavy_20240417.yml)  
-https://research-aids.github.io/published/niveau2/English/Science.htmlnialhttps://research-aids.github.io/published/niveau3/English/KKZhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.html2/English/Science_20240821.yml)  
- - [Rhttps://research-aids.github.io/published/niveau3/English/BGhttps://research-aids.github.io/published/niveau3/English/Museon.html)  
- - [Wereldmuseum Leidhttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmldmuseum Amsterdam](niveau3https://research-aids.github.io/published/niveau3/English/MOudenbosch.html[Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW_20240905.yml)  
- - [Museon-Omniversum](niveau3/English/Museon_20250513.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/Dutch/Trade.html)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Royal Cabinet of Curiosities](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](https://research-aids.github.io/published/niveau3/English/BGKW.html)  
+ - [Museon-Omniversum](https://research-aids.github.io/published/niveau3/English/Museon.html)  
+ - [International Colonial and Export Exhibition 1883](https://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/English/MOudenbosch.html)  
 
 ## Primary sources
 

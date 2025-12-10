@@ -39,9 +39,12 @@ The Beijens Collection, which was transferred to Museum Bronbeek in Arnhem in 20
 ## Related Aids
 
  - [Museums and collections](https://research-aids.github.io/published/niveau2/English/Museum.html)  
- - [Christian missihttps://research-aids.github.io/published/niveau2/English/ChristianMission.htmllish/ChristianMissiohttps://research-aids.github.io/published/niveau2/English/Scienchttps://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.htmlEnglish/Science_20240821.yhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.htmlglish/Misshttps://research-aids.github.io/published/niveau3/English/WMBergEnDal.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDal.htmlosch](niveau3/English/MOudenbosch_20250603.yml)  
- - [Nederlandsch Zendeling Genootschap](niveau3/English/WMBergEnDal_20241001.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
+ - [Christian missionaries in colonised territories](https://research-aids.github.io/published/niveau2/English/ChristianMission.html)  
+ - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Missiemuseum Steyl](https://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/English/MOudenbosch.html)  
+ - [Nederlandsch Zendeling Genootschap](https://research-aids.github.io/published/niveau3/English/WMBergEnDal.html)  
+ - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/English/WMBergEnDal.html)  
 
 THIS RA HAS NO SOURCES
 

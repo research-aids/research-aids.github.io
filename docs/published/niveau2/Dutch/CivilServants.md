@@ -50,15 +50,18 @@ Van sommige Nederlanders in overheidsdienst zijn persoonlijke archieven bewaard 
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
+ - [Selecteren en afbakenen][DOESN'T EXIST]  
  - [De handel in objecten uit een koloniale context](https://research-aids.github.io/published/niveau2/Dutch/Trade.html)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)https://research-aids.github.io/published/niveau2/Dutch/Arubahttps://research-aids.github.io/published/niveau2/Dutch/Ghana.htmleCuracao_202https://research-aids.github.io/published/niveau2/Dutch/SabaStEustatiusStMaarten.html.yml)  
- - [Saba, Sint Eustatihttps://research-aids.github.io/published/niveau2/Dutch/Sciehttps://research-aids.github.io/published/niveau3/Dutch/Reinwardt.html501619.yml)  
- - [Wetenschappelijhttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html/Science_20240814.yml)  
- - [C.G.C. Reinhttps://research-aids.github.io/published/niveau3/Dutch/Bhttps://research-aids.github.io/published/niveau3/Dutch/MNusantahttps://research-aids.github.io/published/niveau3/Dutch/Museon.htmlhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW_20240827.yml)  
- - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
- - [Museon-Omniversum](niveau3/Dutch/Museon_20250429.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden][DOESN'T EXIST]  
+ - [Aruba, Bonaire en Curaçao](https://research-aids.github.io/published/niveau2/Dutch/ArubaBonaireCuracao.html)  
+ - [Ghana](https://research-aids.github.io/published/niveau2/Dutch/Ghana.html)  
+ - [Saba, Sint Eustatius en Sint Maarten](https://research-aids.github.io/published/niveau2/Dutch/SabaStEustatiusStMaarten.html)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [C.G.C. Reinwardt](https://research-aids.github.io/published/niveau3/Dutch/Reinwardt.html)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/Dutch/BGKW.html)  
+ - [Museum Nusantara](https://research-aids.github.io/published/niveau3/Dutch/MNusantara.html)  
+ - [Museon-Omniversum](https://research-aids.github.io/published/niveau3/Dutch/Museon.html)  
 
 ## Primary sources
 

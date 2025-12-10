@@ -47,20 +47,27 @@ Bij het Nationaal Archief zijn ook documenten te vinden met betrekking tot het W
 
 ## Related Aids
 
- - [Bronnen](niveau1/Dutch/Bronnen_20240425.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel_20240326.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
- - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/Dutch/KKZ.htmlhttps://research-aids.github.io/published/niveau3/Dutch/KoninklijkeBazar.https://research-aids.github.io/published/niveau3/Dutch/KunsthandelVanLier.html[https://research-aids.github.io/published/niveau3/Dutch/EMArtis.htmlh/KunsthandelVanLier_20240313.yml)  
- -https://research-aids.github.io/published/niveau3/Dutch/BGKW.htmlveau3https://research-aids.github.io/published/niveau3/Dutch/Naturalis.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.htmlhttps://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.htmlis Biodiversity Center](niveahttps://research-aids.github.io/published/niveau3/Dutch/KITLV.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/Dutch/https://research-aids.github.io/published/niveau3/Dutch/Reinwahttps://research-aids.github.io/published/niveau3/Dutch/MNusantara.html0822.yml)  
- - https://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.htmlWMBergEnDal_20241001.yml)  
- - [Khttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html(niveau3/Dutch/KITLV_202407https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.htmliveau3/Dutch/RijksmuseumAmsterdam_20241006.yml)  
- - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  
- - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt_20241217.yml)  
- - [Museum Nusantara](niveau3/Dutch/MNusantara_20250130.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau_20250225.yml)  
- - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch_20250603.yml)  
+ - [Bronnen][DOESN'T EXIST]  
+ - [De handel in objecten uit een koloniale context][DOESN'T EXIST]  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden][DOESN'T EXIST]  
+ - [Ambtenaren in gekoloniseerde gebieden][DOESN'T EXIST]  
+ - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/Dutch/KKZ.html)  
+ - [Groote Koninklijke Bazar](https://research-aids.github.io/published/niveau3/Dutch/KoninklijkeBazar.html)  
+ - [Kunsthandel Van Lier](https://research-aids.github.io/published/niveau3/Dutch/KunsthandelVanLier.html)  
+ - [Etnografisch Museum Artis](https://research-aids.github.io/published/niveau3/Dutch/EMArtis.html)  
+ - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](https://research-aids.github.io/published/niveau3/Dutch/BGKW.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html)  
+ - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.html)  
+ - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](https://research-aids.github.io/published/niveau3/Dutch/KITLV.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/Dutch/RMO.html)  
+ - [C.G.C. Reinwardt](https://research-aids.github.io/published/niveau3/Dutch/Reinwardt.html)  
+ - [Museum Nusantara](https://research-aids.github.io/published/niveau3/Dutch/MNusantara.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/Dutch/JustinusNassau.html)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/Dutch/MOudenbosch.html)  
 
 ## Secondary sources
 

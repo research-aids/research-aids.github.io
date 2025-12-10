@@ -50,16 +50,20 @@ De Franse portal [AGORHA](https://agorha.inha.fr) bevat informatie over personen
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine_20240326.yml)  
+ - [Selecteren en afbakenen][DOESN'T EXIST]  
+ - [Ambtenaren in gekoloniseerde gebieden][DOESN'T EXIST]  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden][DOESN'T EXIST]  
  - [Zendelingen en missionarissen in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html)  
- - [Ghana](published/niveau2/Dutch/Ghana_20250901.ymlhttps://research-aids.github.io/published/niveau3/Dutch/KoninklijkeBazar.htmlutch/KoninklijkeBazar_20240313.ymhttps://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.htmlntoonstelling](niveau3/Dutch/https://research-aids.github.io/published/niveau3/Dutch/KVVAK.https://research-aids.github.io/published/niveau3/Dutch/KunsthandelVanLier.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.htmlVAK_20240312.yml)  
- - [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier_20240313.yml)  
- - [Rijhttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw_20250513.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Ghana][DOESN'T EXIST]  
+ - [Groote Koninklijke Bazar](https://research-aids.github.io/published/niveau3/Dutch/KoninklijkeBazar.html)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html)  
+ - [Koninklijke Vereniging Vrienden der Aziatische Kunst](https://research-aids.github.io/published/niveau3/Dutch/KVVAK.html)  
+ - [Kunsthandel Van Lier](https://research-aids.github.io/published/niveau3/Dutch/KunsthandelVanLier.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'][DOESN'T EXIST]  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html)  
 
 ## Primary sources
 

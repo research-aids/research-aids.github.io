@@ -52,15 +52,24 @@ Whilst this thematic subdivision provides a good overview of the ways in which o
 
 ## Related Aids
 
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/English/https://research-aids.github.io/published/niveau3/English/Bronbeek.htmlehttps://research-aids.github.io/published/niveau3/English/EMArtis.html
- - [Artis Ethnographttps://research-aids.github.io/published/niveau3/English/GerardusLeeuhttps://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.htmldus van der Leehttps://research-aids.github.io/published/niveau3/English/JustinusNassau.html.ymlhttps://research-aids.github.io/published/niveau3/English/https://research-aids.github.io/published/niveau3/English/MNusantarhttps://research-aids.github.io/published/niveau3/English/MissiemuseumStehttps://research-aids.github.io/published/niveau3/English/Museon.htmlEnglihttps://research-aids.github.io/published/niveau3/English/Naturalis.htmlhttps://research-aids.github.io/published/niveau3/English/RMO.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/WMBergEnDalhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.htmlm](niveau3/English/Museonhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.htmlity Center](niveau3/English/Naturalis_20270710.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal_20241001.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden_20240508.yml)  
- - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam_2040822.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/English/BGKW.html)  
+ - [Museum Bronbeek](https://research-aids.github.io/published/niveau3/English/Bronbeek.html)  
+ - [Artis Ethnographic Museum](https://research-aids.github.io/published/niveau3/English/EMArtis.html)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/English/GerardusLeeuw.html)  
+ - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/English/JustinusNassau.html)  
+ - [Royal Cabinet of Curiosities](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
+ - [Museum Nusantara](https://research-aids.github.io/published/niveau3/English/MNusantara.html)  
+ - [Missiemuseum Steyl](https://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.html)  
+ - [Museon-Omniversum](https://research-aids.github.io/published/niveau3/English/Museon.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/English/RMO.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/English/WMBergEnDal.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/English/MOudenbosch.html)  
 
 ## Primary Sources
 

@@ -39,7 +39,8 @@ During the Second World War tens of thousands of cultural artefacts from the Net
 ## Related Aids
 
  - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
- - [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar_204050https://research-aids.github.io/published/niveau3/English/WMLeiden.htmleau3/English/WMLeiden_20240508.yml)  
+ - [Groote Koninklijke Bazar][DOESN'T EXIST]  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
 
 ## Primary sources
 

@@ -47,10 +47,12 @@ Naast het archief en de collectiewebsite, geeft het Zeeuws Genootschap der Weten
 
 ## Related Aids
 
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2https://research-aids.github.io/published/niveau2/Dutch/Ghana.html](niveau2/Dutch/Ghana_20250901.yml)  
- https://research-aids.github.io/published/niveau3/Dutch/BGKW.htmltschap van Kunsten en Wetenschttps://research-aids.github.io/published/niveau3/Dutch/KITLV.html827.yhttps://research-aids.github.io/published/niveau3/Dutch/Naturalishttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.htmliveau3/Dutch/KITLV_20240704.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis_20240710.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [Ghana](https://research-aids.github.io/published/niveau2/Dutch/Ghana.html)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/Dutch/BGKW.html)  
+ - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](https://research-aids.github.io/published/niveau3/Dutch/KITLV.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
 
 ## Primary sources
 

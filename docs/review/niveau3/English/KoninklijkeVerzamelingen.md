@@ -39,8 +39,9 @@ The complete Koninklijke Verzamelingen can be consulted [online](https://www.kon
 
 ## Related Aids
 
- - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.htmhttps://research-aids.github.io/published/niveau2/English/Museum.htmliveahttps://research-aids.github.io/published/niveau3/English/KKZ.html 
- - [Royal Cabinet of Curiosities](niveau3/English/KKZ_20240417.yml)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Museums and collections](https://research-aids.github.io/published/niveau2/English/Museum.html)  
+ - [Royal Cabinet of Curiosities](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
 
 ## Primary sources
 

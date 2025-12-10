@@ -46,16 +46,26 @@ Documents related to the Wereldmuseum Leiden can also be found at the Dutch Nati
 ## Related Aids
 
  - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [The trade inhttps://research-aids.github.io/published/niveau2/English/Trade.htmlniveau2/English/Trade_20https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html colonised terrhttps://research-aids.github.io/published/niveau2/English/CivilServants.html0240https://research-aids.github.io/published/niveau3/English/KKZ.html colonised territories](niveau2/English/CivilServants_20240316.yml)  
- - [Rhttps://research-aids.github.io/published/niveau3/English/KunsthandelVanLier.htmlZhttps://research-aids.github.io/published/niveau3/English/EMArtis.htmljke Bazar](niveau3/English/KoninklijkeBhttps://research-aids.github.io/published/niveau3/English/BGKW.htmldel Vhttps://research-aids.github.io/published/niveau3/English/Naturalis.hthttps://research-aids.github.io/published/niveau3/English/WMAmsterdam.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.htmhttps://research-aids.github.io/published/niveau3/English/WMBergEnDal.htmlaasch Genootschap van Wetenschappen en Kunsthttps://research-aids.github.io/published/niveau3/English/KITLV.hhttps://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.htmlhttps://research-aids.github.io/published/niveau3/English/https://research-aids.github.io/published/niveau3/English/Reinwahttps://research-aids.github.io/published/niveau3/English/MNusantara.html_20240809.yml) https://research-aids.github.io/published/niveau3/English/JustinusNassau.htmlsh/WMRotterdam_2040822.ymhttps://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.htmlergEnDal_20241001.yml)  
- https://research-aids.github.io/published/niveau3/English/MOudenbosch.htmlast Asian and Caribbean Studies](niveau3/English/KITLV_20240704.yml)  
- - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam_20240905.yml)  
- - [Rijksmuseum van Oudheden](niveau3/English/RMO_20241106.yml)  
- - [C.G.C. Reinwardt](niveau3/English/Reinwardt_20241217.yml)  
- - [Museum Nusantara](niveau3/English/MNusantara_20250225.yml)  
- - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau_20250513.yml)  
- - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883_20250602.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
+ - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
+ - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
+ - [Royal Cabinet of Curiosities](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
+ - [Groote Koninklijke Bazar][DOESN'T EXIST]  
+ - [Kunsthandel Van Lier](https://research-aids.github.io/published/niveau3/English/KunsthandelVanLier.html)  
+ - [Artis Ethnographic Museum](https://research-aids.github.io/published/niveau3/English/EMArtis.html)  
+ - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](https://research-aids.github.io/published/niveau3/English/BGKW.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/English/WMBergEnDal.html)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies](https://research-aids.github.io/published/niveau3/English/KITLV.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/English/RMO.html)  
+ - [C.G.C. Reinwardt](https://research-aids.github.io/published/niveau3/English/Reinwardt.html)  
+ - [Museum Nusantara](https://research-aids.github.io/published/niveau3/English/MNusantara.html)  
+ - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/English/JustinusNassau.html)  
+ - [International Colonial and Export Exhibition 1883](https://research-aids.github.io/published/niveau3/English/Wereldtentoonstelling1883.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/English/MOudenbosch.html)  
 
 ## Secondary sources
 

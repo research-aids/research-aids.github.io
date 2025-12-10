@@ -44,12 +44,17 @@ Tot slot is het mogelijk dat archieven in de voormalige gekoloniseerde gebieden 
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml)  
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren_20240320.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie_20240326.yml)  
- - [Ghana](https://research-aids.github.io/published/niveau2/Dutch/Ghhttps://research-aids.github.io/published/niveau3/Dutch/Reinwardt.htmlveau3/Dutch/Reinwardt_202412https://research-aids.github.io/published/niveau3/Dutch/KIThttps://research-aids.github.io/published/niveau3/Dutch/Museon.htmlkenkuhttps://research-aids.github.io/published/niveau3/Dutch/Naturalis.htmlhttps://research-aids.github.io/published/niveau3/Dutch/RMO.htmlveau3/Dutch/Museon_2https://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.htmly Centerhttps://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.htmlijksmuseum van Oudheden](niveau3/Dutch/RMO_20241106.yml)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw_20250513.yml)  
- - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity_20240327.yml)  
+ - [Selecteren en afbakenen][DOESN'T EXIST]  
+ - [Ambtenaren in gekoloniseerde gebieden][DOESN'T EXIST]  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden][DOESN'T EXIST]  
+ - [Ghana](https://research-aids.github.io/published/niveau2/Dutch/Ghana.html)  
+ - [C.G.C. Reinwardt](https://research-aids.github.io/published/niveau3/Dutch/Reinwardt.html)  
+ - [Koninklijk Instituut voor Taal- Land- en Volkenkunde](https://research-aids.github.io/published/niveau3/Dutch/KITLV.html)  
+ - [Museon-Omniversum](https://research-aids.github.io/published/niveau3/Dutch/Museon.html)  
+ - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
+ - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/Dutch/RMO.html)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.html)  
+ - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.html)  
 
 ## Secondary sources
 

@@ -58,12 +58,14 @@ Herkomstonderzoek kan ook proactief worden uitgevoerd. Bijvoorbeeld, wanneer de 
 ## Related Aids
 
  - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
- - [Het Nederlandse restitutiebeleid](niveau1/Dutch/RestitutionPolicyhttps://research-aids.github.io/published/niveau1/Dutch/DoingRehttps://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
- - [Verslagleggen](niveahttps://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html 
- - [Leger- https://research-aids.github.io/published/niveau2/Dutch/CivilServants.htmlieden](niveau2/Dutch/Mihttps://research-aids.github.io/published/niveau2/Dutch/Trade.html [Ambtenaren in gekoloniseerde ghttps://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html20.yml)  
- - [De handel in obhttps://research-aids.github.io/published/niveau2/Dutch/Science.htmlniveau2/Dutch/Trade_20240326.yml)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission_20240326.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science_20240814.yml)  
+ - [Het Nederlandse restitutiebeleid][DOESN'T EXIST]  
+ - [Onderzoeken](https://research-aids.github.io/published/niveau1/Dutch/DoingResearch.html)  
+ - [Verslagleggen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html)  
+ - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [De handel in objecten uit een koloniale context](https://research-aids.github.io/published/niveau2/Dutch/Trade.html)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
 
 
 

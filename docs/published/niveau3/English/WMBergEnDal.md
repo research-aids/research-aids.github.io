@@ -46,9 +46,13 @@ For specific information on objects the Wereldmuseum can also be contacted at [c
 ## Related Aids
 
  - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [Christian missihttps://research-aids.github.io/published/niveau2/English/ChristianMission.htmllish/Chrishttps://research-aids.github.io/published/niveau3/English/NZGhttps://research-aids.github.io/published/niveau3/English/WMLeiden.hthttps://research-aids.github.io/published/niveau3/English/WMRotterdam.hhttps://research-aids.github.io/published/niveau3/English/WMAmsterdahttps://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.htmlldmuseum Rotterdam](niveauhttps://research-aids.github.io/published/niveau3/English/MOudenbosch.html[Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam_20240809.yml)  
- - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl_20241021.yml)  
- - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch_20250603.yml)  
+ - [Christian missionaries in colonised territories](https://research-aids.github.io/published/niveau2/English/ChristianMission.html)  
+ - [Nederlandsch Zendeling Genootschap](https://research-aids.github.io/published/niveau3/English/NZG.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
+ - [Missiemuseum Steyl](https://research-aids.github.io/published/niveau3/English/MissiemuseumSteyl.html)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](https://research-aids.github.io/published/niveau3/English/MOudenbosch.html)  
 
 ## Primary sources
 

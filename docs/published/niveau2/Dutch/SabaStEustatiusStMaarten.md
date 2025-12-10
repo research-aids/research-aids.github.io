@@ -53,10 +53,14 @@ Andere relevante links:
 
 ## Related Aids
 
- - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndhttps://research-aids.github.io/published/niveau2/Dutch/CivilServants.html2https://research-aids.github.io/published/niveau2/Dutch/ArubaBonaireCuracao.html, Bonaire en Curaçao](niveauhttps://research-aids.github.io/published/niveau3/Dutch/KITLV.hhttps://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.hthttps://research-aids.github.io/published/niveau3/Dutch/WMAmsterdamhttps://research-aids.github.io/published/niveau3/Dutch/WMLeiden.hthttps://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html/RijksmuseumAmsterdam_20241006.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam_20240711.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden_20240327.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam_20240822.yml)  
+ - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
+ - [Ambtenaren](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
+ - [Aruba, Bonaire en Curaçao](https://research-aids.github.io/published/niveau2/Dutch/ArubaBonaireCuracao.html)  
+ - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](https://research-aids.github.io/published/niveau3/Dutch/KITLV.html)  
+ - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html)  
+ - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
+ - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html)  
 
 ## Primary sources
 

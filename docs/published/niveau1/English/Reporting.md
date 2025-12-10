@@ -64,7 +64,9 @@ The Wereldmuseum publication [Words Matter](https://amsterdam.wereldmuseum.nl/si
 
 ## Related Aids
 
- - [Doing research](https://research-aids.github.io/published/niveau1/English/Dhttps://research-aids.github.io/published/niveau1/English/Sources.https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.htmlelect and delineate](niveau1/English/SelectAndDelineate_20240425.yml)  
+ - [Doing research](https://research-aids.github.io/published/niveau1/English/DoingResearch.html)  
+ - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
+ - [Select and delineate](https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.html)  
 
 
 
