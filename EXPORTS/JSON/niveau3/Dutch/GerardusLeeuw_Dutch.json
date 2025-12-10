@@ -5,7 +5,7 @@
     "RelatedAides": [
         {
             "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
-                "link": "niveau2/Dutch/Science_20240814.yml",
+                "link": "niveau2/Dutch/Science.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/Science_Dutch",
                 "sort_order": 1
@@ -13,7 +13,7 @@
         },
         {
             "Wageningen University & Research": {
-                "link": "niveau3/Dutch/WageningenUniversity_20240327.yml",
+                "link": "niveau3/Dutch/WageningenUniversity.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch",
                 "sort_order": 2
@@ -21,7 +21,7 @@
         },
         {
             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
-                "link": "niveau3/Dutch/MOudenbosch_20250603.yml",
+                "link": "niveau3/Dutch/MOudenbosch.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
                 "sort_order": 3

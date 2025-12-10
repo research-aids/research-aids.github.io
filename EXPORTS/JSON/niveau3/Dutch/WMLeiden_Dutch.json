@@ -5,7 +5,7 @@
     "RelatedAides": [
         {
             "Bronnen": {
-                "link": "niveau1/Dutch/Bronnen_20240425.yml",
+                "link": "niveau1/Dutch/Bronnen.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau1/Dutch/Bronnen_Dutch",
                 "sort_order": 1
@@ -13,7 +13,7 @@
         },
         {
             "De handel in objecten uit een koloniale context": {
-                "link": "niveau2/Dutch/Handel_20240326.yml",
+                "link": "niveau2/Dutch/Handel.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/Handel_Dutch",
                 "sort_order": 2
@@ -21,7 +21,7 @@
         },
         {
             "Leger- en marinepersoneel in gekoloniseerde gebieden": {
-                "link": "niveau2/Dutch/LegerEnMarine_20240326.yml",
+                "link": "niveau2/Dutch/LegerEnMarine.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/LegerEnMarine_Dutch",
                 "sort_order": 3
@@ -29,7 +29,7 @@
         },
         {
             "Ambtenaren in gekoloniseerde gebieden": {
-                "link": "niveau2/Dutch/Ambtenaren_20240320.yml",
+                "link": "niveau2/Dutch/Ambtenaren.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/Ambtenaren_Dutch",
                 "sort_order": 4
@@ -37,7 +37,7 @@
         },
         {
             "Koninklijk Kabinet van Zeldzaamheden": {
-                "link": "niveau3/Dutch/KKZ_20240313.yml",
+                "link": "niveau3/Dutch/KKZ.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KKZ_Dutch",
                 "sort_order": 5
@@ -45,7 +45,7 @@
         },
         {
             "Groote Koninklijke Bazar": {
-                "link": "niveau3/Dutch/KoninklijkeBazar_20240313.yml",
+                "link": "niveau3/Dutch/KoninklijkeBazar.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KoninklijkeBazar_Dutch",
                 "sort_order": 6
@@ -53,7 +53,7 @@
         },
         {
             "Kunsthandel Van Lier": {
-                "link": "niveau3/Dutch/KunsthandelVanLier_20240313.yml",
+                "link": "niveau3/Dutch/KunsthandelVanLier.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KunsthandelVanLier_Dutch",
                 "sort_order": 7
@@ -61,7 +61,7 @@
         },
         {
             "Etnografisch Museum Artis": {
-                "link": "niveau3/Dutch/EMArtis_20240711.yml",
+                "link": "niveau3/Dutch/EMArtis.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/EMArtis_Dutch",
                 "sort_order": 8
@@ -69,7 +69,7 @@
         },
         {
             "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten": {
-                "link": "niveau3/Dutch/BGKW_20240827.yml",
+                "link": "niveau3/Dutch/BGKW.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/BGKW_Dutch",
                 "sort_order": 9
@@ -77,7 +77,7 @@
         },
         {
             "Naturalis Biodiversity Center": {
-                "link": "niveau3/Dutch/Naturalis_20240710.yml",
+                "link": "niveau3/Dutch/Naturalis.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Naturalis_Dutch",
                 "sort_order": 10
@@ -85,7 +85,7 @@
         },
         {
             "Wereldmuseum Amsterdam": {
-                "link": "niveau3/Dutch/WMAmsterdam_20240711.yml",
+                "link": "niveau3/Dutch/WMAmsterdam.yml",
                 "rel_type": "See also",
                 "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
                 "sort_order": 11
@@ -93,7 +93,7 @@
         },
         {
             "Wereldmuseum Rotterdam": {
-                "link": "niveau3/Dutch/WMRotterdam_20240822.yml",
+                "link": "niveau3/Dutch/WMRotterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch",
                 "sort_order": 12
@@ -101,7 +101,7 @@
         },
         {
             "Wereldmuseum Berg en Dal": {
-                "link": "niveau3/Dutch/WMBergEnDal_20241001.yml",
+                "link": "niveau3/Dutch/WMBergEnDal.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMBergEnDal_Dutch",
                 "sort_order": 13
@@ -109,7 +109,7 @@
         },
         {
             "Koninklijk Instituut voor Taal-, Land- en Volkenkunde": {
-                "link": "niveau3/Dutch/KITLV_20240704.yml",
+                "link": "niveau3/Dutch/KITLV.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KITLV_Dutch",
                 "sort_order": 14
@@ -117,7 +117,7 @@
         },
         {
             "Rijksmuseum Amsterdam": {
-                "link": "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml",
+                "link": "niveau3/Dutch/RijksmuseumAmsterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch",
                 "sort_order": 15
@@ -125,7 +125,7 @@
         },
         {
             "Rijksmuseum van Oudheden": {
-                "link": "niveau3/Dutch/RMO_20241106.yml",
+                "link": "niveau3/Dutch/RMO.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/RMO_Dutch",
                 "sort_order": 16
@@ -133,7 +133,7 @@
         },
         {
             "C.G.C. Reinwardt": {
-                "link": "niveau3/Dutch/Reinwardt_20241217.yml",
+                "link": "niveau3/Dutch/Reinwardt.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Reinwardt_Dutch",
                 "sort_order": 17
@@ -141,7 +141,7 @@
         },
         {
             "Museum Nusantara": {
-                "link": "niveau3/Dutch/MNusantara_20250130.yml",
+                "link": "niveau3/Dutch/MNusantara.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MNusantara_Dutch",
                 "sort_order": 18
@@ -149,7 +149,7 @@
         },
         {
             "Volkenkundig Museum Justinus van Nassau": {
-                "link": "niveau3/Dutch/JustinusNassau_20250225.yml",
+                "link": "niveau3/Dutch/JustinusNassau.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch",
                 "sort_order": 19
@@ -157,7 +157,7 @@
         },
         {
             "Internationale Koloniale en Uitvoerhandel Tentoonstelling": {
-                "link": "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml",
+                "link": "niveau3/Dutch/Wereldtentoonstelling1883.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch",
                 "sort_order": 20
@@ -165,7 +165,7 @@
         },
         {
             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
-                "link": "niveau3/Dutch/MOudenbosch_20250603.yml",
+                "link": "niveau3/Dutch/MOudenbosch.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
                 "sort_order": 21

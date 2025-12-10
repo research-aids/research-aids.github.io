@@ -5,58 +5,50 @@
     "RelatedAides": [
         {
             "Doing research": {
-                "link": "niveau1/English/DoingResearch_20240425.yml",
+                "link": "niveau1/English/DoingResearch.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau1/English/DoingResearch_English",
                 "sort_order": 1
             }
         },
         {
-            "Introduction to conducting provenance research": {
-                "link": "niveau1/English/Introduction_20250120.yml",
+            "Army and navy personnel in colonised territories": {
+                "link": "niveau2/English/MilitaryAndNavy.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/English/Introduction_English",
+                "linkFilename": "niveau2/English/MilitaryAndNavy_English",
                 "sort_order": 2
             }
         },
         {
-            "Army and navy personnel in colonised territories": {
-                "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
+            "Civil servants in colonised territories": {
+                "link": "niveau2/English/CivilServants.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/MilitaryAndNavy_English",
+                "linkFilename": "niveau2/English/CivilServants_English",
                 "sort_order": 3
             }
         },
         {
-            "Civil servants in colonised territories": {
-                "link": "niveau2/English/CivilServants_20240316.yml",
+            "The trade in objects from a colonial context": {
+                "link": "niveau2/English/Trade.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/CivilServants_English",
+                "linkFilename": "niveau2/English/Trade_English",
                 "sort_order": 4
             }
         },
         {
-            "The trade in objects from a colonial context": {
-                "link": "niveau2/English/Trade_20240316.yml",
+            "Christian missionaries in colonised territories": {
+                "link": "niveau2/English/ChristianMission.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau2/English/Trade_English",
+                "linkFilename": "niveau2/English/ChristianMission_English",
                 "sort_order": 5
             }
         },
         {
-            "Christian missionaries in colonised territories": {
-                "link": "niveau2/English/ChristianMission_20240417.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau2/English/ChristianMission_English",
-                "sort_order": 6
-            }
-        },
-        {
             "Scientific research in colonised territories": {
-                "link": "niveau2/English/Science_20240821.yml",
+                "link": "niveau2/English/Science.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/English/Science_English",
-                "sort_order": 7
+                "sort_order": 6
             }
         }
     ],

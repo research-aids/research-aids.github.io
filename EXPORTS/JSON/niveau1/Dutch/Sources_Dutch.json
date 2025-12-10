@@ -4,35 +4,27 @@
     "Abstract": "In deze zoekhulp vind je informatie over waar je relevante bronnen voor je (herkomst)onderzoek kan vinden en hoe je deze kritisch moet benaderen.",
     "RelatedAides": [
         {
-            "Het Nederlandse restitutiebeleid": {
-                "link": "niveau1/Dutch/RestitutionPolicy_20250123.yml",
+            "Onderzoeken": {
+                "link": "niveau1/Dutch/DoingResearch.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/RestitutionPolicy_Dutch",
+                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch",
                 "sort_order": 1
             }
         },
         {
-            "Onderzoeken": {
-                "link": "niveau1/Dutch/DoingResearch_20240425.yml",
+            "Selecteren en afbakenen": {
+                "link": "niveau1/Dutch/SelectAndDelineate.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/DoingResearch_Dutch",
+                "linkFilename": "niveau1/Dutch/SelectAndDelineate_Dutch",
                 "sort_order": 2
             }
         },
         {
-            "Selecteren en afbakenen": {
-                "link": "niveau1/Dutch/SelectAndDelineate_20240425.yml",
+            "Verslagleggen": {
+                "link": "niveau1/Dutch/SelectAndDelineate.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau1/Dutch/SelectAndDelineate_Dutch",
                 "sort_order": 3
-            }
-        },
-        {
-            "Verslagleggen": {
-                "link": "niveau1/Dutch/SelectAndDelineate_20240425.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau1/Dutch/SelectAndDelineate_Dutch",
-                "sort_order": 4
             }
         }
     ],

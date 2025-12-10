@@ -10,7 +10,7 @@
         "Provenance research into colonial collections": [
             {
                 "Select and delineate": {
-                    "link": "niveau1/English/SelectAndDelineate_20240425.yml",
+                    "link": "niveau1/English/SelectAndDelineate.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau1/English/SelectAndDelineate_English",
                     "sort_order": 1
@@ -18,7 +18,7 @@
             },
             {
                 "Doing research": {
-                    "link": "niveau1/English/DoingResearch_20240425.yml",
+                    "link": "niveau1/English/DoingResearch.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau1/English/DoingResearch_English",
                     "sort_order": 2
@@ -26,7 +26,7 @@
             },
             {
                 "Sources": {
-                    "link": "niveau1/English/Sources_20240501.yml",
+                    "link": "niveau1/English/Sources.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau1/English/Sources_English",
                     "sort_order": 3
@@ -34,30 +34,22 @@
             },
             {
                 "Reporting": {
-                    "link": "niveau1/English/Reporting_20240501.yml",
+                    "link": "niveau1/English/Reporting.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau1/English/Reporting_English",
                     "sort_order": 4
-                }
-            },
-            {
-                "The Dutch restitution policy": {
-                    "link": "niveau1/English/RestitutionPolicy_20250123.yml",
-                    "rel_type": "see also",
-                    "linkFilename": "niveau1/English/RestitutionPolicy_English",
-                    "sort_order": 5
                 }
             }
         ],
         "Themes and categories": [
             {
                 "Museums and collections": {
-                    "link": "niveau2/English/Museum_20250113.yml",
+                    "link": "niveau2/English/Museum.yml",
                     "rel_type": "see also",
                     "Subtopics": [
                         {
                             "Artis Ethnographic Museum": {
-                                "link": "niveau3/English/EMArtis_20240712.yml",
+                                "link": "niveau3/English/EMArtis.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/EMArtis_English",
                                 "sort_order": 1
@@ -65,7 +57,7 @@
                         },
                         {
                             "Hoofdcursus Kampen": {
-                                "link": "niveau3/English/HoofdcursusKampen_20250513.yml",
+                                "link": "niveau3/English/HoofdcursusKampen.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/HoofdcursusKampen_English",
                                 "sort_order": 2
@@ -73,7 +65,7 @@
                         },
                         {
                             "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
-                                "link": "niveau3/English/BGKW_20240905.yml",
+                                "link": "niveau3/English/BGKW.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/BGKW_English",
                                 "sort_order": 3
@@ -81,7 +73,7 @@
                         },
                         {
                             "Missiemuseum Steyl": {
-                                "link": "niveau3/English/MissiemuseumSteyl_20241021.yml",
+                                "link": "niveau3/English/MissiemuseumSteyl.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/MissiemuseumSteyl_English",
                                 "sort_order": 4
@@ -89,7 +81,7 @@
                         },
                         {
                             "Museon-Omniversum": {
-                                "link": "niveau3/English/Museon_20250513.yml",
+                                "link": "niveau3/English/Museon.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/Museon_English",
                                 "sort_order": 5
@@ -97,7 +89,7 @@
                         },
                         {
                             "Museum Bronbeek": {
-                                "link": "niveau3/English/Bronbeek_20241002.yml",
+                                "link": "niveau3/English/Bronbeek.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/Bronbeek_English",
                                 "sort_order": 6
@@ -105,7 +97,7 @@
                         },
                         {
                             "Museum Nusantara": {
-                                "link": "niveau3/English/MNusantara_20250225.yml",
+                                "link": "niveau3/English/MNusantara.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/MNusantara_English",
                                 "sort_order": 7
@@ -113,7 +105,7 @@
                         },
                         {
                             "Naturalis Biodiversity Center": {
-                                "link": "niveau3/English/Naturalis_20270710.yml",
+                                "link": "niveau3/English/Naturalis.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/Naturalis_English",
                                 "sort_order": 8
@@ -121,7 +113,7 @@
                         },
                         {
                             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
-                                "link": "niveau3/English/MOudenbosch_20250603.yml",
+                                "link": "niveau3/English/MOudenbosch.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/MOudenbosch_English",
                                 "sort_order": 9
@@ -129,7 +121,7 @@
                         },
                         {
                             "Rijksmuseum Amsterdam": {
-                                "link": "niveau3/English/RijksmuseumAmsterdam_20240905.yml",
+                                "link": "niveau3/English/RijksmuseumAmsterdam.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
                                 "sort_order": 10
@@ -137,7 +129,7 @@
                         },
                         {
                             "Rijksmuseum van Oudheden": {
-                                "link": "niveau3/English/RMO_20241106.yml",
+                                "link": "niveau3/English/RMO.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/RMO_English",
                                 "sort_order": 11
@@ -145,7 +137,7 @@
                         },
                         {
                             "Royal Cabinet of Curiosities": {
-                                "link": "niveau3/English/KKZ_20240417.yml",
+                                "link": "niveau3/English/KKZ.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/KKZ_English",
                                 "sort_order": 12
@@ -153,7 +145,7 @@
                         },
                         {
                             "Volkenkundig Museum 'Gerardus van der Leeuw'": {
-                                "link": "niveau3/English/GerardusLeeuw_20250602.yml",
+                                "link": "niveau3/English/GerardusLeeuw.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/GerardusLeeuw_English",
                                 "sort_order": 13
@@ -161,7 +153,7 @@
                         },
                         {
                             "Volkenkundig Museum Justinus van Nassau": {
-                                "link": "niveau3/English/JustinusNassau_20250513.yml",
+                                "link": "niveau3/English/JustinusNassau.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/JustinusNassau_English",
                                 "sort_order": 14
@@ -169,7 +161,7 @@
                         },
                         {
                             "Wereldmuseum Amsterdam": {
-                                "link": "niveau3/English/WMAmsterdam_20240809.yml",
+                                "link": "niveau3/English/WMAmsterdam.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMAmsterdam_English",
                                 "sort_order": 15
@@ -177,7 +169,7 @@
                         },
                         {
                             "Wereldmuseum Berg en Dal": {
-                                "link": "niveau3/English/WMBergEnDal_20241001.yml",
+                                "link": "niveau3/English/WMBergEnDal.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMBergEnDal_English",
                                 "sort_order": 16
@@ -185,7 +177,7 @@
                         },
                         {
                             "Wereldmuseum Leiden": {
-                                "link": "niveau3/English/WMLeiden_20240508.yml",
+                                "link": "niveau3/English/WMLeiden.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMLeiden_English",
                                 "sort_order": 17
@@ -193,7 +185,7 @@
                         },
                         {
                             "Wereldmuseum Rotterdam": {
-                                "link": "niveau3/English/WMRotterdam_2040822.yml",
+                                "link": "niveau3/English/WMRotterdam.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMRotterdam_English",
                                 "sort_order": 18
@@ -206,12 +198,12 @@
             },
             {
                 "Civil servants in colonised territories": {
-                    "link": "niveau2/English/CivilServants_20240316.yml",
+                    "link": "niveau2/English/CivilServants.yml",
                     "rel_type": "see also",
                     "Subtopics": [
                         {
                             "C.G.C. Reinwardt": {
-                                "link": "niveau3/English/Reinwardt_20241217.yml",
+                                "link": "niveau3/English/Reinwardt.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/Reinwardt_English",
                                 "sort_order": 1
@@ -219,7 +211,7 @@
                         },
                         {
                             "Museum Nusantara": {
-                                "link": "niveau3/English/MNusantara_20250225.yml",
+                                "link": "niveau3/English/MNusantara.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/MNusantara_English",
                                 "sort_order": 2
@@ -232,12 +224,12 @@
             },
             {
                 "The trade in objects from a colonial context": {
-                    "link": "niveau2/English/Trade_20240316.yml",
+                    "link": "niveau2/English/Trade.yml",
                     "rel_type": "see also",
                     "Subtopics": [
                         {
                             "Groote Koninklijke Bazar": {
-                                "link": "niveau3/English/KoninklijkeBazar_2040503.yml",
+                                "link": "niveau3/English/KoninklijkeBazar.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/KoninklijkeBazar_English",
                                 "sort_order": 1
@@ -245,7 +237,7 @@
                         },
                         {
                             "International Colonial and Export Exhibition 1883": {
-                                "link": "niveau3/English/Wereldtentoonstelling1883_20250602.yml",
+                                "link": "niveau3/English/Wereldtentoonstelling1883.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/Wereldtentoonstelling1883_English",
                                 "sort_order": 2
@@ -253,7 +245,7 @@
                         },
                         {
                             "Kunsthandel Van Lier": {
-                                "link": "niveau3/English/KunsthandelVanLier_20240507.yml",
+                                "link": "niveau3/English/KunsthandelVanLier.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/KunsthandelVanLier_English",
                                 "sort_order": 3
@@ -261,7 +253,7 @@
                         },
                         {
                             "Royal Asian Art Society in the Netherlands": {
-                                "link": "niveau3/English/KVVAK_20240508.yml",
+                                "link": "niveau3/English/KVVAK.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/KVVAK_English",
                                 "sort_order": 4
@@ -274,12 +266,12 @@
             },
             {
                 "Army and navy personnel in colonised territories": {
-                    "link": "niveau2/English/MilitaryAndNavy_20240417.yml",
+                    "link": "niveau2/English/MilitaryAndNavy.yml",
                     "rel_type": "see also",
                     "Subtopics": [
                         {
                             "Hoofdcursus Kampen": {
-                                "link": "niveau3/English/HoofdcursusKampen_20250513.yml",
+                                "link": "niveau3/English/HoofdcursusKampen.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/HoofdcursusKampen_English",
                                 "sort_order": 1
@@ -287,7 +279,7 @@
                         },
                         {
                             "Museum Bronbeek": {
-                                "link": "niveau3/English/Bronbeek_20241002.yml",
+                                "link": "niveau3/English/Bronbeek.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/Bronbeek_English",
                                 "sort_order": 2
@@ -295,7 +287,7 @@
                         },
                         {
                             "Volkenkundig Museum Justinus van Nassau": {
-                                "link": "niveau3/English/JustinusNassau_20250513.yml",
+                                "link": "niveau3/English/JustinusNassau.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/JustinusNassau_English",
                                 "sort_order": 3
@@ -308,12 +300,12 @@
             },
             {
                 "Scientific research in colonised territories": {
-                    "link": "niveau2/English/Science_20240821.yml",
+                    "link": "niveau2/English/Science.yml",
                     "rel_type": "see also",
                     "Subtopics": [
                         {
                             "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)": {
-                                "link": "niveau3/English/KITLV_20240704.yml",
+                                "link": "niveau3/English/KITLV.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/KITLV_English",
                                 "sort_order": 1
@@ -321,7 +313,7 @@
                         },
                         {
                             "Volkenkundig museum 'Gerardus van der Leeuw'": {
-                                "link": "niveau3/English/GerardusLeeuw_20250602.yml",
+                                "link": "niveau3/English/GerardusLeeuw.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/GerardusLeeuw_English",
                                 "sort_order": 2
@@ -329,7 +321,7 @@
                         },
                         {
                             "Wageningen University & Research": {
-                                "link": "niveau3/English/WageningenUniversity_20240508.yml",
+                                "link": "niveau3/English/WageningenUniversity.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WageningenUniversity_English",
                                 "sort_order": 3
@@ -342,12 +334,12 @@
             },
             {
                 "Christian missionaries in colonised territories": {
-                    "link": "niveau2/English/ChristianMission_20240417.yml",
+                    "link": "niveau2/English/ChristianMission.yml",
                     "rel_type": "see also",
                     "Subtopics": [
                         {
                             "Missiemuseum Steyl": {
-                                "link": "niveau3/English/MissiemuseumSteyl_20241021.yml",
+                                "link": "niveau3/English/MissiemuseumSteyl.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/MissiemuseumSteyl_English",
                                 "sort_order": 1
@@ -355,7 +347,7 @@
                         },
                         {
                             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
-                                "link": "niveau3/English/MOudenbosch_20250603.yml",
+                                "link": "niveau3/English/MOudenbosch.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/MOudenbosch_English",
                                 "sort_order": 2
@@ -363,7 +355,7 @@
                         },
                         {
                             "Nederlandsch Zendeling Genootschap": {
-                                "link": "niveau3/English/NZG_20240508.yml",
+                                "link": "niveau3/English/NZG.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/NZG_English",
                                 "sort_order": 3
@@ -371,7 +363,7 @@
                         },
                         {
                             "Wereldmuseum Berg en Dal": {
-                                "link": "niveau3/English/WMBergEnDal_20241001.yml",
+                                "link": "niveau3/English/WMBergEnDal.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMBergEnDal_English",
                                 "sort_order": 4
@@ -386,7 +378,7 @@
         "Locations": [
             {
                 "Aruba, Bonaire and Cura\u00e7ao": {
-                    "link": "niveau2/English/ArubaBonaireCuracao_20250619.yml",
+                    "link": "niveau2/English/ArubaBonaireCuracao.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau2/English/ArubaBonaireCuracao_English",
                     "sort_order": 1
@@ -394,7 +386,7 @@
             },
             {
                 "Saba, Sint Eustatius and Sint Maarten": {
-                    "link": "niveau2/English/SabaStEustatiusStMaarten_202501619.yml",
+                    "link": "niveau2/English/SabaStEustatiusStMaarten.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau2/English/SabaStEustatiusStMaarten_English",
                     "sort_order": 2
@@ -402,7 +394,7 @@
             },
             {
                 "Ghana": {
-                    "link": "niveau2/English/Ghana_20250901.yml",
+                    "link": "niveau2/English/Ghana.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau2/English/Ghana_English",
                     "sort_order": 3

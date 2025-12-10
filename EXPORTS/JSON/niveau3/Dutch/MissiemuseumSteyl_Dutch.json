@@ -5,7 +5,7 @@
     "RelatedAides": [
         {
             "Zendelingen en missionarissen in gekoloniseerde gebieden": {
-                "link": "niveau2/Dutch/ChristianMission_20240326.yml",
+                "link": "niveau2/Dutch/ChristianMission.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/ChristianMission_Dutch",
                 "sort_order": 1
@@ -13,7 +13,7 @@
         },
         {
             "Nederlandsch Zendeling Genootschap": {
-                "link": "niveau3/Dutch/NZG_20240314.yml",
+                "link": "niveau3/Dutch/NZG.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/NZG_Dutch",
                 "sort_order": 2
@@ -21,7 +21,7 @@
         },
         {
             "Wereldmuseum Berg en Dal": {
-                "link": "niveau3/Dutch/WMBergEnDal_20241001.yml",
+                "link": "niveau3/Dutch/WMBergEnDal.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMBergEnDal_Dutch",
                 "sort_order": 3
@@ -29,7 +29,7 @@
         },
         {
             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
-                "link": "niveau3/Dutch/MOudenbosch_20250603.yml",
+                "link": "niveau3/Dutch/MOudenbosch.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
                 "sort_order": 4
