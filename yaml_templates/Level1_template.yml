@@ -21,8 +21,9 @@ Main-text:
   content-type: text/markdown
 
 editing_metadata:
-  - Date: #mandatory (yyyy-mm-dd)
-    Applies_to: #optional
-    Author: #mandatory
-    Role: #mandatory
-    Editing_notes: #optional
+  - date: #mandatory (yyyy-mm-dd)
+    applies_to: #optional
+    author: #mandatory
+    role: #mandatory
+    editing_notes: #optional
+
