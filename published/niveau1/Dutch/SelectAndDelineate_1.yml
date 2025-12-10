@@ -6,31 +6,28 @@ Abstract: "In deze zoekhulp vind je informatie over hoe je voorwerpen selecteert
 
 RelatedAides: 
   - "Bronnen": 
-        link: "niveau1/Dutch/Sources_20240425.yml"
-        rel_type: "see also"
-  - "Het Nederlandse restitutiebeleid":
-        link: "niveau1/Dutch/RestitutionPolicy_20250123.yml"
+        link: "niveau1/Dutch/Sources_1.yml"
         rel_type: "see also"
   - "Onderzoeken":
-        link: "niveau1/Dutch/DoingResearch_20240425.yml"
+        link: "niveau1/Dutch/DoingResearch_1.yml"
         rel_type: "see also"
   - "Verslagleggen":
-        link: "niveau1/Dutch/SelectAndDelineate_20240425.yml" 
+        link: "niveau1/Dutch/SelectAndDelineate_1.yml" 
         rel_type: "see also"  
   - "Leger- en marinepersoneel in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+        link: "niveau2/Dutch/MilitaryAndNavy_1.yml"
         rel_type: "see also"
   - "Ambtenaren in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/CivilServants_20240320.yml"
+        link: "niveau2/Dutch/CivilServants_1.yml"
         rel_type: "see also"
   - "De handel in objecten uit een koloniale context":
-        link: "niveau2/Dutch/Trade_20240326.yml"
+        link: "niveau2/Dutch/Trade_1.yml"
         rel_type: "see also"
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/ChristianMission_20240326.yml"
+        link: "niveau2/Dutch/ChristianMission_1.yml"
         rel_type: "see also"
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/Science_20240814.yml"
+        link: "niveau2/Dutch/Science_1.yml"
         rel_type: "see also"
 
 Main-text:

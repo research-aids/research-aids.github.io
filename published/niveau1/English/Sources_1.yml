@@ -6,49 +6,46 @@ Abstract: "In this research aid you find information on where you can find relev
 
 RelatedAides: 
   - "Doing research":
-        link: "niveau1/English/DoingResearch_20240425.yml"
-        rel_type: "see also"
-  - "The Dutch restitution policy":
-        link: "niveau1/English/RestitutionPolicy_20250123.yml"
+        link: "niveau1/English/DoingResearch_1.yml"
         rel_type: "see also"
   - "Civil servants in colonised territories":
-        link: "niveau2/English/CivilServants_20240316.yml"
+        link: "niveau2/English/CivilServants_1.yml"
         rel_type: "see also"
   - "The trade in objects from a colonial context":
-        link: "niveau2/English/Trade_20240316.yml"
+        link: "niveau2/English/Trade_1.yml"
         rel_type: "see also"
   - "Army and navy personnel in colonised territories":
-        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
+        link: "niveau2/English/MilitaryAndNavy_1.yml"
         rel_type: "see also"
   - "Christian missionaries in colonised territories":
-        link: "niveau2/English/ChristianMission_20240417.yml"
+        link: "niveau2/English/ChristianMission_1.yml"
         rel_type: "see also"
   - "Scientific research in colonised territories":
-        link: "niveau2/English/Science_20240821.yml"
+        link: "niveau2/English/Science_1.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/English/WMLeiden_20240508.yml"
+        link: "niveau3/English/WMLeiden_1.yml"
         rel_type: "see also"
   - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
-        link: "niveau3/English/KITLV_20240704.yml"
+        link: "niveau3/English/KITLV_1.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "niveau3/English/Naturalis_20270710.yml"
+        link: "niveau3/English/Naturalis_1.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/English/WMAmsterdam_20240809.yml"
+        link: "niveau3/English/WMAmsterdam_1.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "niveau3/English/WMRotterdam_2040822.yml"
+        link: "niveau3/English/WMRotterdam_1.yml"
         rel_type: "see also"
   - "Museum Bronbeek":
-        link: "niveau3/English/Bronbeek_20241002.yml"
+        link: "niveau3/English/Bronbeek_1.yml"
         rel_type: "see also"
   - "Rijksmuseum Amsterdam":
-        link: "niveau3/English/RijksmuseumAmsterdam_20240905.yml"
+        link: "niveau3/English/RijksmuseumAmsterdam_1.yml"
         rel_type: "see also"
   - "Rijksmuseum van Oudheden":
-        link: "niveau3/English/RMO_20241106.yml"
+        link: "niveau3/English/RMO_1.yml"
         rel_type: "see also"
 
 Main-text:

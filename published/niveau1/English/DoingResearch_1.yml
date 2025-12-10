@@ -6,16 +6,13 @@ Abstract: "In this research aid you find information on the steps you can follow
 
 RelatedAides:
   - "Sources":
-        link: "niveau1/English/Sources_20240501.yml"
+        link: "niveau1/English/Sources_1.yml"
         rel_type: "see also"
   - "Select and delineate":
-        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        link: "niveau1/English/SelectAndDelineate_1.yml"
         rel_type: "see also"
   - "Reporting":
-        link: "niveau1/English/Reporting_20240501.yml"
-        rel_type: "see also"
-  - "The Dutch restitution policy":
-        link: "niveau1/English/RestitutionPolicy_20250123.yml"
+        link: "niveau1/English/Reporting_1.yml"
         rel_type: "see also"
 
 Main-text:
