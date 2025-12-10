@@ -6,22 +6,22 @@ Abstract: "In 1936 opende in Tilburg het Nederlands Volkenkundig Missiemuseum, d
 
 RelatedAides:
   - "Musea en collecties":
-        link: "niveau2/Dutch/Museum_20250113.yml"
+        link: "niveau2/Dutch/Museum3.yml"
         rel_type: "see also"
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/ChristianMission_20240326.yml"
+        link: "niveau2/Dutch/ChristianMission.yml"
         rel_type: "see also"
   - "Missiemuseum Steyl":
-        link: "published/niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
+        link: "published/niveau3/Dutch/MissiemuseumSteyl.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-        link: "niveau3/Dutch/MOudenbosch_20250603.yml"
+        link: "niveau3/Dutch/MOudenbosch.yml"
         rel_type: "see also"
   - "Nederlandsch Zendeling Genootschap":
-        link: "niveau3/Dutch/NZG_20240314.yml"
+        link: "niveau3/Dutch/NZG.yml"
         rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
-        link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
+        link: "niveau3/Dutch/WMBergEnDal.yml"
         rel_type: "see also"
 #Nijmeegs Volkenkundig Museum
 

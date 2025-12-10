@@ -6,46 +6,46 @@ Abstract: "De handel in objecten uit gekoloniseerde gebieden speelde een central
 
 RelatedAides: 
   - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
+        link: "niveau1/Dutch/SelecterenEnAfbakenen.yml"
         rel_type: "see also"
   - "Ambtenaren in gekoloniseerde gebieden": 
-        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
+        link: "niveau2/Dutch/Ambtenaren.yml"
         rel_type: "see also"
   - "Leger- en marinepersoneel in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/LegerEnMarine_20240326.yml"
+        link: "niveau2/Dutch/LegerEnMarine.yml"
         rel_type: "see also"
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/ChristianMission_20240326.yml"
+        link: "niveau2/Dutch/ChristianMission.yml"
         rel_type: "see also"
   - "Ghana":
-        link: "published/niveau2/Dutch/Ghana_20250901.yml"
+        link: "published/niveau2/Dutch/Ghana.yml"
         rel_type: "see also"
   - "Groote Koninklijke Bazar":
-        link: "niveau3/Dutch/KoninklijkeBazar_20240313.yml"
+        link: "niveau3/Dutch/KoninklijkeBazar.yml"
         rel_type: "see also"
   - "Internationale Koloniale en Uitvoerhandel Tentoonstelling":
-        link: "niveau3/Dutch/Wereldtentoonstelling1883_202550304.yml"
+        link: "niveau3/Dutch/Wereldtentoonstelling1883.yml"
         rel_type: "see also"
   - "Koninklijke Vereniging Vrienden der Aziatische Kunst":
-        link: "niveau3/Dutch/KVVAK_20240312.yml"
+        link: "niveau3/Dutch/KVVAK.yml"
         rel_type: "see also"
   - "Kunsthandel Van Lier":
-        link: "niveau3/Dutch/KunsthandelVanLier_20240313.yml"
+        link: "niveau3/Dutch/KunsthandelVanLier.yml"
         rel_type: "see also"
   - "Rijksmuseum Amsterdam":
-        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
         rel_type: "see also"
   - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-        link: "published/niveau3/Dutch/GerardusLeeuw_20250513.yml"
+        link: "published/niveau3/Dutch/GerardusLeeuw.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        link: "niveau3/Dutch/WMAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        link: "niveau3/Dutch/WMRotterdam.yml"
         rel_type: "see also"
 
 Relevant data:

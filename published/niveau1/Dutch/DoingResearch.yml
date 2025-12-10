@@ -6,13 +6,13 @@ Abstract: "In deze zoekhulp vind je informatie over welke stappen je moet volgen
 
 RelatedAides:
   - "Bronnen":
-        link: "niveau1/Dutch/Sources_1.yml"
+        link: "niveau1/Dutch/Sources.yml"
         rel_type: "see also"
   - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelectAndDelineate_1.yml"
+        link: "niveau1/Dutch/SelectAndDelineate.yml"
         rel_type: "see also"
   - "Verslagleggen":
-        link: "niveau1/Dutch/Reporting_1.yml"
+        link: "niveau1/Dutch/Reporting.yml"
         rel_type: "see also"
 
 Main-text:

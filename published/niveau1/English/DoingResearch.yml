@@ -6,13 +6,13 @@ Abstract: "In this research aid you find information on the steps you can follow
 
 RelatedAides:
   - "Sources":
-        link: "niveau1/English/Sources_1.yml"
+        link: "niveau1/English/Sources.yml"
         rel_type: "see also"
   - "Select and delineate":
-        link: "niveau1/English/SelectAndDelineate_1.yml"
+        link: "niveau1/English/SelectAndDelineate.yml"
         rel_type: "see also"
   - "Reporting":
-        link: "niveau1/English/Reporting_1.yml"
+        link: "niveau1/English/Reporting.yml"
         rel_type: "see also"
 
 Main-text:

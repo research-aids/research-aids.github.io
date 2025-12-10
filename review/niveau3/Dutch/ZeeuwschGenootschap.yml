@@ -6,22 +6,22 @@ Abstract: "Het in 1796 opgerichte Koninklijk Zeeuwsch Genootschap der Wetenschap
 
 RelatedAides:
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/Science_20240814.yml"
+        link: "niveau2/Dutch/Science.yml"
         rel_type: "see also"
   - "Ghana":
-        link: "niveau2/Dutch/Ghana_20250901.yml"
+        link: "niveau2/Dutch/Ghana.yml"
         rel_type: "see also"
   - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
-        link: "niveau3/Dutch/BGKW_20240827.yml"
+        link: "niveau3/Dutch/BGKW.yml"
         rel_type: "see also"
   - "Koninklijk Instituut voor Taal-, Land- en Volkenkunde":
-        link: "niveau3/Dutch/KITLV_20240704.yml"
+        link: "niveau3/Dutch/KITLV.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        link: "niveau3/Dutch/Naturalis.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
 
 Relevant data:

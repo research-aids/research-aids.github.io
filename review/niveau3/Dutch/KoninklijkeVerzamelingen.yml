@@ -6,13 +6,13 @@ Abstract: "De Koninklijke Verzamelingen, de particuliere collectie van de Nederl
 
 RelatedAides:
   - "Ambtenaren in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/CivilServants_20240320.yml"
+        link: "niveau2/Dutch/CivilServants.yml"
         rel_type: "see also"
   - "Musea en collecties":
-        link: "niveau2/Dutch/Museum_20250113.yml"
+        link: "niveau2/Dutch/Museum.yml"
         rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
-        link: "niveau3/Dutch/KKZ_20240313.yml"
+        link: "niveau3/Dutch/KKZ.yml"
         rel_type: "see also"
 
 Relevant data:

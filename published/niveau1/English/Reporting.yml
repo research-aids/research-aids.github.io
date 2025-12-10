@@ -6,13 +6,13 @@ Abstract: "In this research aid you find information on how to draft a report of
 
 RelatedAides:
   - "Doing research":
-        link: "niveau1/English/DoingResearch_1.yml"
+        link: "niveau1/English/DoingResearch.yml"
         rel_type: "see also"
   - "Sources":
-        link: "niveau1/English/Sources_1.yml"
+        link: "niveau1/English/Sources.yml"
         rel_type: "see also"
   - "Select and delineate":
-        link: "niveau1/English/SelectAndDelineate_1.yml"
+        link: "niveau1/English/SelectAndDelineate.yml"
         rel_type: "see also"
 
 Main-text:

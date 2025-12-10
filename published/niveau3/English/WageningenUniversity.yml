@@ -6,25 +6,25 @@ Abstract: "Today's Wageningen University & Research held a collection of Indones
 
 RelatedAides: 
   - "Civil servants in colonised territories":
-        link: "niveau2/English/CivilServants_20240316.yml"
+        link: "niveau2/English/CivilServants.yml"
         rel_type: "see also"
   - "Scientific research in colonised territories":
-        link: "niveau2/English/Science_20240821.yml"
+        link: "niveau2/English/Science.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "niveau3/English/Naturalis_20270710.yml"
+        link: "niveau3/English/Naturalis.yml"
         rel_type: "see also"
   - "Museum Nusantara":
-        link: "niveau3/English/MNusantara_20250225.yml"
+        link: "niveau3/English/MNusantara.yml"
         rel_type: "see also"
   - "Hoofdcursus Kampen":
-        link: "niveau3/English/HoofdcursusKampen_20250513.yml"
+        link: "niveau3/English/HoofdcursusKampen.yml"
         rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
-        link: "niveau3/English/JustinusNassau_20250513.yml"
+        link: "niveau3/English/JustinusNassau.yml"
         rel_type: "see also"
   - "Volkenkundig museum 'Gerardus van der Leeuw'":
-        link: "niveau3/English/GerardusLeeuw_20250602.yml"
+        link: "niveau3/English/GerardusLeeuw.yml"
         rel_type: "see also"
 
 Relevant data:

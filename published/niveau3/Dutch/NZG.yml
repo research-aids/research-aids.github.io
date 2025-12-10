@@ -6,13 +6,13 @@ Abstract: "Het Nederlandsch Zendeling Genootschap was een zendingsorganisatie di
 
 RelatedAides: 
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/ZendingEnMissie_20240326.yml"
+        link: "niveau2/Dutch/ZendingEnMissie.yml"
         rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
-        link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
+        link: "niveau3/Dutch/WMBergEnDal.yml"
         rel_type: "see also"
   - "Missiemuseum Steyl":
-        link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
+        link: "niveau3/Dutch/MissiemuseumSteyl.yml"
         rel_type: "see also"
 
 Relevant data:

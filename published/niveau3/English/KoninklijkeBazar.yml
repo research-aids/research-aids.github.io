@@ -6,16 +6,16 @@ Abstract: "The Groote Koninklijke Bazar (Big Royal Bazar) was a department store
 
 RelatedAides: 
   - "The trade in objects from a colonial context":
-        link: "niveau2/English/Trade_20240316.yml"
+        link: "niveau2/English/Trade.yml"
         rel_type: "see also"
   - "Royal Cabinet of Curiosities":
-        link: "niveau3/Dutch/KKZ_20240313.yml"
+        link: "niveau3/Dutch/KKZ.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/English/WMLeiden_20240508.yml"
+        link: "niveau3/English/WMLeiden.yml"
         rel_type: "see also"
   - "Kunsthandel Van Lier":
-        link: "niveau3/English/KunsthandelVanLier_20240507.yml"
+        link: "niveau3/English/KunsthandelVanLier.yml"
         rel_type: "see also"
 
 

@@ -6,29 +6,27 @@ Abstract: "Het Nijmeegs Volkenkundig Museum is een voormalig museum dat in 1979 
 
 RelatedAides:
   - "Musea en collecties":
-        link: "niveau2/Dutch/Museum_20250113.yml"
+        link: "niveau2/Dutch/Museum.yml"
         rel_type: "see also"
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/ChristianMission_20240326.yml"
+        link: "niveau2/Dutch/ChristianMission.yml"
         rel_type: "see also"
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/Science_20240814.yml"
+        link: "niveau2/Dutch/Science.yml"
         rel_type: "see also"
   - "Missiemuseum Steyl":
-        link: "published/niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
+        link: "published/niveau3/Dutch/MissiemuseumSteyl.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-        link: "niveau3/Dutch/MOudenbosch_20250603.yml"
+        link: "niveau3/Dutch/MOudenbosch.yml"
         rel_type: "see also"
 #  - "Nederlands Volkenkundig Missiemuseum":
-  
   - "Nederlandsch Zendeling Genootschap":
-        link: "niveau3/Dutch/NZG_20240314.yml"
+        link: "niveau3/Dutch/NZG.yml"
         rel_type: "see also"
 #  - "Universitaire collecties":
-
   - "Wereldmuseum Berg en Dal":
-        link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
+        link: "niveau3/Dutch/WMBergEnDal.yml"
         rel_type: "see also"
 
 Relevant data:

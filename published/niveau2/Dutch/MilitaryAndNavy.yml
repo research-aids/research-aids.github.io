@@ -6,37 +6,37 @@ Abstract: "Leger- en marinepersoneel dat actief was in gekoloniseerde gebieden, 
 
 RelatedAides: 
   - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
+        link: "niveau1/Dutch/SelecterenEnAfbakenen.yml"
         rel_type: "see also"
   - "Ambtenaren in gekoloniseerde gebieden": 
-        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
+        link: "niveau2/Dutch/Ambtenaren.yml"
         rel_type: "see also"
   - "De handel in objecten uit een koloniale context":
-        link: "niveau2/Dutch/Handel_20240326.yml"
+        link: "niveau2/Dutch/Handel.yml"
         rel_type: "see also"
   - "Hoofdcursus Kampen":
-        link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+        link: "niveau3/Dutch/HoofdcursusKampen.yml"
         rel_type: "see also"
   - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
-        link: "published/niveau3/Dutch/BGKW_20240827.yml"
+        link: "published/niveau3/Dutch/BGKW.yml"
         rel_type: "see also"
   - "Museum Bronbeek":
-        link: "niveau3/Dutch/Bronbeek_20241002.yml"
+        link: "niveau3/Dutch/Bronbeek.yml"
         rel_type: "see also"
   - "Rijksmuseum Amsterdam":
-        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        link: "niveau3/Dutch/WMAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
-        link: "niveau3/Dutch/JustinusNassau_20250225.yml"
+        link: "niveau3/Dutch/JustinusNassau.yml"
         rel_type: "see also"
 
 Relevant data:

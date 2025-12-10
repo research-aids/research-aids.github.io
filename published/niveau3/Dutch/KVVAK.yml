@@ -6,10 +6,10 @@ Abstract: "De KVVAK is een verzamelaarsvereniging die een grote collectie Aziati
 
 RelatedAides: 
   - "De handel in objecten uit een koloniale context":
-        link: "niveau2/Dutch/Handel_20240326.yml"
+        link: "niveau2/Dutch/Handel.yml"
         rel_type: "see also"
   - "Rijksmuseum Amsterdam":
-        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
         rel_type: "see also"
 
 Relevant data:

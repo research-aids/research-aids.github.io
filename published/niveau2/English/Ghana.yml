@@ -6,22 +6,22 @@ Abstract: "Dutch museum collections contain ethnographic objects, art objects an
 
 RelatedAides: 
   - "Wereldmuseum Leiden":
-        link: "niveau3/English/WMLeiden_20240327.yml"
+        link: "niveau3/English/WMLeiden.yml"
         rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
-        link: "niveau3/English/KKZ_20240313.yml"
+        link: "niveau3/English/KKZ.yml"
         rel_type: "see also"
   - "Etnografisch Museum Artis":
-        link: "niveau3/English/EMArtis_20240711.yml"
+        link: "niveau3/English/EMArtis.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/English/WMAmsterdam_20240711.yml"
+        link: "niveau3/English/WMAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "niveau3/English/WMRotterdam_20240822.yml"
+        link: "niveau3/English/WMRotterdam.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "niveau3/English/Naturalis_20240710.yml"
+        link: "niveau3/English/Naturalis.yml"
         rel_type: "see also"
 
 Relevant data:

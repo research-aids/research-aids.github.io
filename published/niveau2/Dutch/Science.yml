@@ -6,37 +6,37 @@ Abstract: "De door Nederland gekoloniseerde gebieden vormden voor veel vakgebied
 
 RelatedAides:
   - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelecterenEnAfbakenen_20240425.yml"
+        link: "niveau1/Dutch/SelecterenEnAfbakenen.yml"
         rel_type: "see also"
   - "Ambtenaren in gekoloniseerde gebieden": 
-        link: "niveau2/Dutch/Ambtenaren_20240320.yml"
+        link: "niveau2/Dutch/Ambtenaren.yml"
         rel_type: "see also"
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/ZendingEnMissie_20240326.yml"
+        link: "niveau2/Dutch/ZendingEnMissie.yml"
         rel_type: "see also"
   - "Ghana":
-        link: "niveau2/Dutch/Ghana_20250901.yml"
+        link: "niveau2/Dutch/Ghana.yml"
         rel_type: "see also"
   - "C.G.C. Reinwardt":
-        link: "niveau3/Dutch/Reinwardt_20241217.yml"
+        link: "niveau3/Dutch/Reinwardt.yml"
         rel_type: "see also"
   - "Koninklijk Instituut voor Taal- Land- en Volkenkunde":
-        link: "niveau3/Dutch/KITLV_20240704.yml"
+        link: "niveau3/Dutch/KITLV.yml"
         rel_type: "see also"
   - "Museon-Omniversum":
-        link: "niveau3/Dutch/Museon_20250429.yml"
+        link: "niveau3/Dutch/Museon.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        link: "niveau3/Dutch/Naturalis.yml"
         rel_type: "see also"
   - "Rijksmuseum van Oudheden":
-        link: "niveau3/Dutch/RMO_20241106.yml"
+        link: "niveau3/Dutch/RMO.yml"
         rel_type: "see also"
   - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-        link: "niveau3/Dutch/GerardusLeeuw_20250513.yml"
+        link: "niveau3/Dutch/GerardusLeeuw.yml"
         rel_type: "see also"
   - "Wageningen University & Research":
-        link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
+        link: "niveau3/Dutch/WageningenUniversity.yml"
         rel_type: "see also"
 
 Relevant data: 

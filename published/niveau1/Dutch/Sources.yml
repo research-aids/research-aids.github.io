@@ -6,13 +6,13 @@ Abstract: "In deze zoekhulp vind je informatie over waar je relevante bronnen vo
 
 RelatedAides: 
   - "Onderzoeken":
-        link: "niveau1/Dutch/DoingResearch_1.yml"
+        link: "niveau1/Dutch/DoingResearch.yml"
         rel_type: "see also"
   - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelectAndDelineate_1.yml"
+        link: "niveau1/Dutch/SelectAndDelineate.yml"
         rel_type: "see also"
   - "Verslagleggen":
-        link: "niveau1/Dutch/SelectAndDelineate_1.yml" 
+        link: "niveau1/Dutch/SelectAndDelineate.yml" 
         rel_type: "see also" 
 
 Main-text:

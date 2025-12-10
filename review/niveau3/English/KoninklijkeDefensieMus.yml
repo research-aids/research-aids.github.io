@@ -6,19 +6,19 @@ Abstract: "The Stichting Koninklijke Defensiemusea (Royal Foundation for Defence
 
 RelatedAides:
   - "Museums and collections":
-        link: "niveau2/English/Museum_20250113.yml"
+        link: "niveau2/English/Museum.yml"
         rel_type: "see also"
   - "Army and navy personnel in colonised territories":
-        link: "niveau2/English/MilitaryAndNavy_20240417.yml"
+        link: "niveau2/English/MilitaryAndNavy.yml"
         rel_type: "see also"
   - "Museum Bronbeek":
-        link: "niveau3/English/Bronbeek_20241002.yml" 
+        link: "niveau3/English/Bronbeek.yml" 
         rel_type: "see also"
   - "Hoofdcursus Kampen":
-        link: "niveau3/English/HoofdcursusKampen_20250513.yml"
+        link: "niveau3/English/HoofdcursusKampen.yml"
         rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
-        link: "niveau3/English/JustinusNassau_20250513.yml"
+        link: "niveau3/English/JustinusNassau.yml"
         rel_type: "see also"
 
 Relevant data:

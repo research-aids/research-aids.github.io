@@ -6,13 +6,13 @@ Abstract: "The Van Lier art trading company was founded in 1924 by Carel van Lie
 
 RelatedAides: 
   - "The trade in objects from a colonial context":
-        link: "niveau2/English/Trade_20240316.yml"
+        link: "niveau2/English/Trade.yml"
         rel_type: "see also"
   - "Groote Koninklijke Bazar":
-        link: "niveau3/English/KoninklijkeBazaar_2040503.yml"
+        link: "niveau3/English/KoninklijkeBazaar.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/English/WMLeiden_20240508.yml"
+        link: "niveau3/English/WMLeiden.yml"
         rel_type: "see also"
 
 Relevant data:

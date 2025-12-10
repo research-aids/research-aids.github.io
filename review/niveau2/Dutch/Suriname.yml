@@ -6,31 +6,31 @@ Abstract: "Te schrijven."
 
 RelatedAides:
   - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelectAndDelineate_20240425.yml"
+        link: "niveau1/Dutch/SelectAndDelineate.yml"
         rel_type: "see also"
   - "Bronnen":
-        link: "niveau1/Dutch/Sources_20240425.yml"
+        link: "niveau1/Dutch/Sources.yml"
         rel_type: "see also"
   - "Ambtenaren":
-        link: "niveau2/Dutch/CivilServants_20240320.yml"
+        link: "niveau2/Dutch/CivilServants.yml"
         rel_type: "see also"
   - "Leger en marine":
-        link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+        link: "niveau2/Dutch/MilitaryAndNavy.yml"
         rel_type: "see also"
   - "Koninklijk Instituut voor Taal-, Land en Volkenkunde":
-        link: "niveau3/Dutch/KITLV_20240704.yml"
+        link: "niveau3/Dutch/KITLV.yml"
         rel_type: "see also"
   - "Rijksmuseum Amsterdam":
-        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        link: "niveau3/Dutch/WMAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam": 
-        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        link: "niveau3/Dutch/WMRotterdam.yml"
         rel_type: "see also" 
 
 Relevant data:

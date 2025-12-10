@@ -6,34 +6,34 @@ Abstract: "In Nederlandse museumcollecties zijn veel objecten te vinden die afko
 
 RelatedAides:
   - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelectAndDelineate_20240425.yml"
+        link: "niveau1/Dutch/SelectAndDelineate.yml"
         rel_type: "see also"
   - "Ambtenaren in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/CivilServants_20240320.yml"
+        link: "niveau2/Dutch/CivilServants.yml"
         rel_type: "see also"
   - "Saba, Sint Eustatius en Sint Maarten":
-        link: "niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml"
+        link: "niveau2/Dutch/SabaStEustatiusStMaarten.yml"
         rel_type: "see also"
   - "Koninklijk Instituut voor Taal-, Land en Volkenkunde":
-        link: "niveau3/Dutch/KITLV_20240704.yml"
+        link: "niveau3/Dutch/KITLV.yml"
         rel_type: "see also"
   - "Museon-Omniversum":
-        link: "niveau3/Dutch/Museon_20250429.yml"
+        link: "niveau3/Dutch/Museon.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        link: "niveau3/Dutch/Naturalis.yml"
         rel_type: "see also"
   - "Rijksmuseum Amsterdam":
-        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        link: "niveau3/Dutch/WMAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam": 
-        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        link: "niveau3/Dutch/WMRotterdam.yml"
         rel_type: "see also" 
 
 Relevant data:

@@ -6,16 +6,16 @@ Abstract: "De Groote Koninklijke Bazar was een warenhuis in Den Haag. De handel 
 
 RelatedAides: 
   - "De handel in objecten uit een koloniale context":
-        link: "niveau2/Dutch/Handel_20240326.yml"
+        link: "niveau2/Dutch/Handel.yml"
         rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
-        link: "niveau3/Dutch/KKZ_20240313.yml"
+        link: "niveau3/Dutch/KKZ.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
   - "Kunsthandel Van Lier":
-        link: "niveau3/Dutch/KunsthandelVanLier_20240313.yml"
+        link: "niveau3/Dutch/KunsthandelVanLier.yml"
         rel_type: "see also"
 
 Relevant data:

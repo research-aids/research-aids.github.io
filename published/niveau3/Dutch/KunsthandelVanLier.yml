@@ -6,13 +6,13 @@ Abstract: "Kunsthandel Van Lier werd in 1924 opgericht door Carel van Lier en ha
 
 RelatedAides: 
   - "De handel in objecten uit een koloniale context":
-        link: "niveau2/Dutch/Handel_20240326.yml"
+        link: "niveau2/Dutch/Handel.yml"
         rel_type: "see also"
   - "Groote Koninklijke Bazar":
-        link: "niveau3/Dutch/KoninklijkeBazar_20240313.yml"
+        link: "niveau3/Dutch/KoninklijkeBazar.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
 
 Relevant data:

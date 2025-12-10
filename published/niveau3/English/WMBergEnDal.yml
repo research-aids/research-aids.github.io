@@ -6,28 +6,28 @@ Abstract: "The Wereldmuseum Berg en Dal, previously known as the Afrika Museum, 
 
 RelatedAides:
   - "Sources":
-        link: "niveau1/English/Sources_20240501.yml"
+        link: "niveau1/English/Sources.yml"
         rel_type: "see also"
   - "Christian missionaries in colonised territories":
-        link: "niveau2/English/ChristianMission_20240417.yml"
+        link: "niveau2/English/ChristianMission.yml"
         rel_type: "see also"
   - "Nederlandsch Zendeling Genootschap":
-        link: "niveau3/English/NZG_20240508.yml"
+        link: "niveau3/English/NZG.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/English/WMLeiden_20240508.yml"
+        link: "niveau3/English/WMLeiden.yml"
         rel_type: "See also"
   - "Wereldmuseum Rotterdam":
-        link: "niveau3/English/WMRotterdam_2040822.yml"
+        link: "niveau3/English/WMRotterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/English/WMAmsterdam_20240809.yml"
+        link: "niveau3/English/WMAmsterdam.yml"
         rel_type: "see also"
   - "Missiemuseum Steyl":
-        link: "niveau3/English/MissiemuseumSteyl_20241021.yml"
+        link: "niveau3/English/MissiemuseumSteyl.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-        link: "niveau3/English/MOudenbosch_20250603.yml"
+        link: "niveau3/English/MOudenbosch.yml"
         rel_type: "see also"
 
 Relevant data:

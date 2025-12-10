@@ -6,19 +6,19 @@ Abstract: "De Stichting Koninklijke Defensiemusea is in 2014 opgericht en herber
 
 RelatedAides:
   - "Musea en collecties":
-        link: "niveau2/Dutch/Museum_20250113.yml"
+        link: "niveau2/Dutch/Museum.yml"
         rel_type: "see also"
   - "Leger- en marinepersoneel in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+        link: "niveau2/Dutch/MilitaryAndNavy.yml"
         rel_type: "see also"
   - "Museum Bronbeek":
-        link: "niveau3/Dutch/Bronbeek_20241002.yml" 
+        link: "niveau3/Dutch/Bronbeek.yml" 
         rel_type: "see also"
   - "Hoofdcursus Kampen":
-        link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+        link: "niveau3/Dutch/HoofdcursusKampen.yml"
         rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
-        link: "niveau3/Dutch/JustinusNassau_20250225.yml"
+        link: "niveau3/Dutch/JustinusNassau.yml"
         rel_type: "see also"
 
 Relevant data:

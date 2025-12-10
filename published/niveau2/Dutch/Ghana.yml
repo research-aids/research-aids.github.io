@@ -6,34 +6,34 @@ Abstract: "In Nederlandse museumcollecties zijn etnografica, kunstvoorwerpen en 
 
 RelatedAides: 
   - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelectAndDelineate_20240425.yml"
+        link: "niveau1/Dutch/SelectAndDelineate.yml"
         rel_type: "see also"
   - "Ambtenaren in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/CivilServants_20240320.yml"
+        link: "niveau2/Dutch/CivilServants.yml"
         rel_type: "see also"
   - "De handel in objecten uit een koloniale context":
-        link: "published/niveau2/Dutch/Trade_20240326.yml"
+        link: "published/niveau2/Dutch/Trade.yml"
         rel_type: "see also"
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/Science_20240814.yml"
+        link: "niveau2/Dutch/Science.yml"
         rel_type: "see also"
   - "Etnografisch Museum Artis":
-        link: "niveau3/Dutch/EMArtis_20240711.yml"
+        link: "niveau3/Dutch/EMArtis.yml"
         rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
-        link: "niveau3/Dutch/KKZ_20240313.yml"
+        link: "niveau3/Dutch/KKZ.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        link: "niveau3/Dutch/Naturalis.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        link: "niveau3/Dutch/WMAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        link: "niveau3/Dutch/WMRotterdam.yml"
         rel_type: "see also"
 
 Relevant data:

@@ -6,13 +6,13 @@ Abstract: "The Netherlands Missionary Society (Nederlandsch Zendeling Genootscha
 
 RelatedAides: 
   - "Christian missionaries in colonised territories":
-        link: "niveau2/English/ChristianMission_20240417.yml"
+        link: "niveau2/English/ChristianMission.yml"
         rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
-        link: "niveau3/English/WMBergEnDal_20241001.yml"
+        link: "niveau3/English/WMBergEnDal.yml"
         rel_type: "see also"
   - "Missiemuseum Steyl":
-        link: "niveau3/English/MissiemuseumSteyl_20241021.yml"
+        link: "niveau3/English/MissiemuseumSteyl.yml"
         rel_type: "see also"
 
 Relevant data:

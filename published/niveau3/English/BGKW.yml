@@ -6,40 +6,40 @@ Abstract: "The Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen (
 
 RelatedAides:
   - "Civil servants in colonised territories":
-        link: "niveau2/English/CivilServants_20240316.yml"
+        link: "niveau2/English/CivilServants.yml"
         rel_type: "see also"
   - "Scientific research in colonised territories":
-        link: "niveau2/English/Science_20240821.yml"
+        link: "niveau2/English/Science.yml"
         rel_type: "see also"
   - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
-        link: "niveau3/English/KITLV_20240704.yml"
+        link: "niveau3/English/KITLV.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "niveau3/English/Naturalis_20270710.yml"
+        link: "niveau3/English/Naturalis.yml"
         rel_type: "see also"
   - "Artis Etnographic Museum":
-        link: "niveau3/English/EMArtis_20240712.yml"
+        link: "niveau3/English/EMArtis.yml"
         rel_type: "see also"
   - "Royal Cabinet of Curiosities":
-        link: "niveau3/English/KKZ_20240417.yml"
+        link: "niveau3/English/KKZ.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/English/WMAmsterdam_20240809.yml"
+        link: "niveau3/English/WMAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/English/WMLeiden_20240508.yml"
+        link: "niveau3/English/WMLeiden.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "niveau3/English/WMRotterdam_2040822.yml"
+        link: "niveau3/English/WMRotterdam.yml"
         rel_type: "see also"
   - "Rijksmuseum Amsterdam":
-        link: "niveau3/English/RijksmuseumAmsterdam_20240905.yml"
+        link: "niveau3/English/RijksmuseumAmsterdam.yml"
         rel_type: "see also"
   - "Rijksmuseum van Oudheden":
-        link: "niveau3/English/RMO_20241106.yml"
+        link: "niveau3/English/RMO.yml"
         rel_type: "see also"
   - "C.G.C. Reinwardt":
-        link: "niveau3/English/Reinwardt_20241217.yml"
+        link: "niveau3/English/Reinwardt.yml"
         rel_type: "see also"
 
 Relevant data:

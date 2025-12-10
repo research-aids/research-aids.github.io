@@ -6,37 +6,37 @@ Abstract: "In 1883 werd de Internationale Koloniale en Uitvoerhandel Tentoonstel
 
 RelatedAides:
   - "Ambtenaren in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/CivilServants_20240320.yml"
+        link: "niveau2/Dutch/CivilServants.yml"
         rel_type: "see also"
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden": 
-        link: "niveau2/Dutch/Science_20240814.yml"
+        link: "niveau2/Dutch/Science.yml"
         rel_type: "see also"
   - "De handel in objecten uit een koloniale context":
-        link: "niveau2/Dutch/Trade_20240326.yml"
+        link: "niveau2/Dutch/Trade.yml"
         rel_type: "see also"
   - "Etnografisch Museum Artis":
-        link: "niveau3/Dutch/EMArtis_20240711.yml"
+        link: "niveau3/Dutch/EMArtis.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        link: "niveau3/Dutch/WMAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        link: "niveau3/Dutch/WMRotterdam.yml"
         rel_type: "see also"
   - "Rijksmuseum Amsterdam":
-        link: "niveau3/Dutch/RijksmuseumAmsterdam_20241006.yml"
+        link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
         rel_type: "see also"
   - "Museum Nusantara":
-        link: "niveau3/Dutch/MNusantara_20250130.yml"
+        link: "niveau3/Dutch/MNusantara.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        link: "niveau3/Dutch/Naturalis.yml"
         rel_type: "see also"
   - "Museum Bronbeek":
-        link: "niveau3/English/Bronbeek_20241002.yml"
+        link: "niveau3/English/Bronbeek.yml"
         rel_type: "see also"
 
 Relevant data:

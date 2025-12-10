@@ -6,43 +6,43 @@ Abstract: "Army and navy personnel collected objects in various ways in the form
 
 RelatedAides: 
   - "Sources":
-        link: "niveau1/English/Sources_20240501.yml"
+        link: "niveau1/English/Sources.yml"
         rel_type: "broader"
   - "Select and delineate":
-        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        link: "niveau1/English/SelectAndDelineate.yml"
         rel_type: "broader"
   - "Civil servants in colonised territories": 
-        link: "niveau2/English/CivilServants_20240316.yml"
+        link: "niveau2/English/CivilServants.yml"
         rel_type: "see also"
   - "Scientific research in colonised territories":
-        link: "niveau2/English/Science_20240821.yml"
+        link: "niveau2/English/Science.yml"
         rel_type: "see also"
   - "The trade in objects from a colonial context":
-        link: "niveau2/English/Trade_20240316.yml"
+        link: "niveau2/English/Trade.yml"
         rel_type: "see also"
   - "Royal Cabinet of Curiosities":
-        link: "niveau3/English/RCC_20240417.yml"
+        link: "niveau3/English/RCC.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/English/WMAmsterdam_20240809.yml"
+        link: "niveau3/English/WMAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/English/WMLeiden_20240508.yml"
+        link: "niveau3/English/WMLeiden.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/English/WMRotterdam_2040822.yml"
+        link: "niveau3/English/WMRotterdam.yml"
         rel_type: "see also"
   - "Museum Bronbeek":
-        link: "niveau3/English/Bronbeek_20241002.yml"
+        link: "niveau3/English/Bronbeek.yml"
         rel_type: "see also"
   - "Rijksmuseum Amsterdam":
-        link: "niveau3/English/RijksmuseumAmsterdam_20240905.yml"
+        link: "niveau3/English/RijksmuseumAmsterdam.yml"
         rel_type: "see also"
   - "Hoofdcursus Kampen":
-        link: "niveau3/English/HoofdcursusKampen_20250513.yml"
+        link: "niveau3/English/HoofdcursusKampen.yml"
         rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
-        link: "niveau3/English/JustinusNassau_20250513.yml"
+        link: "niveau3/English/JustinusNassau.yml"
         rel_type: "see also"
 
 Relevant data:

@@ -6,25 +6,25 @@ Abstract: "Protestant and Catholic missionaries contributed to the collection of
 
 RelatedAides: 
   - "Sources":
-        link: "niveau1/English/Sources_20240501.yml"
+        link: "niveau1/English/Sources.yml"
         rel_type: "see also"
   - "Select and delineate":
-        link: "niveau1/English/SelectAndDelineate_20240425.yml"
+        link: "niveau1/English/SelectAndDelineate.yml"
         rel_type: "see also"
   - "Scientific research in colonised territories":
-        link: "niveau2/English/Science_20240821.yml"
+        link: "niveau2/English/Science.yml"
         rel_type: "see also"
   - "Nederlandsch Zendeling Genootschap": 
-        link: "niveau3/English/NZG_20240508.yml"
+        link: "niveau3/English/NZG.yml"
         rel_type: "see also"
   - "Scientific research in colonised territories":
-        link: "niveau2/English/Science_20240821.yml"
+        link: "niveau2/English/Science.yml"
         rel_type: "see also"
   - "Missiemuseum Steyl":
-        link: "niveau3/English/MissiemuseumSteyl_20241021.yml"
+        link: "niveau3/English/MissiemuseumSteyl.yml"
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-        link: "niveau3/English/MOudenbosch_20250603.yml"
+        link: "niveau3/English/MOudenbosch.yml"
         rel_type: "see also"
 
 Relevant data:

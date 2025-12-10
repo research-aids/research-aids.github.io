@@ -6,16 +6,16 @@ Abstract: "Museon-Omniversum is een museum in Den Haag dat in 1904 is opgericht 
 
 RelatedAides:
   - "Ambtenaren in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/CivilServants_20240320.yml"
+        link: "niveau2/Dutch/CivilServants.yml"
         rel_type: "see also"
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden": 
-        link: "niveau2/Dutch/Science_20240814.yml"
+        link: "niveau2/Dutch/Science.yml"
         rel_type: "see also"
   - "Etnografisch Museum Artis":
-        link: "niveau3/Dutch/EMArtis_20240711.yml"
+        link: "niveau3/Dutch/EMArtis.yml"
         rel_type: "see also"
   - "Naturalis":
-        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        link: "niveau3/Dutch/Naturalis.yml"
         rel_type: "see also"
 
 Relevant data:

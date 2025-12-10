@@ -6,34 +6,34 @@ Abstract: "Natuurhistorisch en Volkenkundig Museum Oudenbosch ontstond in 1956 u
 
 RelatedAides:
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/ChristianMission_20240326.yml"
+        link: "niveau2/Dutch/ChristianMission.yml"
         rel_type: "see also"
   - "Musea en efgoedbeherende instellingen":
-        link: "niveau2/Dutch/Museum_20250113.yml"
+        link: "niveau2/Dutch/Museum.yml"
         rel_type: "see also"
   - "Etnografisch Museum Artis":
-        link: "niveau3/Dutch/EMArtis_20240711.yml"
+        link: "niveau3/Dutch/EMArtis.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
-        link: "niveau3/Dutch/Naturalis_20240710.yml"
+        link: "niveau3/Dutch/Naturalis.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-        link: "niveau3/Dutch/WMAmsterdam_20240711.yml"
+        link: "niveau3/Dutch/WMAmsterdam.yml"
         rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
-        link: "niveau3/Dutch/WMBergEnDal_20241001.yml"
+        link: "niveau3/Dutch/WMBergEnDal.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-        link: "niveau3/Dutch/WMRotterdam_20240822.yml"
+        link: "niveau3/Dutch/WMRotterdam.yml"
         rel_type: "see also"
   - "Missiemuseum Steyl":
-        link: "niveau3/Dutch/MissiemuseumSteyl_20241021.yml"
+        link: "niveau3/Dutch/MissiemuseumSteyl.yml"
         rel_type: "see also"
   - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-        link: "niveau3/Dutch/GerardusLeeuw_20250513.yml"
+        link: "niveau3/Dutch/GerardusLeeuw.yml"
         rel_type: "see also"
 
 Relevant data:

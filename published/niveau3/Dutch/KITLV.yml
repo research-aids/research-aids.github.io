@@ -6,25 +6,25 @@ Abstract: "Het Koninklijk Instituut voor Taal-, Land- en Volkenkunde (KITLV) wer
 
 RelatedAides:
   - "Bronnen":
-        link: "niveau1/Dutch/Sources_20240425.yml"
+        link: "niveau1/Dutch/Sources.yml"
         rel_type: "see also"
   - "Ambtenaren in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/CivilServants_20240320.yml"
+        link: "niveau2/Dutch/CivilServants.yml"
         rel_type: "see also"
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/Science_20240814.yml"
+        link: "niveau2/Dutch/Science.yml"
         rel_type: "see also"
   - "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten":
-        link: "niveau3/Dutch/BGKW_20240827.yml"
+        link: "niveau3/Dutch/BGKW.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "See also" 
   - "Aruba, Bonaire en Curaçao":
-        link: "niveau2/Dutch/ArubaBonaireCuracao_20250619.yml"
+        link: "niveau2/Dutch/ArubaBonaireCuracao.yml"
         rel_type: "See also" 
   - "Saba, Sint Eustatius en Sint Maarten":
-        link: "niveau2/Dutch/SabaStEustatiusStMaarten_202501619.yml"
+        link: "niveau2/Dutch/SabaStEustatiusStMaarten.yml"
         rel_type: "See also"
 
 Relevant data:

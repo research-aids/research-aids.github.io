@@ -6,13 +6,13 @@ Abstract: "De Universitaire Bibliotheken Leiden (UBL) herbergen een keur aan rel
 
 RelatedAides:
   - "Bronnen":
-        link: "niveau1/Dutch/Sources_20240425.yml"
+        link: "niveau1/Dutch/Sources.yml"
         rel_type: "see also"
   - "Wetenschappelijk onderzoek in koloniale gebieden":
-        link: "niveau2/Dutch/Science_20240814.yml"
+        link: "niveau2/Dutch/Science.yml"
         rel_type: "see also"
   - "Koninklijk Instituut voor Taal-, Land- en Volkenkunde":
-        link: "niveau3/Dutch/KITLV_20240704.yml"
+        link: "niveau3/Dutch/KITLV.yml"
         rel_type: "see also"
 #Universiteitsmusea        
 

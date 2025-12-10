@@ -6,22 +6,22 @@ Abstract: "Het Volkenkundig Museum 'Justinus van Nassau' is ontstaan als onderde
 
 RelatedAides:
   - "Leger- en marinepersoneel in gekoloniseerde gebieden":
-        link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
+        link: "niveau2/Dutch/MilitaryAndNavy.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden_20240327.yml"
+        link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"
   - "Wageningen University & Research":
-        link: "niveau3/Dutch/WageningenUniversity_20240327.yml"
+        link: "niveau3/Dutch/WageningenUniversity.yml"
         rel_type: "see also"
   - "Museum Bronbeek":
-        link: "niveau3/Dutch/Bronbeek_20241002.yml"
+        link: "niveau3/Dutch/Bronbeek.yml"
         rel_type: "see also"
   - "Museum Nusantara":
-        link: "niveau3/Dutch/MNusantara_20250130.yml"
+        link: "niveau3/Dutch/MNusantara.yml"
         rel_type: "see also"
   - "Hoofdcursus Kampen":
-        link: "niveau3/Dutch/HoofdcursusKampen_20250428.yml"
+        link: "niveau3/Dutch/HoofdcursusKampen.yml"
         rel_type: "see also"
 
 Relevant data:
