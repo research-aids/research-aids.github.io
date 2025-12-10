@@ -112,18 +112,19 @@ Main-text:
 
 Sources: []
 
-Editing_metadata:
-  - Date: 2025-06-24
-    Applies_to: 
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes:
-  - Date: 2025-09-16 
-    Applies_to: Main-text
-    Author: Maarten van der Bent
-    Role: reviewer
-    Editing_notes: Maarten's comments were processed by Wiebe Reints.
+editing_metadata:
+  - date: 2025-06-24
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes:
+  - date: 2025-09-16 
+    applies_to: Main-text
+    author: Maarten van der Bent
+    role: reviewer
+    editing_notes: Maarten's comments were processed by Wiebe Reints.
       
 
 
     
+
