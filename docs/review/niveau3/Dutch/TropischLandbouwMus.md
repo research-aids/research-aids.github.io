@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: False
 --- 
 
@@ -45,10 +45,10 @@ Specifieke informatie over de objecten uit het voormalige Tropische Landbouwmuse
 
 ## Related Aids
 
- - [Musea en collecties](https://research-aids.github.io/published/niveau2/Dutch/Museum.html)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.html)  
- - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.html)  
+ - [Musea en collecties](niveau2/Dutch/Museum.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw.yml)  
+ - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity.yml)  
 
 ## Primary sources
 
@@ -96,7 +96,7 @@ Catalogus:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-10
-
-(notes: This event was automatically created because the YAML file's edit history was empty.)_
+_first edited by Wiebe Reints as original_author on 2025-07-29_  
+_last edited by Maarten van der Bent as reviewer on 2025-09-16
+(applies to section: Main-text)_
         

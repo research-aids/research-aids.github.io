@@ -5,7 +5,7 @@ parent: niveau1
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: False
 --- 
 
@@ -57,15 +57,14 @@ Herkomstonderzoek kan ook proactief worden uitgevoerd. Bijvoorbeeld, wanneer de 
 
 ## Related Aids
 
- - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
- - [Het Nederlandse restitutiebeleid][DOESN'T EXIST]  
- - [Onderzoeken](https://research-aids.github.io/published/niveau1/Dutch/DoingResearch.html)  
- - [Verslagleggen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/MilitaryAndNavy.html)  
- - [Ambtenaren in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/CivilServants.html)  
- - [De handel in objecten uit een koloniale context](https://research-aids.github.io/published/niveau2/Dutch/Trade.html)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
+ - [Bronnen](niveau1/Dutch/Sources.yml)  
+ - [Onderzoeken](niveau1/Dutch/DoingResearch.yml)  
+ - [Verslagleggen](niveau1/Dutch/SelectAndDelineate.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants.yml)  
+ - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
 
 
 

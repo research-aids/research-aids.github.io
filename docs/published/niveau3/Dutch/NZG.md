@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: False
 --- 
 
@@ -40,9 +40,9 @@ In het [Repetorium van Nederlandse zendings- en missie-archieven 1800-1960](http
 
 ## Related Aids
 
- - [Zendelingen en missionarissen in gekoloniseerde gebieden][DOESN'T EXIST]  
- - [Wereldmuseum Berg en Dal](https://research-aids.github.io/published/niveau3/Dutch/WMBergEnDal.html)  
- - [Missiemuseum Steyl](https://research-aids.github.io/published/niveau3/Dutch/MissiemuseumSteyl.html)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie.yml)  
+ - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal.yml)  
+ - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl.yml)  
 
 ## Primary sources
 

@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: False
 --- 
 
@@ -47,12 +47,12 @@ Naast het archief en de collectiewebsite, geeft het Zeeuws Genootschap der Weten
 
 ## Related Aids
 
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
- - [Ghana](https://research-aids.github.io/published/niveau2/Dutch/Ghana.html)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/Dutch/BGKW.html)  
- - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](https://research-aids.github.io/published/niveau3/Dutch/KITLV.html)  
- - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
- - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [Ghana](niveau2/Dutch/Ghana.yml)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW.yml)  
+ - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV.yml)  
+ - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
 
 ## Primary sources
 
@@ -88,7 +88,6 @@ Tijdschrift:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-10
-
-(notes: This event was automatically created because the YAML file's edit history was empty.)_
+_first edited by Wiebe Reints as original_author on 2025-09-25_  
+_last edited by Maarten van der Bent; Klaas Stutje as reviewer on 2025-11-19_
         

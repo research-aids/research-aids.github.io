@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: False
 --- 
 
@@ -44,17 +44,17 @@ Tot slot is het mogelijk dat archieven in de voormalige gekoloniseerde gebieden 
 
 ## Related Aids
 
- - [Selecteren en afbakenen][DOESN'T EXIST]  
- - [Ambtenaren in gekoloniseerde gebieden][DOESN'T EXIST]  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden][DOESN'T EXIST]  
- - [Ghana](https://research-aids.github.io/published/niveau2/Dutch/Ghana.html)  
- - [C.G.C. Reinwardt](https://research-aids.github.io/published/niveau3/Dutch/Reinwardt.html)  
- - [Koninklijk Instituut voor Taal- Land- en Volkenkunde](https://research-aids.github.io/published/niveau3/Dutch/KITLV.html)  
- - [Museon-Omniversum](https://research-aids.github.io/published/niveau3/Dutch/Museon.html)  
- - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/Dutch/Naturalis.html)  
- - [Rijksmuseum van Oudheden](https://research-aids.github.io/published/niveau3/Dutch/RMO.html)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/Dutch/GerardusLeeuw.html)  
- - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/Dutch/WageningenUniversity.html)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie.yml)  
+ - [Ghana](niveau2/Dutch/Ghana.yml)  
+ - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt.yml)  
+ - [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV.yml)  
+ - [Museon-Omniversum](niveau3/Dutch/Museon.yml)  
+ - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis.yml)  
+ - [Rijksmuseum van Oudheden](niveau3/Dutch/RMO.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw.yml)  
+ - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity.yml)  
 
 ## Secondary sources
 

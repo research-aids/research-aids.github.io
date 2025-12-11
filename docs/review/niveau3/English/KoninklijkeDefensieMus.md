@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: True
 --- 
 
@@ -50,11 +50,11 @@ Archival material relating to the three museums that fall under the Royal Defenc
 
 ## Related Aids
 
- - [Museums and collections](https://research-aids.github.io/published/niveau2/English/Museum.html)  
- - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
- - [Museum Bronbeek](https://research-aids.github.io/published/niveau3/English/Bronbeek.html)  
- - [Hoofdcursus Kampen](https://research-aids.github.io/published/niveau3/English/HoofdcursusKampen.html)  
- - [Volkenkundig Museum Justinus van Nassau](https://research-aids.github.io/published/niveau3/English/JustinusNassau.html)  
+ - [Museums and collections](niveau2/English/Museum.yml)  
+ - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
+ - [Museum Bronbeek](niveau3/English/Bronbeek.yml)  
+ - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen.yml)  
+ - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau.yml)  
 
 ## Primary sources
 
@@ -78,7 +78,5 @@ Collection website:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-10
-
-(notes: This event was automatically created because the YAML file's edit history was empty.)_
+_last edited by Wiebe Reints as original_author on 2025-11-19_
         

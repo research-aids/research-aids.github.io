@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: True
 --- 
 
@@ -71,15 +71,15 @@ Other relevant resources:
 
 ## Related Aids
 
- - [Select and delineate](https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.html)  
- - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [Civil servants](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
- - [Military and navy](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](https://research-aids.github.io/published/niveau3/English/KITLV.html)  
- - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
- - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
- - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
- - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
+ - [Select and delineate](niveau1/English/SelectAndDelineate.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Civil servants](niveau2/English/CivilServants.yml)  
+ - [Military and navy](niveau2/English/MilitaryAndNavy.yml)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam.yml)  
 
 ## Primary sources
 

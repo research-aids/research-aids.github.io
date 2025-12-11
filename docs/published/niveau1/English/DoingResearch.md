@@ -5,7 +5,7 @@ parent: niveau1
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: True
 --- 
 
@@ -91,10 +91,9 @@ A number of the Dutch-language sources for provenance research into colonial col
 
 ## Related Aids
 
- - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [Select and delineate](https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.html)  
- - [Reporting](https://research-aids.github.io/published/niveau1/English/Reporting.html)  
- - [The Dutch restitution policy][DOESN'T EXIST]  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Select and delineate](niveau1/English/SelectAndDelineate.yml)  
+ - [Reporting](niveau1/English/Reporting.yml)  
 
 
 

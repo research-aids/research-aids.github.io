@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: False
 --- 
 
@@ -38,8 +38,8 @@ Niet de gehele collectie Aziatische kunst van het Rijksmuseum is een bruikleen v
 
 ## Related Aids
 
- - [De handel in objecten uit een koloniale context][DOESN'T EXIST]  
- - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html)  
+ - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam.yml)  
 
 ## Primary sources
 

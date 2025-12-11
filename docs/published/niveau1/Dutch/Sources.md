@@ -5,7 +5,7 @@ parent: niveau1
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: False
 --- 
 
@@ -94,10 +94,9 @@ Verzamelaars en organisaties kunnen in meerdere Europese landen actief geweest z
 
 ## Related Aids
 
- - [Het Nederlandse restitutiebeleid][DOESN'T EXIST]  
- - [Onderzoeken](https://research-aids.github.io/published/niveau1/Dutch/DoingResearch.html)  
- - [Selecteren en afbakenen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
- - [Verslagleggen](https://research-aids.github.io/published/niveau1/Dutch/SelectAndDelineate.html)  
+ - [Onderzoeken](niveau1/Dutch/DoingResearch.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate.yml)  
+ - [Verslagleggen](niveau1/Dutch/SelectAndDelineate.yml)  
 
 
 

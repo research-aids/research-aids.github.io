@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: True
 --- 
 
@@ -50,14 +50,14 @@ Archives of correspondence between various institutions or donors such as C.G.C.
 
 ## Related Aids
 
- - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
- - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
- - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](https://research-aids.github.io/published/niveau3/English/BGKW.html)  
- - [Royal Cabinet of Curiosities](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
- - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
- - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/RijksmuseumAmsterdam.html)  
- - [C.G.C. Reinwardt](https://research-aids.github.io/published/niveau3/English/Reinwardt.html)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/English/BGKW.yml)  
+ - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam.yml)  
+ - [C.G.C. Reinwardt](niveau3/English/Reinwardt.yml)  
 
 ## Primary sources
 

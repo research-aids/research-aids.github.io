@@ -5,7 +5,7 @@ parent: niveau0
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: False
 --- 
 
@@ -31,24 +31,23 @@ _De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Kolonia
 
 
 ### Herkomstonderzoek naar koloniale collecties
- - [Selecteren en afbakenen][DOESN'T EXIST]  
- - [Onderzoeken][DOESN'T EXIST]  
- - [Bronnen][DOESN'T EXIST]  
- - [Verslagleggen][DOESN'T EXIST]  
- - [Het Nederlandse restitutiebeleid][DOESN'T EXIST]  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen.yml)  
+ - [Onderzoeken](niveau1/Dutch/Onderzoeken.yml)  
+ - [Bronnen](niveau1/Dutch/Bronnen.yml)  
+ - [Verslagleggen](niveau1/Dutch/SelectAndDelineate.yml)  
 
 ### Categorieën en thema's
- - [Musea en collecties](https://research-aids.github.io/published/niveau2/Dutch/Museum.html)  
- - [Ambtenaren in gekoloniseerde gebieden][DOESN'T EXIST]  
- - [De handel in objecten uit een koloniale context][DOESN'T EXIST]  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden][DOESN'T EXIST]  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden][DOESN'T EXIST]  
+ - [Musea en collecties](niveau2/Dutch/Museum.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren.yml)  
+ - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie.yml)  
 
 ### Locaties
- - [Aruba, Bonaire en Curaçao](https://research-aids.github.io/published/niveau2/Dutch/ArubaBonaireCuracao.html)  
- - [Saba, Sint Eustatius en Sint Maarten](https://research-aids.github.io/published/niveau2/Dutch/SabaStEustatiusStMaarten.html)  
- - [Ghana](https://research-aids.github.io/published/niveau2/Dutch/SabaStEustatiusStMaarten.html)  
+ - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao.yml)  
+ - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
+ - [Ghana](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
 
         
 

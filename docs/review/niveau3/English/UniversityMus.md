@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: True
 --- 
 
@@ -88,13 +88,13 @@ The archives of the Agricultural College up to 1959 are held at the Gelderland A
 
 ## Related Aids
 
- - [Doing research](https://research-aids.github.io/published/niveau1/English/DoingResearch.html)  
- - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [Museums and collections](https://research-aids.github.io/published/niveau2/English/Museum.html)  
- - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
- - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](https://research-aids.github.io/published/niveau3/English/KITLV.html)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](https://research-aids.github.io/published/niveau3/English/GerardusLeeuw.html)  
- - [Wageningen University & Research](https://research-aids.github.io/published/niveau3/English/WageningenUniversity.html)  
+ - [Doing research](niveau1/English/DoingResearch.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Museums and collections](niveau2/English/Museum.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw.yml)  
+ - [Wageningen University & Research](niveau3/English/WageningenUniversity.yml)  
 
 THIS RA HAS NO SOURCES
 

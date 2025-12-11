@@ -5,7 +5,7 @@ parent: niveau1
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: False
 --- 
 
@@ -92,10 +92,9 @@ Een aantal van de Nederlandse bronnen voor herkomstonderzoek naar koloniale coll
 
 ## Related Aids
 
- - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
- - [Het Nederlandse restitutiebeleid][DOESN'T EXIST]  
- - [Selecteren en afbakenen][DOESN'T EXIST]  
- - [Verslagleggen](https://research-aids.github.io/published/niveau1/Dutch/Reporting.html)  
+ - [Bronnen](niveau1/Dutch/Sources.yml)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate.yml)  
+ - [Verslagleggen](niveau1/Dutch/Reporting.yml)  
 
 
 

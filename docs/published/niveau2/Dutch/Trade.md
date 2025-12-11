@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: False
 --- 
 
@@ -50,20 +50,20 @@ De Franse portal [AGORHA](https://agorha.inha.fr) bevat informatie over personen
 
 ## Related Aids
 
- - [Selecteren en afbakenen][DOESN'T EXIST]  
- - [Ambtenaren in gekoloniseerde gebieden][DOESN'T EXIST]  
- - [Leger- en marinepersoneel in gekoloniseerde gebieden][DOESN'T EXIST]  
- - [Zendelingen en missionarissen in gekoloniseerde gebieden](https://research-aids.github.io/published/niveau2/Dutch/ChristianMission.html)  
- - [Ghana][DOESN'T EXIST]  
- - [Groote Koninklijke Bazar](https://research-aids.github.io/published/niveau3/Dutch/KoninklijkeBazar.html)  
- - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](https://research-aids.github.io/published/niveau3/Dutch/Wereldtentoonstelling1883.html)  
- - [Koninklijke Vereniging Vrienden der Aziatische Kunst](https://research-aids.github.io/published/niveau3/Dutch/KVVAK.html)  
- - [Kunsthandel Van Lier](https://research-aids.github.io/published/niveau3/Dutch/KunsthandelVanLier.html)  
- - [Rijksmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/RijksmuseumAmsterdam.html)  
- - [Volkenkundig Museum 'Gerardus van der Leeuw'][DOESN'T EXIST]  
- - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/Dutch/WMAmsterdam.html)  
- - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/Dutch/WMLeiden.html)  
- - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/Dutch/WMRotterdam.html)  
+ - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission.yml)  
+ - [Ghana](published/niveau2/Dutch/Ghana.yml)  
+ - [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar.yml)  
+ - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883.yml)  
+ - [Koninklijke Vereniging Vrienden der Aziatische Kunst](niveau3/Dutch/KVVAK.yml)  
+ - [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier.yml)  
+ - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  
+ - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
 
 ## Primary sources
 

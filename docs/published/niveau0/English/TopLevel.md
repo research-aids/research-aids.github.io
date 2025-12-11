@@ -5,7 +5,7 @@ parent: niveau0
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: True
 --- 
 
@@ -29,24 +29,23 @@ _The Digital Research Aids are a project of the [Consortium Colonial Collections
 
 
 ### Provenance research into colonial collections
- - [Select and delineate](https://research-aids.github.io/published/niveau1/English/SelectAndDelineate.html)  
- - [Doing research](https://research-aids.github.io/published/niveau1/English/DoingResearch.html)  
- - [Sources](https://research-aids.github.io/published/niveau1/English/Sources.html)  
- - [Reporting](https://research-aids.github.io/published/niveau1/English/Reporting.html)  
- - [The Dutch restitution policy][DOESN'T EXIST]  
+ - [Select and delineate](niveau1/English/SelectAndDelineate.yml)  
+ - [Doing research](niveau1/English/DoingResearch.yml)  
+ - [Sources](niveau1/English/Sources.yml)  
+ - [Reporting](niveau1/English/Reporting.yml)  
 
 ### Themes and categories
- - [Museums and collections](https://research-aids.github.io/published/niveau2/English/Museum.html)  
- - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
- - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
- - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
- - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
- - [Christian missionaries in colonised territories](https://research-aids.github.io/published/niveau2/English/ChristianMission.html)  
+ - [Museums and collections](niveau2/English/Museum.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Christian missionaries in colonised territories](niveau2/English/ChristianMission.yml)  
 
 ### Locations
- - [Aruba, Bonaire and Curaçao](https://research-aids.github.io/published/niveau2/English/ArubaBonaireCuracao.html)  
- - [Saba, Sint Eustatius and Sint Maarten](https://research-aids.github.io/published/niveau2/English/SabaStEustatiusStMaarten.html)  
- - [Ghana](https://research-aids.github.io/published/niveau2/English/Ghana.html)  
+ - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao.yml)  
+ - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten.yml)  
+ - [Ghana](niveau2/English/Ghana.yml)  
 
         
 

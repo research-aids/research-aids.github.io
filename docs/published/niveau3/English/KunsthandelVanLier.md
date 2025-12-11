@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: True
 --- 
 
@@ -38,9 +38,9 @@ During the Second World War tens of thousands of cultural artefacts from the Net
 
 ## Related Aids
 
- - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
- - [Groote Koninklijke Bazar][DOESN'T EXIST]  
- - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
 
 ## Primary sources
 

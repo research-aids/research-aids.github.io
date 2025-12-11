@@ -5,7 +5,7 @@ parent: niveau1
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: True
 --- 
 
@@ -55,13 +55,12 @@ Provenance research can also be undertaken proactively, for example if the custo
 
 ## Related Aids
 
- - [Doing research](https://research-aids.github.io/published/niveau1/English/DoingResearch.html)  
- - [Introduction to conducting provenance research][DOESN'T EXIST]  
- - [Army and navy personnel in colonised territories](https://research-aids.github.io/published/niveau2/English/MilitaryAndNavy.html)  
- - [Civil servants in colonised territories](https://research-aids.github.io/published/niveau2/English/CivilServants.html)  
- - [The trade in objects from a colonial context](https://research-aids.github.io/published/niveau2/English/Trade.html)  
- - [Christian missionaries in colonised territories](https://research-aids.github.io/published/niveau2/English/ChristianMission.html)  
- - [Scientific research in colonised territories](https://research-aids.github.io/published/niveau2/English/Science.html)  
+ - [Doing research](niveau1/English/DoingResearch.yml)  
+ - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
+ - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
+ - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Christian missionaries in colonised territories](niveau2/English/ChristianMission.yml)  
+ - [Scientific research in colonised territories](niveau2/English/Science.yml)  
 
 
 

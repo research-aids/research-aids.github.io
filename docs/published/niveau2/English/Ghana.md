@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: True
 --- 
 
@@ -55,12 +55,12 @@ For research into the shipments to the Royal Cabinet of Curiosities please follo
 
 ## Related Aids
 
- - [Wereldmuseum Leiden](https://research-aids.github.io/published/niveau3/English/WMLeiden.html)  
- - [Koninklijk Kabinet van Zeldzaamheden](https://research-aids.github.io/published/niveau3/English/KKZ.html)  
- - [Etnografisch Museum Artis](https://research-aids.github.io/published/niveau3/English/EMArtis.html)  
- - [Wereldmuseum Amsterdam](https://research-aids.github.io/published/niveau3/English/WMAmsterdam.html)  
- - [Wereldmuseum Rotterdam](https://research-aids.github.io/published/niveau3/English/WMRotterdam.html)  
- - [Naturalis Biodiversity Center](https://research-aids.github.io/published/niveau3/English/Naturalis.html)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](niveau3/English/KKZ.yml)  
+ - [Etnografisch Museum Artis](niveau3/English/EMArtis.yml)  
+ - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
+ - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam.yml)  
+ - [Naturalis Biodiversity Center](niveau3/English/Naturalis.yml)  
 
 ## Primary sources
 

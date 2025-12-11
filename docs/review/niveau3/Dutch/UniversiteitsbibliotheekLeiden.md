@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2025-12-10
+date: 2025-12-11
 nav_exclude: False
 --- 
 
@@ -38,9 +38,9 @@ De [digitale catalogus](https://www.bibliotheek.universiteitleiden.nl/) van de U
 
 ## Related Aids
 
- - [Bronnen](https://research-aids.github.io/published/niveau1/Dutch/Sources.html)  
- - [Wetenschappelijk onderzoek in koloniale gebieden](https://research-aids.github.io/published/niveau2/Dutch/Science.html)  
- - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](https://research-aids.github.io/published/niveau3/Dutch/KITLV.html)  
+ - [Bronnen](niveau1/Dutch/Sources.yml)  
+ - [Wetenschappelijk onderzoek in koloniale gebieden](niveau2/Dutch/Science.yml)  
+ - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV.yml)  
 
 ## Primary sources
 
@@ -70,7 +70,6 @@ Website:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2025-12-10
-
-(notes: This event was automatically created because the YAML file's edit history was empty.)_
+_first edited by Wiebe Reints as original_author on 2025-09-08_  
+_last edited by Maarten van der Bent; Klaas Stutje as reviewer on 2025-11-19_
         
