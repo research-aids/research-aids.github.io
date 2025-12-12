@@ -59,3 +59,10 @@ Main-text:
 
     ### Herkomstonderzoek
   content-type: text/markdown
+
+editing_metadata:
+- date: 2025-09-01
+  applies_to: 
+  author: Maarten van der Bent
+  role: original_author
+  editing_notes: 
