@@ -60,7 +60,7 @@ Relevant data:
   Collections:
     General remarks:
       content: |
-        "De collectie van het Rijksmuseum Amsterdam binnen de datahub is een selectie objecten die afkomstig zijn uit een koloniale context, die door het Rijksmuseum zelf is aangeleverd."
+        "De collectie van het Rijksmuseum Amsterdam binnen de Datahub is een selectie objecten die afkomstig zijn uit een koloniale context, die door het Rijksmuseum zelf is aangeleverd."
       content-type: text/markdown
     Within the Data Hub: "https://app.colonialcollections.nl/en/objects?publishers=Rijksmuseum"
       
