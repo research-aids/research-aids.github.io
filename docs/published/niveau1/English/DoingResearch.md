@@ -23,7 +23,7 @@ In this research aid you find information on the steps you can follow during you
 
 ## What steps can you follow?
 
-Provenance research can be approached in various ways. Depending on the purpose of your research you will go through one or more of the steps below. In practice, these steps often overlap and can be carried out simultaneously. Many possible research steps are described in detail in the report _[Clues; Research into provenance history and significance of cultural objects and collections acquired in colonial situations](https://d3mb4k8bvt6xe4.cloudfront.net/2022-03/Clues_Final_Report_PPROCE.pdf)_. Other reference works are listed at the end of this research aid.
+Provenance research can be approached in various ways. Depending on the purpose of your research you will go through one or more of the steps below. In practice, these steps often overlap and can be carried out simultaneously. Many possible research steps are described in detail in the report _[Clues; Research into provenance history and significance of cultural objects and collections acquired in colonial situations](https://d3mb4k8bvt6xe4.cloudfront.net/2022-03/Clues_Final_Report_PPROCE.pdf)_ and the publication _[Provenance research into collections from a colonial context. A guide](https://english.cultureelerfgoed.nl/documents/2025/01/01/provenance-research-into-collections-from-a-colonial-context---a-guide)_ by the Cultural Heritage Agency of the Netherlands. Other relevant reference works are listed at the end of this research aid.
 
 **Step 1: Collection research**
 
@@ -75,29 +75,28 @@ Possible sources include:
 - Communities in the areas of origin;
 - Experts with knowledge of the object or the colonial past.
 
-The research aid [Sources](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F5f0031f66044adefab19b67b1344b31d) provides information on where to find these sources. Backgrounds on individuals, colonial institutions and events can be found using the digital research guides within the DataHub or sources such as Wikipedia. Please note that various Wikipedia pages contain information taken unfiltered from sources with a colonial perspective. It is therefore advisable to always consult the version in the language of the area of origin as well.
+The research aid [Sources](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F5f0031f66044adefab19b67b1344b31d) provides information on where to find these sources. Backgrounds on individuals, colonial institutions and events can be found using the digital research guides within the Datahub or sources such as Wikipedia. Please note that various Wikipedia pages contain information taken unfiltered from sources with a colonial perspective. It is therefore advisable to always consult the version in the language of the area of origin as well.
 
 A number of the Dutch-language sources for provenance research into colonial collections have been digitalised, greatly facilitating the research. As digital databases are constantly being supplemented it may be worth repeating a previously unsuccessful query at a later date.
 
 ## Literature on conducting provenance research 
 
 - Mooren, Jona, Stutje, Klaas. _[Clues; Research into provenance history and significance of cultural objects and collections acquired in colonial situations](https://www.niod.nl/en/publications/clues-PPROCE)_ (Amsterdam: Rijksmuseum, 2022). 
+- Pennock, Hanna, Renate Meijer. _[Provenance research into collections from a colonial context. A guide](https://english.cultureelerfgoed.nl/documents/2025/01/01/provenance-research-into-collections-from-a-colonial-context---a-guide)_ (Amersfoort: Rijksdienst voor het Cultureel Erfgoed, 2025).
 - Yeide, Nancy, Akinsha, Konstantin and Walsh, Amy L. _[AAM Guide to Provenance Research](https://search.worldcat.org/title/The-AAM-guide-to-provenance-research/oclc/46671065)_ (Washington D.C. 2001).
 - Lang, Sabine (ed.), _[Guidelines for German Museums. Care of Collections from Colonial Contexts](https://www.museumsbund.de/publikationen/guidelines-on-dealing-with-collections-from-colonial-contexts-2/)_. 2nd Edition (German Museums Association, 2019).
 - Deterts, Dorothea (ed.), _[Recommendations for the Care of Human Remains in Museums and Collections](https://www.museumsbund.de/wp-content/uploads/2017/04/2013-recommendations-for-the-care-of-human-remains.pdf)_ (German Museums Association, 2013).
-- Pennock, Hanna and Vermaat, Simone (eds.), [Onderzoek naar sporen van slavernij en het koloniale verleden in de collectieregistratie. Een handreiking](https://www.cultureelerfgoed.nl/publicaties/publicaties/2021/01/01/handreiking-onderzoek-naar-sporen-van-slavernij-en-het-koloniale-verleden-in-de-collectieregistratie)_ (Rijksdienst voor het Cultureel Erfgoed, 2021).
 - Tips on researching Dutch archives can be found on the YouTube channel of the Kennisnetwerk Informatie en Archief [Knowledge Network Information and Archives](https://www.youtube.com/@platformkia).
 - Specifically for conducting research in the National Archives of the Netherlands there is the research aid [How do I conduct research in archives?](https://www.nationaalarchief.nl/onderzoeken/hoe-doe-ik-onderzoek-in-archieven) (Dutch only).
 
 ## Related Aids
 
+ - [Reporting](niveau1/English/Reporting.yml)  
  - [Sources](niveau1/English/Sources.yml)  
  - [Select and delineate](niveau1/English/SelectAndDelineate.yml)  
- - [Reporting](niveau1/English/Reporting.yml)  
 
 
 
-_first edited by wiebe reints as original_author on 2024-04-25_  
-_last edited by abacus as translator on 2025-03-12
-(applies to section: Main-text)_
+_first edited by Wiebe Reints as original_author on 2024-04-25_  
+_last edited by Wiebe Reints as original_author on 2025-12-12_
         

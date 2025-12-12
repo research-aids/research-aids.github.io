@@ -51,11 +51,11 @@ Een voorbeeld van een tijdlijn is:
 
 **Gegevens koppelen**
 
-Voor musea is het naast tekstuele verslaglegging aan te raden om de herkomst ook vast te leggen in het collectiemanagementsysteem via een koppeling van alle met de herkomst verbonden personen en instellingen aan het object. Het is ook nuttig om koppelingen te maken naar herkomstgebeurtenissen, indien het collectiemanagementsysteem deze mogelijkheid biedt. Op die manier zijn de herkomstgegevens gemakkelijker doorzoekbaar en koppelbaar aan externe bronnen.
+Voor musea is het naast tekstuele verslaglegging aan te raden om de herkomst ook vast te leggen in het collectiemanagementsysteem via een koppeling van alle met de herkomst verbonden personen en instellingen aan het object. Het is ook nuttig om koppelingen te maken naar herkomstgebeurtenissen indien het collectiemanagementsysteem deze mogelijkheid biedt. Op die manier zijn de herkomstgegevens gemakkelijker doorzoekbaar en koppelbaar aan externe bronnen.
 
 **Afbeeldingen**
 
-Historische foto's, plattegronden en andere illustraties kunnen het verslag verduidelijken. Dit geldt eveneens voor foto's van het object en details daarvan. Versieringen en inscripties kunnen bijvoorbeeld belangrijke informatie bevatten. Het is evenwel goed om er rekening mee te houden dat het afbeelden en/of bekijken van bepaalde objecten door gemeenschappen van herkomst soms als ongewenst wordt beschouwd. Als er een vermoeden bestaat dat dergelijke restricties van toepassing zijn, dan is het raadzaam advies te zoeken van deskundigen. Dit geldt in het bijzonder voor het afbeelden van voorouderlijke resten. Daarnaast moet er rekening worden gehouden met de geldende auteursrechten, indien het verslag openbaar wordt gemaakt.
+Historische foto's, plattegronden en andere illustraties kunnen het verslag verduidelijken. Dit geldt eveneens voor foto's van het object en details daarvan. Versieringen en inscripties kunnen bijvoorbeeld belangrijke informatie bevatten. Het is evenwel goed om er rekening mee te houden dat het afbeelden en/of bekijken van bepaalde objecten door gemeenschappen van herkomst soms als ongewenst wordt beschouwd. Als er een vermoeden bestaat dat dergelijke restricties van toepassing zijn, dan is het raadzaam advies te zoeken van deskundigen. Dit geldt in het bijzonder voor het afbeelden van voorouderlijke (menselijke) resten. Daarnaast moet er rekening worden gehouden met de geldende auteursrechten, indien het verslag openbaar wordt gemaakt.
 
 **Taalgebruik**
 
@@ -71,5 +71,6 @@ De publicatie [Woorden doen ertoe](https://www.tropenmuseum.nl/sites/default/fil
 
 
 
-_last edited by wiebe reints as original_author on 2024-05-01_
+_first edited by wiebe reints as original_author on 2024-05-01_  
+_last edited by Wiebe Reints as original_author on 2025-12-12_
         
