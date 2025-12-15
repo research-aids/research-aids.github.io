@@ -18,11 +18,11 @@ De publicatie [Woorden doen ertoe](https://www.tropenmuseum.nl/sites/default/fil
 
 ## Zoektermen
 
-Bij herkomstonderzoek naar koloniale collecties moet je andere zoektermen gebruiken dan de huidige woorden die we nu gebruiken. Dit geldt onder meer voor plaatsnamen: deze zijn vaak veranderd na de onafhankelijkheid. Zo werd Batavia [Jakarta](https://sws.geonames.org/1642911/) en Leopoldville werd [Kinshasa](https://sws.geonames.org/2314302/). Wanneer plaatsnamen gelijk bleven was de spelling in de koloniale periode vaak anders dan nu (denk aan Soerabaja/Surabaya](https://sws.geonames.org/1625822/) en [Tjirebon/Cirebon](https://sws.geonames.org/1646170/)).
+Bij herkomstonderzoek naar koloniale collecties moet je andere zoektermen gebruiken dan de huidige woorden die we nu gebruiken. Dit geldt onder meer voor plaatsnamen: deze zijn vaak veranderd na de onafhankelijkheid. Zo werd Batavia [Jakarta](https://sws.geonames.org/1642911/) en Leopoldville werd [Kinshasa](https://sws.geonames.org/2314302/). Wanneer plaatsnamen gelijk bleven was de spelling in de koloniale periode vaak anders dan nu (denk aan [Soerabaja/Surabaya](https://sws.geonames.org/1625822/) en [Tjirebon/Cirebon](https://sws.geonames.org/1646170/)).
 
 Ook voor voorwerpen werden andere termen gebruikt dan in het Nederlands van nu. Als voorbeeld: een baadje noemen we tegenwoordig een jasje. In Nederlands-Indië werden ook Nederlandse termen gebruikt die uit het Indonesisch waren afgeleid, zoals rampokken en rampassen als synoniem voor plunderen. Niet-Nederlandse namen werden op verschillende manieren gespeld, ook in de koloniale tijd. Van Nederlanders werd vaak alleen de achternaam en initialen vermeld. Probeer daarom altijd te achterhalen welke namen en termen vroeger gebruikt werden en zoek met verschillende varianten in de zoeksystemen.
 
-## Waar kan je bronnen vinden?:
+## Waar kan je bronnen vinden?
 
 **Persoonlijke archieven en egodocumenten**
 
