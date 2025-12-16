@@ -37,9 +37,9 @@ Trade in colonial objects continues to this day. In some cases provenance resear
 
 Compared to the trade in western art, the archives of dealers in ethnographic and non-western objects are less often preserved in archival institutions. Where dealers traded in both genres of art, sometimes only archives relating to Western art appear to have been preserved. Where business records do survive, they are usually in the archives of the municipality where the company was located. The RKD (Netherlands Institute for Art History) and the National Archives also hold some archives of dealers in colonial art.
 
-Due to privacy legislation auction houses do not disclose the names of consignors to auctions that took place within the last 50 years. Still, it is worth making an inquiry, if only to get a rough description of the consignor. International auction houses such as [Christie's](https://www.christies.com/) and [Sotheby's](https://www.sothebys.com/en/) have specialist staff who provide information for provenance research. An important source are catalogues for auctions of non-western objects. The two largest libraries in this field, those of the RKD and the Rijksmuseum, also have annotated catalogues, which sometimes contain notes on the objects, buyers and sellers.
+Due to privacy legislation auction houses do not disclose the names of consignors to auctions that took place within the last 50 years. Still, it is worth making an inquiry, if only to get a rough description of the consignor. International auction houses such as [Christie's](https://www.christies.com/) and [Sotheby's](https://www.sothebys.com/en/) have specialist staff who provide information for provenance research. An important source are catalogues for auctions of non-western objects.
 
-The libraries of the [RKD (Netherlands Institute for Art History)](https://rkd.nl/nl/explore/library) and the [Rijksmuseum](www.library.rijksmuseum.nl) have extensive collections of catalogues of auctions held in the Netherlands, including auctions of non-western objects. The RKD's digitalised auction catalogues are available through the [Art Sales Catalogues Online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online) database. This database can be consulted for free onsite at the Rijksmuseum Research Library and the RKD.
+The libraries of the [RKD (Netherlands Institute for Art History)](https://rkd.nl/nl/explore/library) and the [Rijksmuseum](www.library.rijksmuseum.nl) have extensive collections of catalogues of auctions held in the Netherlands, including auctions of non-western objects. Annotated catalogues sometimes contain notes about the items, buyers, and sellers in an auction. The RKD's digitalised auction catalogues are available through the [Art Sales Catalogues Online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online) database. This database can be consulted for free onsite at the Rijksmuseum Research Library and the RKD.
 
 Many of the catalogues at the RKD and the Rijksmuseum Research Library are not yet accessible online and cannot be found in the library catalogue. However, it is possible to contact both libraries, stating the date and name of the auction house, and the staff will see if the relevant catalogue is available.
 
@@ -99,6 +99,5 @@ Book:
 TO BE FILLED
 
 _first edited by wiebe reints as original_author on 2024-03-16_  
-_last edited by abacus as translator on 2025-03-12
-(applies to section: Main-text; Sources)_
+_last edited by Wiebe Reints as original_author on 2025-12-16_
         

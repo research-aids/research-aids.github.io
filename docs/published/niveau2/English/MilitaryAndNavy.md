@@ -25,18 +25,21 @@ Army and navy personnel collected objects in various ways in the former Dutch co
 
 Dutch control in the [Dutch East Indies](https://sws.geonames.org/1643084), [Suriname](https://sws.geonames.org/3382998) and the [ABCSSS islands](https://sws.geonames.org/8505032) relied heavily on the deployment of the Army. The Koninklijk Nederlandsch-Indisch Leger [Royal Dutch East Indies Army (KNIL)](https://hdl.handle.net/20.500.11840/pi7416) operated in the Dutch East Indies. The KNIL was formed by officers of Dutch or other European nationality and mostly local soldiers. The colonial force in Suriname and [Curaçao](https://sws.geonames.org/7626836) in the 19th century was the West-Indisch Leger [West Indies Army], which was in turn part of the Dutch Army. In the 20th century, officers for Suriname were recruited from the KNIL, while non-commissioned officers and soldiers were recruited both in Europe and locally. The [Indonesian War of Independence (1945-1949)](https://www.wikidata.org/entity/Q1332160) saw the deployment of tens of thousands of volunteers and conscripts from the Dutch Army.
 
-Only a small number of objects in Dutch museums are official spoils of war sent to the Netherlands by order of the colonial forces. A well-known example is the so-called [Lombok treasure](https://www.wikidata.org/entity/Q115754448). There are many more objects which have come from individual members of the military and ended up in the Netherlands through private initiative. There were several ways in which military personnel obtained these objects; they may have been looted, gifted or bought from the local population. In the case of gifts received and objects purchased by military personnel it is important to remember that there was an unequal balance of power between coloniser and colonised. Objects may have been sold or gifted out of fear, to appease the ruler or because the persistent war situation led to impoverishment of the population.
+Only a small number of objects in Dutch museums are official spoils of war sent to the Netherlands by order of the colonial forces. A well-known example was the so-called [Lombok treasure](https://www.wikidata.org/entity/Q115754448), which has been restituted to Indonesia in 1977 and 2023. There are many more objects which have come from individual members of the military that ended up in the Netherlands through private initiative. There were several ways in which military personnel obtained these objects; they may have been looted, gifted or bought from the local population. 
+
+In the case of gifts received and objects purchased by military personnel it is important to remember that there was an unequal balance of power between coloniser and colonised. Objects may have been sold or gifted out of fear, to appease the ruler or because the persistent war situation led to impoverishment of the population. It is therefore necessary to give a contextualisation of such gifts and purchases.
 
 ### Provenance research
 
 Military personnel in the colonial armies regularly changed jobs and postings, and they rose in rank. The rank listed in the object documentation may therefore be different from the rank at the time of acquisition in the country of origin. The personnel files (service registers) in the National Archives of the Netherlands and officer's books are reliable sources to find out a person’s rank, job and posting at the time of acquisition. The digitalised newspapers on [Delpher](https://www.delpher.nl/) are useful for retrieving further information about the wartime actions and further duties of the soldier in question. 
+
 To find information about a soldier, it is important to first determine which army or army unit they served with, for example the Landmacht (the Dutch Army), the KNIL or the Navy. The [research aid](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel) of the National Archives can help with this. 
 
 The personnel files (service registers) of army and naval personnel are searchable online. There are research aids for the Dutch East Indies, West Indies and the various naval and army units. The service registers contain information about when a soldier or seaman was stationed where, along with brief personal information. A [glossary](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militaire-stamboeken-afkortingen-en-verklarende-woordenlijst) explains the abbreviations used in the records.
 
 The personnel files of soldiers deployed to Indonesia in 1945-1949 will be at the Dutch Ministry of Defence until 2026-2027 and can be requested via the [website of the ministry](https://english.defensie.nl/). To access a service record, a death certificate must be provided. Death certificates are subject to privacy restrictions but an extract of the ‘persoonskaart’ will also suffice. Extracts can be requested from the CBG (Center for Family History). Key information listed in the service record includes the army unit the soldier served in. Archive documents and/or egodocuments relating to almost every army unit can be found in archives and publications. These are mainly held in the collections of the NIOD and the NIMH and at Leiden University Libraries.
 
-[Museum Bronbeek](https://www.defensie.nl/onderwerpen/bronbeek) is a knowledge centre of the Netherlands’ Dutch colonial and military past. The emphasis is on the Dutch East Indies but material from other colonies is also available. You can contact [loket.bronbeek@mindef.nl](mailto:loket.bronbeek@mindef.nl) to request information about a particular soldier, event or object.
+[Museum Bronbeek](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f) is a knowledge centre of the Netherlands’ Dutch colonial and military past. The emphasis is on the Dutch East Indies but material from other colonies is also available. You can contact [loket.bronbeek@mindef.nl](mailto:loket.bronbeek@mindef.nl) to request information about a particular soldier, event or object.
 
 
 ## Related Aids
@@ -68,12 +71,6 @@ Image collection:
   > _The image library of the Netherlands Institute for Military History contains historical image material._  
 
   > [https://nimh-beeldbank.defensie.nl/](https://nimh-beeldbank.defensie.nl/)
-
-Museum:
-  > *Museum Bronbeek*
-  > _Museum Bronbeek is a knowledge centre of the Netherlands’ colonial and military past. The emphasis is on the Dutch East Indies but material from other colonies is also available. You can contact loket.bronbeek@mindef.nl to request information about a particular soldier, event or object._  
-
-  > [https://www.defensie.nl/onderwerpen/bronbeek](https://www.defensie.nl/onderwerpen/bronbeek)
 
 Web portal:
   > *Nederlands Militair Erfgoed*
@@ -108,6 +105,5 @@ Research aid:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-04-17_  
-_last edited by Abacus as translator on 2025-03-12
-(applies to section: Main-text; Sources)_
+_last edited by Wiebe Reints as original_author on 2025-12-16_
         
