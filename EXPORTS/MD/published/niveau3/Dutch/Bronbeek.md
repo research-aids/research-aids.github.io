@@ -4,17 +4,17 @@
 
 ## Abstract
 
-Museum Bronbeek werd in 1863 geopend als onderdeel van het Koloniaal Militair Invalidenhuis, nabij Arnhem. Het bevat een grote collectie aan militaria, maar ook etnografische en andersoortige objecten.
+Museum Bronbeek werd in 1863 geopend als onderdeel van het Koloniaal Militair Invalidenhuis, nabij Arnhem. Het museum beheert een grote collectie aan militaria, maar ook etnografische en buitgemaakte objecten.
 
 ### Geschiedenis van het museum
 
 Nadat [Koning Willem III](http://www.wikidata.org/entity/Q125649) in 1862 het landgoed Bronbeek had overgedragen aan de Nederlandse Staat, werd er in 1863 een tehuis gesticht voor invalide koloniale militairen die gediend hadden in het [Koninklijk Nederlands-Indisch Leger](http://www.wikidata.org/entity/Q523553) (KNIL). Reeds vanaf 1880 was het tehuis ook opengesteld voor militairen van de Koninklijke Marine, dit gold vanaf 1963 ook voor andere krijgsmachtdelen. 
 
-Door de jaren heen schonken leden van het Koninklijk Huis, het Ministerie van Koloniën en gepensioneerde hoge ambtenaren en militairen objecten zoals wapens, vaandels, medailles en portretten aan het tehuis. Zo ontwikkelde Bronbeek zich tot een toonbeeld van de Nederlandse overheid, het Koningshuis en de koloniale expansie. In de loop van de tijd kreeg het tehuis zodoende ook een museale functie.
+Door de jaren heen schonken leden van het Koninklijk Huis, het Ministerie van Koloniën, gepensioneerde hoge ambtenaren en militairen objecten zoals wapens, vaandels, medailles en portretten aan het tehuis. Zo kreeg het tehuis in de loop van de tijd ook een museale functie.
 
-Tot 1959 was het tehuis en haar museum ondergebracht bij het Ministerie van Koloniën, hierna viel het onder het toen nieuwe Ministerie van Defensie, waar het tot op heden onderdeel van is. Tot 1950 werden de objecten in het museum nog altijd op de typische negentiende-eeuwse-manier tentoongesteld: de muren waren volgehangen met schilderijen en aan weerszijden van een smal pad werd een grote hoeveelheid objecten getoond. 
+Tot 1959 was het tehuis en haar museum ondergebracht bij het Ministerie van Koloniën. Hierna viel het onder het nieuw ingestelde Ministerie van Defensie, waar het tot op heden onderdeel van is. Tot 1950 werden de objecten in het museum nog altijd op een typische negentiende-eeuwse-manier tentoongesteld: de muren waren volgehangen met schilderijen en aan weerszijden van een smal pad werd een grote hoeveelheid objecten getoond. 
 
-In 1951 werd de museumopstelling in samenwerking met conservatoren van het [Tropenmuseum]( https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208) (tegenwoordig Wereldmuseum Amsterdam) aangepast. De nieuwe opstelling was meer etnografisch van aard en een gedeelte over de Tweede Wereldoorlog in Azië werd toegevoegd. Na een complete renovatie van het museum en tehuis in 1998, veranderde in 2010 ook de inhoudelijke koers: het museum werd een koloniaal militair historisch museum, dat het handelen van de koloniale overheid centraal stelt. 
+In 1951 werd de museumopstelling in samenwerking met conservatoren van het [Tropenmuseum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208) (tegenwoordig Wereldmuseum Amsterdam) aangepast. De nieuwe opstelling was meer etnografisch van aard en een gedeelte over de Tweede Wereldoorlog in Azië werd toegevoegd. Na een complete renovatie van het museum en tehuis in 1998, veranderde in 2010 ook de inhoudelijke koers: het museum werd een koloniaal militair historisch museum, dat het handelen van de koloniale overheid centraal stelt. 
 
 In 2024 opende Museum Bronbeek een nieuwe vaste opstelling van de collectie.
 
@@ -25,11 +25,11 @@ _Interieur van de begane grond van Museum Bronbeek, 1980_ ([Paul van Galen / Rij
 
 De collectie van Museum Bronbeek is doorzoekbaar op de [collectiewebsite](http://museumbronbeek.nl/) van het museum. De bibliotheek met meer dan 15.000 boeken is doorzoekbaar via [Worldcat](https://mindef.on.worldcat.org/discovery).
 
-Archiefmateriaal met betrekking tot Museum Bronbeek bevindt zich voornamelijk bij het [Nationaal Archief](https://www.nationaalarchief.nl/onderzoeken) (Ministerie van Koloniën, verspreid over verschillende afdelingen) in Den Haag. Ook bevindt zich materiaal bij het museum zelf, dat is doorzoekbaar via de [collectiewebsite]( www.museumbronbeek.nl). Het museum werkt op dit moment aan een digitale reconstructie van haar archief.
+Archiefmateriaal met betrekking tot Museum Bronbeek bevindt zich voornamelijk bij het [Nationaal Archief](https://www.nationaalarchief.nl/onderzoeken) (Ministerie van Koloniën, verspreid over verschillende afdelingen) in Den Haag. Ook bevindt zich materiaal bij het museum zelf. Dat is doorzoekbaar via de [collectiewebsite](www.museumbronbeek.nl). Het museum werkt op dit moment aan een digitale reconstructie van haar archief.
 
-In 2024 heeft Museum Bronbeek een [website](http://www.rmwo.nl/) gelanceerd met 6000 biografieën van Ridders in de Militaire Willems-Orde. Hierin zijn verschillende publicaties over de Militaire Willems-Orde verzameld, aangevuld en online doorzoekbaar gemaakt. Er kan worden gezocht op naam, jaartal, rang of legeronderdeel. Individuele pagina's bevatten een persoonlijke informatie, informatie over detachering en archiefverwijzingen. Het museum houdt ook een [blog]( http://www.museumbronbeekblog.nl) bij, waar artikelen zijn te vinden over het onderzoek dat het museum verricht.
+In 2024 heeft Museum Bronbeek een website gelanceerd met [6000 biografieën van Ridders in de Militaire Willems-Orde](http://www.rmwo.nl/). Hierin zijn verschillende publicaties over de Militaire Willems-Orde verzameld, aangevuld en online doorzoekbaar gemaakt. Er kan worden gezocht op naam, jaartal, rang of legeronderdeel. Individuele pagina's bevatten persoonlijke informatie, informatie over detachering en archiefverwijzingen. Het museum houdt ook een [blog](http://www.museumbronbeekblog.nl) bij, waar artikelen zijn te vinden over het collectieonderzoek dat het museum verricht.
 
-Het museum beheert verschillende datasets over stamboeken van het KNIL, uitgezonden militairen in de periode 1945-1950 en Japanse krijgsgevangenen en burgerambtenaren. De datasets zijn te gebruiken in het museum en de indexen zullen inde toekomst beschikbaar zijn in het [dataset-register]( https://datasets.colonialcollections.nl/en/datasets) van het Consortium Koloniale Collecties.
+Het museum beheert verschillende datasets over stamboeken van het KNIL, uitgezonden militairen in de periode 1945-1950 en Japanse krijgsgevangenen en burgerambtenaren. De datasets zijn te gebruiken in het museum en de indexen zullen in de toekomst beschikbaar zijn in het [dataset-register](https://datasets.colonialcollections.nl/nl/datasets/https%3A%2F%2Fdata.colonialcollections.nl%2FBronbeek%2FStamboeken) van het Consortium Koloniale Collecties.
 
 
 ## Related Aids
@@ -74,6 +74,5 @@ Boek:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-10-02_  
-_last edited by Pauljac Verhoeven; John Klein Nagelvoort  on 2025-07-07
-(applies to section: Main-text; Sources)_
+_last edited by Wiebe Reints as original_author on 2025-12-19_
         
