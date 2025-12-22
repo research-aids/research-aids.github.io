@@ -19,11 +19,11 @@ nav_exclude: True
 
 ## Abstract
 
-The Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV) was founded in 1851 with the task of establishing a scientific collection and promote the sciences in the Dutch colonies. Nowadays, the institute focuses on the study of Southeast Asia and the Caribbean region. In 2014, the entire collection of the KITLV was transferred to the Leiden University Libraries.
+The Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV) was founded in 1851 with the task of establishing a scientific collection and promote scientific research in the Dutch colonies. Nowadays, the institute focuses on the study of Southeast Asia and the Caribbean region. In 2014, the entire collection of the KITLV was transferred to the Leiden University Libraries.
 
 ### History
 
-The Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV) was founded in 1851 by [Jean Chrétien Baud](http://www.wikidata.org/entity/Q2334397), [Taco Roorda](http://www.wikidata.org/entity/Q13138262) and [Gerrit Simons](http://www.wikidata.org/entity/Q2318641). From 1873 land studies, or geography, was left to the Koninklijk Nederlands Aardrijkskundig Genootschap (Royal Dutch Geographical Society, KNAG), founded in that year, while history joined linguistics and anthropology as a KITLV area of research. The initial tasks of the KITLV were threefold: establishing and maintaining a collection (including, for example, a large photographic collection), conducting research into and within regions colonised by the Netherlands, and publishing its research results in the journals *Bijdragen tot de taal-, land- en volkenkunde* and the *Nieuw West-Indische Gids*, with the latter focusing exclusively on research in and into the (Dutch) Caribbean region. Although the KITLV focused on the Dutch colonies in Southeast Asia and the Caribbean, the emphasis was on research in and into the Indonesian archipelago.
+The Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV) was founded in 1851 by [Jean Chrétien Baud](http://www.wikidata.org/entity/Q2334397), [Taco Roorda](http://www.wikidata.org/entity/Q13138262) and [Gerrit Simons](http://www.wikidata.org/entity/Q2318641). From 1873 land studies, or geography, was left to the Koninklijk Nederlands Aardrijkskundig Genootschap (Royal Dutch Geographical Society, KNAG), founded in that year, while history joined linguistics and anthropology as a KITLV area of research. The initial tasks of the KITLV were threefold: establishing and maintaining a collection (which mainly takes the form of a library, but also a large photographic collection), conducting research into and within regions colonised by the Netherlands, and publishing its research results in the journals *Bijdragen tot de taal-, land- en volkenkunde* and the *Nieuw West-Indische Gids*, with the latter focusing exclusively on research in and into the (Dutch) Caribbean region. Although the KITLV focused on the Dutch colonies in Southeast Asia and the Caribbean, the emphasis was on research in and into the Indonesian archipelago.
 
 From its inception, the focus of the research conducted by the KITLV followed the same lines as Dutch colonial policy. When the transfer of sovereignty to Indonesia took place in 1949, the KITLV's attention initially shifted to New Guinea, which remained under Dutch control until 1963. When New Guinea also ceased to be part of the Kingdom of the Netherlands, attention shifted to Suriname and the Caribbean. In 1966 the KITLV moved from The Hague to Leiden, where it became part of the university. Despite decolonisation, and perhaps thanks to the improved relations between the Netherlands and Indonesia in the 1960s, a KITLV representation was established in Jakarta in 1969, collaborating with the Indonesian scientific institute Lembaga Ilmu Pengetahuan Indonesia (LIPI). Nowadays [KITLV-Jakarta](https://www.library.universiteitleiden.nl/about-us/library-locations/kitlv-jakarta) is part of Leiden University Library.
 
@@ -118,6 +118,5 @@ Magazine:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-07-04_  
-_last edited by Abacus as translator on 2025-04-07
-(applies to section: Main-text; Sources)_
+_last edited by Wiebe Reints as original_author on 2025-12-22_
         
