@@ -8,7 +8,7 @@ The Missiemuseum in Steyl was opened in its current form in 1931. The collection
 
 ### History of the museum
 
-In 1875, during the so-called *Kulturkampf* in Germany, the priest Arnold Janssen decided to found the [Society of the Divine Word (Societas Verbi Divini)](http://www.wikidata.org/entity/Q696656, SVD) in Steyl, just across the border with the Netherlands. Ever since the mission to China in 1879, missionaries had been collecting objects and sending them back to Steyl. In 1894, the mission house built a new printing workshop, where the collection was also housed. The collection grew steadily with objects from various countries to which the Steyl missionaries travelled, and as well as ethnographic artefacts it comprised taxidermied and preserved animals. Not all of the animals and objects were collected by the missionaries from Steyl, other collections were also incorporated. Due to the growing collection, the museum moved to another new location, where it remains to this day.
+In 1875, during the so-called *Kulturkampf* in Germany, the priest Arnold Janssen decided to found the [Society of the Divine Word](http://www.wikidata.org/entity/Q696656)  (Societas Verbi Divini, SVD) in Steyl, just across the border with the Netherlands. Ever since the mission to China in 1879, missionaries had been collecting objects and sending them back to Steyl. In 1894, the mission house built a new printing workshop, where the collection was also housed. The collection grew steadily with objects from various countries to which the Steyl missionaries travelled, and as well as ethnographic artefacts it comprised taxidermied and preserved animals. Not all of the animals and objects were collected by the missionaries from Steyl, other collections were also incorporated. Due to the growing collection, the museum moved to another new location, where it remains to this day.
 
 The museum as opened in 1931 was arranged completely according to the design of Brother Berchmans, who was also responsible for the museum's large butterfly collection. The presentation of the collection at the Missiemuseum has remained virtually unchanged since Berchmans' death in 1934. Thus, in line with prevailing ideas in 1931, the showcases with ethnographic objects are arranged according to the supposed degree of ‘civilisation’ of different peoples. Given that the arrangement of the museum has remained virtually unchanged since 1934, the Steyl Mission Museum is a ‘museum within a museum’, giving an impression of how ethnographic collections were perceived in the twentieth century. The juxtaposition of objects reflects the worldview of the Catholic mission at that time.
 
@@ -66,5 +66,5 @@ Collection database:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-10-21_  
-_last edited by Paul Voogt; Nina van der Werf as reviewer on 2025-10-21_
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         

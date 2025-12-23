@@ -8,11 +8,11 @@ The Groote Koninklijke Bazar (Big Royal Bazar) was a department store in The Hag
 
 ### History
 
-The Groote Koninklijke Bazar was a department store for Asian wares in The Hague. Its owner [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) began selling goods in 1825 and opened a store on Zeestraat in 1843. The store sold Asian items, mainly from [Japan](https://sws.geonames.org/1861060), [China](https://sws.geonames.org/1814991), [Persia](https://hdl.handle.net/20.500.11840/termmaster8272) and the [Ottoman Empire](http://www.wikidata.org/entity/Q12560), as well as from [the Dutch East Indies](https://sws.geonames.org/1643084). The buyers were private individuals, including King [Willem II](https://www.wikidata.org/entity/Q154287), as well as museums, such as the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) and the then [Rijks Ethnografisch Museum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). After Boer's death, the business continued under new owners.
+The Groote Koninklijke Bazar was a department store for Asian wares in The Hague. Its owner [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) began selling goods in 1825 and opened a store on Zeestraat in 1843. The store sold Asian items, mainly from [Japan](https://sws.geonames.org/1861060), [China](https://sws.geonames.org/1814991), [Persia](https://hdl.handle.net/20.500.11840/termmaster8272) and the [Ottoman Empire](http://www.wikidata.org/entity/Q12560), as well as from [the Dutch East Indies](https://sws.geonames.org/1643084). The buyers were private individuals, including King [Willem II](https://www.wikidata.org/entity/Q154287), as well as museums, such as the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) and the then [Rijks Ethnografisch Museum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). After Boer's death, the business continued under new owners. It finally closed its doors in 1927.
 
 ### Provenance research
 
-It is not known whether the business records of Groote Koninklijke Bazar have been preserved. Separate archive documents are held in various archives. The [Municipal Archives of The Hague](https://www.wikidata.org/entity/Q3229492) has some photographs of the store’s interior showing many objects. The [Wereldmuseum Leiden](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) archive contains correspondence with Groote Koninklijke Bazar regarding purchases.
+It is not known whether the business records of Groote Koninklijke Bazar have been preserved. Separate archive documents are held in various archives. The [Municipal Archives of The Hague](https://www.wikidata.org/entity/Q3229492) has some photographs of the store's interior showing many objects. The [Wereldmuseum Leiden](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) archive contains correspondence with Groote Koninklijke Bazar regarding purchases.
 
 
 ## Related Aids
@@ -87,6 +87,5 @@ Catalogue:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-05-03_  
-_last edited by Abacus as translator on 2025-04-07
-(applies to section: Main-text; Sources)_
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         

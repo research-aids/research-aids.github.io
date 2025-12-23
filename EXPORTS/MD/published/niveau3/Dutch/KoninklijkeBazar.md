@@ -92,5 +92,6 @@ Catalogus:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by Wiebe Reints as original_author on 2024-03-13_
+_first edited by Wiebe Reints as original_author on 2024-03-13_  
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         
