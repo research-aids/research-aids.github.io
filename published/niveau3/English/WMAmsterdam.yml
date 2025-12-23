@@ -151,3 +151,8 @@ editing_metadata:
     author: Tom Quist
     role: reviewer
     editing_notes: RA has been checked by Tom Quist (Provenance Researcher at Wereldmuseum), no comments.
+  - date: 2025-12-23
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Final check of the research aid. Text is up to date and all the links are functioning.

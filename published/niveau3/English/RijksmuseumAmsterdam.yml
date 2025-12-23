@@ -79,7 +79,7 @@ Main-text:
 
     The Rijksmuseum collection is accessible and searchable via the [collection website](https://www.rijksmuseum.nl/en/collection). The ‘search options’ button offers more selection options for finding objects. Relevant information on the provenance of objects can often be found on the object pages, which also display relevant publications. In addition the website has topic pages on the [history of slavery](https://www.rijksmuseum.nl/en/whats-on/exhibitions/past/rijksmuseum-and-slavery) and the [colonial past](https://www.rijksmuseum.nl/en/collection/discover/politics-and-economy/colonial-history). These pages provide further information about the relationship between the Rijksmuseum collection and these topics.
     
-    The [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/opac-main.pl) contains a large quantity of books, journals and auction, exhibition, trade and collection catalogues. These publications can be consulted in the Rijksmuseum library. The Rijksmuseum also owns around 130,000 auction catalogues, dating from the seventeenth century to the present. Just under half of the catalogues can be found within the digital library catalogue of the Rijksmuseum Research Library. Catalogues acquired before 1989 can only be found in the paper catalogue. You can enquire at the Rijksmuseum Library whether the catalogue you are looking for is available. Also accessible in the library collection is the [Art Sales Catalogues Online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online) (ASCO). This database contains over 20,000 historical auction catalogues from the period 1600-1900. The so-called Special Collections segment within the Rijksmuseum Library collection includes old prints, books with original prints or photographs, special bibliophile editions, artists' books, recipe books and all the works of the [Royal Archaeological Society](http://www.wikidata.org/entity/Q18635333) (KOG).
+    The [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/opac-main.pl) contains a large quantity of books, journals, exhibition, trade and collection catalogues. These publications can be consulted in the Rijksmuseum library. The Rijksmuseum also owns around 130,000 auction catalogues, dating from the seventeenth century to the present. Just under half of the catalogues can be found within the digital library catalogue of the Rijksmuseum Research Library. Catalogues acquired before 1989 can only be found in the paper catalogue. You can enquire at the Rijksmuseum Library whether the catalogue you are looking for is available. Also accessible in the library collection is the [Art Sales Catalogues Online](https://primarysources.brillonline.com/browse/art-sales-catalogues-online) (ASCO). This database contains over 20,000 historical auction catalogues from the period 1600-1900. The so-called Special Collections segment within the Rijksmuseum Library collection includes old prints, books with original prints or photographs, special bibliophile editions, artists' books, recipe books and all the works of the [Royal Archaeological Society](http://www.wikidata.org/entity/Q18635333) (KOG).
   content-type: text/markdown
 
 Sources:
@@ -106,4 +106,9 @@ editing_metadata:
     applies_to: Main-text; Sources
     author: Abacus
     role: translator
-    editing_notes: abacus translations processed by wiebe reints
+    editing_notes: abacus translations processed by Wiebe Reints.
+  - date: 2025-12-23
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Final check of the research aid. Text is up to date and all the links are functioning.
