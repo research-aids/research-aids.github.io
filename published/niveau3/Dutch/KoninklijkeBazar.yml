@@ -122,4 +122,9 @@ editing_metadata:
     applies_to: 
     author: Wiebe Reints
     role: original_author
-    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here. 
+    editing_notes: metadata added on 2025-06-02. from now, mayor changes to the file need to be logged here.
+  - date: 2025-12-23
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Final check of the research aid. Text is up to date and all the links are functioning.
