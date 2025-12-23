@@ -30,13 +30,13 @@ Tijdens de Tweede Wereldoorlog zijn tienduizenden cultuurgoederen vanuit Nederla
 ## Primary sources
 
 Archief:
-  > *RKD – Nederlands Instituut voor Kunstgeschiedenis / Carel van Lier NL-HaRKD.0108*
+  > *RKD – Nederlands Instituut voor Kunstgeschiedenis Carel van Lier (NL-HaRKD.0108)*
   > _Brieven en briefkaarten, voornamelijk van kunstenaars, en andere stukken over de periode 1927-1948_  
 
   > [https://rkd.nl/nl/explore/collections/108](https://rkd.nl/nl/explore/collections/108)
 
 Archief:
-  > *RKD – Nederlands Instituut voor Kunstgeschiedenis / Leendert van Lier NL-HaRKD.0065*
+  > *RKD – Nederlands Instituut voor Kunstgeschiedenis Leendert van Lier (NL-HaRKD.0065)*
   > _Aantal uitnodigingen Kunstzaal van Lier, 1951-1953; aantal catalogi waaronder 'Mostra internazionale del Surrealismo', 1961; plakboek met foto's van werk van Bob Hanf; 2 foto's van kunstwerken, fotokopieën van brieven van onder anderen Eugène Brands, 1954-1955_  
 
   > [https://rkd.nl/explore/collections/65](https://rkd.nl/explore/collections/65)

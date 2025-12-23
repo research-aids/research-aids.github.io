@@ -39,7 +39,7 @@ Website:
   > [http://collectie-nusantara.nl/](http://collectie-nusantara.nl/)
 
 Archief:
-  > *NL-DtAD 1009 - Museum Nusantara*
+  > *Stadsarchief Delft 1009 - Museum Nusantara*
   > _Archief van voormalig Museum Nusantara. Archiefmateriaal met betrekking tot de collectie van het museum is te vinden onder kopje '2.5'. Onder 'Gedeponeerde archieven' is ook het archief van inventariskaarten van de Indische Instelling beschikbaar._  
 
   > [https://hdl.handle.net/21.12115/NL-DtAD203510482](https://hdl.handle.net/21.12115/NL-DtAD203510482)

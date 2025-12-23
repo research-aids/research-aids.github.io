@@ -27,55 +27,55 @@ Not all of the Asian art collection in the Rijksmuseum is on loan from the KVVAK
 ## Primary sources
 
 Archive:
-  > *NL-HaNA 2.14.73 663*
+  > *Nationaal Archief 2.14.73 Inventaris van het archief van de Afdeling Oudheidkunde en Natuurbescherming en taakvoorgangers, (1910) 1940-1965 (1981) van het Ministerie van Onderwijs, Kunsten en Wetenschappen - inventory number 663*
   > _Records concerning the financial management of the Museum of East Asian Art at Amsterdam, 1940-1960._  
 
-  > 
+  > [https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~663](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~663)
 
 Archive:
-  > *NL-HaNA 2.14.73 674*
+  > *Nationaal Archief 2.14.73 Inventaris van het archief van de Afdeling Oudheidkunde en Natuurbescherming en taakvoorgangers, (1910) 1940-1965 (1981) van het Ministerie van Onderwijs, Kunsten en Wetenschappen - inventory number 674*
   > _Records concerning the acquisition of art works and the housing of the collection of the Museum voor Oost-Aziatische Kunst at the Rijksmuseum in Amsterdam, 1947-1960._  
 
-  > 
+  > [https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~674](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~674)
 
 Archive:
-  > *NL-HaNA 2.14.73 6609*
+  > *Nationaal Archief 2.14.73 Inventaris van het archief van de Afdeling Oudheidkunde en Natuurbescherming en taakvoorgangers, (1910) 1940-1965 (1981) van het Ministerie van Onderwijs, Kunsten en Wetenschappen - inventory number 6609*
   > _Records concerning to a grant to the Museum van Aziatische Kunst in Amsterdam, 1942-1964._  
 
-  > 
+  > [https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40T.~6609](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40T.~6609)
 
 Archive:
-  > *NL-HaNA 2.27.19 2934*
+  > *2.27.19 Inventaris van het archief van het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk, (1910) 1965 - 1982 (1990) - inventory number 2934*
   > _Records concerning the approval of loan agreements of objects between the Rijksmuseum and the Asian Art Society in the Netherlands, 1970 - 1971._  
 
-  > 
+  > [https://www.nationaalarchief.nl/onderzoeken/archief/2.27.19/invnr/%402~2.2~2.2.6~2933-2940~2933-2936~2934](https://www.nationaalarchief.nl/onderzoeken/archief/2.27.19/invnr/%402~2.2~2.2.6~2933-2940~2933-2936~2934)
 
 Archive:
-  > *NL-HaNA 2.24.25 554-555*
+  > *Nationaal Archief 2.24.25 Inventaris van het fotoarchief gevormd door het Bureau van de Rijksinspecteur voor Roerende Monumenten, (1893) 1949-1975 (1976) - inventory number 554-555*
   > _Photographs of the ‘Aziatische Kunst’ exhibition at the Museum voor Aziatische Kunst in 1936. Inventory number 554 comprises an overview of the exhibition space. Inventory number 555 comprises an overview of the ‘Chinese ceramics.’_  
 
-  > 
+  > [https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40B~578~554-555](https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40B~578~554-555)
 
 Archive:
-  > *NL-HaNA 2.24.25 1281-1288*
+  > *Nationaal Archief 2.24.25 Inventaris van het fotoarchief gevormd door het Bureau van de Rijksinspecteur voor Roerende Monumenten, (1893) 1949-1975 (1976) - inventory number 1281-1288*
   > _Various photos of the exhibition rooms of the Museum of Asian Art in Amsterdam from 1931 to1958. The archive thus contains both photographs from both the Stedelijk Museum and the Rijksmuseum in Amsterdam._  
 
-  > 
+  > [https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40C~1442~1448~1281-1288](https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40C~1442~1448~1281-1288)
 
 Archive:
-  > *NL-HaNA 2.20.69 2982*
+  > *Nationaal Archief 2.20.69 Inventaris van het archief van het Koninklijk Instituut voor de Tropen, (1856) 1910-1995 - inventory number 2982*
   > _Correspondence between the Royal Tropical Institute and the Rijksmuseum in Amsterdam regarding the Museum voor Aziatische Kunst, 1941._  
 
-  > 
+  > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.1.~B.5.1.1.~B.5.1.1.5~2982](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.1.~B.5.1.1.~B.5.1.1.5~2982)
 
 Archive document:
-  > *NL-HlmNHA 476 2506*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers te Amsterdam 476 - inventory number 2506*
   > _Report by H.F.E. Visser on the desirability of bringing about the establishment of a State Museum for Asian Art as part of the reorganisation of the Dutch museums, c. 1920._  
 
   > [https://hdl.handle.net/21.12102/0BC966D7764F4EC3AB2B0A4AFF30B73A](https://hdl.handle.net/21.12102/0BC966D7764F4EC3AB2B0A4AFF30B73A)
 
 Archive document:
-  > *NL-HlmNHA 64 116*
+  > *Noord-Hollands Archief 64 Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) te Amsterdam - inventory number 116*
   > _Correspondence between H.F.E. Visser, curator of the Museum van Aziatische Kunst in Amsterdam, and the Royal Dutch Academy of Arts and Sciences (KNAW) regarding identification and placement of a Buddha's head from the Borobudur, in the possession of the KNAW, 1939._  
 
   > [https://hdl.handle.net/21.12102/F3CA33316B0B49EEB6E8C0BC9BCAFDD4](https://hdl.handle.net/21.12102/F3CA33316B0B49EEB6E8C0BC9BCAFDD4)

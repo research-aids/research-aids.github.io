@@ -74,7 +74,7 @@ Parliamentary papers:
   > [https://www.officielebekendmakingen.nl/](https://www.officielebekendmakingen.nl/)
 
 Archive:
-  > *NL-HaNA 2.10.02*
+  > *Nationaal Archief 2.10.02 Inventaris van het archief van het Ministerie van Koloniën, 1850-1900*
   > _Complete inventory of the archives of the Ministry of Colonies, 1850-1900._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf](https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf)

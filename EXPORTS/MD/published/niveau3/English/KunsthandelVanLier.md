@@ -30,13 +30,13 @@ During the Second World War tens of thousands of cultural artefacts from the Net
 ## Primary sources
 
 Archive:
-  > *RKD – Netherlands Institute for Art History / Carel van Lier NL-HaRKD.0108*
+  > *RKD – Nederlands Instituut voor Kunstgeschiedenis Carel van Lier (NL-HaRKD.0108)*
   > _Letters and postcards, mainly from artists, and other documents covering the period 1927-1948_  
 
   > [https://rkd.nl/nl/explore/collections/108](https://rkd.nl/nl/explore/collections/108)
 
 Archive:
-  > *RKD – Netherlands Institute for Art History / Leendert van Lier NL-HaRKD.0065*
+  > *RKD – Nederlands Instituut voor Kunstgeschiedenis Leendert van Lier (NL-HaRKD.0065)*
   > _Various Kunstzaal van Lier invitations, 1951-1953; various catalogues including Mostra internazionale del Surrealismo, 1961. A scrapbook with photos of work by Bob Hanf; 2 photos of artworks, photocopies of letters from Eugène Brands and others, 1954-1955._  
 
   > [https://rkd.nl/explore/collections/65](https://rkd.nl/explore/collections/65)

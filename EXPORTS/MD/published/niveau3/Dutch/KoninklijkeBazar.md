@@ -4,15 +4,15 @@
 
 ## Abstract
 
-De Groote Koninklijke Bazar was een warenhuis in Den Haag. De handel werd gerund door Dirk Boer, die in 1825 begon met de verkoop voor Aziatische (kunst)artikelen. In 1843 opende hij zijn winkel aan de Zeestraat.
+De Groote Koninklijke Bazar was een warenhuis in Den Haag. Het bedrijf werd geleid door Dirk Boer, die in 1825 begon met de verkoop voor Aziatische (kunst)artikelen. In 1843 opende hij zijn winkel aan de Zeestraat.
 
 ### Geschiedenis
 
-De Groote Koninklijke Bazar was een warenhuis voor Aziatische artikelen in Den Haag. Eigenaar [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) begon in 1825 met de verkoop van goederen en opende in 1843 een winkel aan de Zeestraat. De winkel verkocht Aziatische voorwerpen, met name uit [Japan](https://sws.geonames.org/1861060), [China](https://sws.geonames.org/1814991), [Perzië](https://hdl.handle.net/20.500.11840/termmaster8272) en het [Ottomaanse Rijk](http://www.wikidata.org/entity/Q12560), maar ook uit [Indonesië](https://sws.geonames.org/1643084). De kopers waren particulieren, onder wie koning [Willem II](https://www.wikidata.org/entity/Q154287), maar ook musea, zoals het [Koninklijk Kabinet van Zeldzaamheden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) en het toenmalige [Rijks Ethnografisch Museum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). Na de dood van Boer in 1877 ging de zaak onder nieuwe eigenaren verder.
+De Groote Koninklijke Bazar was een warenhuis voor Aziatische artikelen in Den Haag. Eigenaar [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) begon in 1825 met de verkoop van goederen en opende in 1843 een winkel aan de Zeestraat. De winkel verkocht Aziatische voorwerpen, met name uit [Japan](https://sws.geonames.org/1861060), [China](https://sws.geonames.org/1814991), [Perzië](https://hdl.handle.net/20.500.11840/termmaster8272) en het [Ottomaanse Rijk](http://www.wikidata.org/entity/Q12560), maar ook uit [Indonesië](https://sws.geonames.org/1643084). De kopers waren particulieren, onder wie koning [Willem II](https://www.wikidata.org/entity/Q154287), maar ook musea, zoals het [Koninklijk Kabinet van Zeldzaamheden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) en het toenmalige [Rijks Ethnografisch Museum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). Na de dood van Boer in 1877 ging de winkel onder nieuwe eigenaren verder. In 1927 sloot de winkel zijn deuren.
   
 ### Herkomstonderzoek
 
-Het is niet bekend of het archief van de Groote Koninklijke Bazar bewaard is gebleven. Er zijn losse archiefstukken in diverse archieven. Het [Haags Gemeentearchief](https://haagsgemeentearchief.nl/beeld-en-geluid/beeldcollectie?mivast=59&mizig=493&miadt=59&miview=gal1&milang=nl&mid=1&mizk_alle=Grand+Bazar+Royal) heeft enkele foto’s van het interieur van de winkel, waarop vele voorwerpen te zien zijn. In het archief van het [Wereldmuseum Leiden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) is correspondentie over aankopen aanwezig.
+Het is niet bekend of het archief van de Groote Koninklijke Bazar bewaard is gebleven. Er zijn losse archiefstukken in diverse archieven. Het [Haags Gemeentearchief](https://haagsgemeentearchief.nl/beeld-en-geluid/beeldcollectie?mivast=59&mizig=493&miadt=59&miview=gal1&milang=nl&mid=1&mizk_alle=Grand+Bazar+Royal) heeft enkele foto's van het interieur van de winkel, waarop vele voorwerpen te zien zijn. In het archief van het [Wereldmuseum Leiden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) is correspondentie over aankopen aanwezig.
 
 
 ## Related Aids
@@ -25,25 +25,25 @@ Het is niet bekend of het archief van de Groote Koninklijke Bazar bewaard is geb
 ## Primary sources
 
 Archiefstuk:
-  > *NL-HaNA 2.09.46*
+  > *Nationaal Archief 2.09.46 Inventaris van de dossiers Naamloze en Besloten Vennootschappen van het Centraal Archief Vennootschappen van het Ministerie van Justitie, opgeheven vóór 1983, 1820-ca. 1945*
   > _Bij de oprichting van naamloze en later ook besloten vennootschappen was goedkeuring van de statuten door het Ministerie van Justitie vereist. De inhoud van de dossiers kan variëren van een enkel advies tot een pak stukken, bestaande uit statuten, rekesten, adviezen, koninklijke besluiten en correspondentie._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index](https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index)
 
 Archiefstuk:
-  > *NL-HaNA 3.17.13.03*
+  > *Nationaal Archief 3.17.13.03 Inventaris van het archief van de Kamer van Koophandel en Fabrieken voor 's-Gravenhage: Handelsregister 1921-1969*
   > _Stukken afkomstig uit het bedrijvenregister Zuid-Holland (Kamers van Koophandel). Bedrijfsnaam Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. Dossiernummer HA-000014 /1. Bevat een reeks handelsdossiers._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401](https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401)
 
 Archiefstuk:
-  > *NL-HlmNHA 476 836-839*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - inventarisnummer 836-839*
   > _Stukken uit het archief van het Koninklijk Kabinet van Zeldzaamheden over de aankoop van objecten bij onder andere De Groote Koninklijke Bazar._  
 
   > [https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77](https://hdl.handle.net/21.12102/D8714D03F83A4D7D990316AC9A09CB77)
 
 Archiefstuk:
-  > *NL-HlmNHA 476 811*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - inventarisnummer 811*
   > _Declaraties wegens geleverde goederen en diensten, 1813, 1824-1831. Het Koninklijk Kabinet van Zeldzaamheden kocht voorwerpen bij Dirk Boer, waarvan melding wordt gemaakt in deze archieftoegang._  
 
   > [https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768](https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768)

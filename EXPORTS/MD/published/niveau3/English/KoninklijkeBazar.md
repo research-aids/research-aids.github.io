@@ -25,19 +25,19 @@ It is not known whether the business records of Groote Koninklijke Bazar have be
 ## Primary sources
 
 Archive:
-  > *NL-HaNA 2.09.46*
+  > *Nationaal Archief 2.09.46 Inventaris van de dossiers Naamloze en Besloten Vennootschappen van het Centraal Archief Vennootschappen van het Ministerie van Justitie, opgeheven vóór 1983, 1820-ca. 1945*
   > _When public and later private limited companies were formed, their articles of association required approval by the Ministry of Justice. The content of the files could range from a single opinion to a pack of documents comprising articles of association, appeals, opinions, royal decrees and correspondence._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index](https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index)
 
 Archive:
-  > *NL-HaNA 3.17.13.03*
+  > *Nationaal Archief 3.17.13.03 Inventaris van het archief van de Kamer van Koophandel en Fabrieken voor 's-Gravenhage: Handelsregister 1921-1969*
   > _Documents from the Business Register (Chambers of Commerce) of the province of South Holland. Business name: Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. File number HA-000014 /1. Includes a set of commercial files._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401](https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401)
 
 Archive:
-  > *NL-HlmNHA 476 811*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - inventory number 836-839*
   > _Declarations of goods and services supplied, 1813, 1824-1831. The Royal Cabinet of Curiosities purchased items from Dirk Boer, which are mentioned in this archive._  
 
   > [https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768](https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768)

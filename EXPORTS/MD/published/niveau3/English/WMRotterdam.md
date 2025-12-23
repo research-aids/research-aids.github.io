@@ -41,13 +41,13 @@ The photograph collection of the Wereldmuseum Rotterdam has been transferred to 
 ## Primary sources
 
 Archive:
-  > *NL-RtSA, 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam*
+  > *Stadsarchief Rotterdam 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam*
   > _Archives of the Museum voor Land- en Volkenkunde and the Maritiem Museum Prins Hendrik in Rotterdam. This archive runs until 1960 because the organisations of the two museums continued separately from that time. Inventory numbers 282 to 302 contain documents relating to the formation of the collection._  
 
   > [https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105](https://hdl.handle.net/21.12133/C5532B05532547EB975A5FDCC489E105)
 
 Archive:
-  > *NL-RtSA, 1407 Archief van het Museum voor (Land- en) Volkenkunde te Rotterdam*
+  > *Stadsarchief Rotterdam 1407 Archief van het Museum voor (Land- en) Volkenkunde te Rotterdam*
   > _Archives of the Museum voor Land- en Volkenkunde. This archive runs from 1961 because the organisations continued separately from that time. Inventory numbers 147 to 177 contain records relating to the formation of the collection._  
 
   > [https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67](https://hdl.handle.net/21.12133/D93AA4DF253A4F2B85ABDE76E164DE67)

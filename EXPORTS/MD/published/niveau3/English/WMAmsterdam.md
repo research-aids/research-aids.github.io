@@ -44,13 +44,13 @@ The collection of the Wereldmuseum Amsterdam can be found within the Wereldmuseu
 ## Primary sources
 
 Archive:
-  > *NL-HaNA, KIT Koninklijk Instituut voor de Tropen, 2.20.69*
+  > *Nationaal Archief 2.20.69 Inventaris van het archief van het Koninklijk Instituut voor de Tropen, (1856) 1910-1995*
   > _Archive of the Royal Tropical Institute up to and including 1995 deposited at the Dutch National Archives in The Hague. Archives after 1995 are still physically held at the KIT. The archive description contains detailed information on the history of the Wereldmuseum Amsterdam and the structure of the archive._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)
 
 Archive:
-  > *395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*
+  > *Stadsarchief Amsterdam 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*
   > _Archive of the royal zoological society Koninklijk Zoölogisch Genootschap Natura Artis Magistra, now Artis Zoo. The archives under inventory numbers 1876 to 1919 are of particular interest in terms of the establishment of the current Wereldmuseum Amsterdam._  
 
   > [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)

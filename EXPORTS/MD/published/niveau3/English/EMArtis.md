@@ -44,19 +44,19 @@ Archives of the Colonial Institute relating to the Artis ethnographic collection
 ## Primary sources
 
 Archive:
-  > *NL-AsdSAA - 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*
+  > *Stadsarchief Amsterdam 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*
   > _Archives of the Koninklijk Zoölogisch Genootschap Natura Artis Magistra at the Amsterdam City Archive. Inventory numbers 1876-1905 contain documentation on the museum's collection. Inventory numbers 1906-1919 contain documentation on the decision to transfer the Artis collection to the Colonial Museum in Amsterdam. Some documents are digitally accessible, others must be requested in order to be consulted._  
 
   > [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)
 
 Archive:
-  > *NL-HaNA 2.20.69 - 7851 until 7858*
+  > *Nationaal Archief 2.20.69 Inventaris van het archief van het Koninklijk Instituut voor de Tropen, (1856) 1910-1995 - inventory number 7851-7858*
   > _Relevant archival material relating to the Artis Ethnographic Museum is held in the inventory of the Royal Tropical Institute (KIT) at the National Archives in The Hague._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)
 
 Archive:
-  > *NL-HaNA 2.20.69 - 4395*
+  > *Nationaal Archief 2.20.69 Inventaris van het archief van het Koninklijk Instituut voor de Tropen, (1856) 1910-1995 - inventory number 4395*
   > _Documents relating to the transfer of the ethnographic collection of the society 'Natura Artis Magistra' in Amsterdam. Part of the archives of the Royal Tropical Institute, held at the National Archives in The Hague._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)
