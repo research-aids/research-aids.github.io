@@ -25,19 +25,19 @@ Het Koninklijk Kabinet van Zeldzaamheden werd in 1816 opgericht door Koning Will
 
 ### Geschiedenis van de collectie
 
-Het Koninklijk Kabinet van Zeldzaamheden was een museum in Den Haag, dat in 1816 werd opgericht door [Koning Willem I](https://www.wikidata.org/entity/Q2079957). Het museum had de vorm van een rariteitenkabinet en de collectie bestond uit allerlei voorwerpen, waaronder ook vele uit de koloniën. Uiteindelijk was er van alles in te vinden: voorwerpen met betrekking tot de Nederlandse geschiedenis, Aziatische [kunstnijverheid](https://hdl.handle.net/20.500.11840/termmaster10049837), [etnografica](https://hdl.handle.net/20.500.11840/termmaster10068984) en [naturalia](https://hdl.handle.net/20.500.11840/termmaster10049008).
+Het Koninklijk Kabinet van Zeldzaamheden was een museum in Den Haag, dat in 1816 werd opgericht door [Koning Willem I](https://www.wikidata.org/entity/Q2079957). Het museum had de vorm van een rariteitenkabinet en de collectie bestond uit allerlei voorwerpen met betrekking tot de Nederlandse geschiedenis, maar ook objecten uit de koloniën waaronder Aziatische kunstnijverheid, etnografica en naturalia.
 
-Aan de basis stonden de collecties Chinese en Japanse voorwerpen die bijeengebracht waren door [Jean Theodore Royer](https://www.wikidata.org/entity/Q34232414), predikant en jurist met een fascinatie voor de Chinese taal en literatuur, hij vergaarde een omvangrijke collectie prenten en schilderijen en documenten, [Jan Cock Blomhoff](https://www.wikidata.org/entity/Q1973328), onder andere  pakhuismeester van de Nederlandse factorij op het Japanse schiereiland [Dejima](http://www.wikidata.org/entity/Q640267), en [Johan van Overmeer Fisscher](https://www.wikidata.org/entity/Q21549843), die ook werkzaam was op Deijma. Hieraan werden door [Koning Willem I](https://www.wikidata.org/entity/Q2079957) de stadhouderlijke verzamelingen toegevoegd. Ook ontving het museum tijdens zijn bestaan diverse schenkingen en deed het aankopen. Op den duur bevatte de collecties aanzienlijke collecties Japanse en Chinese voorwerpen, vele objecten - veelal diplomatieke geschenken uit de stadhouderlijke verzamelingen - uit Zuidoost Azië, de West-Afrikaanse Goudkust, maar ook Noord-Amerika en Oceanië.
+Aan de basis stonden de collecties Chinese en Japanse voorwerpen die bijeengebracht waren door [Jean Theodore Royer](https://www.wikidata.org/entity/Q34232414), een predikant en jurist met een fascinatie voor de Chinese taal en literatuur die een omvangrijke collectie prenten en schilderijen en documenten vergaarde, [Jan Cock Blomhoff](https://www.wikidata.org/entity/Q1973328), onder andere  pakhuismeester van de Nederlandse factorij op het Japanse schiereiland [Dejima](http://www.wikidata.org/entity/Q640267), en [Johan van Overmeer Fisscher](https://www.wikidata.org/entity/Q21549843), die ook werkzaam was op Dejima. [Koning Willem I](https://www.wikidata.org/entity/Q2079957) voegde hier de stadhouderlijke verzamelingen aan toe. Het museum ontving tijdens zijn bestaan diverse schenkingen en deed verschillende aankopen. Op den duur bevatte de verzameling aanzienlijke collecties Japanse en Chinese voorwerpen en vele objecten uit Zuidoost Azië, de West-Afrikaanse Goudkust, maar ook Noord-Amerika en Oceanië. Hieronder bevonden zich ook diplomatieke geschenken uit de stadhouderlijke verzamelingen.
 
-In 1883 werd het museum opgeheven en de collectie verdeeld over verschillende rijksmusea. Het leeuwendeel ging naar het [Rijks Ethnographisch Museum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (het huidige Wereldmuseum Leiden), waar de objecten afkomstig uit het KKZ zijn te herkennen aan het kenmerk _RV-360-*_ en het [Nederlandsch Museum voor Geschiedenis en Kunst](https://www.wikidata.org/entity/Q18015075) (opgegaan in het Rijksmuseum). Kleine aantallen voorwerpen werden overgedragen aan het [Rijksmuseum voor Oudheden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F732277d365ab6fbcc351da7bc2b900b3), het [Koninklijk Kabinet van Munten, Penningen en Gesneden Stenen](https://rkd.nl/library/400001411), het [Rijksmuseum van Natuurlijke Historie](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb), het [Rijksmuseum voor Geologie en Mineralogie](https://www.wikidata.org/entity/Q7333956) en het [Rijks Herbarium](https://www.wikidata.org/entity/Q2152927).
+In 1883 werd het museum opgeheven en de collectie verdeeld over verschillende rijksmusea. Het leeuwendeel ging naar het [Rijks Ethnographisch Museum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (het huidige Wereldmuseum Leiden), waar de objecten afkomstig uit het KKZ zijn te herkennen aan het kenmerk _RV-360-_. Een ander gedeelte werd afgestaan aan het [Nederlandsch Museum voor Geschiedenis en Kunst](https://www.wikidata.org/entity/Q18015075), wat later is opgegaan in het [Rijksmuseum Amsterdam](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47). Kleine aantallen voorwerpen werden overgedragen aan het [Rijksmuseum voor Oudheden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F732277d365ab6fbcc351da7bc2b900b3), het [Koninklijk Kabinet van Munten, Penningen en Gesneden Stenen](https://rkd.nl/library/400001411), het [Rijksmuseum van Natuurlijke Historie](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb), het [Rijksmuseum voor Geologie en Mineralogie](https://www.wikidata.org/entity/Q7333956) en het [Rijks Herbarium](https://www.wikidata.org/entity/Q2152927).
 
 ### Herkomstonderzoek
 
-De oorspronkelijke administratie van de collectie, opgesteld door de eerste directeur [Reinier van de Kasteele](https://www.wikidata.org/entity/Q56097178), verdween nadat zijn zoon [Abraham van de Kasteele](https://www.wikidata.org/entity/Q18507671) hem opvolgde in 1840. Ook verdwenen en vergingen er vele voorwerpen in die tijd. De derde en laatste directeur [David van der Kellen](https://www.wikidata.org/entity/Q5905167), die in 1876 aantrad, moest orde op zaken stellen. Zoals te lezen is in het boek van Rudolf Effert (Volkenkundig Verzamelen, 213-216) stelde Van der Kellen in de periode 1876-1879 een nieuwe objectinventaris op, waarbij hij overgebleven documentatie aan objecten in de omvangrijke collectie trachtte te koppelen. Hierbij zijn fouten gemaakt.
+De oorspronkelijke administratie van de collectie, opgesteld door de eerste directeur [Reinier van de Kasteele](https://www.wikidata.org/entity/Q56097178) verdween nadat zijn zoon [Abraham van de Kasteele](https://www.wikidata.org/entity/Q18507671) hem opvolgde in 1840. Ook verdwenen en vergingen er vele voorwerpen in die tijd. De derde en laatste directeur [David van der Kellen](https://www.wikidata.org/entity/Q5905167), die in 1876 aantrad, moest orde op zaken stellen. Zoals te lezen is in het boek van Rudolf Effert (zie: _[Volkenkundig Verzamelen](https://search.worldcat.org/title/163275947?oclcNum=163275947)_, p. 213-216) stelde Van der Kellen in de periode 1876-1879 een nieuwe objectinventaris op, waarbij hij overgebleven documentatie aan objecten in de omvangrijke collectie trachtte te koppelen. Hij slaagde er grotendeels in maar hierbij zijn ook fouten gemaakt.
 
 Het archief van het Koninklijk Kabinet van Zeldzaamheden wordt bewaard in het [Noord-Hollands Archief](https://noord-hollandsarchief.nl/bronnen/archieven?mizig=210&miadt=236&micode=476&miview=inv2) als onderdeel van het Rijksmuseum-archief. Hierin bevindt zich onder andere correspondentie over schenkingen en aankopen. In de bijlagen bevinden zich nadere toegangen met handige overzichten van deze correspondentie. Houd er rekening mee dat de correspondentie van het KKZ ook betrekking heeft op voorwerpen die werden aangeboden, maar uiteindelijk niet werden aangeschaft.
 
-Daarnaast zijn er archiefstukken bij het [Nationaal Archief](https://www.nationaalarchief.nl/), geschreven door ambtenaren van het Ministerie van Binnenlandse Zaken. Deze hebben betrekking op verwervingen, maar ook op de opheffing van het KKZ en de verdeling van de collectie over de diverse musea. In het brievenarchief van Ministerie van Binnenlandse Zaken zijn verbalen en brieven te vinden over aangeboden schenkingen en verkopen. Deze zijn te traceren via de indices op de verbalen.
+Ook zijn er archiefstukken bij het [Nationaal Archief](https://www.nationaalarchief.nl/), geschreven door ambtenaren van het Ministerie van Binnenlandse Zaken die relevant zijn voor onderzoek naar het Koninklijk Kabinet van Zeldzaamheden, zie _[Bronnen](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1#bronnen)_. Deze hebben betrekking op verwervingen, maar ook op de opheffing van het KKZ en de verdeling van de collectie over de diverse musea. In het brievenarchief van Ministerie van Binnenlandse Zaken zijn verbalen en brieven te vinden over aangeboden schenkingen en verkopen. Deze zijn te traceren via de indices op de verbalen.
 
 
 ## Related Aids
@@ -55,43 +55,43 @@ Daarnaast zijn er archiefstukken bij het [Nationaal Archief](https://www.nationa
 ## Primary sources
 
 Archief:
-  > *NL-HlmNHA 476 5*
-  > _Betreft de inventaris toegang van het archief van het Koninklijk Kabinet van Zeldzaamheden binnen het archief van het Rijksmuseum en rechtsvoorgangers._  
+  > *NL-HlmNHA 476 - 5 Archief van het Koninklijk Kabinet van Zeldzaamheden, (17e eeuw) 1815-1883*
+  > _Betreft de inventaris van het archief van het Koninklijk Kabinet van Zeldzaamheden binnen het archief van het Rijksmuseum en rechtsvoorgangers._  
 
   > [https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552](https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552)
 
 Archief:
-  > *NL-HaNA 2.04.13 2.2.4.1.2.06*
+  > *NL-HaNA 2.04.13 - 2.2.4.1.2.06 Den Haag: Koninklijk Kabinet van Zeldzaamheden 1875-1887*
   > _Archieftoegang binnen het archief van het Ministerie van Binnenlandse Zaken met daarin de archiefstukken uit de jaren 1875-1887 met betrekking tot het Koninklijk Kabinet van Zeldzaamheden._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06)
 
 Archief:
-  > *NL-HaNA 2.04.01 4925-4954*
+  > *NL-HaNA 2.04.01 P Ministerie van Binnenlandse Zaken, 5e Afdeling Onderwijs, Kunsten en Wetenschappen, 1815 - 1848*
   > _Betreft indices van de afdeling Kunsten en Wetenschappen van het Ministerie van Binnenlandse Zaken tussen 1824 en 1848. Via een index kan correspondentie over aanwinsten worden achterhaald. De indices zijn online toegankelijk._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954)
 
 Archief:
-  > *NL-HaNA 2.04.01 4030*
+  > *NL-HaNA 2.04.01 - inventarisnummer 4030*
   > _Dit betreft uitgaande brieven van de secretaris van de koning, onder andere over schenkingen. Uit de periode 1815-1818, online toegankelijk._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001)
 
 Archiefstuk:
-  > *NL-HlmNHA 476 11.1*
+  > *NL-HlmNHA 476 - inventarisnummer 11.1*
   > _Toegang uit het archief van het Rijksmuseum met daarin allerhande documenten die betrekking hebben op verwerving, uitleen en restauratie van objecten._  
 
   > [https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701](https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701)
 
 Archiefstuk:
-  > *NL-HlmNHA 476 874-875*
+  > *NL-HlmNHA 476 - inventarisnummer 874-875*
   > _Bevat conceptversies van de inventarissen van de collecties van Royer, Cock Blomhoff en Van Overmeer Fisscher. Online toegankelijk._  
 
   > [https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC](https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC)
 
 Archiefstuk:
-  > *NL-HlmNHA 476 1076*
+  > *NL-HlmNHA 476 - inventarisnumer 1076*
   > _Stukken betreffende de afwikkeling van de verdeling van kunstvoorwerpen uit het voormalig Koninklijk Kabinet van Zeldzaamheden tussen het Rijks Ethnographisch Museum te Leiden en het Nederlandsch Museum van Geschiedenis en Kunst, 1885-1888_  
 
   > [https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688](https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688)
@@ -140,5 +140,6 @@ Catalogus:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by Wiebe Reints as original_author on 2024-03-13_
+_first edited by Wiebe Reints as original_author on 2024-03-13_  
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         
