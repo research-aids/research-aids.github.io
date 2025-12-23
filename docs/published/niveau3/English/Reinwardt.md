@@ -55,7 +55,7 @@ Archive:
   > [https://collectionguides.universiteitleiden.nl/resources/ubl208](https://collectionguides.universiteitleiden.nl/resources/ubl208)
 
 Archive:
-  > *Inventaris van het archief van prof. C.G.C. Reinwardt, 1808-1828 (NL-HaNA, Reinwardt, 2.21.204)*
+  > *Nationaal Archief 2.21.204 Inventaris van het archief van prof. C.G.C. Reinwardt, (1755) 1808-1828)*
   > _Archive of Reinwardt at the National Archives in The Hague. Contains a wide variety of documents._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.21.204/download/pdf](https://www.nationaalarchief.nl/onderzoeken/archief/2.21.204/download/pdf)

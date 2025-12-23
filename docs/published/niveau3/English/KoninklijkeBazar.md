@@ -23,11 +23,11 @@ The Groote Koninklijke Bazar (Big Royal Bazar) was a department store in The Hag
 
 ### History
 
-The Groote Koninklijke Bazar was a department store for Asian wares in The Hague. Its owner [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) began selling goods in 1825 and opened a store on Zeestraat in 1843. The store sold Asian items, mainly from [Japan](https://sws.geonames.org/1861060), [China](https://sws.geonames.org/1814991), [Persia](https://hdl.handle.net/20.500.11840/termmaster8272) and the [Ottoman Empire](http://www.wikidata.org/entity/Q12560), as well as from [the Dutch East Indies](https://sws.geonames.org/1643084). The buyers were private individuals, including King [Willem II](https://www.wikidata.org/entity/Q154287), as well as museums, such as the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) and the then [Rijks Ethnografisch Museum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). After Boer's death, the business continued under new owners.
+The Groote Koninklijke Bazar was a department store for Asian wares in The Hague. Its owner [Dirk Boer](https://rkd.nl/artists/349840) (1803-1877) began selling goods in 1825 and opened a store on Zeestraat in 1843. The store sold Asian items, mainly from [Japan](https://sws.geonames.org/1861060), [China](https://sws.geonames.org/1814991), [Persia](https://hdl.handle.net/20.500.11840/termmaster8272) and the [Ottoman Empire](http://www.wikidata.org/entity/Q12560), as well as from [the Dutch East Indies](https://sws.geonames.org/1643084). The buyers were private individuals, including King [Willem II](https://www.wikidata.org/entity/Q154287), as well as museums, such as the [Royal Cabinet of Curiosities](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1) and the then [Rijks Ethnografisch Museum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b). After Boer's death, the business continued under new owners. It finally closed its doors in 1927.
 
 ### Provenance research
 
-It is not known whether the business records of Groote Koninklijke Bazar have been preserved. Separate archive documents are held in various archives. The [Municipal Archives of The Hague](https://www.wikidata.org/entity/Q3229492) has some photographs of the store’s interior showing many objects. The [Wereldmuseum Leiden](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) archive contains correspondence with Groote Koninklijke Bazar regarding purchases.
+It is not known whether the business records of Groote Koninklijke Bazar have been preserved. Separate archive documents are held in various archives. The [Municipal Archives of The Hague](https://www.wikidata.org/entity/Q3229492) has some photographs of the store's interior showing many objects. The [Wereldmuseum Leiden](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) archive contains correspondence with Groote Koninklijke Bazar regarding purchases.
 
 
 ## Related Aids
@@ -40,19 +40,19 @@ It is not known whether the business records of Groote Koninklijke Bazar have be
 ## Primary sources
 
 Archive:
-  > *NL-HaNA 2.09.46*
+  > *Nationaal Archief 2.09.46 Inventaris van de dossiers Naamloze en Besloten Vennootschappen van het Centraal Archief Vennootschappen van het Ministerie van Justitie, opgeheven vóór 1983, 1820-ca. 1945*
   > _When public and later private limited companies were formed, their articles of association required approval by the Ministry of Justice. The content of the files could range from a single opinion to a pack of documents comprising articles of association, appeals, opinions, royal decrees and correspondence._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index](https://www.nationaalarchief.nl/onderzoeken/archief/2.09.46/invnr/%40index)
 
 Archive:
-  > *NL-HaNA 3.17.13.03*
+  > *Nationaal Archief 3.17.13.03 Inventaris van het archief van de Kamer van Koophandel en Fabrieken voor 's-Gravenhage: Handelsregister 1921-1969*
   > _Documents from the Business Register (Chambers of Commerce) of the province of South Holland. Business name: Koninklijke Bazar voorheen D. Boer en Zonen NV, Groote. File number HA-000014 /1. Includes a set of commercial files._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401](https://www.nationaalarchief.nl/onderzoeken/archief/3.17.13.03/invnr/%401)
 
 Archive:
-  > *NL-HlmNHA 476 811*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - inventory number 836-839*
   > _Declarations of goods and services supplied, 1813, 1824-1831. The Royal Cabinet of Curiosities purchased items from Dirk Boer, which are mentioned in this archive._  
 
   > [https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768](https://hdl.handle.net/21.12102/567C414E21CB4FC48C35085331D8A768)
@@ -102,6 +102,5 @@ Catalogue:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-05-03_  
-_last edited by Abacus as translator on 2025-04-07
-(applies to section: Main-text; Sources)_
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         

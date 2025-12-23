@@ -55,43 +55,43 @@ Ook zijn er archiefstukken bij het [Nationaal Archief](https://www.nationaalarch
 ## Primary sources
 
 Archief:
-  > *NL-HlmNHA 476 - 5 Archief van het Koninklijk Kabinet van Zeldzaamheden, (17e eeuw) 1815-1883*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - toegang 5 Archief van het Koninklijk Kabinet van Zeldzaamheden, (17e eeuw) 1815-1883*
   > _Betreft de inventaris van het archief van het Koninklijk Kabinet van Zeldzaamheden binnen het archief van het Rijksmuseum en rechtsvoorgangers._  
 
   > [https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552](https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552)
 
 Archief:
-  > *NL-HaNA 2.04.13 - 2.2.4.1.2.06 Den Haag: Koninklijk Kabinet van Zeldzaamheden 1875-1887*
+  > *Nationaal Archief 2.04.13 Inventaris van het archief van het Ministerie van Binnenlandse Zaken: Afdeling Kunsten en Wetenschappen, 1875-1918 - toegang 2.2.4.1.2.06 Den Haag: Koninklijk Kabinet van Zeldzaamheden 1875-1887*
   > _Archieftoegang binnen het archief van het Ministerie van Binnenlandse Zaken met daarin de archiefstukken uit de jaren 1875-1887 met betrekking tot het Koninklijk Kabinet van Zeldzaamheden._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06)
 
 Archief:
-  > *NL-HaNA 2.04.01 P Ministerie van Binnenlandse Zaken, 5e Afdeling Onderwijs, Kunsten en Wetenschappen, 1815 - 1848*
+  > *Nationaal Archief 2.04.01 Inventaris van het archief van het Ministerie van Binnenlandse Zaken, 1813-1848 (1864) - toegang P Ministerie van Binnenlandse Zaken, 5e Afdeling Onderwijs, Kunsten en Wetenschappen, 1815 - 1848*
   > _Betreft indices van de afdeling Kunsten en Wetenschappen van het Ministerie van Binnenlandse Zaken tussen 1824 en 1848. Via een index kan correspondentie over aanwinsten worden achterhaald. De indices zijn online toegankelijk._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954)
 
 Archief:
-  > *NL-HaNA 2.04.01 - inventarisnummer 4030*
+  > *Nationaal Archief 2.04.01 Inventaris van het archief van het Ministerie van Binnenlandse Zaken, 1813-1848 (1864) - inventarisnummer 4030*
   > _Dit betreft uitgaande brieven van de secretaris van de koning, onder andere over schenkingen. Uit de periode 1815-1818, online toegankelijk._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001)
 
 Archiefstuk:
-  > *NL-HlmNHA 476 - inventarisnummer 11.1*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers te Amsterdam - inventarisnummer 11.1*
   > _Toegang uit het archief van het Rijksmuseum met daarin allerhande documenten die betrekking hebben op verwerving, uitleen en restauratie van objecten._  
 
   > [https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701](https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701)
 
 Archiefstuk:
-  > *NL-HlmNHA 476 - inventarisnummer 874-875*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers te Amsterdam - inventarisnummer 874-875*
   > _Bevat conceptversies van de inventarissen van de collecties van Royer, Cock Blomhoff en Van Overmeer Fisscher. Online toegankelijk._  
 
   > [https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC](https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC)
 
 Archiefstuk:
-  > *NL-HlmNHA 476 - inventarisnumer 1076*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers te Amsterdam - inventarisnummer 1076*
   > _Stukken betreffende de afwikkeling van de verdeling van kunstvoorwerpen uit het voormalig Koninklijk Kabinet van Zeldzaamheden tussen het Rijks Ethnographisch Museum te Leiden en het Nederlandsch Museum van Geschiedenis en Kunst, 1885-1888_  
 
   > [https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688](https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688)

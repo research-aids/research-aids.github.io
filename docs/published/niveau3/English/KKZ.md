@@ -53,43 +53,43 @@ In addition, archival documents are held at the [National Archives of the Nether
 ## Primary sources
 
 Archive:
-  > *NL-HlmNHA 476 - 5 Archief van het Koninklijk Kabinet van Zeldzaamheden, (17e eeuw) 1815-1883*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - access 5 Archief van het Koninklijk Kabinet van Zeldzaamheden, (17e eeuw) 1815-1883*
   > _The inventory access of the archive of the Royal Cabinet of Curiosities within the archive of the Rijksmuseum and its legal predecessors._  
 
   > [https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552](https://hdl.handle.net/21.12102/2422AD00C789442FAE99779C81E66552)
 
 Archive:
-  > *NL-HaNA 2.04.13 - 2.2.4.1.2.06 Den Haag: Koninklijk Kabinet van Zeldzaamheden 1875-1887*
+  > *Nationaal Archief 2.04.13 Inventaris van het archief van het Ministerie van Binnenlandse Zaken: Afdeling Kunsten en Wetenschappen, 1875-1918 - access 2.2.4.1.2.06 Den Haag: Koninklijk Kabinet van Zeldzaamheden 1875-1887*
   > _Archive access within the archives of the Ministry of the Interior containing documents from the years 1875-1887 relating to the Royal Cabinet of Curiosities._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.13/invnr/%402.~2.2~2.2.4~2.2.4.1~2.2.4.1.2~2.2.4.1.2.06)
 
 Archive:
-  > *NL-HaNA 2.04.01 P Ministerie van Binnenlandse Zaken, 5e Afdeling Onderwijs, Kunsten en Wetenschappen, 1815 - 1848*
+  > *Nationaal Archief 2.04.01 Inventaris van het archief van het Ministerie van Binnenlandse Zaken, 1813-1848 (1864) - access P Ministerie van Binnenlandse Zaken, 5e Afdeling Onderwijs, Kunsten en Wetenschappen, 1815 - 1848*
   > _Concerns indices of the department of Arts and Science of the Ministry of the Interior from 1824 to 1848. Correspondence concerning acquisitions can be traced via an index. The indices can be accessed online._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/%40P~4925-4954)
 
 Archive:
-  > *NL-HaNA 2.04.01 - inventory number 4030*
+  > *Nationaal Archief 2.04.01 Inventaris van het archief van het Ministerie van Binnenlandse Zaken, 1813-1848 (1864) - inventory number 4030*
   > _Outgoing letters from the king's secretary, concerning donations and other matters. From the period 1815-1818, accessible online._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001](https://www.nationaalarchief.nl/onderzoeken/archief/2.04.01/invnr/4030/file/NL-HaNA_2.04.01_4030_0001)
 
 Archival document:
-  > *NL-HlmNHA 476 - inventory number 11.1*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers te Amsterdam - inventory number 11.1*
   > _Access from the archives of the Rijksmuseum containing a wide range of documents relating to the acquisition, loan and restoration of objects._  
 
   > [https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701](https://hdl.handle.net/21.12102/87E110A9A147458AB8E59021D9186701)
 
 Archival document:
-  > *NL-HlmNHA 476 - inventory number 874-875*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers te Amsterdam - inventory number 874-875*
   > _Contains the draft inventories of the collections of Royer, Cock Blomhoff and Van Overmeer Fisscher. Accessible online._  
 
   > [https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC](https://hdl.handle.net/21.12102/21D672ACA1794CFC9DAABE5F116BC5BC)
 
 Archival document:
-  > *NL-HlmNHA 476 - inventory number 1076*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers te Amsterdam - inventory number 1076*
   > _Documents concerning the handling of the distribution of objects from the former Royal Cabinet of Curiosities between the Rijks Ethnografisch Museum in Leiden and the Nederlandsch Museum van Geschiedenis en Kunst, 1885-1888._  
 
   > [https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688](https://hdl.handle.net/21.12102/2472CF6620004E9E878802D9406CE688)

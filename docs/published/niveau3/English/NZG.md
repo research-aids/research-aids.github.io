@@ -45,13 +45,13 @@ The [Repetorium van Nederlandse zendings- en missie-archieven 1800-1960] (https:
 ## Primary sources
 
 Archive:
-  > *NL-UtHUA 1102-1 1*
+  > *Het Utrechts Archief 1102-1 Raad voor de Zending: rechtsvoorgangers - inventory number 1*
   > _Includes documents from individual missionaries. In particular, the section on publicity (1.2.2.6.8) contains documents on objects and exhibitions._  
 
   > [https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD](https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD)
 
 Archive:
-  > *NL-RtSA 563  298*
+  > *Stadsarchief Rotterdam 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam - invnetory number 298*
   > _Correspondence from the NZG regarding donations to the Museum voor Land- en Volkenkunde (the current Wereldmuseum Rotterdam)._  
 
   > [https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849](https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849)

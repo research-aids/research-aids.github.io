@@ -61,19 +61,19 @@ Archieven van het Koloniaal Instituut die betrekking hebben op de etnografische 
 ## Primary sources
 
 Archief:
-  > *NL-AsdSAA - 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*
+  > *Stadsarchief Amsterdam 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*
   > _Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra bij het Stadsarchief van Amsterdam. Onder inventarisnummers 1876-1905 is documentatie te vinden over de collectie van het museum. De inventarisnummers 1906-1919 bevatten documentatie over het besluit de collectie van Artis over te dragen ten behoeve van het Koloniaal Museum in Amsterdam. Sommige documenten zijn digitaal toegankelijk, andere dienen aangevraagd te worden om in te kunnen zien._  
 
   > [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)
 
 Archief:
-  > *NL-HaNA 2.20.69 - 7851 tot en met 7858*
+  > *Nationaal Archief 2.20.69 Inventaris van het archief van het Koninklijk Instituut voor de Tropen, (1856) 1910-1995 - inventarisnummer 7851 tot en met 7858*
   > _Relevante archiefstukken met betrekking tot het Etnografisch Museum Artis binnen de inventaris van het Koninklijk Instituut voor de Tropen bij het Nationaal Archief in Den Haag._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)
 
 Archief:
-  > *NL-HaNA 2.20.69 - 4395*
+  > *Nationaal Archief 2.20.69 Inventaris van het archief van het Koninklijk Instituut voor de Tropen, (1856) 1910-1995 - 4395*
   > _Stukken betreffende de overdracht van de etnografische verzameling van de vereniging 'Natura Artis Magistra' te Amsterdam. Afkomstig uit het archief van het Koninklijk Instituut voor de Tropen, aanwezig bij het Nationaal Archief in Den Haag._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)

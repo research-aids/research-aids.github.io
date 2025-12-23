@@ -47,13 +47,13 @@ In het [Repetorium van Nederlandse zendings- en missie-archieven 1800-1960](http
 ## Primary sources
 
 Archief:
-  > *NL-UtHUA 1102-1 1*
+  > *Het Utrechts Archief 1102-1 Raad voor de Zending: rechtsvoorgangers - inventarisnummer 1*
   > _Bevat onder meer stukken van individuele zendelingen. Met name het deel over publiciteit (1.2.2.6.8) bevat stukken over voorwerpen en tentoonstellingen._  
 
   > [https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD](https://hetutrechtsarchief.nl/collectie/609C5BA03A744642E0534701000A17FD)
 
 Archief:
-  > *NL-RtSA 563  298*
+  > *Stadsarchief Rotterdam 563 Archief van het Museum voor Land- en Volkenkunde en Maritiem Museum Prins Hendrik te Rotterdam - inventarisnummer 298*
   > _Correspondentie van NZG over schenkingen aan het Museum voor Land- en Volkenkunde (het huidige Wereldmuseum Rotterdam)._  
 
   > [https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849](https://hdl.handle.net/21.12133/F7E7E25DAF9F49B49F6A2D68408A3849)

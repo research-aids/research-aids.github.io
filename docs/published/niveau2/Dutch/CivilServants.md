@@ -88,7 +88,7 @@ Kamerstukken:
   > [https://www.officielebekendmakingen.nl/](https://www.officielebekendmakingen.nl/)
 
 Archief:
-  > *NL-HaNA 2.10.02*
+  > *Nationaal Archief 2.10.02 Inventaris van het archief van het Ministerie van Koloniën, 1850-1900*
   > _Volledige inventaris van het archief van het Ministerie van Koloniën, 1850-1900._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf](https://www.nationaalarchief.nl/onderzoeken/archief/2.10.02/download/pdf)

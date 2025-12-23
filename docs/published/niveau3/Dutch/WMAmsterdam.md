@@ -60,13 +60,13 @@ De collectie van het Wereldmuseum Amsterdam is binnen de collectie van Wereldmus
 ## Primary sources
 
 Archieftoegang:
-  > *NL-HaNA, KIT Koninklijk Instituut voor de Tropen, 2.20.69*
+  > *Nationaal Archief 2.20.69 Inventaris van het archief van het Koninklijk Instituut voor de Tropen, (1856) 1910-1995*
   > _Archief van het Konininklijk Instituut voor de Tropen tot en met 1995 dat is gedeponeerd bij het Nationaal Archief in Den Haag. Archieven na 1995 zijn nog fysiek aanwezig bij het KIT. De archiefbeschrijving bevat uitvoerige informatie over de geschiedenis van het Wereldmuseum Amsterdam en de opbouw van het archief._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69)
 
 Archief:
-  > *395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*
+  > *Stadsarchief Amsterdam 395 Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra*
   > _Archief van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra, de tegenwoordige dierentuin Artis. Met name de archieven onder de inventarisnummers 1876 tot en met 1919 zijn interessant in het kader van de oprichting van het tegenwoordige Wereldmuseum Amsterdam._  
 
   > [https://archief.amsterdam/inventarissen/details/395/](https://archief.amsterdam/inventarissen/details/395/)

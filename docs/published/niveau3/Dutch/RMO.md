@@ -66,13 +66,13 @@ Website:
   > [https://archieven.rmo.nl/](https://archieven.rmo.nl/)
 
 Archief:
-  > *NL-LdnRMV_A03_018 - Inventaris van het RMO*
+  > *Rijksmuseum van Volkenkunde (Wereldmuseum Leiden) Inventaris van het RMO*
   > _Archieftoegang in het archief van het Wereldmuseum Leiden waarin de inventaris van het RMO is opgenomen. In 1904 werden de collecties Aziatische en Amerikaanse objecten overgedragen aan het 's Rijks Ethnographisch Museum, het tegenwoordige Wereldmuseum Leiden._  
 
   > 
 
 Archief:
-  > *NL-LdnRMV_Seriedossier RV-1403*
+  > *Rijksmuseum van Volkenkunde (Wereldmuseum Leiden) RV-1403*
   > _Seriedossier dat gekoppeld is aan de RV-1403 collectie, die bestaat uit de objecten die in 1904 vanuit het RMO aan het toenmalig Rijks Etnografisch Museum zijn overgedragen._  
 
   > 

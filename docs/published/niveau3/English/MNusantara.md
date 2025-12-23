@@ -27,13 +27,13 @@ The collection of [Museum Nusantara](http://www.wikidata.org/entity/Q2668933) ha
 
 As the object collections used to train students had been transferred to Leiden the Indische Instelling placed an advert in the Delftsche Courant newspaper asking for the donation of objects for an ‘ethnological collection’. The collection grew slowly through donations from teachers and former students, but also through the distribution of objects displayed at various Colonial World Exhibitions. By around 1900 the museum of the Indische Instelling had a collection of some 5,000 objects. The Indische Instelling was dissolved in 1901. From 1911 the collection was exhibited on an upper floor of [Prinsenhof Museum](http://www.wikidata.org/entity/Q281903) in Delft. After renovations in 1977 the museum continued under the name Museum Nusantara. In 2013 the Municipality of Delft decided to close the museum due to financial difficulties. At the time of closure, the Nusantara Museum collection consisted of more than 40,000 mainly Indonesian items: 18,000 objects, 16,000 photos and 8,000 books, magazines and articles. Most came from the Indonesian cultural region, but there were also items from other countries in Asia, Africa and South America as well as some that had been manufactured in the Netherlands.
 
-After the closure of the museum, the former collection was opened up to other interested parties. This deaccessioning was quite a challenge, as can be read in the [postscript by Jos van Beurden](https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf). This publication also includes a comprehensive overview of the institutions where the former Nusantara collection ended up. A total of 1,500 objects were in any case returned to Indonesia and around 500 objects are still part of the collection of Museum Prinsenhof in Delft. The rest of the collection was divided among the National Museum of World Cultures Foundation and other museums in the Netherlands and abroad.
+After the closure of the museum, the former collection was opened up to other interested parties. This deaccessioning was quite a challenge, as can be read in the [postscript by Jos van Beurden](https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf). This publication also includes a comprehensive overview of the institutions where the former Nusantara collection ended up. A total of 1,500 objects were in any case returned to Indonesia and around 500 objects are still part of the collection of Museum Prinsenhof in Delft. The rest of the collection was divided among the Wereldmuseum and other museums in the Netherlands and abroad.
 
 ### Provenance research
 
-Following the deaccessioning of Museum Nusantara a website was created where all the objects of the former museum can still be viewed: [collectie-nusantara.nl](http://collectie-nusantara.nl/). The collection page shows exactly which objects have been transferred to which museum. The website also offers more information about the history of the museum and the deaccessioning process. A detailed description of this process can be found in the publication _ [Herplaatsing Collectie voormalig Museum Nusantara Delft 2013 – 2018 Lering en vragen](https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf)_ (in Dutch). 
+Following the deaccessioning of Museum Nusantara a website was created where all the objects of the former museum can still be viewed: [collectie-nusantara.nl](http://collectie-nusantara.nl/). The collection page shows exactly which objects have been transferred to which museum. The website also offers more information about the history of the museum and the deaccessioning process. A detailed description of this process can be found in the publication _[Herplaatsing Collectie voormalig Museum Nusantara Delft 2013 - 2018 Lering en vragen](https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf)_ (in Dutch). 
 
-After the closure of Museum Nusantara its archive was transferred to the [Delft City Archives](https://zoeken.stadsarchiefdelft.nl/detail.php?nav_id=0-2&id=203510482&index=0#). The introduction to the archive also contains more information about the structure and history of the archive. Archive material relating to the Museum Nusantara collection (and its formation) can be found under 2.5.1 - Verwerving' and '2.5.2 - Registratie collectie'. The archive of the Indische Instelling can be accessed under the heading ‘Gedeponeerde archieven’. This contains the collection of inventory cards of the Indische Instelling, which can provide relevant information for objects that were already in the organisation’s possession at the time of the Indische Instelling.
+After the closure of Museum Nusantara its archive was transferred to the [Delft City Archives](https://zoeken.stadsarchiefdelft.nl/detail.php?nav_id=0-2&id=203510482&index=0#). The introduction to the archive also contains more information about the structure and history of the archive. Archive material relating to the Museum Nusantara collection (and its formation) can be found under 2.5.1 - Verwerving' and '2.5.2 - Registratie collectie'. The archive of the Indische Instelling can be accessed under the heading 'Gedeponeerde archieven'. This contains the collection of inventory cards of the Indische Instelling, which can provide relevant information for objects that were already in the organisation's possession at the time of the Indische Instelling.
 
 
 ## Related Aids
@@ -54,15 +54,15 @@ Website:
   > [http://collectie-nusantara.nl/](http://collectie-nusantara.nl/)
 
 Archive:
-  > *NL-DtAD 1009 - Museum Nusantara*
-  > _Archive of the former Museum Nusantara. Archive material relating to the museum's collection can be found under heading ‘2.5’. The archive of inventory cards of the Indische Instelling is also available under ‘Gedeponeerde archieven’._  
+  > *Stadsarchief Delft 1009 - Museum Nusantara*
+  > _Archive of the former Museum Nusantara. Archive material relating to the museum's collection can be found under heading '2.5'. The archive of inventory cards of the Indische Instelling is also available under 'Gedeponeerde archieven'._  
 
   > [https://hdl.handle.net/21.12115/NL-DtAD203510482](https://hdl.handle.net/21.12115/NL-DtAD203510482)
 
 ## Secondary sources
 
 Publication:
-  > *Herplaatsing Collectie voormalig Museum Nusantara Delft 2013 – 2018*
+  > *Herplaatsing Collectie voormalig Museum Nusantara Delft 2013 - 2018*
   > _Publication by Jos van Beurden about the deaccessioning of the Museum Nusantara collection. Includes an extensive overview of the various institutions where the collection ended up. Also contains information about previous deaccessioning projects in the Dutch heritage sector (in Dutch)._  
 
   > [https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf](https://www.materialculture.nl/sites/default/files/2019-02/Herplaatsing%20Collectie%20voormalig%20Museum%20Nusantara%20Delft%202013%20%E2%80%93%202018.pdf)
@@ -86,5 +86,5 @@ Book:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-02-25_  
-_last edited by Abacus as translator on 2025-10-20_
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         

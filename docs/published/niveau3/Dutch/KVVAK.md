@@ -25,7 +25,7 @@ De KVVAK is een verzamelaarsvereniging die een grote collectie Aziatische kunst 
 
 ### Geschiedenis
 
-De [Koninklijke Vereniging van Vrienden der Aziatische Kunst (KVVAK)](https://www.wikidata.org/entity/Q96749093) is een in 1918 opgerichte vereniging die sinds 2018 het predicaat Koninklijk draagt. De KVVAK is op 29 juni 1918 opgericht door de ingenieur [H.F.E. Visser (1890-1965)](https://www.wikidata.org/entity/Q83286861) en de verzamelaar en handelaar [G.J. Verburgt (1871-1926)](https://www.wikidata.org/entity/Q84499681) met het doel grotere bekendheid te geven aan [Aziatische kunst](https://www.wikidata.org/entity/Q3399573), de belangstelling ervoor te stimuleren en de wetenschapsbeoefening op dit gebied te bevorderen. De eerste voorzitter van de vereniging was [H.K. Westendorp](https://www.wikidata.org/entity/Q96749169) (1868-1941), die later zijn eigen collectie aan de KVVAK zou legateren. De collectie van de vereniging telt op dit moment ongeveer 1850 objecten, bestaande uit verschillende kunstvormen zoals beeldhouwkunst, Japanse [prenten](http://vocab.getty.edu/aat/300106750) en [keramiek](http://vocab.getty.edu/aat/300310706). 
+De [Koninklijke Vereniging van Vrienden der Aziatische Kunst (KVVAK)](https://www.wikidata.org/entity/Q96749093) is een in 1918 opgerichte vereniging die sinds 2018 het predicaat Koninklijk draagt. De KVVAK werd op 29 juni 1918 opgericht door de ingenieur [H.F.E. Visser (1890-1965)](https://www.wikidata.org/entity/Q83286861) en de verzamelaar en handelaar [G.J. Verburgt (1871-1926)](https://www.wikidata.org/entity/Q84499681) met het doel grotere bekendheid te geven aan [Aziatische kunst](https://www.wikidata.org/entity/Q3399573), de belangstelling ervoor te stimuleren en de wetenschapsbeoefening op dit gebied te bevorderen. De eerste voorzitter van de vereniging was [H.K. Westendorp](https://www.wikidata.org/entity/Q96749169) (1868-1941), die later zijn eigen collectie aan de KVVAK zou legateren. De collectie van de vereniging telt op dit moment ongeveer 1850 objecten, bestaande uit verschillende kunstvormen zoals beeldhouwkunst, Japanse [prenten](http://vocab.getty.edu/aat/300106750) en [keramiek](http://vocab.getty.edu/aat/300310706). 
 
 Na enkele tijdelijke tentoonstellingen werd er in 1928 rond het tienjarig bestaan van de KVVAK besloten tot de oprichting van een fonds waarmee een eigen collectie kon worden aangekocht en een museum worden gesticht. In 1932 werd in de Tuinzaal van het [Stedelijk Museum Amsterdam](https://www.wikidata.org/entity/Q924335) het zogenaamde Museum voor Aziatische Kunst geopend. In 1952 verhuisde de collectie naar het [Rijksmuseum](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F0d0d07f9e69d73c961b30ffd357c1e47) in Amsterdam, waar deze nog altijd wordt tentoongesteld. In eerste instantie werd de collectie van de KVVAK tentoongesteld in de [Druckeruitbouw](https://www.wikidata.org/entity/Q25712476), die later is opgegaan in de huidige Philipsvleugel. Na de grote verbouwing van het Rijksmuseum in 2013 is de collectie van de KVVAK ondergebracht in het [Aziatisch paviljoen](http://www.wikidata.org/entity/Q37769044). Naast het onderhouden van de eigen collectie organiseert de KVVAK onder andere lezingen en reizen. Daarnaast wordt bij uitgeverij De Gruyter Brill het tijdschrift [Aziatische Kunst](https://brill.com/view/journals/vvak/vvak-overview.xml) uitgegeven.
 
@@ -44,55 +44,55 @@ Niet de gehele collectie Aziatische kunst van het Rijksmuseum is een bruikleen v
 ## Primary sources
 
 Archief:
-  > *NL-HaNA 2.14.73 663*
+  > *Nationaal Archief 2.14.73 Inventaris van het archief van de Afdeling Oudheidkunde en Natuurbescherming en taakvoorgangers, (1910) 1940-1965 (1981) van het Ministerie van Onderwijs, Kunsten en Wetenschappen - inventarisnummer 663*
   > _Stukken betreffende het financieel beheer van het Museum voor Oost-Aziatische Kunst te Amsterdam 1940-1960._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~663](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~663)
 
 Archief:
-  > *NL-HaNA 2.14.73 674*
+  > *Nationaal Archief 2.14.73 Inventaris van het archief van de Afdeling Oudheidkunde en Natuurbescherming en taakvoorgangers, (1910) 1940-1965 (1981) van het Ministerie van Onderwijs, Kunsten en Wetenschappen - inventarisnummer 674*
   > _Stukken betreffende de aankoop van kunststukken en de onderbrenging van de verzameling van het Museum voor Oost-Aziatische Kunst in het Rijksmuseum te Amsterdam, 1947-1960._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~674](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40H.~H.3~674)
 
 Archief:
-  > *NL-HaNA 2.14.73 6609*
+  > *Nationaal Archief 2.14.73 Inventaris van het archief van de Afdeling Oudheidkunde en Natuurbescherming en taakvoorgangers, (1910) 1940-1965 (1981) van het Ministerie van Onderwijs, Kunsten en Wetenschappen - inventarisnummer 6609*
   > _Stukken betreffende een subsidieverlening aan het Museum van Aziatische Kunst te Amsterdam, 1942-1964._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40T.~6609](https://www.nationaalarchief.nl/onderzoeken/archief/2.14.73/invnr/%40T.~6609)
 
 Archief:
-  > *NL-HaNA 2.27.19 2934*
+  > *2.27.19 Inventaris van het archief van het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk, (1910) 1965 - 1982 (1990) - inventarisnummer 2934*
   > _Stukken betreffende het goedkeuren van uitleen- en bruikleenovereenkomsten van kunstvoorwerpen tussen het Rijksmuseum en de Vereniging Vrienden der Aziatische Kunst, 1970 - 1971._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.27.19/invnr/%402~2.2~2.2.6~2933-2940~2933-2936~2934](https://www.nationaalarchief.nl/onderzoeken/archief/2.27.19/invnr/%402~2.2~2.2.6~2933-2940~2933-2936~2934)
 
 Archief:
-  > *NL-HaNA 2.24.25 554-555*
+  > *Nationaal Archief 2.24.25 Inventaris van het fotoarchief gevormd door het Bureau van de Rijksinspecteur voor Roerende Monumenten, (1893) 1949-1975 (1976) - inventarisnummer 554-555*
   > _Foto's van de tentoonstelling 'Aziatische Kunst' in het Museum voor Aziatische Kunst in 1936. Inventarisnummer 554 beslaat een overzicht van de tentoonstellingsruimte. Inventarisnummer 555 beslaat een overzicht van het 'Chinees ceramiek'._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40B~578~554-555](https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40B~578~554-555)
 
 Archief:
-  > *NL-HaNA 2.24.25 1281-1288*
+  > *Nationaal Archief 2.24.25 Inventaris van het fotoarchief gevormd door het Bureau van de Rijksinspecteur voor Roerende Monumenten, (1893) 1949-1975 (1976) - inventarisnummer 1281-1288*
   > _Verschillende foto-overzichten van de tentoonstellingsruimtes van Museum voor Aziatische Kunst te Amsterdam tussen 1931-1958. Het beslaat dus zowel foto's uit het Stedelijk Museum als het Rijksmuseum in Amsterdam._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40C~1442~1448~1281-1288](https://www.nationaalarchief.nl/onderzoeken/archief/2.24.25/invnr/%40C~1442~1448~1281-1288)
 
 Archief:
-  > *NL-HaNA 2.20.69 2982*
+  > *Nationaal Archief 2.20.69 Inventaris van het archief van het Koninklijk Instituut voor de Tropen, (1856) 1910-1995 - inventarisnummer 2982*
   > _Correspondentie tussen het Koninklijk Instituut voor de Tropen en het Rijksmuseum te Amsterdam betreffende het Museum voor Aziatische Kunst, 1941._  
 
   > [https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.1.~B.5.1.1.~B.5.1.1.5~2982](https://www.nationaalarchief.nl/onderzoeken/archief/2.20.69/invnr/%40B.~B.5.~B.5.1.~B.5.1.1.~B.5.1.1.5~2982)
 
 Archiefstuk:
-  > *NL-HlmNHA 476 2506*
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers te Amsterdam 476 - inventarisnummer 2506*
   > _Rapport van H.F.E. Visser inzake de wenselijkheid om te komen tot de stichting van een Rijksmuseum voor Aziatische kunst in het kader van de reorganisatie van de Nederlandse musea, (ca 1920)._  
 
   > [https://hdl.handle.net/21.12102/0BC966D7764F4EC3AB2B0A4AFF30B73A](https://hdl.handle.net/21.12102/0BC966D7764F4EC3AB2B0A4AFF30B73A)
 
 Archiefstuk:
-  > *NL-HlmNHA 64 116*
+  > *Noord-Hollands Archief 64 Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) te Amsterdam - inventarisnummer 116*
   > _Briefwisseling tussen H.F.E. Visser, conservator van het museum van Aziatische Kunst te Amsterdam, en de KNAW over identificatie en plaatsing van een Boeddhakop van de Boroboedoer, in bezit van de KNAW, 1939._  
 
   > [https://hdl.handle.net/21.12102/F3CA33316B0B49EEB6E8C0BC9BCAFDD4](https://hdl.handle.net/21.12102/F3CA33316B0B49EEB6E8C0BC9BCAFDD4)
@@ -141,5 +141,6 @@ Tijdschrift:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by Wiebe Reints as original_author on 2024-03-12_
+_first edited by Wiebe Reints as original_author on 2024-03-12_  
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         
