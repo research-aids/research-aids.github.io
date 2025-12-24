@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-23
+date: 2025-12-24
 nav_exclude: True
 --- 
 
@@ -27,7 +27,7 @@ During the time of the Dutch East India Company (VOC) and the Dutch West India C
 
 Many members and donors of the NZG were affiliated with the Dutch Reformed Church. Most of the NZG missionaries were stationed in [Java](https://sws.geonames.org/1642673) and [Sulawesi](https://sws.geonames.org/9062340), and to a lesser extent were also active in other areas within the former [Dutch East Indies](https://sws.geonames.org/1643084). The NZG was very active in collecting objects. The NZG collection was used to teach future missionaries about languages and cultures in the former Dutch East Indies . Later, the collections were loaned to various exhibitions and museums, such as the 1883 World Exhibition and the Museum voor Land-, Taal- en Volkenkunde (now Wereldmuseum Rotterdam).
 
-In addition to the actual missionary work, missionaries also supervised public education and were active in all kinds of other areas such as scientific research, but also managing shops and printing workshops.
+In addition to missionary work itself, missionaries also organised public education and scientific activities, and set up shops and print houses.
 
 ### Provenance research
 
@@ -101,6 +101,5 @@ Website:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-05-08_  
-_last edited by abacus as translator on 2025-04-24
-(applies to section: Main-text; Sources)_
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         

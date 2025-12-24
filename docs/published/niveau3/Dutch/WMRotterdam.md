@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-23
+date: 2025-12-24
 nav_exclude: False
 --- 
 
@@ -27,7 +27,7 @@ Het Wereldmuseum Rotterdam werd in 1885 opgericht door de Gemeente Rotterdam als
 
 Het huidige Wereldmuseum Rotterdam is ontstaan uit de in 1851 opgerichte Yachtvereniging, die aan de Willemskade in Rotterdam gevestigd was. Leden schonken allerhande voorwerpen aan de vereniging, zoals scheepsmodellen, maar ook etnografische objecten. Zodoende werd in 1873 het [Maritiem Museum Prins Hendrik](http://www.wikidata.org/entity/Q2755458) opgericht, genoemd naar de voorzitter van de Yachtvereniging. Toen [Prins Hendrik](http://www.wikidata.org/entity/Q705129) in 1879 overleed en de Yachtvereniging in 1880 ophield te bestaan, besloot de gemeente Rotterdam in 1883 het gebouw aan de Willemskade over te nemen en aldaar een volkenkundig museum te stichten. De behoefte voor een dergelijk museum kwam voort uit onder meer de Nederlandse overzeese handelscontacten, de opkomende volkenkundige wetenschappen en toenemend missie- en zendingswerk in de Nederlandse koloniale gebieden. In 1885 werd ook de collectie van het voormalig Maritiem Museum Prins Hendrik over genomen, waarna op 1 mei van dat jaar het nieuwe museum zijn deuren opende.
 
-De collectie van het Museum voor Land- en Volkenkunde bestond in eerste instantie uit allerhande schenkingen van onder andere zeelieden, handelaren en militairen. De schenking van de collectie Javaanse gebatikte doeken en andersoortige voorwerpen aan het eind van de negentiende eeuw door [Elie van Rijckevorsel](http://www.wikidata.org/entity/Q52155329), die later ook in de Raad van Advies van het museum plaatsnam, diende als aanmoediging aan de gemeente Rotterdam om een etnografisch museum te stichten. Vanaf het begin van de twintigste eeuw werd er onder de notie van de antropologie gestructureerder verzameld, door onder andere het organiseren van verzamelreizen. Hierbij was er veel aandacht voor de culturen op Nieuw Guinea.
+De collectie van het Museum voor Land- en Volkenkunde bestond in eerste instantie voornamelijk uit schenkingen van onder andere zeelieden, handelaren en militairen. De schenking van de collectie Javaanse gebatikte doeken en andersoortige voorwerpen aan het eind van de negentiende eeuw door [Elie van Rijckevorsel](http://www.wikidata.org/entity/Q52155329), die later ook in de Raad van Advies van het museum plaatsnam, diende als aanmoediging aan de gemeente Rotterdam om een etnografisch museum te stichten. Vanaf het begin van de twintigste eeuw werd er onder de notie van de antropologie gestructureerder verzameld, door onder andere het organiseren van verzamelreizen. Hierbij was er veel aandacht voor de culturen op Nieuw Guinea.
 
 Pas in 1961 gingen het Museum voor Volkenkunde en het Maritiem Museum Prins Hendrik los van elkaar verder. Ook vandaag de dag zijn dit nog steeds aparte musea van de gemeente Rotterdam, maar sinds de jaren 1980 worden de collecties van beider musea wel opgeslagen in hetzelfde depot. Sinds mei 2017 is het Wereldmuseum Rotterdam een nauwe samenwerking aangegaan met de stichting [Nationaal Museum van Wereldculturen](http://www.wikidata.org/entity/Q17153751) (NMVW). De collectie is overigens nog altijd het bezit van de gemeente Rotterdam. Sinds 2023 gaan alle musea binnen het NMVW verder onder de naam Wereldmuseum. De naam van het museum in de havenstad werd zodoende gespecificeerd tot Wereldmuseum Rotterdam.
 
@@ -90,5 +90,5 @@ Website:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-08-22_  
-_last edited by Tom Quist as editor on 2025-06-19_
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         

@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-23
+date: 2025-12-24
 nav_exclude: False
 --- 
 
@@ -25,13 +25,13 @@ Het Rijksmuseum van Oudheden in Leiden werd in 1818 opgericht vanuit een collect
 
 ### Geschiedenis van het museum
 
-Als het stichtingsjaar van het Rijksmuseum van Oudheden (RMO) wordt doorgaans 1818 genoemd. Dat is het jaar waarin [Caspar Reuvens](http://www.wikidata.org/entity/Q1863369) werd aangesteld als professor in de archeologie aan de Universiteit Leiden, waarmee hij tevens directeur werd van het archeologisch kabinet van de universiteit. De objecten uit dit kabinet werden in eerste instantie tentoongesteld in een pand aan de Houtstraat in Leiden, sinds 1918 wordt de collectie tentoongesteld in het gebouw aan het Rapenburg, waar het museum vandaag de dag nog steeds is gevestigd.
+Als het stichtingsjaar van het Rijksmuseum van Oudheden (RMO) wordt doorgaans 1818 genoemd. Dat is het jaar waarin [Caspar Reuvens](http://www.wikidata.org/entity/Q1863369) werd aangesteld als professor in de archeologie aan de Universiteit Leiden, waarmee hij tevens directeur werd van het archeologisch kabinet van de universiteit. De objecten uit dit kabinet werden in eerste instantie tentoongesteld in een pand aan de Houtstraat in Leiden. Sinds 1918 wordt de collectie tentoongesteld in het gebouw aan het Rapenburg, waar het museum vandaag de dag nog steeds is gevestigd.
 
 Koning Willem I speelde een belangrijke rol in de uitbreiding van het Museum van Oudheden, zoals het in eerste instantie heette. Het RMO kan daarmee in eenzelfde rijtje worden geschaard als het Rijksmuseum voor Natuurlijke Historie (tegenwoordig Naturalis) en het Koninklijk Kabinet van Zeldzaamheden. Al deze musea speelden een belangrijke rol in de professionalisering van musea in Nederland en de uitbreiding van museumcollecties in de negentiende eeuw.
 
-Interessant is dat de museumcollectie breder georiënteerd was dan de tegenwoordige collectie die zich toespitst op Egypte, de Klassieke Oudheid, het Nabije Oosten en archeologie in Nederland. De eerste directeur, Caspar Reuvens, hield namelijk een bredere definitie van oudheden aan, waardoor ook hindoe-boeddhistische beelden afkomstig van de Singhasari-tempel in Oost-Java aan de collectie werden toegevoegd. Pas later, in het begin van de twintigste eeuw, werd er besloten de focus van het museum te vernauwen tot de tegenwoordige afbakeningen. Dit moet worden gezien in een algehele specialisering van het museumveld van Nederland in die periode. De collectie Aziatische en Amerikaanse oudheden werd zodoende in 1904 aan het toenmalig 's Rijks Ethnographisch Museum overgedragen. In 2023 en 2024 zijn verschillende van de Singhasari beelden afkomstig uit de voormalige RMO-collectie gerestitueerd aan Indonesië.
+Interessant is dat de museumcollectie breder georiënteerd was dan de tegenwoordige collectie die zich toespitst op Egypte, de Klassieke Oudheid in Europa, het Nabije Oosten en archeologie in Nederland. De eerste directeur, Caspar Reuvens, hield namelijk een bredere definitie van oudheden aan, waardoor bijvoorbeeld ook hindoe-boeddhistische beelden afkomstig van de Singhasari-tempel in Oost-Java aan de collectie werden toegevoegd. Pas later, in het begin van de twintigste eeuw, werd besloten de focus van het museum te vernauwen tot de tegenwoordige afbakeningen. Dit moet worden gezien in een algehele specialisering van het museumveld van Nederland in die periode. De collectie Aziatische en Amerikaanse oudheden werd in 1904 aan het toenmalig 's Rijks Ethnographisch Museum overgedragen. In 2023 en 2024 zijn verschillende van de Singhasari beelden afkomstig uit de voormalige RMO-collectie gerestitueerd aan Indonesië.
 
-De collectie van het Rijksmuseum van Oudheden is ook interessant in het bredere kader van archeologische collecties uit Zuid-Europa, Egypte en het Midden-Oosten. Hoewel de verhoudingen anders lagen dan in door Nederland gekoloniseerde gebieden, werden archeologische collecties in de negentiende eeuw op manieren opgegraven en verzameld op manieren die in strijd zijn met huidige normen. Bekende voorbeelden van archeologische objecten die onder deze ongelijke machtsverhoudingen in de negentiende eeuw zijn verzameld zijn de Parthenon friezen, de Steen van Rosetta (beide in het Brithish Museum) en de Buste van Nefertiti (eigendom van het Neues Museum in Berlijn). Het is dus belangrijk om ook archeologische collecties, zoals die van het RMO, te zien in de context van het koloniale verleden.
+De collectie van het Rijksmuseum van Oudheden is ook interessant in het bredere kader van archeologische collecties uit Zuid-Europa, Egypte en het Midden-Oosten. Hoewel de verhoudingen anders lagen dan in door Nederland gekoloniseerde gebieden, werden archeologische collecties in de negentiende eeuw op manieren opgegraven en verzameld op manieren die wel degelijk als koloniaal zijn te kenschetsen. Bekende voorbeelden van archeologische objecten die onder ongelijke machtsverhoudingen in de negentiende eeuw zijn verzameld zijn de Parthenon friezen, de Steen van Rosetta (beide in het British Museum) en de Buste van Nefertiti (eigendom van het Neues Museum in Berlijn). Het is dus belangrijk om ook archeologische collecties, zoals die van het RMO, te bezien in de context van het koloniale verleden.
 
 ### Herkomstonderzoek
 
@@ -41,9 +41,9 @@ De website van het [Rijksmuseum van oudheden](https://www.rmo.nl) bevat veel nut
 - Via de zoekbalk
 Specifieke vragen over het archief van het RMO kunnen worden gemaild naar de archivaris, waarvan de contactgegevens op de website beschikbaar zijn.
 
-Ook in andere musea bevindt zich archiefmateriaal met betrekking tot de collectie van het RMO. Interessant zijn hierbij het archief van het Koninklijk Kabinet van Zeldzaamheden (KKZ) en het archief van het Wereldmuseum Leiden. Het archief van het KKZ, dat onderdeel is van het Rijksmuseumarchief, wordt beheerd door het Noord-Hollands Archief in Haarlem. Het archief van het Wereldmuseum Leiden bevat onder andere een inventaris van objecten die in 1904 aan het toenmalig 's Rijks Ethnographisch Museum zijn overgedragen onder het inventarisnummer NL-LdnRMV_A03_018. Dit archief is alleen op aanvraag beschikbaar, daarvoor dient contact te worden op genomen met [collectieinfo@wereldmuseum.nl](mailto:collectieinfo@wereldmuseum.nl). 
+Ook in andere musea bevindt zich archiefmateriaal met betrekking tot de collectie van het RMO. Interessant zijn hierbij het archief van het Koninklijk Kabinet van Zeldzaamheden (KKZ) en het archief van het Wereldmuseum Leiden. Het archief van het KKZ, dat onderdeel is van het Rijksmuseumarchief, wordt beheerd door het Noord-Hollands Archief in Haarlem. Het archief van het Wereldmuseum Leiden bevat onder andere een inventaris van objecten die in 1904 aan het toenmalig 's Rijks Ethnographisch Museum zijn overgedragen onder het inventarisnummer NL-LdnRMV_A03_018. Dit archief is alleen op aanvraag beschikbaar, waarvoor contact kan worden opgenomen met [collectieinfo@wereldmuseum.nl](mailto:collectieinfo@wereldmuseum.nl). 
 
-Ook correspondentiearchieven tussen de verschillende instellingen of schenkers zoals C.G.C. Reinwardt of Nicolaus Engelhard kunnen informatie bevatten over de herkomstgeschiedenis van de collectie van het RMO. De herkomstverslagen die in het kader van een teruggaveverzoek van de Singhasari-beelden door Indonesië geven een goed inzicht van relevante archieven. Deze verslagen en verdere secundaire literatuur zijn ook hieronder te vinden.
+Ook correspondentiearchieven tussen de verschillende instellingen of schenkers zoals C.G.C. Reinwardt of Nicolaus Engelhard kunnen informatie bevatten over de herkomstgeschiedenis van de collectie van het RMO. De herkomstverslagen die in het kader van een teruggaveverzoek van de Singhasari-beelden door Indonesië zijn opgesteld geven een goed inzicht van relevante archieven. Deze verslagen en verdere secundaire literatuur zijn ook hieronder te vinden.
 
 
 ## Related Aids
@@ -83,25 +83,25 @@ Teruggave-advies en herkomstverslag:
   > *I-2023-3 Advies Singasari*
   > _Teruggave-advies over vier beelden uit het tempelcomplex van Singasari: Durga (RV-1403-1622), Mbakala (RV-1403-1623), Nandicwara (RV-1403-1624) en Ganesha (RV-1403-1681). Het herkomstverslag is gelijk aan dat van het Singasari advies uit 2024 (ID-2023-6 Advies Singasari). In het verslag staan verschillende archieven genoemd die relevant kunnen zijn voor verder onderzoek naar objecten die via het Rijksmuseum van Oudheden in het Wereldmuseum terecht zijn gekomen._  
 
-  > [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2023/05/12/indonesie/I-2023-3_AdviesSingasari.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2023/05/12/indonesie/I-2023-3_AdviesSingasari.pdf)
+  > [https://commissie.kolonialecollecties.nl/documenten?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all](https://commissie.kolonialecollecties.nl/documenten?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all)
 
 Teruggave-advies en herkomstverslag:
   > *ID-2023-6 Advies Singasari*
   > _Teruggave-advies over twee beelden uit het tempelcomplex van Singasari: Bhairava (RV-1403-1680) en Nandi (RV-1403-1682). Het herkomstverslag is gelijk aan dat van het Singasari advies uit 2023 (I-2023-3 Advies Singasari). In het verslag staan verschillende archieven genoemd die relevant kunnen zijn voor verder onderzoek naar objecten die via het Rijksmuseum van Oudheden in het Wereldmuseum terecht zijn gekomen._  
 
-  > [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Singasari.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Singasari.pdf)
+  > [https://commissie.kolonialecollecties.nl/documenten?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all](https://commissie.kolonialecollecties.nl/documenten?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all)
 
 Teruggave-advies en herkomstverslag:
   > *ID-2023-8 Advies Brahma*
   > _Teruggave-advies over het beeld van Brahma uit tempelcomplex van Singasari (RV-1403-1582). In het verslag staan verschillende archieven en andere bronnen genoemd die relevant kunnen zijn voor verder onderzoek naar objecten die via het Rijksmuseum van Oudheden in het Wereldmuseum terecht zijn gekomen._  
 
-  > [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Brahma.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Brahma.pdf)
+  > [https://commissie.kolonialecollecties.nl/documenten?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all](https://commissie.kolonialecollecties.nl/documenten?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all)
 
 Teruggave-advies en herkomstverslag:
   > *ID-2023-9 Advies Ganesha*
   > _Teruggave-advies over een beeld van Ganesha  (RV-1403-1759). In het verslag staan verschillende archieven en andere bronnen genoemd die relevant kunnen zijn voor verder onderzoek naar objecten die via het Rijksmuseum van Oudheden in het Wereldmuseum terecht zijn gekomen._  
 
-  > [https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Ganesha.pdf](https://commissie.kolonialecollecties.nl/binaries/kolonialecollecties/documenten/adviezen/2024/06/28/indonesie/Advies+Ganesha.pdf)
+  > [https://commissie.kolonialecollecties.nl/documenten?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all](https://commissie.kolonialecollecties.nl/documenten?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advies&filters%5B0%5D%5Btype%5D=all)
 
 Boek:
   > *Hoijtink, Mirjam. Exhibiting the Past: Caspar Reuvens and the Museums of Antiquities in Europe, 1800-1840. Turnhout: Brepols, 2012.*
@@ -116,5 +116,5 @@ Boek:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-11-06_  
-_last edited by Tom Quist as editor on 2025-06-19_
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         

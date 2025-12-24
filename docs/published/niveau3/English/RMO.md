@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2025-12-23
+date: 2025-12-24
 nav_exclude: True
 --- 
 
@@ -27,9 +27,9 @@ The founding year of the [Rijksmuseum van Oudheden](https://www.rmo.nl)  (RMO) (
 
 King Willem I played an important role in the expansion of the Museum van Oudheden, as it was initially called. The RMO can thus be seen in the same category as the National Museum of Natural History (now [Naturalis]( https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb)) and the [Royal Cabinet of Curiosities]( https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fcc7609accb9857dc8ca777ff1d6d4af1). All these museums played an important role in the professionalisation of museums in the Netherlands and the expansion of museum collections in the nineteenth century.
 
-Interestingly, the museum collection was more broadly oriented than the present-day collection that focuses on Egypt, Classical Antiquity, the Near East and archaeology in the Netherlands. This was because the first director, Caspar Reuvens, held a broader definition of antiquities, meaning that Hindu-Buddhist statues originating from the Singhasari temple in East Java were also added to the collection. Only later, in the early 20th century, was it decided to narrow the museum's focus to the present-day delineations. This should be seen in the context of a general specialisation of the museum sector in the Netherlands during that period. The collection of Asian and American antiquities was thus transferred in 1904 to what was then [‘s Rijks Ethnographisch Museum]( https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (now Wereldmuseum Leiden). In 2023 and 2024 several of the Singhasari statues originating from the former RMO collection were returned to Indonesia.
+Interestingly, the museum collection was more broadly oriented than the present-day collection that focuses on Egypt, Classical Antiquity in Europe, the Near East and archaeology in the Netherlands. This was because the first director, Caspar Reuvens, held a broader definition of antiquities, meaning that for instance Hindu-Buddhist statues originating from the Singhasari temple in East Java were also added to the collection. Only later, in the early 20th century, was it decided to narrow the museum's focus to the present-day delineations. This should be seen in the context of a general specialisation of the museum sector in the Netherlands during that period. The collection of Asian and American antiquities was transferred in 1904 to what was then [‘s Rijks Ethnographisch Museum]( https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b) (now Wereldmuseum Leiden). In 2023 and 2024 several of the Singhasari statues originating from the former RMO collection were returned to Indonesia.
 
-The RMO collection is also interesting in the broader context of archaeological collections from southern Europe, Egypt and the Middle East. Although relations were different from those in areas colonised by the Netherlands, in the nineteenth century archaeological collections were excavated and collected in ways that contravene current norms. Well-known examples of archaeological objects collected under these unequal power relations in the nineteenth century are the Parthenon friezes, the Rosetta Stone (both in the British Museum) and the Bust of Nefertiti (owned by the Neues Museum in Berlin). It is therefore important to also consider archaeological collections such as that of the RMO in the context of the colonial past.
+The RMO collection is also interesting in the broader context of archaeological collections from southern Europe, Egypt and the Middle East. Although relations were different from those in areas colonised by the Netherlands, in the nineteenth century archaeological collections were excavated and collected in ways that can indeed be characterised as colonial. Well-known examples of archaeological objects collected under unequal power relations in the nineteenth century are the Parthenon friezes, the Rosetta Stone (both in the British Museum) and the Bust of Nefertiti (owned by the Neues Museum in Berlin). It is therefore important to also consider archaeological collections such as that of the RMO in the context of the colonial past.
 
 ### Provenance research
 
@@ -85,25 +85,25 @@ Restitution recommendation and provenance report:
   > *I-2023-3 Advies Singasari*
   > _Restitution recommendation regarding four statues from the Singasari temple complex: Durga (RV-1403-1622), Mbakala (RV-1403-1623), Nandicwara (RV-1403-1624) and Ganesha (RV-1403-1681). The provenance report is similar to that of the 2024 Singasari recommendation (ID-2023-6 Singasari recommendation). The report lists several archives that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
 
-  > [https://committee.kolonialecollecties.nl/documents/2023/05/12/indonesia](https://committee.kolonialecollecties.nl/documents/2023/05/12/indonesia)
+  > [https://committee.kolonialecollecties.nl/publications?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advice&filters%5B0%5D%5Btype%5D=all](https://committee.kolonialecollecties.nl/publications?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advice&filters%5B0%5D%5Btype%5D=all)
 
 Restitution recommendation and provenance report:
   > *ID-2023-6 Advies Singasari*
   > _Restitution recommendation regarding two statues from the Singasari temple complex: Bhairava (RV-1403-1680) and Nandi (RV-1403-1682). The provenance report is similar to that of the 2023 Singasari recommendation (I-2023-3 Singasari recommendation). The report lists several archives that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
 
-  > [ https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia]( https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia)
+  > [https://committee.kolonialecollecties.nl/publications?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advice&filters%5B0%5D%5Btype%5D=all](https://committee.kolonialecollecties.nl/publications?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advice&filters%5B0%5D%5Btype%5D=all)
 
 Restitution recommendation and provenance report:
   > *ID-2023-8 Advies Brahma*
   > _Restitution recommendation regarding statue of Brahma from the Singasari temple complex (RV-1403-1582). The report lists several archives and other sources that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
 
-  > [https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia"](https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia")
+  > [https://committee.kolonialecollecties.nl/publications?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advice&filters%5B0%5D%5Btype%5D=all](https://committee.kolonialecollecties.nl/publications?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advice&filters%5B0%5D%5Btype%5D=all)
 
 Restitution recommendation and provenance report:
   > *ID-2023-9 Advies Ganesha*
   > _Restitution recommendation regarding a statue of Ganesha (RV-1403-1759). The report lists several archives and other sources that may be relevant for further research into objects that ended up at the Wereldmuseum via the Rijksmuseum van Oudheden._  
 
-  > [https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia"](https://committee.kolonialecollecties.nl/documents/2024/08/28/indonesia")
+  > [https://committee.kolonialecollecties.nl/publications?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advice&filters%5B0%5D%5Btype%5D=all](https://committee.kolonialecollecties.nl/publications?filters%5B0%5D%5Bfield%5D=information_type&filters%5B0%5D%5Bvalues%5D%5B0%5D=Advice&filters%5B0%5D%5Btype%5D=all)
 
 Dissertation:
   > *Hoijtink, Mirjam. Exhibiting the Past: Caspar Reuvens and the Museums of Antiquities in Europe, 1800-1840. Turnhout: Brepols, 2012.*
@@ -118,6 +118,5 @@ Dissertation:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2024-11-06_  
-_last edited by Abacus as translator on 2025-04-24
-(applies to section: Main-text; Sources)_
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         
