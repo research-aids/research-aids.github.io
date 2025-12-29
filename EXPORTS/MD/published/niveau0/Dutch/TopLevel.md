@@ -1,0 +1,38 @@
+
+# Zoekhulpen Koloniale Collecties
+
+
+## Zoekhulpen bij het doen van herkomstonderzoek naar koloniale collecties
+
+**Deze zoekhulpen zijn nog in ontwikkeling. Ze worden doorlopend gewijzigd, verplaatst en aangevuld.** 
+
+Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doen van (herkomst)onderzoek naar koloniale collecties. Ze bevatten informatie over het doen van onderzoek naar objecten die zijn verworven in een koloniale context en nu onderdeel zijn van een Nederlandse museumcollectie. Naast een korte beschrijving van het onderwerp, geven de zoekhulpen specifieke onderzoekstips en wordt er verwezen naar relevant bronmateriaal.
+
+We zijn benieuwd naar je ervaring als gebruiker van de zoekhulpen. Via deze [vragenlijst](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffhqoDmWSdt9Fjwp6_b0ouT9UMDFNOEJBNEJaTzdBTlhUNEJJVjdGT0VKNC4u) kan je suggesties doen voor nieuwe onderwerpen of aanvullende informatie met ons delen.
+
+_De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Koloniale Collecties](https://www.colonialcollections.nl/). De zoekhulpen zijn geschreven door onderzoekers van het [Expertisecentrum Restitutie](https://www.niod.nl/onderzoek/expertisecentrum-restitutie) van het NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies._
+
+
+### Herkomstonderzoek naar koloniale collecties
+ - [Selecteren en afbakenen](niveau1/Dutch/SelecterenEnAfbakenen.yml)  
+ - [Onderzoeken](niveau1/Dutch/Onderzoeken.yml)  
+ - [Bronnen](niveau1/Dutch/Bronnen.yml)  
+ - [Verslagleggen](niveau1/Dutch/SelectAndDelineate.yml)  
+
+### Categorieën en thema's
+ - [Musea en collecties](niveau2/Dutch/Museum.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren.yml)  
+ - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel.yml)  
+ - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine.yml)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie.yml)  
+
+### Locaties
+ - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao.yml)  
+ - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
+ - [Ghana](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
+
+        
+
+_last edited by wiebe reints as original_author on 2024-06-06_
+        
