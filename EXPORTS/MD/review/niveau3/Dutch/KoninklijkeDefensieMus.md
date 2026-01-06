@@ -6,7 +6,7 @@
 
 De Stichting Koninklijke Defensiemusea is in 2014 opgericht en herbergt verschillende musea die voorheen direct onder het Ministerie van Defensie vielen. De verschillende musea beheren uitgebreide collecties wapens en andersoortige militaire objecten. De collecties bevatten ook veel objecten die een relatie hebben met het (militaire) koloniale verleden van Nederland.
 
-### Geschiedenis van het museum
+### Geschiedenis van de stichting
 
 De Stichting Koninklijke Defensiemusea (SKD) is in 2014 opgericht en fungeert als overkoepelende organisatie voor het Marinemuseum in Den Helder, het Mariniersmuseum in Rotterdam en het Nationaal Militair Museum in Soesterberg. Voorheen vielen deze musea direct onder de verantwoordelijkheid van het Ministerie van Defensie, zoals nu nog het geval is bij [Museum Bronbeek](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f). Hieronder vind je een korte geschiedenis van de drie musea die onder de SKD vallen en wat voor collecties deze musea beheren.
 
