@@ -4,9 +4,7 @@
 
 ## Zoekhulpen bij het doen van herkomstonderzoek naar koloniale collecties
 
-**Deze zoekhulpen zijn nog in ontwikkeling. Ze worden doorlopend gewijzigd, verplaatst en aangevuld.** 
-
-Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doen van (herkomst)onderzoek naar koloniale collecties. Ze bevatten informatie over het doen van onderzoek naar objecten die zijn verworven in een koloniale context en nu onderdeel zijn van een Nederlandse museumcollectie. Naast een korte beschrijving van het onderwerp, geven de zoekhulpen specifieke onderzoekstips en wordt er verwezen naar relevant bronmateriaal.
+Op deze pagina vind je verschillende zoekhulpen die je kunnen helpen bij het doen van (herkomst)onderzoek naar objecten die zijn verworven in een koloniale context en nu onderdeel zijn van een Nederlandse museumcollectie. Naast een korte beschrijving van het onderwerp, geven de zoekhulpen specifieke onderzoekstips en wordt er verwezen naar relevant bronmateriaal.
 
 We zijn benieuwd naar je ervaring als gebruiker van de zoekhulpen. Via deze [vragenlijst](https://forms.office.com/Pages/ResponsePage.aspx?id=yFCH6vTj9U-kP-iCC-CffhqoDmWSdt9Fjwp6_b0ouT9UMDFNOEJBNEJaTzdBTlhUNEJJVjdGT0VKNC4u) kan je suggesties doen voor nieuwe onderwerpen of aanvullende informatie met ons delen.
 
