@@ -23,6 +23,7 @@ The archive of the ethnographic collection of the Main Course was merged with th
  - [Wageningen University & Research](niveau3/English/WageningenUniversity.yml)  
  - [Museum Bronbeek](niveau3/English/Bronbeek.yml)  
  - [Museum Nusantara](niveau3/English/MNusantara.yml)  
+ - [Stichting Koninklijke Defensiemusea](niveau3/English/KoninklijkeDefensieMus.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau.yml)  
 
 ## Primary sources

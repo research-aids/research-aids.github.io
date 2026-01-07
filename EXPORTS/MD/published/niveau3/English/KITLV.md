@@ -33,10 +33,14 @@ The KITLV text collections can be requested through the UBL's [online catalogue]
  - [Sources](niveau1/English/Sources.yml)  
  - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
  - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Indonesia](niveau2/English/Indonesia.yml)  
  - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW.yml)  
+ - [Leiden University Library](niveau3/English/UniversiteitsbibliotheekLeiden.yml)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
  - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao.yml)  
  - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten.yml)  
+ - [University collections](niveau3/English/UniversityMus.yml)  
+ - [Royal Zeeland Scientific Society](niveau3/English/ZeeuwschGenootschap.yml)  
 
 ## Primary sources
 

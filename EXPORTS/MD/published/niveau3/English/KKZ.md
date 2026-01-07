@@ -29,6 +29,7 @@ In addition, archival documents are held at the [National Archives of the Nether
  - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
  - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
  - [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar.yml)  
+ - [Koninklijke Verzamelingen](niveau3/English/KoninklijkeVerzamelingen.yml)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
  - [Artis Ethnographic Museum](niveau3/English/EMArtis.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  

@@ -78,6 +78,7 @@ Een aantal van de Nederlandse bronnen voor herkomstonderzoek naar koloniale coll
  - [Bronnen](niveau1/Dutch/Sources.yml)  
  - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate.yml)  
  - [Verslagleggen](niveau1/Dutch/Reporting.yml)  
+ - [Universitaire collecties](niveau3/Dutch/UniversityMus.yml)  
 
 
 

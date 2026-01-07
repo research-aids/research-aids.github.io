@@ -48,6 +48,7 @@ Herkomstonderzoek kan ook proactief worden uitgevoerd. Bijvoorbeeld, wanneer de 
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade.yml)  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
  - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission.yml)  
+ - [Indonesië](niveau2/Dutch/Indonesia.yml)  
 
 
 

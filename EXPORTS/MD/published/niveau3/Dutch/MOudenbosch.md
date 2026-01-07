@@ -28,6 +28,8 @@ De collectie van Natuurhistorische en Volkenkundig Museum Oudenbosch is volledig
  - [Musea en efgoedbeherende instellingen](niveau2/Dutch/Museum.yml)  
  - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis.yml)  
  - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis.yml)  
+ - [Nederlands Volkenkundig Missiemuseum](niveau3/Dutch/MissiemuseumTilburg.yml)  
+ - [Nijmeegs Volkenkundig Museum](niveau3/Dutch/NijmeegsVolkMus.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  

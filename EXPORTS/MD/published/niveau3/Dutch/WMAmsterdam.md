@@ -30,6 +30,7 @@ De collectie van het Wereldmuseum Amsterdam is binnen de collectie van Wereldmus
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel.yml)  
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine.yml)  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [Indonesië](niveau2/Dutch/Indonesia.yml)  
  - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  
  - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal.yml)  

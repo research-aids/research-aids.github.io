@@ -27,8 +27,9 @@ _The Digital Research Aids are a project of the [Colonial Collections Consortium
 
 ### Locations
  - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao.yml)  
- - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten.yml)  
  - [Ghana](niveau2/English/Ghana.yml)  
+ - [Indonesia](niveau2/English/Indonesia.yml)  
+ - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten.yml)  
 
         
 

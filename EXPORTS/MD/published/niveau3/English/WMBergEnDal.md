@@ -32,7 +32,9 @@ For specific information on objects the Wereldmuseum can also be contacted at [c
 
  - [Sources](niveau1/English/Sources.yml)  
  - [Christian missionaries in colonised territories](niveau2/English/ChristianMission.yml)  
+ - [Nederlands Volkenkundig Missiemuseum](niveau3/English/MissiemuseumTilburg.yml)  
  - [Nederlandsch Zendeling Genootschap](niveau3/English/NZG.yml)  
+ - [Nijmeegs Volkenkundig Museum](niveau3/English/NijmeegsVolkMus.yml)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
  - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  

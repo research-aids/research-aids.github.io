@@ -78,6 +78,7 @@ Het archief van de Landbouwhogeschool tot 1959 bevindt zich in het [Gelders Arch
  - [Musea en collecties](niveau2/Dutch/Museum.yml)  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
  - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV.yml)  
+ - [Nijmeegs Volkenkundig Museum](niveau3/Dutch/NijmeegsVolkMus.yml)  
  - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity.yml)  
  - [Volkenkundig Museum 'Gerardus van der Leeuw'](published/niveau3/Dutch/GerardusLeeuw.yml)  
 

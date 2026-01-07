@@ -32,7 +32,9 @@ Voor specifieke informatie over objecten kan ook contact op worden genomen met h
 
  - [Bronnen](niveau1/Dutch/Sources.yml)  
  - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission.yml)  
+ - [Nederlands Volkenkundig Missiemuseum](niveau3/Dutch/MissiemuseumTilburg.yml)  
  - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG.yml)  
+ - [Nijmeegs Volkenkundig Museum](niveau3/Dutch/NijmeegsVolkMus.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
  - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  

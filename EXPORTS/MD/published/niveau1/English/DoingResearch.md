@@ -79,6 +79,7 @@ A number of the Dutch-language sources for provenance research into colonial col
  - [Reporting](niveau1/English/Reporting.yml)  
  - [Sources](niveau1/English/Sources.yml)  
  - [Select and delineate](niveau1/English/SelectAndDelineate.yml)  
+ - [University collections](niveau3/English/UniversityMus.yml)  
 
 
 

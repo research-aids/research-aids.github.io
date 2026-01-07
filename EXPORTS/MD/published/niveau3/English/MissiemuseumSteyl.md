@@ -27,7 +27,9 @@ The Missiemuseum's collection is not fully registered although this is being wor
 ## Related Aids
 
  - [Christian missionaries in colonised territories](niveau2/English/ChristianMission.yml)  
+ - [Nederlands Volkenkundig Missiemuseum](niveau3/English/MissiemuseumTilburg.yml)  
  - [Nederlandsch Zendeling Genootschap](niveau3/English/NZG.yml)  
+ - [Nijmeegs Volkenkundig Museum](niveau3/English/NijmeegsVolkMus.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch.yml)  
 

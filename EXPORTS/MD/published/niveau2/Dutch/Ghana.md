@@ -46,6 +46,7 @@ Voor onderzoek naar de zendingen aan het Koninklijk Kabinet van Zeldzaamheden ku
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
  - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis.yml)  
  - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  
+ - [Koninklijk Zeeuwsch Genootschap der Wetenschappen](niveau3/Dutch/ZeeuwschGenootschap.yml)  
  - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  

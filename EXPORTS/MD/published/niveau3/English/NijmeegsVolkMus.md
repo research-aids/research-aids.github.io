@@ -28,7 +28,9 @@ The Beijens Collection, which was transferred to Museum Bronbeek in Arnhem in 20
  - [Scientific research in colonised territories](niveau2/English/Science.yml)  
  - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch.yml)  
+ - [Nederlands Volkenkundig Missiemuseum](niveau3/English/MissiemuseumTilburg.yml)  
  - [Nederlandsch Zendeling Genootschap](niveau3/English/NZG.yml)  
+ - [University collections](niveau3/English/UniversityMus.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal.yml)  
 
 THIS RA HAS NO SOURCES

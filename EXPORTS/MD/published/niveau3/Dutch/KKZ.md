@@ -29,6 +29,7 @@ Ook zijn er archiefstukken bij het [Nationaal Archief](https://www.nationaalarch
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine.yml)  
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Handel.yml)  
  - [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar.yml)  
+ - [Koninklijke Verzamelingen](niveau3/Dutch/KoninklijkeVerzamelingen.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
  - [Ethnografisch Museum Artis](niveau3/Dutch/EMArtis.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  

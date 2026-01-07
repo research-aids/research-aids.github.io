@@ -32,6 +32,7 @@ The photograph collection of the Wereldmuseum Rotterdam has been transferred to 
  - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
  - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
  - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Indonesia](niveau2/English/Indonesia.yml)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal.yml)  

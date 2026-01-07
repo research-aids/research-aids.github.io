@@ -27,7 +27,9 @@ Theo van Baaren's personal archive also contains (limited) information about his
 
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/English/Science.yml)  
  - [Wageningen University & Research](niveau3/English/WageningenUniversity.yml)  
+ - [Tropisch Landbouwmuseum](niveau3/English/TropischLandbouwMus.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch.yml)  
+ - [University collections](niveau3/English/UniversityMus.yml)  
 
 ## Primary sources
 

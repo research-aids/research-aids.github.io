@@ -41,6 +41,7 @@ For research into the shipments to the Royal Cabinet of Curiosities please follo
 ## Related Aids
 
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Royal Zeeland Scientific Society](niveau3/English/ZeeuwschGenootschap.yml)  
  - [Koninklijk Kabinet van Zeldzaamheden](niveau3/English/KKZ.yml)  
  - [Etnografisch Museum Artis](niveau3/English/EMArtis.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  

@@ -36,7 +36,9 @@ Het museum beheert verschillende datasets over stamboeken van het KNIL, uitgezon
 
  - [Bronnen](niveau1/Dutch/Sources.yml)  
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy.yml)  
+ - [Indonesië](niveau2/Dutch/Indonesia.yml)  
  - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen.yml)  
+ - [Stichting Koninklijke Defensiemusea](niveau3/Dutch/KoninklijkeDefensieMus.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau.yml)  
 
 ## Primary sources

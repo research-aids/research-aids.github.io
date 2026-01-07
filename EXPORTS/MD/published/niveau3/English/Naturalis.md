@@ -61,6 +61,7 @@ If you have questions regarding your research or would like to visit the collect
  - [Museon-Omniversum](niveau3/English/Museon.yml)  
  - [International Colonial and Export Exhibition 1883](niveau3/English/Wereldtentoonstelling1883.yml)  
  - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/English/MOudenbosch.yml)  
+ - [Royal Zeeland Scientific Society](niveau3/English/ZeeuwschGenootschap.yml)  
 
 ## Primary sources
 

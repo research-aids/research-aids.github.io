@@ -80,6 +80,8 @@ Verzamelaars en organisaties kunnen in meerdere Europese landen actief geweest z
  - [Onderzoeken](niveau1/Dutch/DoingResearch.yml)  
  - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate.yml)  
  - [Verslagleggen](niveau1/Dutch/SelectAndDelineate.yml)  
+ - [Universitaire Bibliotheken Leiden](niveau3/Dutch/UniversiteitsbibliotheekLeiden.yml)  
+ - [Universitaire collecties](niveau3/Dutch/UniversityMus.yml)  
 
 
 

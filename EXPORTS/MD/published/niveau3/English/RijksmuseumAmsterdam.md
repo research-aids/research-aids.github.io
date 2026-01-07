@@ -29,6 +29,7 @@ The [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/o
  - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
  - [Scientific research in colonised territories](niveau2/English/Science.yml)  
  - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
+ - [Indonesia](niveau2/English/Indonesia.yml)  
  - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  
  - [Royal Asian Art Society in the Netherlands](niveau3/English/KVVAK.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml")  

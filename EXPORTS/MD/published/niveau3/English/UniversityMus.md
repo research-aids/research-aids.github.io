@@ -75,6 +75,7 @@ The archives of the Agricultural College up to 1959 are held at the Gelderland A
  - [Sources](niveau1/English/Sources.yml)  
  - [Museums and collections](niveau2/English/Museum.yml)  
  - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Nijmeegs Volkenkundig Museum](niveau3/English/NijmeegsVolkMus.yml)  
  - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV.yml)  
  - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw.yml)  
  - [Wageningen University & Research](niveau3/English/WageningenUniversity.yml)  

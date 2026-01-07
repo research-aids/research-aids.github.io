@@ -54,6 +54,7 @@ Als je als onderzoeker vragen hebt of de collectie wil bezoeken, kan je een verz
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants.yml)  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
  - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  
+ - [Koninklijk Zeeuwsch Genootschap der Wetenschappen](niveau3/Dutch/ZeeuwschGenootschap.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
  - [Wageningen University & Research](niveau3/Dutch/WageningenUniversity.yml)  
  - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW.yml)  
