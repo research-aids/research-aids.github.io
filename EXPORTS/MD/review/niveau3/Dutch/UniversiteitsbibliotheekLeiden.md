@@ -4,11 +4,11 @@
 
 ## Abstract
 
-De Universitaire Bibliotheken Leiden (UBL) herbergen een keur aan relevant materiaal voor het doen van onderzoek naar collecties uit een koloniale context. Naast boeken, tijdschriften en manuscripten beheert de UBL ook omvangrijke archiefcollecties en fotografisch materiaal.
+De Universitaire Bibliotheken Leiden (UBL) herbergen belangrijk materiaal voor het doen van onderzoek naar collecties uit een koloniale context. Naast boeken, tijdschriften en manuscripten beheert de UBL ook omvangrijke archiefcollecties en fotografisch materiaal.
 
 ### Geschiedenis van de organisatie
 
-De schenking van de Polyglot Bijbel door [Willem van Oranje](http://www.wikidata.org/entity/Q78454) bij de stichting van de Universiteit Leiden in 1575 markeert ook de symbolische oprichting van de universiteitsbibliotheek. In 1587 werd de bibliotheek officieel in gebruik genomen en was gevestigd in het huidige academiegebouw van de Universiteit Leiden aan het Rapenburg. Sinds het verschijnen van de eerste bibliotheekcatalogus, de _Nomenclator_, in 1595 is de collectie uitgegroeid tot een verzameling van vele miljoenen boeken, manuscripten en andersoortige documenten. Sinds 2009 zijn de verschillende bibliotheken die door de jaren heen waren ontstaan aan de Universiteit Leiden samengevoegd onder de naam _Universitaire Bibliotheken Leiden_ (UBL). De UBL bestaat uit de algemene universiteitsbibliotheek en de bibliotheken Sociale Wetenschappen, Rechten, Wiskunde & Natuurwetenschappen en de East Asian Library.
+De schenking van de polyglot bijbel door [Willem van Oranje](http://www.wikidata.org/entity/Q78454) bij de stichting van de Universiteit Leiden in 1575 markeert ook de symbolische oprichting van de universiteitsbibliotheek. In 1587 werd de bibliotheek officieel in gebruik genomen en was gevestigd in het huidige academiegebouw van de Universiteit Leiden aan het Rapenburg. Sinds het verschijnen van de eerste bibliotheekcatalogus, de _Nomenclator_, in 1595 is de collectie uitgegroeid tot een verzameling van vele miljoenen boeken, manuscripten en andersoortige documenten. Sinds 2009 zijn de verschillende bibliotheken die door de jaren heen waren ontstaan aan de Universiteit Leiden samengevoegd onder de naam _Universitaire Bibliotheken Leiden_ (UBL). De UBL bestaat uit de algemene universiteitsbibliotheek en de bibliotheken Sociale Wetenschappen, Rechten, Wiskunde & Natuurwetenschappen en de East Asian Library.
 
 Met betrekking tot onderzoek naar koloniale geschiedenissen beheert de UBL een grote relevante collectie, met name nadat de bibliotheek in respectievelijk 2013 en 2014 de collecties van het [Koninklijk Instituut voor de Tropen](http://www.wikidata.org/entity/Q1796182) en het [KITLV](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F62191a1bbed9b315db786f2037417b4f) overnam. Ook de bibliotheek van het [Nederlands Instituut voor het Nabije Oosten](https://www.nino-leiden.nl/) werd in 2018 opgenomen in de UBL.
 
@@ -16,7 +16,7 @@ Naast de collectie geschreven bronnen beheert de UBL ook een grote hoeveelheid [
 
 ### Onderzoek
 
-De [digitale catalogus](https://www.bibliotheek.universiteitleiden.nl/) van de UBL is online doorzoekbaar, hierin zijn zowel boeken, tijdschriften en andersoortig materiaal te vinden. Om het zoeken te vergemakkelijken zijn er verschillende _[subject guides](https://www.bibliotheek.universiteitleiden.nl/subject-guides)_ beschikbaar. Ook de gedigitaliseerde bijzondere collecties zijn [online raadpleegbaar](https://digitalcollections.universiteitleiden.nl/). Naast de uitgebreide collectie beheert de UBL ook veel archiefmateriaal, zowel van de Universiteit Leiden zelf als persoonlijke en andersoortige archieven. De verschillende archiefcollecties zijn uitgebreid beschreven in zogenaamde _[collection guides](https://collectionguides.universiteitleiden.nl/)_. Hierin vind je ruime informatie over het aanwezige materiaal. Mocht je bepaalde informatie niet kunnen vinden is het ook altijd mogelijk om [contact](https://www.bibliotheek.universiteitleiden.nl/over-ons/contact) op te nemen met de organisatie.
+De [digitale catalogus](https://www.bibliotheek.universiteitleiden.nl/) van de UBL is online doorzoekbaar. Hierin zijn zowel boeken, tijdschriften en andersoortig materiaal te vinden. Om het zoeken te vergemakkelijken zijn er verschillende _[subject guides](https://www.bibliotheek.universiteitleiden.nl/subject-guides)_ beschikbaar. Ook de gedigitaliseerde bijzondere collecties zijn [online raadpleegbaar](https://digitalcollections.universiteitleiden.nl/). Naast de uitgebreide collectie beheert de UBL ook veel archiefmateriaal, zowel van de Universiteit Leiden zelf als persoonlijke en andersoortige archieven. De verschillende archiefcollecties zijn uitgebreid beschreven in zogenaamde _[collection guides](https://collectionguides.universiteitleiden.nl/)_. Hierin vind je ruime informatie over het aanwezige materiaal. Mocht je bepaalde informatie niet kunnen vinden is het ook altijd mogelijk om [contact](https://www.bibliotheek.universiteitleiden.nl/over-ons/contact) op te nemen met de organisatie.
 
 
 ## Related Aids
@@ -54,5 +54,5 @@ Website:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-09-08_  
-_last edited by Maarten van der Bent; Klaas Stutje as reviewer on 2025-11-19_
+_last edited by Wiebe Reints as original_author on 2026-01-06_
         

@@ -72,6 +72,5 @@ Magazine:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-12-01_  
-_last edited by Abacus as translator on 2026-01-06
-(applies to section: Main-text; Sources)_
+_last edited by Wiebe Reints as original_author on 2026-01-06_
         

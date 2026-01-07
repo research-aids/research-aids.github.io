@@ -19,7 +19,7 @@ _Het interieur van het familiemuseum in het Koninklijk Huisarchief, 2024_ ([Kerk
 
 ### Herkomstonderzoek
 
-De volledige Koninklijke Verzamelingen zijn [online raadpleegbaar](https://www.koninklijkeverzamelingen.nl/collectie), hier kan je ook selecteren op herkomstplek. Ook de archieven tot 1948 van het koninklijk huis zijn openbaar toegankelijk. Alle te raadplegen archieven zijn [online](https://www.koninklijkeverzamelingen.nl/archief) te vinden. Op dit moment is van een deel van deze archieven ook de volledige inventaris online raadpleegbaar. De komende jaren zal dit aantal steeds verder toenemen. Bij het Koninklijk Huisarchief zijn van alle archieven inventarissen beschikbaar, deze kunnen tijdens een bezoek worden ingezien.
+De volledige Koninklijke Verzamelingen zijn [online raadpleegbaar](https://www.koninklijkeverzamelingen.nl/collectie), hier kan je ook selecteren op herkomstplek. Ook de archieven tot 1948 van het koninklijk huis zijn openbaar toegankelijk. Alle te raadplegen archieven zijn [online](https://www.koninklijkeverzamelingen.nl/archief) te vinden. Op dit moment is van een deel van deze archieven ook de volledige inventaris online raadpleegbaar. De komende jaren zal dit aantal verder toenemen. Bij het Koninklijk Huisarchief zijn van alle archieven inventarissen beschikbaar, deze kunnen tijdens een bezoek worden ingezien.
 
 
 ## Related Aids
@@ -57,6 +57,5 @@ Boek:
 TO BE FILLED
 
 _first edited by Wiebe Reints as original_author on 2025-07-22_  
-_last edited by Maarten van der Bent as reviewer on 2025-09-16
-(applies to section: Main-text)_
+_last edited by Wiebe Reints as original_author on 2026-01-06_
         
