@@ -14,7 +14,7 @@ RelatedAides:
   - "Musea en collecties":
         link: "niveau2/Dutch/Museum.yml"
         rel_type: "see also"
-  - "Wetenschap":
+  - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
         link: "niveau2/Dutch/Science.yml"
         rel_type: "see also"
   - "Koninklijk Instituut voor Taal-, Land- en Volkenkunde":
@@ -132,4 +132,5 @@ editing_metadata:
 
 
     
+
 
