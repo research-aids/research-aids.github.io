@@ -48,7 +48,7 @@ Main-text:
   content: |
     ### History of the foundation
     
-    The Stichting Koninklijke Defensiemusea (SKD) was established in 2014 and acts as the umbrella organisation for the Marinemuseum in Den Helder, the Mariniersmuseum in Rotterdam and the Nationaal Militair Museum in Soesterberg. Previously, these museums fell under the direct responsibility of the Ministry of Defence, as is still the case for[Museum Bronbeek](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f). Below you will find a brief history of the three museums that fall under the SKD and the collections they manage.
+    The Stichting Koninklijke Defensiemusea (SKD) was established in 2014 and acts as the umbrella organisation for the Marinemuseum in Den Helder, the Mariniersmuseum in Rotterdam and the Nationaal Militair Museum in Soesterberg. Previously, these museums fell under the direct responsibility of the Ministry of Defence, as is still the case for[Museum Bronbeek](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f). Below you will find a brief history of the three museums that fall under the SKD and the collections they manage.
 
     **Marinemuseum Den Helder**
     The [Marinemuseum](http://www.wikidata.org/entity/Q17402020) in Den Helder (province of North Holland) manages the museum collection of the Dutch navy. Founded in 1962, the museum is located on the former Willemsoord naval base. In addition to various ships and other navy-related objects, the Marinemuseum collection includes objects and collections from a colonial context. The Dutch navy also manages its own historical collection, housed in so-called tradition rooms. If you wish to visit the tradition rooms, you will need to contact the administrator in advance. The [tradition room of the Naval Aviation Service](https://www.marineluchtvaart.nl/cgi-bin/objecten.pl) has made part of its collection available online.
@@ -71,10 +71,9 @@ Main-text:
 
     The collection of the Nationaal Militair Museum can be browsed via its own [collection website](https://collectie.nmm.nl/nl/collectie/?_ga=2.218030102.1046968903.1660553611-298675809.1660564803&_gac=1.83753444.1660642684.Cj0KCQjwgO2XBhCaARIsANrW2X0x1xCORvngvPpYGnoOtTAD60qrsYpipWn3sQ5KxajXrJPVRUtbvb4aAvJPEALw_wcB), where the library collection can also be found.
 
-    Archival material relating to the three museums that fall under the Royal Defence Museums Foundation can be found in various inventories of the Ministry of Defence (and its predecessors). When searching for archive material, please note the various former ministries that are now part of the Ministry of Defence. For example, during various periods up until 1959 there was a Ministry of the Navy, and the Ministry of Defence was called the 'Ministry of War'.
+    Archival material relating to the three museums that fall under the Royal Defence Museums Foundation can be found in various inventories of the Ministry of Defence (and its predecessors). When searching for archive material, please note the various former ministries that are now part of the Ministry of Defence. For example, during various periods up until 1959 there was a Ministry of the Navy, and the Ministry of Defence was called the 'Ministry of War'. The various museums themselves also manage archive material, which is currently being inventoried.
   content-type: text/markdown
 
-  # Duidelijker verwijzen naar archieven >> mail aan skd gestuurd (2025-11-19)
 
 Sources:
   Primary sources: []
@@ -101,3 +100,8 @@ editing_metadata:
     author: Abacus
     role: translator
     editing_notes: Abacus translations processed by Wiebe Reints.
+  - date: 2026-01-06
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Final check of the research aid. Text is up to date and all the links are functioning.

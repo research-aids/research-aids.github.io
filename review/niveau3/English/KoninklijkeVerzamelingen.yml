@@ -88,3 +88,8 @@ editing_metadata:
     author: Abacus
     role: translator
     editing_notes: Abacus translations processed by Wiebe Reints.
+  - date: 2026-01-06
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Final check of the research aid. Text is up to date and all the links are functioning.

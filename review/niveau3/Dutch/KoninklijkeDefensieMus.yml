@@ -59,7 +59,7 @@ Main-text:
     **Nationaal Militair Museum Soesterberg**
     Het Nationaal Militair Museum (NMM) in Soesterberg is een samenvoeging van het [Legermuseum](http://www.wikidata.org/entity/Q1781661) in Delft en het [Militaire Luchtvaartmuseum](http://www.wikidata.org/entity/Q1934808) dat al was gevestigd in Soesterberg. De samenvoeging vond plaats in 2014, toen ook een nieuw museumgebouw werd geopend. Sinds 2023 is ook het voormalige Marechausseemuseum onderdeel van het NMM. 
     
-    Het Legermuseum in Delft kende een langere geschiedenis op meerdere locaties en vond zijn oorsprong in de verzameling van de Nederlandse militair [F.A. Hoefer](http://www.wikidata.org/entity/Q597251). Het Militaire Luchtvaart Museum werd in 1968 opgericht als officieel museum van de Nederlandse Luchtmacht. Het Marechausseemuseum werd in 1936 opgericht en was vanaf 1972 tot de sluiting in 2023 gevestigd in het Gelderse Buren. De focus van het NMM ligt op de volledige geschiedenis van de Nederlandse krijgsmacht met specifieke aandacht voor de land- en luchtmacht. Ook de Nederlandse luchtmacht beheert een eigen [historische collectie](https://www.defensie.nl/onderwerpen/musea/defensiemusea/historische-verzamelingen-luchtmacht) in verschillende traditiekamers. Ook hier geldt dat je van te voren contact moet opnemen met de desbetreffende beheerder om een bezoek te kunnen plegen.
+    Het Legermuseum in Delft kende een langere geschiedenis op meerdere locaties en vond zijn oorsprong in de verzameling van de Nederlandse militair [F.A. Hoefer](http://www.wikidata.org/entity/Q597251). Het Militaire Luchtvaart Museum werd in 1968 opgericht als officieel museum van de Nederlandse Luchtmacht. Het Marechausseemuseum werd in 1936 opgericht en was vanaf 1972 tot de sluiting in 2023 gevestigd in het Gelderse Buren. De focus van het NMM ligt op de volledige geschiedenis van de Nederlandse krijgsmacht met specifieke aandacht voor de land- en luchtmacht. Ook de Nederlandse luchtmacht beheert een eigen [historische collectie](https://www.defensie.nl/onderwerpen/musea/defensiemusea/historische-verzamelingen-luchtmacht) in verschillende traditiekamers. Ook hier geldt dat je van te voren contact moet opnemen met de desbetreffende beheerder om een bezoek te kunnen maken.
 
     ![Schilderijenwand van de Schatkamer Nationaal Militair Museum](https://upload.wikimedia.org/wikipedia/commons/8/8a/Schilderijenwand_Schatkamer_Nationaal_Militair_Museum_%28NMM%29.jpg)
     _De schilderijenwand van de 'schatkamer' in het Nationaal Militair Museum_ ([Nationaal Militair Museum](https://commons.wikimedia.org/wiki/File:Schilderijenwand_Schatkamer_Nationaal_Militair_Museum_(NMM).jpg))
@@ -70,10 +70,8 @@ Main-text:
 
     De collectie van het Nationaal Militair Museum is doorzoekbaar via een [eigen collectiewebsite](https://collectie.nmm.nl/nl/collectie/?_ga=2.218030102.1046968903.1660553611-298675809.1660564803&_gac=1.83753444.1660642684.Cj0KCQjwgO2XBhCaARIsANrW2X0x1xCORvngvPpYGnoOtTAD60qrsYpipWn3sQ5KxajXrJPVRUtbvb4aAvJPEALw_wcB). Hierin is ook de bibliotheekcollectie te vinden. 
 
-    Voor archiefmateriaal met betrekking tot de drie musea die onder de Stichting Koninklijke Defensiemusea vallen geldt dat deze in verschillende inventarissen van het ministerie van Defensie (en zijn voorgangers) te vinden is. Let bij het zoeken naar archiefmateriaal op de verschillende voorgaande ministeries die nu onderdeel zijn van het ministerie van Defensie. Zo was er in verschillende periodes tot 1959 een Ministerie van Marine en heette het Ministerie van Defensie nog het 'Ministerie van Oorlog'. 
+    Voor archiefmateriaal van de drie musea de Stichting Koninklijke Defensiemusea geldt dat deze in verschillende inventarissen van het ministerie van Defensie (en zijn voorgangers) te vinden is. Let bij het zoeken naar archiefmateriaal op de verschillende voorgaande ministeries die nu onderdeel zijn van het ministerie van Defensie. Zo was er in verschillende periodes tot 1959 een Ministerie van Marine en heette het Ministerie van Defensie nog het 'Ministerie van Oorlog'. Ook de verschillende musea zelf beheren archiefmateriaal, dat wordt op dit moment geïnventariseerd.
   content-type: text/markdown
-
-  # Duidelijker verwijzen naar archieven >> mail aan skd gestuurd (2025-11-19)
 
 Sources:
   Primary sources: []
@@ -100,4 +98,9 @@ editing_metadata:
     author: Maarten van der Bent; Klaas Stutje
     role: reviewer
     editing_notes: Maarten and Klaas 's comments were processed by Wiebe Reints.
+  - date: 2026-01-06
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Final check of the research aid. Text is up to date and all the links are functioning.
 

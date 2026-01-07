@@ -59,7 +59,7 @@ Main-text:
 
     The archives of the Nijmegen Ethnographic Museum are managed by the Radboud University in Nijmegen and contain a relatively small amount of material. Inventory number 'Cb05572/56' is particularly relevant as it contains various exhibition catalogues and a handwritten inventory of the museum collection. Inventory number 'cb05572/57' contains photographic material relating to the various exhibitions held at the Nijmegen Ethnographic Museum.
 
-    The Radboud University archive is not open to the public but can be accessed by submitting a motivated request to the archivist [Marianne Waldekker](mailto:marianne.waldekker@ru.nl).
+    The Radboud University archive is not open to the public but can be accessed by submitting a motivated request to the [archivist](mailto:marianne.waldekker@ru.nl).
 
     The Beijens Collection, which was transferred to Museum Bronbeek in Arnhem in 2010, can be viewed on the museum's [collection website](https://museumbronbeek.nl/#1d411b24-7856-4453-af86-9b33c9c40fa7). More information about the ethnographic collection of Ghent University can be found on the [Ghent University Museum](https://www.gum.gent/nl/deelcollectie-etnografie) website.
   content-type: text/markdown
@@ -76,6 +76,11 @@ editing_metadata:
     author: Abacus
     role: translator
     editing_notes: Abacus translations processed by Wiebe Reints. 
+  - date: 2026-01-06
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Final check of the research aid. Text is up to date and all the links are functioning.
 
 
     

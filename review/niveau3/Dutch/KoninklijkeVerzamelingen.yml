@@ -55,7 +55,7 @@ Main-text:
     
     ### Herkomstonderzoek
     
-    De volledige Koninklijke Verzamelingen zijn [online raadpleegbaar](https://www.koninklijkeverzamelingen.nl/collectie), hier kan je ook selecteren op herkomstplek. Ook de archieven tot 1948 van het koninklijk huis zijn openbaar toegankelijk. Alle te raadplegen archieven zijn [online](https://www.koninklijkeverzamelingen.nl/archief) te vinden. Op dit moment is van een deel van deze archieven ook de volledige inventaris online raadpleegbaar. De komende jaren zal dit aantal steeds verder toenemen. Bij het Koninklijk Huisarchief zijn van alle archieven inventarissen beschikbaar, deze kunnen tijdens een bezoek worden ingezien.
+    De volledige Koninklijke Verzamelingen zijn [online raadpleegbaar](https://www.koninklijkeverzamelingen.nl/collectie), hier kan je ook selecteren op herkomstplek. Ook de archieven tot 1948 van het koninklijk huis zijn openbaar toegankelijk. Alle te raadplegen archieven zijn [online](https://www.koninklijkeverzamelingen.nl/archief) te vinden. Op dit moment is van een deel van deze archieven ook de volledige inventaris online raadpleegbaar. De komende jaren zal dit aantal verder toenemen. Bij het Koninklijk Huisarchief zijn van alle archieven inventarissen beschikbaar, deze kunnen tijdens een bezoek worden ingezien.
   content-type: text/markdown
 
 Sources:
@@ -88,6 +88,11 @@ editing_metadata:
     author: Maarten van der Bent
     role: reviewer
     editing_notes: Maarten's comments were processed by Wiebe Reints.
+  - date: 2026-01-06
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Final check of the research aid. Text is up to date and all the links are functioning.
       
 
 

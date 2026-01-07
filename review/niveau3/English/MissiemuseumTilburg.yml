@@ -55,9 +55,9 @@ Main-text:
   content: |
     ### History of the museum
     
-    The Stichting Nederlands Volkenkundig Missiemuseum (Netherlands Ethnographic Missionary Museum Foundation) was established in the city of Tilburg (province of Noord-Brabant) in 1932, partly thanks to alderman [Hendrik Moller](http://www.wikidata.org/entity/Q3282628) throwing his weight behind the idea. The foundation's aim was to establish a museum by bringing together various collections of objects sent back to the Netherlands by missionaries. At that time several congregations were active in Tilburg, each of which maintained its own collection. The Nederlands Volkenkundig Missiemuseum had two objectives: to promote the Catholic mission and to introduce people to the religious beliefs, art, customs and traditions of the people of the missionary countries. The Nederlands Volkenkundig Missie Museum opened on Paleisstraat in Tilburg in 1936 along with the Natuurhistorisch Museum Tilburg (now the Natuurmuseum Brabant). Both museums relocated several times until the closure of the ethnographic museum in 1987 due to budget cuts.
+    The Stichting Nederlands Volkenkundig Missiemuseum (Netherlands Ethnographic Missionary Museum Foundation) was established in the city of Tilburg (province of Noord-Brabant) in 1932. At that time, there were several Catholic congregations active in Tilburg, each maintaining its own collection. The foundation's aim was to bring these collections together to promote the Catholic mission and to introduce the public to the religious beliefs, art, customs and traditions of the people from the mission countries. The Nederlands Volkenkundig Missie Museum opened on Paleisstraat in Tilburg in 1936 along with the Natuurhistorisch Museum Tilburg (now the Natuurmuseum Brabant). Both museums relocated several times until the closure of the ethnographic museum in 1987 due to budget cuts.
 
-    The Nederlands Volkenkundig Missiemuseum exhibited collections from various Dutch congregations engaged in missionary work around the world. Objects loaned or donated came from various religious groups in different Catholic parts of the Netherlands, from Tilburg to Maastricht. In addition, a large number of ethnographic items were donated by private individuals.
+    Objects loaned or donated came from various religious groups in different Catholic parts of the Netherlands, from Tilburg to Maastricht. In addition, a large number of ethnographic items were donated by private individuals.
 
     The collection of the Ethnographic Museum comprised some 6,000 objects originating from many different areas, with a focus on South and Southeast Asia. In the 1982 _[Museumboek voor Noord-Brabant](https://search.worldcat.org/title/781496494)_, Harry Verwiel describes the layout of the Ethnographic Museum at that time. Four regions were permanently represented with their own extensive collections: Latin America, Indonesia, New Guinea and Africa. The Latin America section contained many objects from pre-Hispanic tombs, such as statues of warriors, while statues of Mayan gods were also on display. The Indonesia section included leather and wooden wayang puppets, textiles, wickerwork, jewellery and statues. It also featured a large ancestral altar from the Tanimbar Islands. The New Guinea section consisted mainly of wood carvings: masks, large ancestral figures, canoes, shields and statues of gods. The Africa collection comprised masks and statues.
 
@@ -104,6 +104,11 @@ editing_metadata:
     author: Abacus
     role: translator
     editing_notes: Abacus translations processed by Wiebe Reints.
+  - date: 2026-01-06
+    applies_to: 
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Final check of the research aid. Text is up to date and all the links are functioning.
 
       
 
