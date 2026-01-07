@@ -12,19 +12,35 @@
             }
         },
         {
-            "Wageningen University & Research": {
-                "link": "niveau3/Dutch/WageningenUniversity.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch",
-                "sort_order": 2
-            }
-        },
-        {
             "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
                 "link": "niveau3/Dutch/MOudenbosch.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
+                "sort_order": 2
+            }
+        },
+        {
+            "Tropisch Landbouwmuseum": {
+                "link": "niveau3/Dutch/TropischLandbouwMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/TropischLandbouwMus_Dutch",
                 "sort_order": 3
+            }
+        },
+        {
+            "Universitaire collecties": {
+                "link": "niveau3/Dutch/UniversityMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/UniversityMus_Dutch",
+                "sort_order": 4
+            }
+        },
+        {
+            "Wageningen University & Research": {
+                "link": "niveau3/Dutch/WageningenUniversity.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch",
+                "sort_order": 5
             }
         }
     ],

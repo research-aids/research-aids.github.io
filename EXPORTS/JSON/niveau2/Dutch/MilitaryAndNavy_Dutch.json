@@ -28,11 +28,19 @@
             }
         },
         {
+            "Indonesi\u00eb": {
+                "link": "niveau2/Dutch/Indonesia.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Indonesia_Dutch",
+                "sort_order": 4
+            }
+        },
+        {
             "Hoofdcursus Kampen": {
                 "link": "niveau3/Dutch/HoofdcursusKampen.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch",
-                "sort_order": 4
+                "sort_order": 5
             }
         },
         {
@@ -40,7 +48,7 @@
                 "link": "published/niveau3/Dutch/BGKW.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/BGKW_Dutch",
-                "sort_order": 5
+                "sort_order": 6
             }
         },
         {
@@ -48,7 +56,7 @@
                 "link": "niveau3/Dutch/Bronbeek.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Bronbeek_Dutch",
-                "sort_order": 6
+                "sort_order": 7
             }
         },
         {
@@ -56,7 +64,15 @@
                 "link": "niveau3/Dutch/RijksmuseumAmsterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch",
-                "sort_order": 7
+                "sort_order": 8
+            }
+        },
+        {
+            "Stichting Koninklijke Defensiemusea": {
+                "link": "niveau3/Dutch/KoninklijkeDefensieMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/KoninklijkeDefensieMus_Dutch",
+                "sort_order": 9
             }
         },
         {
@@ -64,23 +80,23 @@
                 "link": "niveau3/Dutch/WMAmsterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
-                "sort_order": 8
-            }
-        },
-        {
-            "Wereldmuseum Leiden": {
-                "link": "niveau3/Dutch/WMLeiden.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
-                "sort_order": 9
-            }
-        },
-        {
-            "Wereldmuseum Leiden": {
-                "link": "niveau3/Dutch/WMLeiden.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
                 "sort_order": 10
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/Dutch/WMLeiden.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 11
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/Dutch/WMLeiden.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 12
             }
         },
         {
@@ -88,7 +104,7 @@
                 "link": "niveau3/Dutch/JustinusNassau.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch",
-                "sort_order": 11
+                "sort_order": 13
             }
         }
     ],

@@ -12,11 +12,27 @@
             }
         },
         {
+            "Nederlands Volkenkundig Missiemuseum": {
+                "link": "niveau3/Dutch/MissiemuseumTilburg.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/MissiemuseumTilburg_Dutch",
+                "sort_order": 2
+            }
+        },
+        {
+            "Nijmeegs Volkenkundig Museum": {
+                "link": "niveau3/Dutch/NijmeegsVolkMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/NijmeegsVolkMus_Dutch",
+                "sort_order": 3
+            }
+        },
+        {
             "Wereldmuseum Berg en Dal": {
                 "link": "niveau3/Dutch/WMBergEnDal.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMBergEnDal_Dutch",
-                "sort_order": 2
+                "sort_order": 4
             }
         },
         {
@@ -24,7 +40,7 @@
                 "link": "niveau3/Dutch/MissiemuseumSteyl.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MissiemuseumSteyl_Dutch",
-                "sort_order": 3
+                "sort_order": 5
             }
         }
     ],

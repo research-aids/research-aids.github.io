@@ -12,19 +12,11 @@
             }
         },
         {
-            "Wageningen University & Research": {
-                "link": "niveau3/Dutch/WageningenUniversity.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch",
-                "sort_order": 2
-            }
-        },
-        {
             "Museum Bronbeek": {
                 "link": "niveau3/Dutch/Bronbeek.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Bronbeek_Dutch",
-                "sort_order": 3
+                "sort_order": 2
             }
         },
         {
@@ -32,6 +24,14 @@
                 "link": "niveau3/Dutch/MNusantara.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MNusantara_Dutch",
+                "sort_order": 3
+            }
+        },
+        {
+            "Stichting Koninklijke Defensiemusea": {
+                "link": "niveau3/Dutch/KoninklijkeDefensieMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/KoninklijkeDefensieMus_Dutch",
                 "sort_order": 4
             }
         },
@@ -41,6 +41,14 @@
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch",
                 "sort_order": 5
+            }
+        },
+        {
+            "Wageningen University & Research": {
+                "link": "niveau3/Dutch/WageningenUniversity.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch",
+                "sort_order": 6
             }
         }
     ],

@@ -44,11 +44,19 @@
             }
         },
         {
+            "Indonesi\u00eb": {
+                "link": "niveau2/Dutch/Indonesia.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Indonesia_Dutch",
+                "sort_order": 6
+            }
+        },
+        {
             "Koninklijk Kabinet van Zeldzaamheden": {
                 "link": "niveau3/Dutch/KKZ.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KKZ_Dutch",
-                "sort_order": 6
+                "sort_order": 7
             }
         },
         {
@@ -56,7 +64,7 @@
                 "link": "niveau3/Dutch/KVVAK.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KVVAK_Dutch",
-                "sort_order": 7
+                "sort_order": 8
             }
         },
         {
@@ -64,7 +72,7 @@
                 "link": "niveau3/Dutch/WMAmsterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
-                "sort_order": 8
+                "sort_order": 9
             }
         },
         {
@@ -72,7 +80,7 @@
                 "link": "niveau3/Dutch/WMLeiden.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
-                "sort_order": 9
+                "sort_order": 10
             }
         },
         {
@@ -80,7 +88,7 @@
                 "link": "niveau3/Dutch/RMO.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/RMO_Dutch",
-                "sort_order": 10
+                "sort_order": 11
             }
         },
         {
@@ -88,7 +96,7 @@
                 "link": "niveau3/Dutch/Wereldtentoonstelling1883.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch",
-                "sort_order": 11
+                "sort_order": 12
             }
         }
     ],

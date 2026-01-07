@@ -36,11 +36,19 @@
             }
         },
         {
+            "Koninklijke Verzamelingen": {
+                "link": "niveau3/English/KoninklijkeVerzamelingen.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KoninklijkeVerzamelingen_English",
+                "sort_order": 5
+            }
+        },
+        {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/English/WMLeiden.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMLeiden_English",
-                "sort_order": 5
+                "sort_order": 6
             }
         },
         {
@@ -48,7 +56,7 @@
                 "link": "niveau3/English/EMArtis.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/EMArtis_English",
-                "sort_order": 6
+                "sort_order": 7
             }
         },
         {
@@ -56,7 +64,7 @@
                 "link": "niveau3/English/WMAmsterdam.yml",
                 "rel_type": "See also",
                 "linkFilename": "niveau3/English/WMAmsterdam_English",
-                "sort_order": 7
+                "sort_order": 8
             }
         },
         {
@@ -64,7 +72,7 @@
                 "link": "niveau3/English/RijksmuseumAmsterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
-                "sort_order": 8
+                "sort_order": 9
             }
         },
         {
@@ -72,7 +80,7 @@
                 "link": "niveau3/English/RMO.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RMO_English",
-                "sort_order": 9
+                "sort_order": 10
             }
         }
     ],

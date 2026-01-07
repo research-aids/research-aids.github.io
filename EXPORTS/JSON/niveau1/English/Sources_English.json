@@ -114,6 +114,22 @@
                 "linkFilename": "niveau3/English/RMO_English",
                 "sort_order": 14
             }
+        },
+        {
+            "Leiden University Library": {
+                "link": "niveau3/English/UniversiteitsbibliotheekLeiden.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/UniversiteitsbibliotheekLeiden_English",
+                "sort_order": 15
+            }
+        },
+        {
+            "University collections": {
+                "link": "niveau3/English/UniversityMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/UniversityMus_English",
+                "sort_order": 16
+            }
         }
     ],
     "Main-text": {

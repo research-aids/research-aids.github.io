@@ -28,11 +28,35 @@
             }
         },
         {
+            "Indonesia": {
+                "link": "niveau2/English/Indonesia.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Indonesia_English",
+                "sort_order": 4
+            }
+        },
+        {
+            "Nederlands Volkenkundig Missiemuseum": {
+                "link": "niveau3/English/MissiemuseumTilburg.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/MissiemuseumTilburg_English",
+                "sort_order": 5
+            }
+        },
+        {
+            "Nijmeegs Volkenkundig Museum": {
+                "link": "niveau3/English/NijmeegsVolkMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/NijmeegsVolkMus_English",
+                "sort_order": 6
+            }
+        },
+        {
             "Nederlandsch Zendeling Genootschap": {
                 "link": "niveau3/English/NZG.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/NZG_English",
-                "sort_order": 4
+                "sort_order": 7
             }
         },
         {
@@ -40,7 +64,7 @@
                 "link": "niveau2/English/Science.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/English/Science_English",
-                "sort_order": 5
+                "sort_order": 8
             }
         },
         {
@@ -48,7 +72,7 @@
                 "link": "niveau3/English/MissiemuseumSteyl.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/MissiemuseumSteyl_English",
-                "sort_order": 6
+                "sort_order": 9
             }
         },
         {
@@ -56,7 +80,7 @@
                 "link": "niveau3/English/MOudenbosch.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/MOudenbosch_English",
-                "sort_order": 7
+                "sort_order": 10
             }
         }
     ],

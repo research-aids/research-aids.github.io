@@ -36,11 +36,19 @@
             }
         },
         {
+            "Koninklijk Zeeuwsch Genootschap der Wetenschappen": {
+                "link": "niveau3/Dutch/ZeeuwschGenootschap.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/ZeeuwschGenootschap_Dutch",
+                "sort_order": 5
+            }
+        },
+        {
             "Wereldmuseum Leiden": {
                 "link": "niveau3/Dutch/WMLeiden.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
-                "sort_order": 5
+                "sort_order": 6
             }
         },
         {
@@ -48,7 +56,7 @@
                 "link": "niveau3/Dutch/WageningenUniversity.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch",
-                "sort_order": 6
+                "sort_order": 7
             }
         },
         {
@@ -56,7 +64,7 @@
                 "link": "niveau3/Dutch/BGKW.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/BGKW_Dutch",
-                "sort_order": 7
+                "sort_order": 8
             }
         },
         {
@@ -64,7 +72,7 @@
                 "link": "niveau3/Dutch/Reinwardt.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Reinwardt_Dutch",
-                "sort_order": 8
+                "sort_order": 9
             }
         },
         {
@@ -72,7 +80,7 @@
                 "link": "niveau3/Dutch/Museon.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Museon_Dutch",
-                "sort_order": 9
+                "sort_order": 10
             }
         },
         {
@@ -80,7 +88,7 @@
                 "link": "niveau3/Dutch/Wereldtentoonstelling1883.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch",
-                "sort_order": 10
+                "sort_order": 11
             }
         },
         {
@@ -88,7 +96,7 @@
                 "link": "niveau3/Dutch/MOudenbosch.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
-                "sort_order": 11
+                "sort_order": 12
             }
         }
     ],

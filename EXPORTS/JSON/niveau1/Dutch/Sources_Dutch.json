@@ -26,6 +26,22 @@
                 "linkFilename": "niveau1/Dutch/SelectAndDelineate_Dutch",
                 "sort_order": 3
             }
+        },
+        {
+            "Universitaire Bibliotheken Leiden": {
+                "link": "niveau3/Dutch/UniversiteitsbibliotheekLeiden.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/UniversiteitsbibliotheekLeiden_Dutch",
+                "sort_order": 4
+            }
+        },
+        {
+            "Universitaire collecties": {
+                "link": "niveau3/Dutch/UniversityMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/UniversityMus_Dutch",
+                "sort_order": 5
+            }
         }
     ],
     "Main-text": {

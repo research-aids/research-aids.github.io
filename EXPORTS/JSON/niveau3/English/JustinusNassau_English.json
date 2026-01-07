@@ -12,19 +12,11 @@
             }
         },
         {
-            "Wereldmuseum Leiden": {
-                "link": "niveau3/English/WMLeiden.yml",
+            "Hoofdcursus Kampen": {
+                "link": "niveau3/English/HoofdcursusKampen.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/WMLeiden_English",
+                "linkFilename": "niveau3/English/HoofdcursusKampen_English",
                 "sort_order": 2
-            }
-        },
-        {
-            "Wageningen University & Research": {
-                "link": "niveau3/English/WageningenUniversity.yml",
-                "rel_type": "see also",
-                "linkFilename": "niveau3/English/WageningenUniversity_English",
-                "sort_order": 3
             }
         },
         {
@@ -32,7 +24,7 @@
                 "link": "niveau3/English/Bronbeek.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Bronbeek_English",
-                "sort_order": 4
+                "sort_order": 3
             }
         },
         {
@@ -40,15 +32,31 @@
                 "link": "niveau3/English/MNusantara.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/MNusantara_English",
+                "sort_order": 4
+            }
+        },
+        {
+            "Stichting Koninklijke Defensiemusea": {
+                "link": "niveau3/English/KoninklijkeDefensieMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KoninklijkeDefensieMus_English",
                 "sort_order": 5
             }
         },
         {
-            "Hoofdcursus Kampen": {
-                "link": "niveau3/English/HoofdcursusKampen.yml",
+            "Wageningen University & Research": {
+                "link": "niveau3/English/WageningenUniversity.yml",
                 "rel_type": "see also",
-                "linkFilename": "niveau3/English/HoofdcursusKampen_English",
+                "linkFilename": "niveau3/English/WageningenUniversity_English",
                 "sort_order": 6
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/English/WMLeiden.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/WMLeiden_English",
+                "sort_order": 7
             }
         }
     ],

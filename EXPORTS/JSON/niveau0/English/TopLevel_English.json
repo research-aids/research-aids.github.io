@@ -72,11 +72,19 @@
                             }
                         },
                         {
+                            "Koninklijke Verzamelingen": {
+                                "link": "niveau3/English/KoninklijkeVerzamelingen.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/KoninklijkeVerzamelingen_English",
+                                "sort_order": 4
+                            }
+                        },
+                        {
                             "Missiemuseum Steyl": {
                                 "link": "niveau3/English/MissiemuseumSteyl.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/MissiemuseumSteyl_English",
-                                "sort_order": 4
+                                "sort_order": 5
                             }
                         },
                         {
@@ -84,7 +92,7 @@
                                 "link": "niveau3/English/Museon.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/Museon_English",
-                                "sort_order": 5
+                                "sort_order": 6
                             }
                         },
                         {
@@ -92,7 +100,7 @@
                                 "link": "niveau3/English/Bronbeek.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/Bronbeek_English",
-                                "sort_order": 6
+                                "sort_order": 7
                             }
                         },
                         {
@@ -100,7 +108,7 @@
                                 "link": "niveau3/English/MNusantara.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/MNusantara_English",
-                                "sort_order": 7
+                                "sort_order": 8
                             }
                         },
                         {
@@ -108,7 +116,7 @@
                                 "link": "niveau3/English/Naturalis.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/Naturalis_English",
-                                "sort_order": 8
+                                "sort_order": 9
                             }
                         },
                         {
@@ -116,7 +124,23 @@
                                 "link": "niveau3/English/MOudenbosch.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/MOudenbosch_English",
-                                "sort_order": 9
+                                "sort_order": 10
+                            }
+                        },
+                        {
+                            "Nederlands Volkenkundig Missiemuseum": {
+                                "link": "niveau3/English/MissiemuseumTilburg.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/MissiemuseumTilburg_English",
+                                "sort_order": 11
+                            }
+                        },
+                        {
+                            "Nijmeegs Volkenkundig Museum": {
+                                "link": "niveau3/English/NijmeegsVolkMus.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/NijmeegsVolkMus_English",
+                                "sort_order": 12
                             }
                         },
                         {
@@ -124,7 +148,7 @@
                                 "link": "niveau3/English/RijksmuseumAmsterdam.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
-                                "sort_order": 10
+                                "sort_order": 13
                             }
                         },
                         {
@@ -132,7 +156,7 @@
                                 "link": "niveau3/English/RMO.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/RMO_English",
-                                "sort_order": 11
+                                "sort_order": 14
                             }
                         },
                         {
@@ -140,7 +164,31 @@
                                 "link": "niveau3/English/KKZ.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/KKZ_English",
-                                "sort_order": 12
+                                "sort_order": 15
+                            }
+                        },
+                        {
+                            "Stichting Koninklijke Defensiemusea": {
+                                "link": "niveau3/English/KoninklijkeDefensieMus.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/KoninklijkeDefensieMus_English",
+                                "sort_order": 16
+                            }
+                        },
+                        {
+                            "Tropisch Landbouwmuseum": {
+                                "link": "niveau3/English/TropischLandbouwMus.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/TropischLandbouwMus_English",
+                                "sort_order": 17
+                            }
+                        },
+                        {
+                            "University collections": {
+                                "link": "niveau3/English/UniversityMus.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/UniversityMus_English",
+                                "sort_order": 18
                             }
                         },
                         {
@@ -148,7 +196,7 @@
                                 "link": "niveau3/English/GerardusLeeuw.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/GerardusLeeuw_English",
-                                "sort_order": 13
+                                "sort_order": 19
                             }
                         },
                         {
@@ -156,7 +204,7 @@
                                 "link": "niveau3/English/JustinusNassau.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/JustinusNassau_English",
-                                "sort_order": 14
+                                "sort_order": 20
                             }
                         },
                         {
@@ -164,7 +212,7 @@
                                 "link": "niveau3/English/WMAmsterdam.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMAmsterdam_English",
-                                "sort_order": 15
+                                "sort_order": 21
                             }
                         },
                         {
@@ -172,7 +220,7 @@
                                 "link": "niveau3/English/WMBergEnDal.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMBergEnDal_English",
-                                "sort_order": 16
+                                "sort_order": 22
                             }
                         },
                         {
@@ -180,7 +228,7 @@
                                 "link": "niveau3/English/WMLeiden.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMLeiden_English",
-                                "sort_order": 17
+                                "sort_order": 23
                             }
                         },
                         {
@@ -188,7 +236,7 @@
                                 "link": "niveau3/English/WMRotterdam.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WMRotterdam_English",
-                                "sort_order": 18
+                                "sort_order": 24
                             }
                         }
                     ],
@@ -304,11 +352,35 @@
                     "rel_type": "see also",
                     "Subtopics": [
                         {
+                            "Leiden University Library": {
+                                "link": "niveau3/English/UniversiteitsbibliotheekLeiden.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/UniversiteitsbibliotheekLeiden_English",
+                                "sort_order": 1
+                            }
+                        },
+                        {
+                            "Royal Zeeland Scientific Society": {
+                                "link": "niveau3/English/ZeeuwschGenootschap.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/ZeeuwschGenootschap_English",
+                                "sort_order": 2
+                            }
+                        },
+                        {
                             "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)": {
                                 "link": "niveau3/English/KITLV.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/KITLV_English",
-                                "sort_order": 1
+                                "sort_order": 3
+                            }
+                        },
+                        {
+                            "University collections": {
+                                "link": "niveau3/English/UniversityMus.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/English/UniversityMus_English",
+                                "sort_order": 4
                             }
                         },
                         {
@@ -316,7 +388,7 @@
                                 "link": "niveau3/English/GerardusLeeuw.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/GerardusLeeuw_English",
-                                "sort_order": 2
+                                "sort_order": 5
                             }
                         },
                         {
@@ -324,7 +396,7 @@
                                 "link": "niveau3/English/WageningenUniversity.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/English/WageningenUniversity_English",
-                                "sort_order": 3
+                                "sort_order": 6
                             }
                         }
                     ],
@@ -385,19 +457,27 @@
                 }
             },
             {
-                "Saba, Sint Eustatius and Sint Maarten": {
-                    "link": "niveau2/English/SabaStEustatiusStMaarten.yml",
-                    "rel_type": "see also",
-                    "linkFilename": "niveau2/English/SabaStEustatiusStMaarten_English",
-                    "sort_order": 2
-                }
-            },
-            {
                 "Ghana": {
                     "link": "niveau2/English/Ghana.yml",
                     "rel_type": "see also",
                     "linkFilename": "niveau2/English/Ghana_English",
+                    "sort_order": 2
+                }
+            },
+            {
+                "Indonesia": {
+                    "link": "niveau2/English/Indonesia.yml",
+                    "rel_type": "see also",
+                    "linkFilename": "niveau2/English/Indonesia_English",
                     "sort_order": 3
+                }
+            },
+            {
+                "Saba, Sint Eustatius and Sint Maarten": {
+                    "link": "niveau2/English/SabaStEustatiusStMaarten.yml",
+                    "rel_type": "see also",
+                    "linkFilename": "niveau2/English/SabaStEustatiusStMaarten_English",
+                    "sort_order": 4
                 }
             }
         ]

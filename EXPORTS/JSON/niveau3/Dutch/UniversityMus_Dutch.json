@@ -44,11 +44,19 @@
             }
         },
         {
+            "Nijmeegs Volkenkundig Museum": {
+                "link": "niveau3/Dutch/NijmeegsVolkMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/NijmeegsVolkMus_Dutch",
+                "sort_order": 6
+            }
+        },
+        {
             "Wageningen University & Research": {
                 "link": "niveau3/Dutch/WageningenUniversity.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch",
-                "sort_order": 6
+                "sort_order": 7
             }
         },
         {
@@ -56,7 +64,7 @@
                 "link": "published/niveau3/Dutch/GerardusLeeuw.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/GerardusLeeuw_Dutch",
-                "sort_order": 7
+                "sort_order": 8
             }
         }
     ],

@@ -36,11 +36,19 @@
             }
         },
         {
+            "Indonesi\u00eb": {
+                "link": "niveau2/Dutch/Indonesia.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Indonesia_Dutch",
+                "sort_order": 5
+            }
+        },
+        {
             "Koninklijk Kabinet van Zeldzaamheden": {
                 "link": "niveau3/Dutch/KKZ.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KKZ_Dutch",
-                "sort_order": 5
+                "sort_order": 6
             }
         },
         {
@@ -48,7 +56,7 @@
                 "link": "niveau3/Dutch/KoninklijkeBazar.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KoninklijkeBazar_Dutch",
-                "sort_order": 6
+                "sort_order": 7
             }
         },
         {
@@ -56,7 +64,7 @@
                 "link": "niveau3/Dutch/KunsthandelVanLier.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KunsthandelVanLier_Dutch",
-                "sort_order": 7
+                "sort_order": 8
             }
         },
         {
@@ -64,7 +72,7 @@
                 "link": "niveau3/Dutch/EMArtis.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/EMArtis_Dutch",
-                "sort_order": 8
+                "sort_order": 9
             }
         },
         {
@@ -72,7 +80,15 @@
                 "link": "niveau3/Dutch/BGKW.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/BGKW_Dutch",
-                "sort_order": 9
+                "sort_order": 10
+            }
+        },
+        {
+            "Koninklijk Zeeuwsch Genootschap der Wetenschappen": {
+                "link": "niveau3/Dutch/ZeeuwschGenootschap.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/ZeeuwschGenootschap_Dutch",
+                "sort_order": 11
             }
         },
         {
@@ -80,7 +96,7 @@
                 "link": "niveau3/Dutch/Naturalis.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Naturalis_Dutch",
-                "sort_order": 10
+                "sort_order": 12
             }
         },
         {
@@ -88,7 +104,7 @@
                 "link": "niveau3/Dutch/WMAmsterdam.yml",
                 "rel_type": "See also",
                 "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
-                "sort_order": 11
+                "sort_order": 13
             }
         },
         {
@@ -96,7 +112,7 @@
                 "link": "niveau3/Dutch/WMRotterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch",
-                "sort_order": 12
+                "sort_order": 14
             }
         },
         {
@@ -104,7 +120,7 @@
                 "link": "niveau3/Dutch/WMBergEnDal.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/WMBergEnDal_Dutch",
-                "sort_order": 13
+                "sort_order": 15
             }
         },
         {
@@ -112,7 +128,7 @@
                 "link": "niveau3/Dutch/KITLV.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/KITLV_Dutch",
-                "sort_order": 14
+                "sort_order": 16
             }
         },
         {
@@ -120,7 +136,7 @@
                 "link": "niveau3/Dutch/RijksmuseumAmsterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch",
-                "sort_order": 15
+                "sort_order": 17
             }
         },
         {
@@ -128,7 +144,7 @@
                 "link": "niveau3/Dutch/RMO.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/RMO_Dutch",
-                "sort_order": 16
+                "sort_order": 18
             }
         },
         {
@@ -136,7 +152,7 @@
                 "link": "niveau3/Dutch/Reinwardt.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Reinwardt_Dutch",
-                "sort_order": 17
+                "sort_order": 19
             }
         },
         {
@@ -144,7 +160,7 @@
                 "link": "niveau3/Dutch/MNusantara.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MNusantara_Dutch",
-                "sort_order": 18
+                "sort_order": 20
             }
         },
         {
@@ -152,7 +168,7 @@
                 "link": "niveau3/Dutch/JustinusNassau.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch",
-                "sort_order": 19
+                "sort_order": 21
             }
         },
         {
@@ -160,7 +176,7 @@
                 "link": "niveau3/Dutch/Wereldtentoonstelling1883.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/Wereldtentoonstelling1883_Dutch",
-                "sort_order": 20
+                "sort_order": 22
             }
         },
         {
@@ -168,7 +184,7 @@
                 "link": "niveau3/Dutch/MOudenbosch.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
-                "sort_order": 21
+                "sort_order": 23
             }
         }
     ],

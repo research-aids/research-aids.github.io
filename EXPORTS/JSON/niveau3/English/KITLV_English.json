@@ -28,11 +28,27 @@
             }
         },
         {
+            "Indonesia": {
+                "link": "niveau2/English/Indonesia.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Indonesia_English",
+                "sort_order": 4
+            }
+        },
+        {
             "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten": {
                 "link": "niveau3/English/BGKW.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/BGKW_English",
-                "sort_order": 4
+                "sort_order": 5
+            }
+        },
+        {
+            "Leiden University Library": {
+                "link": "niveau3/English/UniversiteitsbibliotheekLeiden.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/UniversiteitsbibliotheekLeiden_English",
+                "sort_order": 6
             }
         },
         {
@@ -40,7 +56,7 @@
                 "link": "niveau3/English/WMLeiden.yml",
                 "rel_type": "See also",
                 "linkFilename": "niveau3/English/WMLeiden_English",
-                "sort_order": 5
+                "sort_order": 7
             }
         },
         {
@@ -48,7 +64,7 @@
                 "link": "niveau2/English/ArubaBonaireCuracao.yml",
                 "rel_type": "See also",
                 "linkFilename": "niveau2/English/ArubaBonaireCuracao_English",
-                "sort_order": 6
+                "sort_order": 8
             }
         },
         {
@@ -56,7 +72,23 @@
                 "link": "niveau2/English/SabaStEustatiusStMaarten.yml",
                 "rel_type": "See also",
                 "linkFilename": "niveau2/English/SabaStEustatiusStMaarten_English",
-                "sort_order": 7
+                "sort_order": 9
+            }
+        },
+        {
+            "University collections": {
+                "link": "niveau3/English/UniversityMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/UniversityMus_English",
+                "sort_order": 10
+            }
+        },
+        {
+            "Royal Zeeland Scientific Society": {
+                "link": "niveau3/English/ZeeuwschGenootschap.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/ZeeuwschGenootschap_English",
+                "sort_order": 11
             }
         }
     ],

@@ -44,11 +44,19 @@
             }
         },
         {
+            "Indonesia": {
+                "link": "niveau2/English/Indonesia.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Indonesia_English",
+                "sort_order": 6
+            }
+        },
+        {
             "Royal Cabinet of Curiosities": {
                 "link": "niveau3/English/KKZ.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/KKZ_English",
-                "sort_order": 6
+                "sort_order": 7
             }
         },
         {
@@ -56,7 +64,7 @@
                 "link": "niveau3/English/KVVAK.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/KVVAK_English",
-                "sort_order": 7
+                "sort_order": 8
             }
         },
         {
@@ -64,7 +72,7 @@
                 "link": "niveau3/English/WMAmsterdam.yml\"",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMAmsterdam_English",
-                "sort_order": 8
+                "sort_order": 9
             }
         },
         {
@@ -72,7 +80,7 @@
                 "link": "niveau3/English/WMLeiden.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMLeiden_English",
-                "sort_order": 9
+                "sort_order": 10
             }
         },
         {
@@ -80,7 +88,7 @@
                 "link": "niveau3/English/RMO.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RMO_English",
-                "sort_order": 10
+                "sort_order": 11
             }
         },
         {
@@ -88,7 +96,7 @@
                 "link": "niveau3/English/Wereldtentoonstelling1883.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Wereldtentoonstelling1883_English",
-                "sort_order": 11
+                "sort_order": 12
             }
         }
     ],

@@ -44,11 +44,35 @@
             }
         },
         {
+            "Koninklijke Verzamelingen": {
+                "link": "niveau3/English/KoninklijkeVerzamelingen.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KoninklijkeVerzamelingen_English",
+                "sort_order": 6
+            }
+        },
+        {
+            "Nederlands Volkenkundig Missiemuseum": {
+                "link": "niveau3/English/MissiemuseumTilburg.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/MissiemuseumTilburg_English",
+                "sort_order": 7
+            }
+        },
+        {
+            "Nijmeegs Volkenkundig Museum": {
+                "link": "niveau3/English/NijmeegsVolkMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/NijmeegsVolkMus_English",
+                "sort_order": 8
+            }
+        },
+        {
             "Volkenkundig Museum Justinus van Nassau": {
                 "link": "niveau3/English/JustinusNassau.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/JustinusNassau_English",
-                "sort_order": 6
+                "sort_order": 9
             }
         },
         {
@@ -56,7 +80,7 @@
                 "link": "niveau3/English/KKZ.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/KKZ_English",
-                "sort_order": 7
+                "sort_order": 10
             }
         },
         {
@@ -64,7 +88,7 @@
                 "link": "niveau3/English/MNusantara.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/MNusantara_English",
-                "sort_order": 8
+                "sort_order": 11
             }
         },
         {
@@ -72,7 +96,7 @@
                 "link": "niveau3/English/MissiemuseumSteyl.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/MissiemuseumSteyl_English",
-                "sort_order": 9
+                "sort_order": 12
             }
         },
         {
@@ -80,7 +104,7 @@
                 "link": "niveau3/English/Museon.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Museon_English",
-                "sort_order": 10
+                "sort_order": 13
             }
         },
         {
@@ -88,7 +112,7 @@
                 "link": "niveau3/English/Naturalis.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Naturalis_English",
-                "sort_order": 11
+                "sort_order": 14
             }
         },
         {
@@ -96,7 +120,7 @@
                 "link": "niveau3/English/RMO.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RMO_English",
-                "sort_order": 12
+                "sort_order": 15
             }
         },
         {
@@ -104,7 +128,31 @@
                 "link": "niveau3/English/RijksmuseumAmsterdam5.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RijksmuseumAmsterdam5_English",
-                "sort_order": 13
+                "sort_order": 16
+            }
+        },
+        {
+            "Stichting Koninklijke Defensiemusea": {
+                "link": "niveau3/English/KoninklijkeDefensieMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KoninklijkeDefensieMus_English",
+                "sort_order": 17
+            }
+        },
+        {
+            "Tropisch Landbouwmuseum": {
+                "link": "niveau3/English/TropischLandbouwMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/TropischLandbouwMus_English",
+                "sort_order": 18
+            }
+        },
+        {
+            "University collections": {
+                "link": "niveau3/English/UniversityMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/UniversityMus_English",
+                "sort_order": 19
             }
         },
         {
@@ -112,7 +160,7 @@
                 "link": "niveau3/English/WMAmsterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMAmsterdam_English",
-                "sort_order": 14
+                "sort_order": 20
             }
         },
         {
@@ -120,7 +168,7 @@
                 "link": "niveau3/English/WMBergEnDal.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMBergEnDal_English",
-                "sort_order": 15
+                "sort_order": 21
             }
         },
         {
@@ -128,7 +176,7 @@
                 "link": "niveau3/English/WMLeiden.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMLeiden_English",
-                "sort_order": 16
+                "sort_order": 22
             }
         },
         {
@@ -136,7 +184,7 @@
                 "link": "niveau3/English/WMRotterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMRotterdam_English",
-                "sort_order": 17
+                "sort_order": 23
             }
         },
         {
@@ -144,7 +192,7 @@
                 "link": "niveau3/English/MOudenbosch.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/MOudenbosch_English",
-                "sort_order": 18
+                "sort_order": 24
             }
         }
     ],

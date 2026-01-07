@@ -334,11 +334,19 @@
                             }
                         },
                         {
+                            "Stichting Koninklijke Defensiemusea": {
+                                "link": "niveau3/Dutch/KoninklijkeDefensieMus.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/KoninklijkeDefensieMus_Dutch",
+                                "sort_order": 3
+                            }
+                        },
+                        {
                             "Volkenkundig Museum Justinus van Nassau": {
                                 "link": "niveau3/Dutch/JustinusNassau.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch",
-                                "sort_order": 3
+                                "sort_order": 4
                             }
                         }
                     ],

@@ -36,11 +36,19 @@
             }
         },
         {
+            "Nijmeegs Volkenkundig Museum": {
+                "link": "niveau3/English/NijmeegsVolkMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/NijmeegsVolkMus_English",
+                "sort_order": 5
+            }
+        },
+        {
             "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)": {
                 "link": "niveau3/English/KITLV.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/KITLV_English",
-                "sort_order": 5
+                "sort_order": 6
             }
         },
         {
@@ -48,7 +56,7 @@
                 "link": "niveau3/English/GerardusLeeuw.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/GerardusLeeuw_English",
-                "sort_order": 6
+                "sort_order": 7
             }
         },
         {
@@ -56,7 +64,7 @@
                 "link": "niveau3/English/WageningenUniversity.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WageningenUniversity_English",
-                "sort_order": 7
+                "sort_order": 8
             }
         }
     ],

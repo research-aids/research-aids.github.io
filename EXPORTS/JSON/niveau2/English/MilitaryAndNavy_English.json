@@ -44,11 +44,27 @@
             }
         },
         {
+            "Indonesia": {
+                "link": "niveau2/English/Indonesia.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Indonesia_English",
+                "sort_order": 6
+            }
+        },
+        {
             "Royal Cabinet of Curiosities": {
                 "link": "niveau3/English/RCC.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RCC_English",
-                "sort_order": 6
+                "sort_order": 7
+            }
+        },
+        {
+            "Stichting Koninklijke Defensiemusea": {
+                "link": "niveau3/English/KoninklijkeDefensieMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/KoninklijkeDefensieMus_English",
+                "sort_order": 8
             }
         },
         {
@@ -56,7 +72,7 @@
                 "link": "niveau3/English/WMAmsterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMAmsterdam_English",
-                "sort_order": 7
+                "sort_order": 9
             }
         },
         {
@@ -64,7 +80,7 @@
                 "link": "niveau3/English/WMLeiden.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMLeiden_English",
-                "sort_order": 8
+                "sort_order": 10
             }
         },
         {
@@ -72,7 +88,7 @@
                 "link": "niveau3/English/WMRotterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMRotterdam_English",
-                "sort_order": 9
+                "sort_order": 11
             }
         },
         {
@@ -80,7 +96,7 @@
                 "link": "niveau3/English/Bronbeek.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Bronbeek_English",
-                "sort_order": 10
+                "sort_order": 12
             }
         },
         {
@@ -88,7 +104,7 @@
                 "link": "niveau3/English/RijksmuseumAmsterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
-                "sort_order": 11
+                "sort_order": 13
             }
         },
         {
@@ -96,7 +112,7 @@
                 "link": "niveau3/English/HoofdcursusKampen.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/HoofdcursusKampen_English",
-                "sort_order": 12
+                "sort_order": 14
             }
         },
         {
@@ -104,7 +120,7 @@
                 "link": "niveau3/English/JustinusNassau.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/JustinusNassau_English",
-                "sort_order": 13
+                "sort_order": 15
             }
         }
     ],

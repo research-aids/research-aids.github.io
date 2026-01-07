@@ -20,11 +20,27 @@
             }
         },
         {
+            "Indonesi\u00eb": {
+                "link": "niveau2/Dutch/Indonesia.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Indonesia_Dutch",
+                "sort_order": 3
+            }
+        },
+        {
             "Hoofdcursus Kampen": {
                 "link": "niveau3/Dutch/HoofdcursusKampen.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/HoofdcursusKampen_Dutch",
-                "sort_order": 3
+                "sort_order": 4
+            }
+        },
+        {
+            "Stichting Koninklijke Defensiemusea": {
+                "link": "niveau3/Dutch/KoninklijkeDefensieMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/KoninklijkeDefensieMus_Dutch",
+                "sort_order": 5
             }
         },
         {
@@ -32,7 +48,7 @@
                 "link": "niveau3/Dutch/JustinusNassau.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch",
-                "sort_order": 4
+                "sort_order": 6
             }
         }
     ],

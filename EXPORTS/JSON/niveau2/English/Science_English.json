@@ -44,11 +44,19 @@
             }
         },
         {
+            "Indonesia": {
+                "link": "niveau2/English/Indonesia.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Indonesia_English",
+                "sort_order": 6
+            }
+        },
+        {
             "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
                 "link": "niveau3/English/BGKW.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/BGKW_English",
-                "sort_order": 6
+                "sort_order": 7
             }
         },
         {
@@ -56,7 +64,7 @@
                 "link": "niveau3/English/EMArtis.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/EMArtis_English",
-                "sort_order": 7
+                "sort_order": 8
             }
         },
         {
@@ -64,7 +72,15 @@
                 "link": "niveau3/English/KITLV.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/KITLV_English",
-                "sort_order": 8
+                "sort_order": 9
+            }
+        },
+        {
+            "Leiden University Library": {
+                "link": "niveau3/English/UniversiteitsbibliotheekLeiden.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/UniversiteitsbibliotheekLeiden_English",
+                "sort_order": 10
             }
         },
         {
@@ -72,7 +88,31 @@
                 "link": "niveau3/English/Naturalis0.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Naturalis0_English",
-                "sort_order": 9
+                "sort_order": 11
+            }
+        },
+        {
+            "Nijmeegs Volkenkundig Museum": {
+                "link": "niveau3/English/NijmeegsVolkMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/NijmeegsVolkMus_English",
+                "sort_order": 12
+            }
+        },
+        {
+            "Tropisch Landbouwmuseum": {
+                "link": "niveau3/English/TropischLandbouwMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/TropischLandbouwMus_English",
+                "sort_order": 13
+            }
+        },
+        {
+            "University collections": {
+                "link": "niveau3/English/UniversityMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/UniversityMus_English",
+                "sort_order": 14
             }
         },
         {
@@ -80,7 +120,7 @@
                 "link": "niveau3/English/WMAmsterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMAmsterdam_English",
-                "sort_order": 10
+                "sort_order": 15
             }
         },
         {
@@ -88,7 +128,7 @@
                 "link": "niveau3/English/WMRotterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMRotterdam_English",
-                "sort_order": 11
+                "sort_order": 16
             }
         },
         {
@@ -96,7 +136,7 @@
                 "link": "niveau3/English/WMLeiden.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WMLeiden_English",
-                "sort_order": 12
+                "sort_order": 17
             }
         },
         {
@@ -104,7 +144,7 @@
                 "link": "niveau3/English/WageningenUniversity.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/WageningenUniversity_English",
-                "sort_order": 13
+                "sort_order": 18
             }
         },
         {
@@ -112,7 +152,7 @@
                 "link": "niveau3/English/RijksmuseumAmsterdam.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RijksmuseumAmsterdam_English",
-                "sort_order": 14
+                "sort_order": 19
             }
         },
         {
@@ -120,7 +160,15 @@
                 "link": "niveau3/English/RMO.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/RMO_English",
-                "sort_order": 15
+                "sort_order": 20
+            }
+        },
+        {
+            "Royal Zeeland Scientific Society": {
+                "link": "niveau3/English/ZeeuwschGenootschap.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/English/ZeeuwschGenootschap_English",
+                "sort_order": 21
             }
         },
         {
@@ -128,7 +176,7 @@
                 "link": "niveau3/English/Reinwardt.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Reinwardt_English",
-                "sort_order": 16
+                "sort_order": 22
             }
         },
         {
@@ -136,7 +184,7 @@
                 "link": "niveau3/English/Museon.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Museon_English",
-                "sort_order": 17
+                "sort_order": 23
             }
         },
         {
@@ -144,7 +192,7 @@
                 "link": "niveau3/English/Wereldtentoonstelling1883.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/Wereldtentoonstelling1883_English",
-                "sort_order": 18
+                "sort_order": 24
             }
         },
         {
@@ -152,7 +200,7 @@
                 "link": "niveau3/English/GerardusLeeuw.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/English/GerardusLeeuw_English",
-                "sort_order": 19
+                "sort_order": 25
             }
         }
     ],

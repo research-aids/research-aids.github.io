@@ -66,6 +66,14 @@
                 "linkFilename": "niveau2/Dutch/ChristianMission_Dutch",
                 "sort_order": 8
             }
+        },
+        {
+            "Indonesi\u00eb": {
+                "link": "niveau2/Dutch/Indonesia.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Indonesia_Dutch",
+                "sort_order": 9
+            }
         }
     ],
     "Main-text": {

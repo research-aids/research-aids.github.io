@@ -50,6 +50,14 @@
                 "linkFilename": "niveau2/English/Science_English",
                 "sort_order": 6
             }
+        },
+        {
+            "Indonesia": {
+                "link": "niveau2/English/Indonesia.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Indonesia_English",
+                "sort_order": 7
+            }
         }
     ],
     "Main-text": {
