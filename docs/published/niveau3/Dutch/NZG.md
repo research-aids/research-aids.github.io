@@ -41,6 +41,8 @@ In het [Repetorium van Nederlandse zendings- en missie-archieven 1800-1960](http
 ## Related Aids
 
  - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ZendingEnMissie.yml)  
+ - [Nederlands Volkenkundig Missiemuseum](niveau3/Dutch/MissiemuseumTilburg.yml)  
+ - [Nijmeegs Volkenkundig Museum](niveau3/Dutch/NijmeegsVolkMus.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal.yml)  
  - [Missiemuseum Steyl](niveau3/Dutch/MissiemuseumSteyl.yml)  
 

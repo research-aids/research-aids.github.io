@@ -61,6 +61,7 @@ Provenance research can also be undertaken proactively, for example if the custo
  - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
  - [Christian missionaries in colonised territories](niveau2/English/ChristianMission.yml)  
  - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Indonesia](niveau2/English/Indonesia.yml)  
 
 
 

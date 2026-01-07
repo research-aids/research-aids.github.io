@@ -106,6 +106,8 @@ Some collectors and organisations were active in several European countries, whi
  - [Museum Bronbeek](niveau3/English/Bronbeek.yml)  
  - [Rijksmuseum Amsterdam](niveau3/English/RijksmuseumAmsterdam.yml)  
  - [Rijksmuseum van Oudheden](niveau3/English/RMO.yml)  
+ - [Leiden University Library](niveau3/English/UniversiteitsbibliotheekLeiden.yml)  
+ - [University collections](niveau3/English/UniversityMus.yml)  
 
 
 

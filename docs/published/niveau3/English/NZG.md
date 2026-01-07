@@ -39,6 +39,8 @@ The [Repetorium van Nederlandse zendings- en missie-archieven 1800-1960] (https:
 ## Related Aids
 
  - [Christian missionaries in colonised territories](niveau2/English/ChristianMission.yml)  
+ - [Nederlands Volkenkundig Missiemuseum](niveau3/English/MissiemuseumTilburg.yml)  
+ - [Nijmeegs Volkenkundig Museum](niveau3/English/NijmeegsVolkMus.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal.yml)  
  - [Missiemuseum Steyl](niveau3/English/MissiemuseumSteyl.yml)  
 

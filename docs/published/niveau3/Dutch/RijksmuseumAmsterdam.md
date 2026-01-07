@@ -46,6 +46,7 @@ De [Rijksmuseum Research Library](https://library.rijksmuseum.nl/cgi-bin/koha/op
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/MilitaryAndNavy.yml)  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
  - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade.yml)  
+ - [Indonesië](niveau2/Dutch/Indonesia.yml)  
  - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  
  - [Koninklijke Vereniging Vrienden der Aziatische Kunst](niveau3/Dutch/KVVAK.yml)  
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  

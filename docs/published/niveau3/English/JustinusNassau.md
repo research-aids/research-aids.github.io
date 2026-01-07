@@ -42,11 +42,12 @@ Ever since the ethnographic museum of the Royal Military Academy in Breda became
 ## Related Aids
 
  - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
- - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
- - [Wageningen University & Research](niveau3/English/WageningenUniversity.yml)  
+ - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen.yml)  
  - [Museum Bronbeek](niveau3/English/Bronbeek.yml)  
  - [Museum Nusantara](niveau3/English/MNusantara.yml)  
- - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen.yml)  
+ - [Stichting Koninklijke Defensiemusea](niveau3/English/KoninklijkeDefensieMus.yml)  
+ - [Wageningen University & Research](niveau3/English/WageningenUniversity.yml)  
+ - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
 
 ## Primary sources
 

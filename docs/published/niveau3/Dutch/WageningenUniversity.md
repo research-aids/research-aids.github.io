@@ -41,6 +41,8 @@ Het archief van de Landbouwhogeschool tot 1959 bevindt zich bij het [Gelders Arc
  - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis.yml)  
  - [Museum Nusantara](niveau3/Dutch/MNusantara.yml)  
  - [Hoofdcursus Kampen](niveau3/Dutch/HoofdcursusKampen.yml)  
+ - [Tropisch Landbouwmuseum](niveau3/Dutch/TropischLandbouwMus.yml)  
+ - [Universitaire collecties](niveau3/Dutch/UniversityMus.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/Dutch/JustinusNassau.yml)  
  - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw.yml)  
 

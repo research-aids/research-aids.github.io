@@ -43,7 +43,9 @@ As described, the minutes of the Bataviaasch Genootschap contain much informatio
 
  - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
  - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Indonesia](niveau2/English/Indonesia.yml)  
  - [Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)](niveau3/English/KITLV.yml)  
+ - [Royal Zeeland Scientific Society](niveau3/English/ZeeuwschGenootschap.yml)  
  - [Naturalis Biodiversity Center](niveau3/English/Naturalis.yml)  
  - [Artis Etnographic Museum](niveau3/English/EMArtis.yml)  
  - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  

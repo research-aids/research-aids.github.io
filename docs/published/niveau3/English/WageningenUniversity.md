@@ -39,6 +39,8 @@ The archives of the Agricultural College until 1959 are held in the [Gelders Arc
  - [Naturalis Biodiversity Center](niveau3/English/Naturalis.yml)  
  - [Museum Nusantara](niveau3/English/MNusantara.yml)  
  - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen.yml)  
+ - [Tropisch Landbouwmuseum](niveau3/English/TropischLandbouwMus.yml)  
+ - [University collections](niveau3/English/UniversityMus.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau.yml)  
  - [Volkenkundig museum 'Gerardus van der Leeuw'](niveau3/English/GerardusLeeuw.yml)  
 

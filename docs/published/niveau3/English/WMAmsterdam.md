@@ -45,6 +45,7 @@ The collection of the Wereldmuseum Amsterdam can be found within the Wereldmuseu
  - [The trade in objects from a colonial context](niveau2/English/Trade.yml)  
  - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
  - [Scientific research in colonised territories](niveau2/English/Science.yml)  
+ - [Indonesia](niveau2/English/Indonesia.yml)  
  - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  
  - [Artis Ethnographic Museum](niveau3/English/EMArtis.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal.yml)  

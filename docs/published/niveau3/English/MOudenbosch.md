@@ -43,6 +43,8 @@ The collection of the Natuurhistorisch en Volkenkundig Museum Oudenbosch is full
  - [Museums and collections](niveau2/English/Museum.yml)  
  - [Artis Ethnographic Museum](niveau3/English/EMArtis.yml)  
  - [Naturalis Biodiversity Center](niveau3/English/Naturalis.yml)  
+ - [Nederlands Volkenkundig Missiemuseum](niveau3/English/MissiemuseumTilburg.yml)  
+ - [Nijmeegs Volkenkundig Museum](niveau3/English/NijmeegsVolkMus.yml)  
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
  - [Wereldmuseum Berg en Dal](niveau3/English/WMBergEnDal.yml)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
@@ -78,7 +80,7 @@ Video:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2026-01-06
+_last edited by UNKNOWN as UNKNOWN on 2026-01-07
 
 (notes: This event was automatically created because the YAML file's edit history was empty.)_
         

@@ -49,7 +49,9 @@ Zoals beschreven, is in de notulen van het Bataviaasch Genootschap veel informat
 
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants.yml)  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
+ - [Indonesië](niveau2/Dutch/Indonesia.yml)  
  - [Koninklijk Instituut voor Taal- Land- en Volkenkunde](niveau3/Dutch/KITLV.yml)  
+ - [Koninklijk Zeeuwsch Genootschap der Wetenschappen](niveau3/Dutch/ZeeuwschGenootschap.yml)  
  - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis.yml)  
  - [Ethnografisch Museum Artis](niveau3/Dutch/EMArtis.yml)  
  - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  

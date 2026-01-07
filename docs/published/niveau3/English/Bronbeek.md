@@ -51,7 +51,9 @@ The museum manages various datasets on KNIL muster rolls, military personnel dep
 
  - [Sources](niveau1/English/Sources.yml)  
  - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
+ - [Indonesia](niveau2/English/Indonesia.yml)  
  - [Hoofdcursus Kampen](niveau3/English/HoofdcursusKampen.yml)  
+ - [Stichting Koninklijke Defensiemusea](niveau3/English/KoninklijkeDefensieMus.yml)  
  - [Volkenkundig Museum Justinus van Nassau](niveau3/English/JustinusNassau.yml)  
 
 ## Primary sources

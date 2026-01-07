@@ -53,11 +53,13 @@ Van sommige Nederlanders in overheidsdienst zijn persoonlijke archieven bewaard 
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine.yml)  
  - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao.yml)  
  - [Ghana](niveau2/Dutch/Ghana.yml)  
+ - [Indonesië](niveau2/Dutch/Indonesia.yml)  
  - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
  - [C.G.C. Reinwardt](niveau3/Dutch/Reinwardt.yml)  
  - [Internationale Koloniale en Uitvoerhandel Tentoonstelling](niveau3/Dutch/Wereldtentoonstelling1883.yml)  
  - [Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen](niveau3/Dutch/BGKW.yml)  
+ - [Koninklijke Verzamelingen](niveau3/Dutch/KoninklijkeVerzamelingen.yml)  
  - [Museum Nusantara](niveau3/Dutch/MNusantara.yml)  
  - [Museon-Omniversum](niveau3/Dutch/Museon.yml)  
 
