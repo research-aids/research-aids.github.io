@@ -80,11 +80,19 @@
                             }
                         },
                         {
+                            "Koninklijke Verzamelingen": {
+                                "link": "niveau3/Dutch/KoninklijkeVerzamelingen.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/KoninklijkeVerzamelingen_Dutch",
+                                "sort_order": 5
+                            }
+                        },
+                        {
                             "Missiemuseum Steyl": {
                                 "link": "niveau3/Dutch/MissiemuseumSteyl.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/MissiemuseumSteyl_Dutch",
-                                "sort_order": 5
+                                "sort_order": 6
                             }
                         },
                         {
@@ -92,7 +100,7 @@
                                 "link": "niveau3/Dutch/Museon.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/Museon_Dutch",
-                                "sort_order": 6
+                                "sort_order": 7
                             }
                         },
                         {
@@ -100,7 +108,7 @@
                                 "link": "niveau3/Dutch/Bronbeek.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/Bronbeek_Dutch",
-                                "sort_order": 7
+                                "sort_order": 8
                             }
                         },
                         {
@@ -108,7 +116,7 @@
                                 "link": "niveau3/Dutch/MNusantara.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/MNusantara_Dutch",
-                                "sort_order": 8
+                                "sort_order": 9
                             }
                         },
                         {
@@ -116,7 +124,7 @@
                                 "link": "niveau3/Dutch/Naturalis.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/Naturalis_Dutch",
-                                "sort_order": 9
+                                "sort_order": 10
                             }
                         },
                         {
@@ -124,7 +132,23 @@
                                 "link": "niveau3/Dutch/MOudenbosch.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
-                                "sort_order": 10
+                                "sort_order": 11
+                            }
+                        },
+                        {
+                            "Nederlands Volkenkundig Missiemuseum": {
+                                "link": "niveau3/Dutch/MissiemuseumTilburg.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/MissiemuseumTilburg_Dutch",
+                                "sort_order": 12
+                            }
+                        },
+                        {
+                            "Nijmeegs Volkenkundig Museum": {
+                                "link": "niveau3/Dutch/NijmeegsVolkMus.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/NijmeegsVolkMus_Dutch",
+                                "sort_order": 13
                             }
                         },
                         {
@@ -132,7 +156,7 @@
                                 "link": "niveau3/Dutch/RijksmuseumAmsterdam.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/RijksmuseumAmsterdam_Dutch",
-                                "sort_order": 11
+                                "sort_order": 14
                             }
                         },
                         {
@@ -140,7 +164,31 @@
                                 "link": "niveau3/Dutch/RMO.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/RMO_Dutch",
-                                "sort_order": 12
+                                "sort_order": 15
+                            }
+                        },
+                        {
+                            "Stichting Koninklijke Defensiemusea": {
+                                "link": "niveau3/Dutch/KoninklijkeDefensieMus.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/KoninklijkeDefensieMus_Dutch",
+                                "sort_order": 16
+                            }
+                        },
+                        {
+                            "Tropisch Landbouwmuseum": {
+                                "link": "niveau3/Dutch/TropischLandbouwMus.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/TropischLandbouwMus_Dutch",
+                                "sort_order": 17
+                            }
+                        },
+                        {
+                            "Universitaire collecties": {
+                                "link": "niveau3/Dutch/UniversityMus.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/UniversityMus_Dutch",
+                                "sort_order": 18
                             }
                         },
                         {
@@ -148,7 +196,7 @@
                                 "link": "niveau3/Dutch/GerardusLeeuw.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/GerardusLeeuw_Dutch",
-                                "sort_order": 13
+                                "sort_order": 19
                             }
                         },
                         {
@@ -156,7 +204,7 @@
                                 "link": "niveau3/Dutch/JustinusNassau.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/JustinusNassau_Dutch",
-                                "sort_order": 14
+                                "sort_order": 20
                             }
                         },
                         {
@@ -164,7 +212,7 @@
                                 "link": "niveau3/Dutch/WMAmsterdam.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/WMAmsterdam_Dutch",
-                                "sort_order": 15
+                                "sort_order": 21
                             }
                         },
                         {
@@ -172,7 +220,7 @@
                                 "link": "niveau3/Dutch/WMBergEnDal.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/WMBergEnDal_Dutch",
-                                "sort_order": 16
+                                "sort_order": 22
                             }
                         },
                         {
@@ -180,7 +228,7 @@
                                 "link": "niveau3/Dutch/WMLeiden.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
-                                "sort_order": 17
+                                "sort_order": 23
                             }
                         },
                         {
@@ -188,7 +236,7 @@
                                 "link": "niveau3/Dutch/WMRotterdam.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch",
-                                "sort_order": 18
+                                "sort_order": 24
                             }
                         }
                     ],
@@ -312,11 +360,35 @@
                             }
                         },
                         {
+                            "Koninklijk Zeeuwsch Genootschap der Wetenschappen": {
+                                "link": "niveau3/Dutch/ZeeuwschGenootschap.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/ZeeuwschGenootschap_Dutch",
+                                "sort_order": 2
+                            }
+                        },
+                        {
                             "Naturalis Biodiversity Center": {
                                 "link": "niveau3/Dutch/Naturalis.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/Naturalis_Dutch",
-                                "sort_order": 2
+                                "sort_order": 3
+                            }
+                        },
+                        {
+                            "Universitaire Bibliotheken Leiden": {
+                                "link": "niveau3/Dutch/UniversiteitsbibliotheekLeiden.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/UniversiteitsbibliotheekLeiden_Dutch",
+                                "sort_order": 4
+                            }
+                        },
+                        {
+                            "Universitaire collecties": {
+                                "link": "niveau3/Dutch/UniversityMus.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/UniversityMus_Dutch",
+                                "sort_order": 5
                             }
                         },
                         {
@@ -324,7 +396,7 @@
                                 "link": "niveau3/Dutch/GerardusLeeuw.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/GerardusLeeuw_Dutch",
-                                "sort_order": 3
+                                "sort_order": 6
                             }
                         },
                         {
@@ -332,7 +404,7 @@
                                 "link": "niveau3/Dutch/WageningenUniversity.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/WageningenUniversity_Dutch",
-                                "sort_order": 4
+                                "sort_order": 7
                             }
                         }
                     ],
@@ -362,11 +434,27 @@
                             }
                         },
                         {
+                            "Nederlands Volkenkundig Missiemuseum": {
+                                "link": "niveau3/Dutch/MissiemuseumTilburg.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/MissiemuseumTilburg_Dutch",
+                                "sort_order": 3
+                            }
+                        },
+                        {
                             "Nederlandsch Zendeling Genootschap": {
                                 "link": "niveau3/Dutch/NZG.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/NZG_Dutch",
-                                "sort_order": 3
+                                "sort_order": 4
+                            }
+                        },
+                        {
+                            "Nederlands Volkenkundig Missiemuseum": {
+                                "link": "niveau3/Dutch/MissiemuseumTilburg.yml",
+                                "rel_type": "see also",
+                                "linkFilename": "niveau3/Dutch/MissiemuseumTilburg_Dutch",
+                                "sort_order": 5
                             }
                         },
                         {
@@ -374,7 +462,7 @@
                                 "link": "niveau3/Dutch/WMBergEnDal.yml",
                                 "rel_type": "see also",
                                 "linkFilename": "niveau3/Dutch/WMBergEnDal_Dutch",
-                                "sort_order": 4
+                                "sort_order": 6
                             }
                         }
                     ],
@@ -393,10 +481,10 @@
                 }
             },
             {
-                "Saba, Sint Eustatius en Sint Maarten": {
-                    "link": "niveau2/Dutch/SabaStEustatiusStMaarten.yml",
+                "Indonesi\u00eb": {
+                    "link": "niveau2/Dutch/Indonesia.yml",
                     "rel_type": "see also",
-                    "linkFilename": "niveau2/Dutch/SabaStEustatiusStMaarten_Dutch",
+                    "linkFilename": "niveau2/Dutch/Indonesia_Dutch",
                     "sort_order": 2
                 }
             },
@@ -407,6 +495,14 @@
                     "linkFilename": "niveau2/Dutch/SabaStEustatiusStMaarten_Dutch",
                     "sort_order": 3
                 }
+            },
+            {
+                "Saba, Sint Eustatius en Sint Maarten": {
+                    "link": "niveau2/Dutch/SabaStEustatiusStMaarten.yml",
+                    "rel_type": "see also",
+                    "linkFilename": "niveau2/Dutch/SabaStEustatiusStMaarten_Dutch",
+                    "sort_order": 4
+                }
             }
         ]
     },
@@ -414,7 +510,7 @@
         {
             "date": "2024-06-06",
             "applies_to": null,
-            "author": "wiebe reints",
+            "author": "Wiebe Reints",
             "role": "original_author",
             "editing_notes": "metadata added on 2025-06-02. from now, major changes to the file need to be logged here."
         }
