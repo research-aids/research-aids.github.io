@@ -12,7 +12,7 @@
             }
         },
         {
-            "Ambtenaren": {
+            "Ambtenaren in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/CivilServants_20240320.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/CivilServants_20240320_Dutch",
@@ -20,7 +20,7 @@
             }
         },
         {
-            "Leger en marine": {
+            "Leger- en marinepersoneel in gekoloniseerde gebieden": {
                 "link": "niveau2/Dutch/MilitaryAndNavy_20240326.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau2/Dutch/MilitaryAndNavy_20240326_Dutch",
