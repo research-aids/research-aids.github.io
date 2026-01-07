@@ -8,10 +8,10 @@ RelatedAides:
   - "Selecteren en afbakenen":
         link: "niveau1/Dutch/SelectAndDelineate_20240425.yml"
         rel_type: "see also"
-  - "Ambtenaren":
+  - "Ambtenaren in gekoloniseerde gebieden":
         link: "niveau2/Dutch/CivilServants_20240320.yml"
         rel_type: "see also"
-  - "Leger en marine":
+  - "Leger- en marinepersoneel in gekoloniseerde gebieden":
         link: "niveau2/Dutch/MilitaryAndNavy_20240326.yml"
         rel_type: "see also"
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
@@ -118,5 +118,6 @@ editing_metadata:
     author: Wiebe Reints
     role: original_author
     editing_notes: Final check of the research aid. Text is up to date and all the links are functioning.
+
 
 
