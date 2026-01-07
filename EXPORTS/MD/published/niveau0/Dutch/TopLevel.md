@@ -27,10 +27,11 @@ _De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Kolonia
 
 ### Locaties
  - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao.yml)  
- - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
+ - [Indonesië](niveau2/Dutch/Indonesia.yml)  
  - [Ghana](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
+ - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
 
         
 
-_last edited by wiebe reints as original_author on 2024-06-06_
+_last edited by Wiebe Reints as original_author on 2024-06-06_
         
