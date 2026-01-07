@@ -20,6 +20,9 @@ RelatedAides:
   - "Koninklijk Instituut voor Taal-, Land- en Volkenkunde":
         link: "niveau3/Dutch/KITLV.yml"
         rel_type: "see also"
+  - "Nijmeegs Volkenkundig Museum":
+      link: "niveau3/Dutch/NijmeegsVolkMus.yml"
+      rel_type: "see also"
   - "Wageningen University & Research":
         link: "niveau3/Dutch/WageningenUniversity.yml"
         rel_type: "see also"

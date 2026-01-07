@@ -17,6 +17,9 @@ RelatedAides:
   - "Civil servants in colonised territories":
         link: "niveau2/English/CivilServants.yml"
         rel_type: "see also"
+  - "Indonesia":
+        link: "niveau2/English/Indonesia.yml"
+        rel_type: "see also"
   - "Royal Cabinet of Curiosities":
         link: "niveau3/English/KKZ.yml"
         rel_type: "see also"
@@ -67,6 +70,9 @@ RelatedAides:
         rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
         link: "niveau3/English/MOudenbosch.yml"
+        rel_type: "see also"
+  - "Royal Zeeland Scientific Society":
+        link: "niveau3/English/ZeeuwschGenootschap.yml"
         rel_type: "see also"
 
 Relevant data:

@@ -8,6 +8,9 @@ RelatedAides:
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden.yml"
         rel_type: "see also"
+  - "Royal Zeeland Scientific Society":
+        link: "niveau3/English/ZeeuwschGenootschap.yml"
+        rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
         link: "niveau3/English/KKZ.yml"
         rel_type: "see also"

@@ -17,6 +17,9 @@ RelatedAides:
   - "Koninklijk Kabinet van Zeldzaamheden": 
         link: "niveau3/Dutch/KKZ.yml"
         rel_type: "see also"
+  - "Koninklijk Zeeuwsch Genootschap der Wetenschappen":
+        link: "niveau3/Dutch/ZeeuwschGenootschap.yml"
+        rel_type: "see also"
   - "Wereldmuseum Leiden": 
         link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"

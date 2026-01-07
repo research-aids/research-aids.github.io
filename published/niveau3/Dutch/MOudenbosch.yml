@@ -17,6 +17,12 @@ RelatedAides:
   - "Naturalis Biodiversity Center":
         link: "niveau3/Dutch/Naturalis.yml"
         rel_type: "see also"
+  - "Nederlands Volkenkundig Missiemuseum":
+      link: "niveau3/Dutch/MissiemuseumTilburg.yml"
+      rel_type: "see also"
+  - "Nijmeegs Volkenkundig Museum":
+      link: "niveau3/Dutch/NijmeegsVolkMus.yml"
+      rel_type: "see also"
   - "Wereldmuseum Amsterdam":
         link: "niveau3/Dutch/WMAmsterdam.yml"
         rel_type: "see also"

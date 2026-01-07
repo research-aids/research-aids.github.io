@@ -20,6 +20,9 @@ RelatedAides:
   - "De handel in objecten uit een koloniale context":
         link: "niveau2/Dutch/Trade.yml"
         rel_type: "see also"
+  - "Indonesië":
+        link: "niveau2/Dutch/Indonesia.yml"
+        rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
         link: "niveau3/Dutch/KKZ.yml"
         rel_type: "see also"

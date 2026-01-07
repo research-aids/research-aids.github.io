@@ -11,8 +11,14 @@ RelatedAides:
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
         link: "niveau2/Dutch/Science.yml"
         rel_type: "see also"
+  - "Indonesië":
+        link: "niveau2/Dutch/Indonesia.yml"
+        rel_type: "see also"
   - "Koninklijk Instituut voor Taal- Land- en Volkenkunde":
         link: "niveau3/Dutch/KITLV.yml"
+        rel_type: "see also"
+  - "Koninklijk Zeeuwsch Genootschap der Wetenschappen":
+        link: "niveau3/Dutch/ZeeuwschGenootschap.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
         link: "niveau3/Dutch/Naturalis.yml"

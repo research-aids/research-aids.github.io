@@ -23,6 +23,9 @@ RelatedAides:
   - "Scientific research in colonised territories":
         link: "niveau2/English/Science.yml"
         rel_type: "see also" 
+  - "Indonesia":
+        link: "niveau2/English/Indonesia.yml"
+        rel_type: "see also"
 
 Main-text:
   content: |

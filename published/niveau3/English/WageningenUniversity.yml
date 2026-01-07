@@ -20,6 +20,12 @@ RelatedAides:
   - "Hoofdcursus Kampen":
         link: "niveau3/English/HoofdcursusKampen.yml"
         rel_type: "see also"
+  - "Tropisch Landbouwmuseum":
+      link: "niveau3/English/TropischLandbouwMus.yml"
+      rel_type: "see also"
+  - "University collections":
+        link: "niveau3/English/UniversityMus.yml"
+        rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
         link: "niveau3/English/JustinusNassau.yml"
         rel_type: "see also"

@@ -14,8 +14,14 @@ RelatedAides:
   - "Scientific research in colonised territories":
         link: "niveau2/English/Science.yml"
         rel_type: "see also"
+  - "Indonesia":
+        link: "niveau2/English/Indonesia.yml"
+        rel_type: "see also"
   - "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten":
         link: "niveau3/English/BGKW.yml"
+        rel_type: "see also"
+  - "Leiden University Library":
+        link: "niveau3/English/UniversiteitsbibliotheekLeiden.yml"
         rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden.yml"
@@ -26,6 +32,12 @@ RelatedAides:
   - "Saba, Sint Eustatius and Sint Maarten":
         link: "niveau2/English/SabaStEustatiusStMaarten.yml"
         rel_type: "See also"        
+  - "University collections":
+        link: "niveau3/English/UniversityMus.yml"
+        rel_type: "see also"
+  - "Royal Zeeland Scientific Society":
+        link: "niveau3/English/ZeeuwschGenootschap.yml"
+        rel_type: "see also"
 
 
 Relevant data:

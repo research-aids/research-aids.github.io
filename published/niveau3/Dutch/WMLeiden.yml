@@ -17,6 +17,9 @@ RelatedAides:
   - "Ambtenaren in gekoloniseerde gebieden":
         link: "niveau2/Dutch/Ambtenaren.yml"
         rel_type: "see also"
+  - "Indonesië":
+        link: "niveau2/Dutch/Indonesia.yml"
+        rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
         link: "niveau3/Dutch/KKZ.yml"
         rel_type: "see also"
@@ -31,6 +34,9 @@ RelatedAides:
         rel_type: "see also"
   - "Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten":
         link: "niveau3/Dutch/BGKW.yml"
+        rel_type: "see also"
+  - "Koninklijk Zeeuwsch Genootschap der Wetenschappen":
+        link: "niveau3/Dutch/ZeeuwschGenootschap.yml"
         rel_type: "see also"
   - "Naturalis Biodiversity Center":
         link: "niveau3/Dutch/Naturalis.yml"

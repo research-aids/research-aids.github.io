@@ -20,6 +20,9 @@ RelatedAides:
   - "Ghana":
         link: "niveau2/Dutch/Ghana.yml"
         rel_type: "see also"
+  - "Indonesië":
+        link: "niveau2/Dutch/Indonesia.yml"
+        rel_type: "see also"
   - "Saba, Sint Eustatius en Sint Maarten":
         link: "niveau2/Dutch/SabaStEustatiusStMaarten.yml"
         rel_type: "see also"
@@ -34,6 +37,9 @@ RelatedAides:
         rel_type: "see also"
   - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
         link: "niveau3/Dutch/BGKW.yml"
+        rel_type: "see also"
+  - "Koninklijke Verzamelingen":
+        link: "niveau3/Dutch/KoninklijkeVerzamelingen.yml"
         rel_type: "see also"
   - "Museum Nusantara":
         link: "niveau3/Dutch/MNusantara.yml"

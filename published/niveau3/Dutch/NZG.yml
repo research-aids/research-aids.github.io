@@ -8,6 +8,12 @@ RelatedAides:
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
         link: "niveau2/Dutch/ZendingEnMissie.yml"
         rel_type: "see also"
+  - "Nederlands Volkenkundig Missiemuseum":
+      link: "niveau3/Dutch/MissiemuseumTilburg.yml"
+      rel_type: "see also"
+  - "Nijmeegs Volkenkundig Museum":
+      link: "niveau3/Dutch/NijmeegsVolkMus.yml"
+      rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
         link: "niveau3/Dutch/WMBergEnDal.yml"
         rel_type: "see also"

@@ -14,8 +14,14 @@ RelatedAides:
   - "Army and navy personnel in colonised territories":
         link: "niveau2/English/MilitaryAndNavy.yml"
         rel_type: "see also"
+  - "Indonesia":
+        link: "niveau2/English/Indonesia.yml"
+        rel_type: "see also"
   - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
         link: "niveau3/English/BGKW.yml"
+        rel_type: "see also"
+  - "Koninklijke Verzamelingen":
+        link: "niveau3/English/KoninklijkeVerzamelingen.yml"
         rel_type: "see also"
   - "Scientific research in colonised territories":
         link: "niveau2/English/Science.yml"

@@ -17,6 +17,9 @@ RelatedAides:
   - "Scientific research in colonised territories":
         link: "niveau2/English/Science.yml"
         rel_type: "see also"
+  - "Indonesia":
+        link: "niveau2/English/Indonesia.yml"
+        rel_type: "see also"
   - "Royal Cabinet of Curiosities":
         link: "niveau3/English/KKZ.yml"
         rel_type: "see also"

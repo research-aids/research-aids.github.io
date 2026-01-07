@@ -140,6 +140,9 @@ Breakdown:
           - "Museum Bronbeek":
               link: "niveau3/Dutch/Bronbeek.yml"
               rel_type: "see also"
+          - "Stichting Koninklijke Defensiemusea":
+              link: "niveau3/Dutch/KoninklijkeDefensieMus.yml"
+              rel_type: "see also"
           - "Volkenkundig Museum Justinus van Nassau":
               link: "niveau3/Dutch/JustinusNassau.yml"
               rel_type: "see also"

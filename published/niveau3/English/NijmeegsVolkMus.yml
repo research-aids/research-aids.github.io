@@ -20,11 +20,15 @@ RelatedAides:
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
         link: "niveau3/English/MOudenbosch.yml"
         rel_type: "see also"
-#  - "Nederlands Volkenkundig Missiemuseum":
+  - "Nederlands Volkenkundig Missiemuseum":
+        link: "niveau3/English/MissiemuseumTilburg.yml"
+        rel_type: "see also"
   - "Nederlandsch Zendeling Genootschap":
         link: "niveau3/English/NZG.yml"
         rel_type: "see also"
-#  - "Universitaire collecties":
+  - "University collections":
+        link: "niveau3/English/UniversityMus.yml"
+        rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
         link: "niveau3/English/WMBergEnDal.yml"
         rel_type: "see also"

@@ -14,6 +14,15 @@ RelatedAides:
   - "Scientific research in colonised territories":
         link: "niveau2/English/Science.yml"
         rel_type: "see also"
+  - "Indonesia":
+        link: "niveau2/English/Indonesia.yml"
+        rel_type: "see also"
+  - "Nederlands Volkenkundig Missiemuseum":
+        link: "niveau3/English/MissiemuseumTilburg.yml"
+        rel_type: "see also"
+  - "Nijmeegs Volkenkundig Museum":
+        link: "niveau3/English/NijmeegsVolkMus.yml"
+        rel_type: "see also"
   - "Nederlandsch Zendeling Genootschap": 
         link: "niveau3/English/NZG.yml"
         rel_type: "see also"

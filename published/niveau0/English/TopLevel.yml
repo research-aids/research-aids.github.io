@@ -41,6 +41,9 @@ Breakdown:
           - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
               link: "niveau3/English/BGKW.yml"
               rel_type: "see also"
+          - "Koninklijke Verzamelingen":
+              link: "niveau3/English/KoninklijkeVerzamelingen.yml"
+              rel_type: "see also"
           - "Missiemuseum Steyl":
               link: "niveau3/English/MissiemuseumSteyl.yml"
               rel_type: "see also"
@@ -59,6 +62,12 @@ Breakdown:
           - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
               link: "niveau3/English/MOudenbosch.yml"
               rel_type: "see also"
+          - "Nederlands Volkenkundig Missiemuseum":
+              link: "niveau3/English/MissiemuseumTilburg.yml"
+              rel_type: "see also"
+          - "Nijmeegs Volkenkundig Museum":
+              link: "niveau3/English/NijmeegsVolkMus.yml"
+              rel_type: "see also"
           - "Rijksmuseum Amsterdam":
               link: "niveau3/English/RijksmuseumAmsterdam.yml"
               rel_type: "see also"
@@ -67,6 +76,15 @@ Breakdown:
               rel_type: "see also"
           - "Royal Cabinet of Curiosities":
               link: "niveau3/English/KKZ.yml"
+              rel_type: "see also"
+          - "Stichting Koninklijke Defensiemusea":
+              link: "niveau3/English/KoninklijkeDefensieMus.yml"
+              rel_type: "see also"
+          - "Tropisch Landbouwmuseum":
+              link: "niveau3/English/TropischLandbouwMus.yml"
+              rel_type: "see also"
+          - "University collections":
+              link: "niveau3/English/UniversityMus.yml"
               rel_type: "see also"
           - "Volkenkundig Museum 'Gerardus van der Leeuw'":
               link: "niveau3/English/GerardusLeeuw.yml"
@@ -129,8 +147,17 @@ Breakdown:
         link: "niveau2/English/Science.yml"
         rel_type: "see also"
         Subtopics:
+          - "Leiden University Library":
+              link: "niveau3/English/UniversiteitsbibliotheekLeiden.yml"
+              rel_type: "see also"
+          - "Royal Zeeland Scientific Society":
+              link: "niveau3/English/ZeeuwschGenootschap.yml"
+              rel_type: "see also"
           - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
               link: "niveau3/English/KITLV.yml"
+              rel_type: "see also"
+          - "University collections":
+              link: "niveau3/English/UniversityMus.yml"
               rel_type: "see also"
           - "Volkenkundig museum 'Gerardus van der Leeuw'":
               link: "niveau3/English/GerardusLeeuw.yml"
@@ -158,11 +185,14 @@ Breakdown:
     - "Aruba, Bonaire and Curaçao":
         link: "niveau2/English/ArubaBonaireCuracao.yml"
         rel_type: "see also"
-    - "Saba, Sint Eustatius and Sint Maarten":
-        link: "niveau2/English/SabaStEustatiusStMaarten.yml"
-        rel_type: "see also"  
     - "Ghana":
         link: "niveau2/English/Ghana.yml"
+        rel_type: "see also"
+    - "Indonesia":
+        link: "niveau2/English/Indonesia.yml"
+        rel_type: "see also"
+    - "Saba, Sint Eustatius and Sint Maarten":
+        link: "niveau2/English/SabaStEustatiusStMaarten.yml"
         rel_type: "see also"  
 
 editing_metadata:

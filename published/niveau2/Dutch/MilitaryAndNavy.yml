@@ -14,6 +14,9 @@ RelatedAides:
   - "De handel in objecten uit een koloniale context":
         link: "niveau2/Dutch/Handel.yml"
         rel_type: "see also"
+  - "Indonesië":
+        link: "niveau2/Dutch/Indonesia.yml"
+        rel_type: "see also"
   - "Hoofdcursus Kampen":
         link: "niveau3/Dutch/HoofdcursusKampen.yml"
         rel_type: "see also"
@@ -26,6 +29,9 @@ RelatedAides:
   - "Rijksmuseum Amsterdam":
         link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
         rel_type: "see also"
+  - "Stichting Koninklijke Defensiemusea":
+      link: "niveau3/Dutch/KoninklijkeDefensieMus.yml"
+      rel_type: "see also"
   - "Wereldmuseum Amsterdam":
         link: "niveau3/Dutch/WMAmsterdam.yml"
         rel_type: "see also"

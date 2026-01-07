@@ -6,59 +6,77 @@ Abstract: "Deze zoekhulp geeft je een overzicht van de verschillende musea in Ne
 
 RelatedAides:
   - "Etnografisch Museum Artis":
-      link: "niveau3/Dutch/EMArtis.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/EMArtis.yml"
+        rel_type: "see also"
   - "Hoofdcursus Kampen":
-      link: "niveau3/Dutch/HoofdcursusKampen.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/HoofdcursusKampen.yml"
+        rel_type: "see also"
   - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
-      link: "niveau3/Dutch/BGKW.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/BGKW.yml"
+        rel_type: "see also"
+  - "Koninklijke Verzamelingen":
+        link: "niveau3/Dutch/KoninklijkeVerzamelingen.yml"
+        rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
-      link: "niveau3/Dutch/KKZ.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/KKZ.yml"
+        rel_type: "see also"
   - "Missiemuseum Steyl":
-      link: "niveau3/Dutch/MissiemuseumSteyl.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/MissiemuseumSteyl.yml"
+        rel_type: "see also"
   - "Museon-Omniversum":
-      link: "niveau3/Dutch/Museon.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/Museon.yml"
+        rel_type: "see also"
   - "Museum Bronbeek":
-      link: "niveau3/Dutch/Bronbeek.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/Bronbeek.yml"
+        rel_type: "see also"
   - "Museum Nusantara":
-      link: "niveau3/Dutch/MNusantara.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/MNusantara.yml"
+        rel_type: "see also"
   - "Naturalis Biodiversity Center":
-      link: "niveau3/Dutch/Naturalis.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/Naturalis.yml"
+        rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
-      link: "niveau3/Dutch/MOudenbosch.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/MOudenbosch.yml"
+        rel_type: "see also"
+  - "Nederlands Volkenkundig Missiemuseum":
+        link: "niveau3/Dutch/MissiemuseumTilburg.yml"
+        rel_type: "see also"
+  - "Nijmeegs Volkenkundig Museum":
+        link: "niveau3/Dutch/NijmeegsVolkMus.yml"
+        rel_type: "see also"
   - "Rijksmuseum van Oudheden":
-      link: "niveau3/Dutch/RMO.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/RMO.yml"
+        rel_type: "see also"
   - "Rijksmuseum Amsterdam":
-      link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
+        rel_type: "see also"
+  - "Stichting Koninklijke Defensiemusea":
+        link: "niveau3/Dutch/KoninklijkeDefensieMus.yml"
+        rel_type: "see also"
+  - "Tropisch Landbouwmuseum":
+        link: "niveau3/Dutch/TropischLandbouwMus.yml"
+        rel_type: "see also"
+  - "Universitaire collecties":
+        link: "niveau3/Dutch/UniversityMus.yml"
+        rel_type: "see also"
   - "Volkenkundig Museum 'Gerardus van der Leeuw'":
-      link: "niveau3/Dutch/GerardusLeeuw.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/GerardusLeeuw.yml"
+        rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
-      link: "niveau3/Dutch/JustinusNassau.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/JustinusNassau.yml"
+        rel_type: "see also"
   - "Wereldmuseum Amsterdam":
-      link: "niveau3/Dutch/WMAmsterdam.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/WMAmsterdam.yml"
+        rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
-      link: "niveau3/Dutch/WMBergEnDal.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/WMBergEnDal.yml"
+        rel_type: "see also"
   - "Wereldmuseum Leiden":
-      link: "niveau3/Dutch/WMLeiden.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/WMLeiden.yml"
+        rel_type: "see also"
   - "Wereldmuseum Rotterdam":
-      link: "niveau3/Dutch/WMRotterdam.yml"
-      rel_type: "see also"
+        link: "niveau3/Dutch/WMRotterdam.yml"
+        rel_type: "see also"
 
 Relevant data: []
 

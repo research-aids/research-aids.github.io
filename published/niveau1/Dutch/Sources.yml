@@ -14,6 +14,12 @@ RelatedAides:
   - "Verslagleggen":
         link: "niveau1/Dutch/SelectAndDelineate.yml" 
         rel_type: "see also" 
+  - "Universitaire Bibliotheken Leiden":
+        link: "niveau3/Dutch/UniversiteitsbibliotheekLeiden.yml"
+        rel_type: "see also"
+  - "Universitaire collecties":
+        link: "niveau3/Dutch/UniversityMus.yml"
+        rel_type: "see also"
 
 Main-text:
   content: |

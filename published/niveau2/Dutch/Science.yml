@@ -17,11 +17,17 @@ RelatedAides:
   - "Ghana":
         link: "niveau2/Dutch/Ghana.yml"
         rel_type: "see also"
+  - "Indonesië":
+        link: "niveau2/Dutch/Indonesia.yml"
+        rel_type: "see also"
   - "C.G.C. Reinwardt":
         link: "niveau3/Dutch/Reinwardt.yml"
         rel_type: "see also"
   - "Koninklijk Instituut voor Taal- Land- en Volkenkunde":
         link: "niveau3/Dutch/KITLV.yml"
+        rel_type: "see also"
+  - "Koninklijk Zeeuwsch Genootschap der Wetenschappen":
+        link: "niveau3/Dutch/ZeeuwschGenootschap.yml"
         rel_type: "see also"
   - "Museon-Omniversum":
         link: "niveau3/Dutch/Museon.yml"
@@ -29,8 +35,20 @@ RelatedAides:
   - "Naturalis Biodiversity Center":
         link: "niveau3/Dutch/Naturalis.yml"
         rel_type: "see also"
+  - "Nijmeegs Volkenkundig Museum":
+        link: "niveau3/Dutch/NijmeegsVolkMus.yml"
+        rel_type: "see also"
   - "Rijksmuseum van Oudheden":
         link: "niveau3/Dutch/RMO.yml"
+        rel_type: "see also"
+  - "Tropisch Landbouwmuseum":
+        link: "niveau3/Dutch/TropischLandbouwMus.yml"
+        rel_type: "see also"
+  - "Universitaire Bibliotheken Leiden":
+        link: "niveau3/Dutch/UniversiteitsbibliotheekLeiden.yml"
+        rel_type: "see also"
+  - "Universitaire collecties":
+        link: "niveau3/Dutch/UniversityMus.yml"
         rel_type: "see also"
   - "Volkenkundig Museum 'Gerardus van der Leeuw'":
         link: "niveau3/Dutch/GerardusLeeuw.yml"

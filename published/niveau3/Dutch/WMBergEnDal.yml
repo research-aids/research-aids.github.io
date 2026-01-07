@@ -11,9 +11,15 @@ RelatedAides:
   - "Zendelingen en missionarissen in gekoloniseerde gebieden":
         link: "niveau2/Dutch/ChristianMission.yml"
         rel_type: "see also"
+  - "Nederlands Volkenkundig Missiemuseum":
+      link: "niveau3/Dutch/MissiemuseumTilburg.yml"
+      rel_type: "see also"
   - "Nederlandsch Zendeling Genootschap":
         link: "niveau3/Dutch/NZG.yml"
         rel_type: "see also"
+  - "Nijmeegs Volkenkundig Museum":
+      link: "niveau3/Dutch/NijmeegsVolkMus.yml"
+      rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "See also"

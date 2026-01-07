@@ -8,11 +8,8 @@ RelatedAides:
   - "Army and navy personnel in colonised territories":
         link: "niveau2/English/MilitaryAndNavy.yml"
         rel_type: "see also"
-  - "Wereldmuseum Leiden":
-        link: "niveau3/English/WMLeiden.yml"
-        rel_type: "see also"
-  - "Wageningen University & Research":
-        link: "niveau3/English/WageningenUniversity.yml"
+  - "Hoofdcursus Kampen":
+        link: "niveau3/English/HoofdcursusKampen.yml"
         rel_type: "see also"
   - "Museum Bronbeek":
         link: "niveau3/English/Bronbeek.yml"
@@ -20,8 +17,14 @@ RelatedAides:
   - "Museum Nusantara":
         link: "niveau3/English/MNusantara.yml"
         rel_type: "see also"
-  - "Hoofdcursus Kampen":
-        link: "niveau3/English/HoofdcursusKampen.yml"
+  - "Stichting Koninklijke Defensiemusea":
+      link: "niveau3/English/KoninklijkeDefensieMus.yml"
+      rel_type: "see also"
+  - "Wageningen University & Research":
+        link: "niveau3/English/WageningenUniversity.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/English/WMLeiden.yml"
         rel_type: "see also"
 
 Relevant data:

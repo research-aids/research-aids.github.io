@@ -17,13 +17,15 @@ RelatedAides:
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
         link: "niveau3/Dutch/MOudenbosch.yml"
         rel_type: "see also"
+  - "Nijmeegs Volkenkundig Museum":
+      link: "niveau3/Dutch/NijmeegsVolkMus.yml"
+      rel_type: "see also"
   - "Nederlandsch Zendeling Genootschap":
         link: "niveau3/Dutch/NZG.yml"
         rel_type: "see also"
   - "Wereldmuseum Berg en Dal":
         link: "niveau3/Dutch/WMBergEnDal.yml"
         rel_type: "see also"
-#Nijmeegs Volkenkundig Museum
 
 Relevant data:
   Identifiers:

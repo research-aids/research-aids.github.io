@@ -14,6 +14,9 @@ RelatedAides:
   - "Verslagleggen":
         link: "niveau1/Dutch/Reporting.yml"
         rel_type: "see also"
+  - "Universitaire collecties":
+        link: "niveau3/Dutch/UniversityMus.yml"
+        rel_type: "see also"
 
 Main-text:
   content: |

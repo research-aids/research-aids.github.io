@@ -38,6 +38,9 @@ RelatedAides:
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
         link: "niveau3/English/MOudenbosch.yml"
         rel_type: "see also"
+  - "Royal Zeeland Scientific Society":
+        link: "niveau3/English/ZeeuwschGenootschap.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

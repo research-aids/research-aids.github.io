@@ -20,6 +20,9 @@ RelatedAides:
   - "Christian missionaries in colonised territories":
         link: "niveau2/English/ChristianMission.yml"
         rel_type: "see also"
+  - "Indonesia":
+        link: "niveau2/English/Indonesia.yml"
+        rel_type: "see also"
   - "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen":
         link: "niveau3/English/BGKW.yml"
         rel_type: "see also"
@@ -29,8 +32,20 @@ RelatedAides:
   - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
         link: "niveau3/English/KITLV.yml"
         rel_type: "see also"
+  - "Leiden University Library":
+        link: "niveau3/English/UniversiteitsbibliotheekLeiden.yml"
+        rel_type: "see also"
   - "Naturalis Biodiversity Center":
         link: "niveau3/English/Naturalis0.yml"
+        rel_type: "see also"
+  - "Nijmeegs Volkenkundig Museum":
+        link: "niveau3/English/NijmeegsVolkMus.yml"
+        rel_type: "see also"
+  - "Tropisch Landbouwmuseum":
+        link: "niveau3/English/TropischLandbouwMus.yml"
+        rel_type: "see also"
+  - "University collections":
+        link: "niveau3/English/UniversityMus.yml"
         rel_type: "see also"
   - "Wereldmuseum Amsterdam":
         link: "niveau3/English/WMAmsterdam.yml"
@@ -49,6 +64,9 @@ RelatedAides:
         rel_type: "see also"
   - "Rijksmuseum van Oudheden":
         link: "niveau3/English/RMO.yml"
+        rel_type: "see also"
+  - "Royal Zeeland Scientific Society":
+        link: "niveau3/English/ZeeuwschGenootschap.yml"
         rel_type: "see also"
   - "C.G.C. Reinwardt":
         link: "niveau3/English/Reinwardt.yml"

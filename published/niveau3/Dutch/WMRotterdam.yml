@@ -17,6 +17,9 @@ RelatedAides:
   - "Wetenschappelijk onderzoek in gekoloniseerde gebieden":
         link: "niveau2/Dutch/Science.yml"
         rel_type: "see also"
+  - "Indonesië":
+        link: "niveau2/Dutch/Indonesia.yml"
+        rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "see also"

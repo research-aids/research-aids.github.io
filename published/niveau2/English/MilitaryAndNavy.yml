@@ -20,9 +20,15 @@ RelatedAides:
   - "The trade in objects from a colonial context":
         link: "niveau2/English/Trade.yml"
         rel_type: "see also"
+  - "Indonesia":
+        link: "niveau2/English/Indonesia.yml"
+        rel_type: "see also"
   - "Royal Cabinet of Curiosities":
         link: "niveau3/English/RCC.yml"
         rel_type: "see also"
+  - "Stichting Koninklijke Defensiemusea":
+      link: "niveau3/English/KoninklijkeDefensieMus.yml"
+      rel_type: "see also"
   - "Wereldmuseum Amsterdam":
         link: "niveau3/English/WMAmsterdam.yml"
         rel_type: "see also"

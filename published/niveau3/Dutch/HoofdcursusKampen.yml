@@ -8,17 +8,20 @@ RelatedAides:
   - "Leger- en marinepersoneel in gekoloniseerde gebieden":
         link: "niveau2/Dutch/MilitaryAndNavy.yml"
         rel_type: "see also"
-  - "Wageningen University & Research":
-        link: "niveau3/Dutch/WageningenUniversity.yml"
-        rel_type: "see also"
   - "Museum Bronbeek":
         link: "niveau3/Dutch/Bronbeek.yml"
         rel_type: "see also"
   - "Museum Nusantara":
         link: "niveau3/Dutch/MNusantara.yml"
         rel_type: "see also"
+  - "Stichting Koninklijke Defensiemusea":
+      link: "niveau3/Dutch/KoninklijkeDefensieMus.yml"
+      rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
         link: "niveau3/Dutch/JustinusNassau.yml"
+        rel_type: "see also"
+  - "Wageningen University & Research":
+        link: "niveau3/Dutch/WageningenUniversity.yml"
         rel_type: "see also"
 
 Relevant data:

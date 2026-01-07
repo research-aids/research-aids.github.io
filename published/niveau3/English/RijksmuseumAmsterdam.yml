@@ -20,6 +20,9 @@ RelatedAides:
   - "The trade in objects from a colonial context":
         link: "niveau2/English/Trade.yml"
         rel_type: "see also"
+  - "Indonesia":
+        link: "niveau2/English/Indonesia.yml"
+        rel_type: "see also"
   - "Royal Cabinet of Curiosities":
         link: "niveau3/English/KKZ.yml"
         rel_type: "see also"

@@ -11,8 +11,14 @@ RelatedAides:
   - "Wageningen University & Research":
         link: "niveau3/English/WageningenUniversity.yml"
         rel_type: "see also"
+  - "Tropisch Landbouwmuseum":
+      link: "niveau3/English/TropischLandbouwMus.yml"
+      rel_type: "see also"
   - "Natuurhistorisch en Volkenkundig Museum Oudenbosch":
         link: "niveau3/English/MOudenbosch.yml"
+        rel_type: "see also"
+  - "University collections":
+        link: "niveau3/English/UniversityMus.yml"
         rel_type: "see also"
 
 Relevant data:

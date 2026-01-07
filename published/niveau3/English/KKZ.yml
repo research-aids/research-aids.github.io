@@ -17,6 +17,9 @@ RelatedAides:
   - "Groote Koninklijke Bazar":
         link: "niveau3/English/KoninklijkeBazaar.yml"
         rel_type: "see also"
+  - "Koninklijke Verzamelingen":
+        link: "niveau3/English/KoninklijkeVerzamelingen.yml"
+        rel_type: "see also"
   - "Wereldmuseum Leiden":
         link: "niveau3/English/WMLeiden.yml"
         rel_type: "see also"

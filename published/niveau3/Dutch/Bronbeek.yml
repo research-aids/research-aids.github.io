@@ -11,9 +11,15 @@ RelatedAides:
   - "Leger- en marinepersoneel in gekoloniseerde gebieden":
         link: "niveau2/Dutch/MilitaryAndNavy.yml"
         rel_type: "see also"
+  - "Indonesië":
+        link: "niveau2/Dutch/Indonesia.yml"
+        rel_type: "see also"
   - "Hoofdcursus Kampen":
         link: "niveau3/Dutch/HoofdcursusKampen.yml"
         rel_type: "see also"
+  - "Stichting Koninklijke Defensiemusea":
+      link: "niveau3/Dutch/KoninklijkeDefensieMus.yml"
+      rel_type: "see also"
   - "Volkenkundig Museum Justinus van Nassau":
         link: "niveau3/Dutch/JustinusNassau.yml"
         rel_type: "see also"
