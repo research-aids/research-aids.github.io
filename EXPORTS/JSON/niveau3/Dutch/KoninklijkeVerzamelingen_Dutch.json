@@ -29,7 +29,9 @@
         }
     ],
     "Relevant data": {
-        "Identifiers": "http://www.wikidata.org/entity/Q50632603",
+        "Identifiers": [
+            "http://www.wikidata.org/entity/Q50632603"
+        ],
         "Name variations": [],
         "Tags": {
             "Activity": [
