@@ -23,7 +23,7 @@ From the nineteenth century, colonial officials in the Gold Coast were encourage
 
 Governors Friedrich Last and Cornelis Nagtglas sent collections of objects to the Cabinet of Curiosities in 1825 and 1860 respectively. The gifts from _Asantehene_ (King of Asante) Kwaku Dua I Panyin to King William I, including a golden pipe, were also presented by the latter to the Cabinet of Curiosities in 1837. Former health officer Jan Gramberg, who had established a cotton plantation in the Gold Coast and published the book _Schetsen van Afrika's Westkust_ (Impressions of Africa's West Coast) in the Netherlands, donated a collection of objects from West Africa to the cabinet in 1860. Finally, when the possessions were handed over to the United Kingdom in 1874, the Ministry of Colonies donated a number of objects that were considered 'less suitable for passing into foreign hands'. These included the [ivory command staff](https://id.rijksmuseum.nl/200312824) of the director-general of the WIC in Elmina.
 
-Governor Nagtglas also left a collection of objects to the [Royal Zeeland Society of Sciences](https://kzgwonline.nl/persoon/nagtglas-cornelis-johannes-marius).
+Governor Nagtglas also left a [collection of objects](https://kzgwonline.nl/persoon/nagtglas-cornelis-johannes-marius) to the [Royal Zeeland Society of Sciences](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F9242703fbe6954d38c7740b310871b08).
 
 ### Natural history collections
 
