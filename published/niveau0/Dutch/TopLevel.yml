@@ -187,8 +187,8 @@ Breakdown:
           - "Nederlandsch Zendeling Genootschap": 
               link: "niveau3/Dutch/NZG.yml"
               rel_type: "see also"
-          - "Nederlands Volkenkundig Missiemuseum":
-              link: "niveau3/Dutch/MissiemuseumTilburg.yml"
+          - "Nijmeegs Volkenkundig Museum":
+              link: "niveau3/Dutch/NijmeegsVolkMus.yml"
               rel_type: "see also"
           - "Wereldmuseum Berg en Dal":
               link: "niveau3/Dutch/WMBergEnDal.yml"
