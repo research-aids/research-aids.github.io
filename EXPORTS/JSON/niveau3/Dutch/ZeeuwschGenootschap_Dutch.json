@@ -53,7 +53,9 @@
         }
     ],
     "Relevant data": {
-        "Identifiers": "http://www.wikidata.org/entity/Q2681284",
+        "Identifiers": [
+            "http://www.wikidata.org/entity/Q2681284"
+        ],
         "Name variations": [
             "Zeeuws Genootschap",
             "KZGW"
