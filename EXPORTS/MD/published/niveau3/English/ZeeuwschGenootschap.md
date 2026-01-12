@@ -61,7 +61,7 @@ Yearbook:
 
 Magazine:
   > *Tijdschrift Zeeland*
-  > _Popular scientific journal published by the Royal Zeeland 	Society of Sciences since 1991. Each edition of the journal covers various historical 	topics, and articles may contain information relevant to genealogical research._  
+  > _Popular scientific journal published by the Royal Zeeland Society of Sciences since 1991. Each edition of the journal covers various historical 	topics, and articles may contain information relevant to genealogical research._  
 
   > [https://kzgw.nl/publicaties/tijdschrift-zeeland/](https://kzgw.nl/publicaties/tijdschrift-zeeland/)
 
