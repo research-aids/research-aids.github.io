@@ -30,8 +30,14 @@ Suriname werd in 1651 gekoloniseerd door Sir Frances Willoughby, de Engelse gouv
 ### Verzamelen in Suriname
 Test of wijzigingen doorkomen.
 
-Verzamelingen in buitenland.
-Jaren 30 Leon-Gontran Damas aan de Marowijnerivier.
+### Verzamelingen in buitenland
+In Suriname werd ook veel verzameld door niet-Nederlanders. Missionarissen van de Evangelische Broedergemeente verzamelden etnografica dat werd opgezonden naar Europa. Een belangrijke verzameling Surinaamse etnografica bevindt zich daarom in het Etnographisches Museum in Herrnhut, Duitsland. Verkoop van etnografica vormde een bron van inkomsten van de Evangelische Broedergemeente. Een belangrijk deel van de Surinaamse etnografica die door missionaris Johann Gustav Ferdinand Jansa was verzameld belandde op deze manier in het Ethnologisches Museum in Berlijn. ANDERE MUSEA DIE HERRNHUTER ETNOGRAFICA HEBBEN.
+
+1890 (of 1891?): Axel Klinckowström, leverde verzameling op die zich nu bevindt in het Etnografiska museet in Stockholm.
+
+Wilhelm Joest bezocht ook in 1890 Suriname (waren zij van elkaar op de hoogte). Deze verzameling bevindt zich hoofdzakelijk in het Ethnologisches Museum in Berlijn en het Rautenstrauch-Joest Museum in Keulen.
+
+Aangezien de Marowijne de grens vormt tussen Suriname en Frans-Guyana Jaren 30 Leon-Gontran Damas aan de Marowijnerivier.
 
 
 ### Natuurhistorisch verzamelen?
