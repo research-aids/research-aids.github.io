@@ -14,7 +14,9 @@ RelatedAides:
   - "Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)":
         link: "niveau3/English/KITLV.yml"
         rel_type: "see also"
-#Universiteitsmusea        
+  - "University collections":
+        link: "niveau3/English/UniversityMus.yml"
+        rel_type: "see also"    
 
 Relevant data:
   Identifiers:

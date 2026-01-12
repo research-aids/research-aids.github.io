@@ -14,7 +14,9 @@ RelatedAides:
   - "Koninklijk Instituut voor Taal-, Land- en Volkenkunde":
         link: "niveau3/Dutch/KITLV.yml"
         rel_type: "see also"
-#Universiteitsmusea        
+  - "Universitaire collecties":
+        link: "niveau3/Dutch/UniversityMus.yml"
+        rel_type: "see also" 
 
 Relevant data:
   Identifiers:
