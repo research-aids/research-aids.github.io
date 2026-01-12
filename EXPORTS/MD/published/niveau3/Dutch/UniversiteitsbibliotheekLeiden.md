@@ -24,6 +24,7 @@ De [digitale catalogus](https://www.bibliotheek.universiteitleiden.nl/) van de U
  - [Bronnen](niveau1/Dutch/Sources.yml)  
  - [Wetenschappelijk onderzoek in koloniale gebieden](niveau2/Dutch/Science.yml)  
  - [Koninklijk Instituut voor Taal-, Land- en Volkenkunde](niveau3/Dutch/KITLV.yml)  
+ - [Universitaire collecties](niveau3/Dutch/UniversityMus.yml)  
 
 ## Primary sources
 
