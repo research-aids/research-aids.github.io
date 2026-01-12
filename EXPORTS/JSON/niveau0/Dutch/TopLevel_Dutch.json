@@ -458,10 +458,10 @@
                             }
                         },
                         {
-                            "Nederlands Volkenkundig Missiemuseum": {
-                                "link": "niveau3/Dutch/MissiemuseumTilburg.yml",
+                            "Nijmeegs Volkenkundig Museum": {
+                                "link": "niveau3/Dutch/NijmeegsVolkMus.yml",
                                 "rel_type": "see also",
-                                "linkFilename": "niveau3/Dutch/MissiemuseumTilburg_Dutch",
+                                "linkFilename": "niveau3/Dutch/NijmeegsVolkMus_Dutch",
                                 "sort_order": 5
                             }
                         },
