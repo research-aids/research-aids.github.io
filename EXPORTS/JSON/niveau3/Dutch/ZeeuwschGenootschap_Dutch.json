@@ -1,0 +1,175 @@
+{
+    "Level": 3,
+    "Title": "Koninklijk Zeeuwsch Genootschap der Wetenschappen",
+    "Abstract": "Het in 1796 opgerichte Koninklijk Zeeuwsch Genootschap der Wetenschappen heeft als doel een podium te bieden aan onderzoek over de provincie Zeeland en aan onderzoekers afkomstig uit Zeeland. Met name in eerdere jaren schonken wetenschappers en andere uit Zeeland afkomstige hooggeplaatste personen grote collecties aan het genootschap.",
+    "RelatedAides": [
+        {
+            "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
+                "link": "niveau2/Dutch/Science.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Science_Dutch",
+                "sort_order": 1
+            }
+        },
+        {
+            "Ghana": {
+                "link": "niveau2/Dutch/Ghana.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Ghana_Dutch",
+                "sort_order": 2
+            }
+        },
+        {
+            "Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen": {
+                "link": "niveau3/Dutch/BGKW.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/BGKW_Dutch",
+                "sort_order": 3
+            }
+        },
+        {
+            "Koninklijk Instituut voor Taal-, Land- en Volkenkunde": {
+                "link": "niveau3/Dutch/KITLV.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/KITLV_Dutch",
+                "sort_order": 4
+            }
+        },
+        {
+            "Naturalis Biodiversity Center": {
+                "link": "niveau3/Dutch/Naturalis.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/Naturalis_Dutch",
+                "sort_order": 5
+            }
+        },
+        {
+            "Wereldmuseum Leiden": {
+                "link": "niveau3/Dutch/WMLeiden.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMLeiden_Dutch",
+                "sort_order": 6
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "http://www.wikidata.org/entity/Q2681284"
+        ],
+        "Name variations": [
+            "Zeeuws Genootschap",
+            "KZGW"
+        ],
+        "Tags": {
+            "Activity": [
+                "[Historisch genootschap](http://vocab.getty.edu/aat/300138715)",
+                "[Wetenschappelijk genootschap](http://vocab.getty.edu/aat/300026019)"
+            ],
+            "Type of objects": [
+                "[Etnografica](http://vocab.getty.edu/aat/300234108)",
+                "[Kunstvoorwerpen](http://vocab.getty.edu/aat/300133005)",
+                "[Manuscripten](http://vocab.getty.edu/aat/300028569)"
+            ],
+            "Geographical": [
+                "[Zuidoost-Azi\u00eb](https://sws.geonames.org/7729896/)",
+                "[Indonesi\u00eb](https://sws.geonames.org/1643084/)",
+                "[Suriname](https://sws.geonames.org/3382998/)",
+                "[China](https://sws.geonames.org/1814991/)",
+                "[Japan](https://sws.geonames.org/1861060/)",
+                "[India](https://sws.geonames.org/1269750/)",
+                "[Sri Lanka](https://sws.geonames.org/1227603/)",
+                "[Noord-Afrika](https://sws.geonames.org/7729887/)",
+                "[Congo](https://sws.geonames.org/2260494/)",
+                "[Equatoriaal-Guinea](https://sws.geonames.org/2309096/)",
+                "[Canada](https://sws.geonames.org/6251999/)",
+                "[Essequibo](http://www.wikidata.org/entity/Q1368792)",
+                "[Demerary](http://www.wikidata.org/entity/Q1185346)"
+            ]
+        },
+        "Period of activity": {
+            "Year of start": "1769",
+            "Year of end": []
+        },
+        "Collections": {
+            "General remarks": {
+                "content": "\"Remarks regarding the relevant collections for this research aid can be provided here.\"\n",
+                "content-type": "text/markdown"
+            },
+            "Within the Data Hub": "Here a link to the relevant objects within the Data Hub can be provided."
+        }
+    },
+    "Main-text": {
+        "content": "### Geschiedenis van het genootschap\n\nHet Zeeuwsch Genootschap van Wetenschappen werd in 1769 opgericht door de stad Vlissingen ter bevordering van de wetenschap aldaar. Het toenmalige regionale bestuur in Zeeland (de Staten van Zeeland - de Nederlandse republiek werd toentertijd gevormd door zeven verenigde regionale besturen) juichten dit initiatief toe, maar wilden het een regionale uitstraling geven naar het voorbeeld van de al in 1752 opgerichte Hollandse Maatschappij van Wetenschappen. Deze achttiende-eeuwse wetenschappelijke genootschappen moeten worden geplaatst in de traditie van  de Verlichting waarbij de wetenschap als doel had meer inzicht te verschaffen in de Christelijke God en zijn schepping. Om het onderzoek in publicaties vast te leggen publiceerde het Zeeuws Genootschap een reeks [Verhandelingen](https://kzgw.nl/publicaties/archief-en-werken/archief-1769-2018/). In samenloop met de opgedane kennis die in deze geschriften werd opgetekend vonden ook allerhande objectcollecties hun weg naar Zeeland: planten, schelpen, gebruiksvoorwerpen, maar ook munten en penningen, boeken en instrumenten.\n\nIn het begin kende het Zeeuws Genootschap twee vestigingen, \u00e9\u00e9n in Vlissingen en \u00e9\u00e9n in Middelburg. In 1801 werd besloten alle bezittingen van het genootschap over te brengen naar Middelburg. Hier werd de collectie tentoongesteld in het nieuw opgerichte Museum Medioburgense, een voorloper van het huidige Zeeuws Museum. Onder de invloed van de Franse periode in Nederland (1794-1814) veranderde de doelstelling van het Zeeuws Genootschap, waarbij meer nadruk kwam te liggen op het verzamelen van historische voorwerpen, zoals oude handschriften, muntenvondsten en voorwerpen van belangrijke personen.\n\nRond het begin van de twintigste eeuw veranderde het beheerbeleid van het museum in Middelburg, wat ertoe leidde dat verschillende collecties in bruikleen werden gegeven aan andere instellingen. Zo gingen de boeken- en handschriftenverzameling en de gedrukte kaarten naar de Provinciale Bibliotheek van Zeeland en de getekende kaarten naar het Rijksarchief in Den Haag. Bij het bombardement van 17 mei 1940 ging een groot deel van de collectie van het genootschap in de Provinciale Bibliotheek verloren. Nog altijd is de collectie van het Zeeuws Genootschap der Wetenschappen op verschillende plekken te vinden: schilderijen en historische objecten zijn te vinden bij het [Zeeuws Museum](https://www.zeeuwsmuseum.nl/) en het [Zeeuws Maritiem muZEEum](https://www.muzeeum.nl/); kaarten, tekeningen en prenten berusten bij het [Zeeuws Archief](https://www.zeeuwsarchief.nl/); boeken en handschriften vind je bij de [Zeeuwse Bibliotheek](https://www.dezb.nl/) en fossielen, schelpen en mineralen, deels afkomstig van de overzeese koloni\u00ebn, zijn in bruikleen gegeven aan Naturalis Biodiversity Center. De volkenkundige objecten waren lange tijd in bruikleen bij het Rijksmuseum voor Volkenkunde (tegenwoordig [Wereldmuseum Leiden](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F77c1a0cf982b33b9e88073c4a704049b)), maar kwamen in 2007 in beheer bij het Zeeuws Museum. De archeologische voorwerpen berusten voor het grootste deel bij de Stichting Cultureel Erfgoed Zeeland.\n\n![Gevel van het pand waar het Koninklijk Zeeuwsch Genootschap der Wetenschappen is gevestigd](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Houten_gevel_Huis_Sint_Pieter_-_Middelburg_-_20156698_-_RCE.jpg/500px-Houten_gevel_Huis_Sint_Pieter_-_Middelburg_-_20156698_-_RCE.jpg)\n_Gevel van het Huis Sint Pieter in Middelburg, waar het Koninklijk Zeeuwsch Genootschap der Wetenschappen gevestigd is._ ([C.Hoogendijk/Rijksdienst voor het Cultureel Erfgoed](https://commons.wikimedia.org/wiki/File:Houten_gevel_Huis_Sint_Pieter_-_Middelburg_-_20156698_-_RCE.jpg))\n\n### Herkomstonderzoek\n\nDe volledige collectie van het Zeeuws Genootschap der Wetenschappen is online beschikbaar via de [collectiewebsite](https://kzgwonline.nl/) van het genootschap. De collectiewebsite biedt ruime informatie over de verzamelingen van het Zeeuws Genootschap en zorgt ervoor dat gebruikers de collectie op verschillende manieren kunnen benaderen. Zo is er een [wereldkaart](https://kzgwonline.nl/map) waarop je op een overzichtelijke manier kan zien uit welke gebieden verschillende objecten en collectieonderdelen afkomstig zijn. Daarnaast is de collectie in verschillende [deelcollecties](https://kzgwonline.nl/collecties) opgedeeld. Zo is er een deelcollectie [volkenkundige objecten](https://kzgwonline.nl/collecties/volkenkundige-voorwerpen) en is bijvoorbeeld de collectie van [C.J.M. Nagtglas](https://kzgwonline.nl/collecties/collectie-c-j-m-nagtglas) (die veel objecten verzamelde aan de voormalige Afrikaanse Goudkust) apart ge\u00efndexeerd. Per deelcollectie wordt uitgebreide informatie gegeven over de herkomst van de collectie en op welke manier deze in de verzameling van het Zeeuws Genootschap terecht is gekomen. Daarnaast zijn er ook verschillende [dossiers](https://kzgwonline.nl/dossiers) en [filmpjes](https://kzgwonline.nl/filmpjes) waarin meer informatie over de collectie te vinden is.\n\nHet archief van het Zeeuws Genootschap der Wetenschapen wordt beheerd door het regionale [Zeeuws Archief](https://www.zeeuwsarchief.nl/). Het [volledige archief tot en met 1969](https://hdl.handle.net/21.12113/78C26E38A21C45F4BEDCC0BD68ACA296) is digitaal beschikbaar en om die reden niet meer fysiek in te zien. Het nieuwere archief wordt door het Genootschap zelf beheerd. Het archief is in verschillende toegangen opgedeeld, waarbij met name het [correspondentiearchief](https://hdl.handle.net/21.12113/2906F556C70C4565A354A44BBB27EDE5) en het [archief over de verzamelingen van het genootschap](https://hdl.handle.net/21.12113/C90772187D2949839D7722B8FFD4BE45) interessant materiaal voor herkomstonderzoek bevatten. \n\nDe [collectiewebsite](https://kzgwonline.nl/) biedt veel doorverwijzingen naar relevant archiefmateriaal en gerelateerde objecten. Bij verschillende objecten vind je doorverwijzingen naar documenten in het archief die betrekking hebben op het desbetreffende object en ook wordt verwezen naar objecten die bijvoorbeeld door dezelfde persoon zijn geschonken. Het verschilt per object of er relevante informatie beschikbaar is.\n\nNaast het archief en de collectiewebsite, geeft het Zeeuws Genootschap der Wetenschappen sinds zijn oprichting een jaarboek uit. Deze zijn terug te lezen op de website van de [Tijdschriftenbank Zeeland](https://tijdschriftenbankzeeland.nl/periodicals/arc). Aanvankelijk stonden in dit jaarboek vooral de inzendingen op prijsvragen die door het genootschap werden uitgeschreven. Elk jaarboek bevat verschillende artikelen op wetenschappelijk gebied over zaken met betrekking tot de provincie Zeeland en daarnaast de jaarverslagen van alle commissies en werkgroepen van het genootschap.\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": {
+        "Primary sources": [
+            {
+                "Type of source": "Archief",
+                "Name": "26 - Koninklijk Zeeuwsch Genootschap der Wetenschappen (KZGW), 1769-1969 (c. 1985)",
+                "Link": [
+                    {
+                        "URL": "https://hdl.handle.net/21.12113/78C26E38A21C45F4BEDCC0BD68ACA296"
+                    }
+                ],
+                "Description and remarks": "Archief van het Koninklijk Zeeuws Genootschap der Wetenschappen. Het archief is ingedeeld in verschillende toegangen die betrekking hebben op verschillende onderwerpen."
+            }
+        ],
+        "Secondary sources": [
+            {
+                "Type of source": "Collectiewebsite",
+                "Name": "KZGW Online",
+                "Link": [
+                    {
+                        "URL": "https://kzgwonline.nl/"
+                    }
+                ],
+                "Description and remarks": "Collectiewebsite van het Koninklijk Zeeuwsch Genootschap der Wetenschappen. Hier vind je alle objecten en manuscripten in het beheer van het genootschap. Via de website is de collectie op verschillende manieren te benaderen, zoals bijvoorbeeld op geografische afkomst. Objectpagina's verwijzen soms door naar andere relevante objecten of (archief)materiaal."
+            },
+            {
+                "Type of source": "Jaarboek",
+                "Name": "Archief. Mededelingen van het Koninklijk Zeeuwsch Genootschap der Wetenschappen (1769-2021)",
+                "Link": [
+                    {
+                        "URL": "https://kzgw.nl/publicaties/archief-en-werken/"
+                    }
+                ],
+                "Description and remarks": "Jaarboek van het Koninklijk Zeeuws Genootschap der Wetenschappen. Aanvankelijk werden hierin de inzendingen op de door het genootschap uitgeschreven prijsvragen gepubliceerd. Tegenwoordig bevat het verschillende wetenschappelijke artikelen en de jaarverslagen van de verschillende commissies en werkgroepen van het genootschap."
+            },
+            {
+                "Type of source": "Tijdschrift",
+                "Name": "Tijdschrift Zeeland",
+                "Link": [
+                    {
+                        "URL": "https://kzgw.nl/publicaties/tijdschrift-zeeland/"
+                    }
+                ],
+                "Description and remarks": "Populair wetenschappelijk tijdschrift dat sinds 1991 door het Koninklijk Zeeuwsch Genootschap der Wetenschappen wordt uitgegeven. Het tijdschrift behandelt per editie verschillende historische onderwerpen, artikelen kunnen relevante informatie bevatten voor herkomstonderzoek."
+            }
+        ]
+    },
+    "editing_metadata": [
+        {
+            "date": "2025-09-25",
+            "applies_to": null,
+            "author": "Wiebe Reints",
+            "role": "original_author",
+            "editing_notes": null
+        },
+        {
+            "date": "2025-11-19",
+            "applies_to": null,
+            "author": "Maarten van der Bent; Klaas Stutje",
+            "role": "reviewer",
+            "editing_notes": "Maarten and Klaas's comments were processed by Wiebe Reints."
+        },
+        {
+            "date": "2026-01-06",
+            "applies_to": null,
+            "author": "Wiebe Reints",
+            "role": "original_author",
+            "editing_notes": "Final check of the research aid. Text is up to date and all the links are functioning."
+        }
+    ],
+    "File name": "ZeeuwschGenootschap"
+}
