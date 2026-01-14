@@ -1,5 +1,20 @@
+---
+layout: default
+title: Sri Lanka
+parent: niveau2
+ancestor: Review
+nav_enabled: true
+has_toc: true
+date: 2026-01-14
+nav_exclude: False
+--- 
 
-# Brazilië
+
+
+# Sri Lanka
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/Dutch/Sri Lanka.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/Dutch/Sri Lanka.docx){: .btn .btn-outline .flex-justify-between}
+
 
 
 ## Abstract
