@@ -177,11 +177,11 @@
     },
     "editing_metadata": [
         {
-            "Date": "2025-06-03",
-            "Applies_to": null,
-            "Author": "Wiebe Reints",
-            "Role": "original_author",
-            "Editing_notes": "Translated by Wiebe on 20250617"
+            "date": "2025-06-03",
+            "applies_to": null,
+            "author": "Wiebe Reints",
+            "role": "original_author",
+            "editing_notes": "Translated by Wiebe on 20250617"
         },
         {
             "date": "2025-10-20",
