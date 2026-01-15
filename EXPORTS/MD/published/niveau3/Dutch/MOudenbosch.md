@@ -65,7 +65,6 @@ Video:
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by UNKNOWN as UNKNOWN on 2026-01-15
-
-(notes: This event was automatically created because the YAML file's edit history was empty.)_
+_first edited by Wiebe Reints as original_author on 2025-06-03_  
+_last edited by Wiebe Reints as original_author on 2025-12-23_
         
