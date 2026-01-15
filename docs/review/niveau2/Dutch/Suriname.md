@@ -37,6 +37,8 @@ In Suriname werd ook veel verzameld door niet-Nederlanders. Missionarissen van d
 
 Wilhelm Joest bezocht ook in 1890 Suriname (waren zij van elkaar op de hoogte). Deze verzameling bevindt zich hoofdzakelijk in het Ethnologisches Museum in Berlijn en het Rautenstrauch-Joest Museum in Keulen.
 
+Herskovitses in American Museum of Natural History. Prices? TvV en Van Wetering? Hurault?
+
 Aangezien de Marowijne de grens vormt tussen Suriname en Frans-Guyana Jaren 30 Leon-Gontran Damas aan de Marowijnerivier.
 
 
