@@ -101,6 +101,10 @@ Sources:
         - OCLC: "1514612612"
       Description and remarks: "Book from 2025 (in Dutch) about the history of Bronbeek. This is a revised and updated version of the original book 'Bronbeek: tempo doeloe der liefdadigheid' from 1998."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-10-02
     applies_to: 

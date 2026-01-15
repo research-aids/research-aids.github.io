@@ -100,6 +100,10 @@ Sources:
         - ISBN: "9789071611131"
       Description and remarks: "This book from 2002, consisting of two volumes, describes the history of the establishment of the Afrika Museum and provides an overview of the collections held by the museum at the time."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-10-01
     applies_to: 

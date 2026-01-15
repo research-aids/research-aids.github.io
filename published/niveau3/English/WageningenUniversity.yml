@@ -101,6 +101,10 @@ Sources:
         - URL: "https://resolver.kb.nl/resolve?urn=MMKB19:000359080:mpeg21:a00086"
       Description and remarks: "Article from 1953 about the disappearance of nearly 100 objects from the College of Agriculture collection."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-05-08
     applies_to: 

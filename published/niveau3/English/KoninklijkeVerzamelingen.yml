@@ -78,6 +78,10 @@ Sources:
         - URL: "https://search.worldcat.org/title/782242157"
       Description and remarks: "Book from 1996 describing the history of the Koninklijke Verzamelingen."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2025-11-19 
     applies_to: #optional

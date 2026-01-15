@@ -103,7 +103,11 @@ Sources:
         - URL: "https://museumtv.nl/tentoonstelling/natuurhistorisch-en-volkenkundig-museum-oudenbosch/"
       Description and remarks: "Short video (in Dutch) in which the chairman of the board of the Natuurhistorisch en Volkenkundig Museum Oudenbosch shows various parts of the museum's collection."
 
-Editing_metadata:
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+editing_metadata:
   - Date: 2025-06-03
     Applies_to:
     Author: Wiebe Reints

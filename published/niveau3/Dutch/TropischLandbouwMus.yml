@@ -104,6 +104,10 @@ Sources:
         - URL: "http://hdl.handle.net/1887.1/item:3761833"
       Description and remarks: "Catalogus van de landbouwtentoonstelling die in 1912 werd gehouden en waarvan de collectie als basis diende voor het latere Tropische Landbouwmuseum."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2025-07-29
     applies_to: #optional

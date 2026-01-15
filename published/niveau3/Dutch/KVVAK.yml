@@ -145,6 +145,10 @@ Sources:
         - ISSN: "2543-1749"
       Description and remarks: "Het bij Brill uitgegeven tijdschrift van de KVVAK."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-03-12
     applies_to: 

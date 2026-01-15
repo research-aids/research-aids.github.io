@@ -110,6 +110,10 @@ Sources:
         - URL: "https://kzgw.nl/publicaties/tijdschrift-zeeland/"
       Description and remarks: "Populair wetenschappelijk tijdschrift dat sinds 1991 door het Koninklijk Zeeuwsch Genootschap der Wetenschappen wordt uitgegeven. Het tijdschrift behandelt per editie verschillende historische onderwerpen, artikelen kunnen relevante informatie bevatten voor herkomstonderzoek."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2025-09-25
     applies_to: #optional

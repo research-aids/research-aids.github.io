@@ -105,6 +105,10 @@ Sources:
         - URL: "http://hdl.handle.net/1887.1/item:3761833"
       Description and remarks: "Catalogue of the colonial agricultural exhibition held in 1912, whose collection served as the basis for the later Museum of Tropical Agriculture."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2025-11-19
     applies_to: #optional

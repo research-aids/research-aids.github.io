@@ -71,6 +71,10 @@ Sources:
         - URL: "https://collectionguides.universiteitleiden.nl/"
       Description and remarks: "This website provides access to the collection guides of the 	archives and collections of Leiden University Libraries. Collection guides provide a 	general description of the items within a collection or archive and provide information about the history and acquisition of the material. The collection guides 	on this website may also contain an inventory and links to digitised content."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2025-11-25
     applies_to: #optional

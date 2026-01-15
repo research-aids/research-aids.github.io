@@ -124,6 +124,10 @@ Sources:
         - URL: "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/militairen-en-marinepersoneel"
       Description and remarks: "Zoekhulp van het Nationaal Archief over Nederlandse militairen en marinepersoneel. Tip: de gegevens in de stamboeken worden soms vervolgd op een andere pagina. Er staat dan een notitie onderaan de pagina: 'zie verder' met het betreffende paginanummer."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-03-26
     applies_to: 

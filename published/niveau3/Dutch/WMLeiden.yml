@@ -162,6 +162,10 @@ Sources:
         - OCLC: "901467113"
       Description and remarks: "Boek over de geschiedenis van het huidige Wereldmuseum in Leiden."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-03-27
     applies_to: 

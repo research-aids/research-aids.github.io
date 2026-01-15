@@ -98,6 +98,10 @@ Sources:
         - URL: "https://www.gbif.org/publisher/59946762-5dc1-44c4-9ac2-10322398b9ff"
       Description and remarks: "De natuurhistorische collectie van Missiemuseum Steyl wordt op dit moment gedigitaliseerd. De collectie wordt stapsgewijs gepubliceerd in de database van GBIF."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-10-21
     applies_to: 

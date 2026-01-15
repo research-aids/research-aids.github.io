@@ -131,6 +131,10 @@ Sources:
         - OCLC: "5723532657"
       Description and remarks: "Article by Andreas Weber on the life and work of Reinwardt."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-12-17
     applies_to: 

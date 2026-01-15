@@ -140,6 +140,10 @@ Sources:
         - URL: "https://doi.org/10.18352/bmgn-lchr.10741"
       Description and remarks: "Article on the history of the Natuurkundige Commissie voor Nederlandsch-Indië (Committee for Natural History of the Netherlands Indies)."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-08-21
     applies_to: 

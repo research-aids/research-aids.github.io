@@ -110,6 +110,10 @@ Sources:
         - URL: "https://kzgw.nl/publicaties/tijdschrift-zeeland/"
       Description and remarks: "Popular scientific journal published by the Royal Zeeland Society of Sciences since 1991. Each edition of the journal covers various historical 	topics, and articles may contain information relevant to genealogical research."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2025-12-01
     applies_to: #optional

@@ -148,6 +148,10 @@ Sources:
         - URL: "https://brill.com/view/journals/bki/bki-overview.xml"
       Description and remarks: "The journal of the KITLV, initially published by the KITLV itself but now published by Brill. All volumes from the first 1853 edition onward are available through Brill. Earlier editions also contain minutes of Board and General Meetings; nowadays the focus is on research from and into Southeast Asia in various disciplines."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-07-04
     applies_to: 

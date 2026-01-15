@@ -118,6 +118,10 @@ Sources:
         - URL: "https://resources.huygens.knaw.nl/repertoriumzendingmissie/gids/organisatie/3356531829"
       Description and remarks: "Online database van het Huygens Instituut met informatie over de geschiedenis van het NZG en waar relevant (archief)materiaal te vinden is."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-03-14
     applies_to: 

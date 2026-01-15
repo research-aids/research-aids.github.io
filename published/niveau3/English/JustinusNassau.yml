@@ -123,6 +123,10 @@ Sources:
         - URL: "https://pure.knaw.nl/portal/en/publications/988bfde3-eea3-4d27-83cc-8702dc7d7516"
       Description and remarks: "Provenance report created in the context of the Pilot Project Provenance Research on Objects of the Colonial Era (PPROCE). The report describes the provenance of a set of krisses (RV-3600-1892 t/m RV-3600-1895). Via George Nijpels the krisses first ended up at the Hoofdcursus in Kampen and were later absorbed into to the collection of the Royal Military Academy in Breda. The report contains references to relevant source material."
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2025-05-13
     applies_to: 
