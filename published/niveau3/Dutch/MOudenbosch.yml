@@ -107,12 +107,12 @@ copyright_metadata:
   copyright_holder: NIOD-KNAW
   date: 2026-01-15
   license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
-Editing_metadata:
-  - Date: 2025-06-03
-    Applies_to:
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes:
+editing_metadata:
+  - date: 2025-06-03
+    applies_to:
+    author: Wiebe Reints
+    role: original_author
+    editing_notes:
   - date: 2025-12-23
     applies_to: 
     author: Wiebe Reints

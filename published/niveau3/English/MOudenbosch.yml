@@ -108,11 +108,11 @@ copyright_metadata:
   date: 2026-01-15
   license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
-  - Date: 2025-06-03
-    Applies_to:
-    Author: Wiebe Reints
-    Role: original_author
-    Editing_notes: Translated by Wiebe on 20250617
+  - date: 2025-06-03
+    applies_to:
+    author: Wiebe Reints
+    role: original_author
+    editing_notes: Translated by Wiebe on 20250617
   - date: 2025-10-20
     applies_to: 
     author: Abacus
