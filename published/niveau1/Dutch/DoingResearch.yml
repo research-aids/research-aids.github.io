@@ -88,6 +88,10 @@ Main-text:
     - Specifiek voor het doen van onderzoek binnen het Nationaal Archief is er de zoekhulp [Hoe doe ik onderzoek in archieven?](https://www.nationaalarchief.nl/onderzoeken/hoe-doe-ik-onderzoek-in-archieven).
   content-type: text/markdown
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-04-25
     applies_to: 

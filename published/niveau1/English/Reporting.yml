@@ -59,6 +59,10 @@ Main-text:
     The Wereldmuseum publication [Words Matter](https://amsterdam.wereldmuseum.nl/sites/default/files/2021-04/words_matter.pdf.pdf) provides tips for dealing with colonial terminology.
   content-type: text/markdown
 
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - date: 2024-05-01
     applies_to: 
