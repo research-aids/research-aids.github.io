@@ -5,7 +5,7 @@ parent: niveau1
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2026-01-15
+date: 2026-01-16
 nav_exclude: False
 --- 
 
