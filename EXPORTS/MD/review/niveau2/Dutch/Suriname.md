@@ -33,9 +33,17 @@ Aanleiding hiervoor was het  Deze kolonie diende ter uitbreiding van de suikerpl
 Suriname werd in 1651 gekoloniseerd door Sir Frances Willoughby, de Engelse gouverneur van Barbados, die langs de oevers van de Surinamerivier uitbreiding zocht voor zijn suikerplantages op het kleine eiland Barbados AANPASSEN. 
 
 ### Verzamelen in Suriname
-Etnografische objecten werden vanaf het begin van de kolonisatie meegenomen naar Nederland. Een deel belandde in de Stadhouderlijke verzamelingen, die in ... werden opgenomenin het Koninklijk Kabinet van Zeldzaamheden. Er zijn donaties uit Suriname aan het Kabinet bekend van ...
+Etnografische objecten werden vanaf het begin van de kolonisatie meegenomen naar Nederland. Een deel belandde in de Stadhouderlijke verzamelingen, die in ... werden opgenomenin het Koninklijk Kabinet van Zeldzaamheden (ARTIKEL LEANDRO!). Er zijn donaties uit Suriname aan het Kabinet bekend van ...
 
 Waar banjo noemen?
+
+Collectie wereldtentoonstelling 1883
+mei 1885 tot juli 1886 reis Ten Kate naar Suriname, nu in Leiden (RV-581?)
+1890 (of 1891?): Axel Klinckowström, leverde verzameling op die zich nu bevindt in het Etnografiska museet in Stockholm.
+Spitzly ethnographische gegenstände
+Wilhelm Joest bezocht ook in 1890 Suriname (waren hij en Klinkowström van elkaar op de hoogte?). Deze verzameling bevindt zich hoofdzakelijk in het Ethnologisches Museum in Berlijn en het Rautenstrauch-Joest Museum in Keulen.
+
+
 
 ### Verzamelingen in buitenland
 In Suriname werd ook veel verzameld door niet-Nederlanders. Missionarissen van de Evangelische Broedergemeente verzamelden etnografica die werd opgezonden naar Europa. Een belangrijke verzameling Surinaamse etnografica bevindt zich daarom in het Etnographisches Museum in Herrnhut, Duitsland. Verkoop van etnografica vormde een bron van inkomsten van de Evangelische Broedergemeente. Een belangrijk deel van de Surinaamse etnografica die door missionaris Johann Gustav Ferdinand Jansa was verzameld belandde op deze manier in het Ethnologisches Museum in Berlijn. ANDERE MUSEA DIE HERRNHUTER ETNOGRAFICA HEBBEN.
