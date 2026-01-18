@@ -23,9 +23,15 @@ Te schrijven.
 
 ### Beschrijving
 
-Aan de noordkust van Zuid-Amerika vloeien over het Guyanaschild verschillende rivieren, waaronder de Surinamerivier, in de Atlantische Oceaan. Ten tijde van de reistochten van de Spaanse conquistador Alonso de Ojeda werd het gebied bewoond door Arowakken en Cariben. Vanaf de late zestiende eeuw deden zeevaarders uit Engeland, Frankrijk en de Nederlanden het gebied aan, op zoek naar het mythische goudland _El Dorado_, dat volgens Sir Walter Raleigh in de Guyana's te vinden moest zijn. Langs de Surinamerivier werd in 1651 door Sir Frances Willoughby, de Engelse gouverneur van Barbados, een plantagekolonie gesticht. Deze kolonie werd in 1667 tijdens de Tweede Engels-Nederlandse Oorlog door een Zeeuwse vloot veroverd. Vanaf 1683 werd Suriname bestuurd door de Sociëteit van Suriname, een particuliere onderneming met in gelijke verhoudingen de West-Indische Compagnie, de Zeeuwse familie Van Aerssen van Sommelsdijck en de stad Amsterdam als aandeelhouders. In 1795 gingen de bezittingen van de Sociëteit van Suriname over op de Nederlandse staat, die Suriname – afgezien van twee periodes van Britse bezetting – als kolonie heeft bestuurd tot 1954. In dat laatste jaar aanvaardde Suriname samen met Nederland en de Nederlandse Antillen het Statuut voor het Koninkrijk der Nederlanden, waarmee de dekolonisatie voltooid heette te zijn. In 1975 werd Suriname onafhankelijk.
+Aan de noordkust van Zuid-Amerika vloeien over het Guyanaschild verschillende rivieren, waaronder de Surinamerivier, in de Atlantische Oceaan. Ten tijde van de reistochten van de Spaanse conquistador Alonso de Ojeda werd het gebied bewoond door Arowakken en Cariben. Vanaf de late zestiende eeuw deden zeevaarders uit Engeland, Frankrijk en de Nederlanden het gebied aan, op zoek naar het mythische goudland _El Dorado_, dat volgens Sir Walter Raleigh in de Guyana's te vinden moest zijn. Langs de Surinamerivier werd in 1651 door Sir Frances Willoughby, de Engelse gouverneur van Barbados, een plantagekolonie gesticht. Deze kolonie werd in 1667 tijdens de Tweede Engels-Nederlandse Oorlog door een Zeeuwse vloot veroverd. Vanaf 1683 werd Suriname bestuurd door de Sociëteit van Suriname, een particuliere onderneming met in gelijke verhoudingen de West-Indische Compagnie, de familie Van Aerssen van Sommelsdijck en de stad Amsterdam als aandeelhouders. In 1795 gingen de bezittingen van de Sociëteit van Suriname over op de Nederlandse staat, die Suriname – afgezien van twee periodes van Britse bezetting – als kolonie heeft bestuurd tot 1954. In dat laatste jaar aanvaardde Suriname samen met Nederland en de Nederlandse Antillen het Statuut voor het Koninkrijk der Nederlanden, waarmee de dekolonisatie voltooid heette te zijn. In 1975 werd Suriname onafhankelijk.
 
-Vanaf het eerste moment stelden de planters tot slaaf gemaakte inheemsen en Afrikanen te werk op de plantages. Sommige slaafgemaakten wisten de plantages te ontvluchten en in het binnenland van Suriname samenlevingen te stichten. In 1760 sloot de koloniale overheid een vredesverdrag met een van deze marrongemeenschappen, de Okanisi (ook wel Aukaners of Ndyuka). In 1762 en 1769 volgden vredesverdragen met twee andere groepen, de Saamaka en Matawai. 
+Vanaf het eerste moment stelden de planters tot slaaf gemaakte inheemsen en Afrikanen te werk op de plantages. Sommige slaafgemaakten wisten de plantages te ontvluchten en in het binnenland van Suriname vrije samenlevingen te stichten. In 1760 sloot de koloniale overheid een vredesverdrag met een van deze marrongemeenschappen, de Okanisi (ook wel Aukaners of Ndyuka). In 1762 en 1769 volgden vredesverdragen met twee andere groepen, de Saamaka en Matawai, terwijl de Aluku (of Boni), de Pamaka en de Kwinti nooit een vredesverdrag sloten.
+
+Vanaf de achttiende eeuw waren zendelingen van de Evangelische Broedergemeente actief in Suriname, vooral onder de Saamaka. In de twintigste eeuw werd de Katholieke missie actief onder de Okanisi.
+
+In de tweede helft van de negentiende eeuw 
+
+
 
 Goudkoorts
 
@@ -42,7 +48,17 @@ Aanleiding hiervoor was het  Deze kolonie diende ter uitbreiding van de suikerpl
 Suriname werd in 1651 gekoloniseerd door Sir Frances Willoughby, de Engelse gouverneur van Barbados, die langs de oevers van de Surinamerivier uitbreiding zocht voor zijn suikerplantages op het kleine eiland Barbados AANPASSEN. 
 
 ### Verzamelen in Suriname
-Test of wijzigingen doorkomen.
+Etnografische objecten werden vanaf het begin van de kolonisatie meegenomen naar Nederland. Een deel belandde in de Stadhouderlijke verzamelingen, die in ... werden opgenomenin het Koninklijk Kabinet van Zeldzaamheden (ARTIKEL LEANDRO!). Er zijn donaties uit Suriname aan het Kabinet bekend van ...
+
+Waar banjo noemen?
+
+Collectie wereldtentoonstelling 1883
+mei 1885 tot juli 1886 reis Ten Kate naar Suriname, nu in Leiden (RV-581?)
+1890 (of 1891?): Axel Klinckowström, leverde verzameling op die zich nu bevindt in het Etnografiska museet in Stockholm.
+Spitzly ethnographische gegenstände
+Wilhelm Joest bezocht ook in 1890 Suriname (waren hij en Klinkowström van elkaar op de hoogte?). Deze verzameling bevindt zich hoofdzakelijk in het Ethnologisches Museum in Berlijn en het Rautenstrauch-Joest Museum in Keulen.
+
+
 
 ### Verzamelingen in buitenland
 In Suriname werd ook veel verzameld door niet-Nederlanders. Missionarissen van de Evangelische Broedergemeente verzamelden etnografica die werd opgezonden naar Europa. Een belangrijke verzameling Surinaamse etnografica bevindt zich daarom in het Etnographisches Museum in Herrnhut, Duitsland. Verkoop van etnografica vormde een bron van inkomsten van de Evangelische Broedergemeente. Een belangrijk deel van de Surinaamse etnografica die door missionaris Johann Gustav Ferdinand Jansa was verzameld belandde op deze manier in het Ethnologisches Museum in Berlijn. ANDERE MUSEA DIE HERRNHUTER ETNOGRAFICA HEBBEN.
