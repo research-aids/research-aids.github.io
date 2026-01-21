@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2026-01-20
+date: 2026-01-21
 nav_exclude: False
 --- 
 
@@ -23,7 +23,7 @@ Te schrijven.
 
 ### Beschrijving
 
-Aan de noordkust van Zuid-Amerika vloeien over het Guyanaschild verschillende rivieren, waaronder de Surinamerivier, in de Atlantische Oceaan. Ten tijde van de reistochten van de Spaanse conquistador Alonso de Ojeda werd het gebied bewoond door Arowakken en Cariben. Vanaf de late zestiende eeuw deden zeevaarders uit Engeland, Frankrijk en de Nederlanden het gebied aan, op zoek naar het mythische goudland _El Dorado_, dat volgens Sir Walter Raleigh in de Guyana's te vinden moest zijn. Langs de Surinamerivier werd in 1651 door Sir Frances Willoughby, de Engelse gouverneur van Barbados, een plantagekolonie gesticht. Deze kolonie werd in 1667 tijdens de Tweede Engels-Nederlandse Oorlog door een Zeeuwse vloot veroverd. 
+Aan de noordkust van Zuid-Amerika vloeien over het Guyanaschild verschillende rivieren, waaronder de Surinamerivier, in de Atlantische Oceaan. Ten tijde van de reistochten van de Spaanse conquistador Alonso de Ojeda werd dit gebied bewoond door Arowakken en Cariben. Vanaf de late zestiende eeuw deden zeevaarders uit Engeland, Frankrijk en de Nederlanden het gebied aan, op zoek naar het mythische goudland _El Dorado_, dat volgens Sir Walter Raleigh in de Guyana's te vinden moest zijn. Langs de Surinamerivier werd in 1651 door Sir Frances Willoughby, de Engelse gouverneur van Barbados, een plantagekolonie gesticht. Deze kolonie werd in 1667 tijdens de Tweede Engels-Nederlandse Oorlog door een Zeeuwse vloot veroverd. 
 
 Vanaf 1683 werd Suriname bestuurd door de Sociëteit van Suriname, een particuliere onderneming met in gelijke verhoudingen de West-Indische Compagnie, de familie Van Aerssen van Sommelsdijck en de stad Amsterdam als aandeelhouders. In 1795 gingen de bezittingen van de Sociëteit van Suriname over op de Nederlandse staat, die Suriname – afgezien van twee periodes van Britse bezetting – als kolonie heeft bestuurd tot 1954. In dat laatste jaar aanvaardde Suriname samen met Nederland en de Nederlandse Antillen het Statuut voor het Koninkrijk der Nederlanden, waarmee de dekolonisatie voltooid heette te zijn. In 1975 werd Suriname onafhankelijk.
 
@@ -51,7 +51,7 @@ Suriname werd in 1651 gekoloniseerd door Sir Frances Willoughby, de Engelse gouv
 
 ### Verzamelen in Suriname
 Etnografische objecten werden vanaf het begin van de kolonisatie meegenomen naar Nederland. Een deel belandde in de Stadhouderlijke verzamelingen, die in ... werden opgenomenin het Koninklijk Kabinet van Zeldzaamheden (ARTIKEL LEANDRO!). Er zijn donaties uit Suriname aan het Kabinet bekend van ...
-Tussen 1824 en 1835 werden er vanuit Suriname objecten geschonken door [Frederik Andreas Kühn](https://www.wikidata.org/wiki/Q132146744), door J. Bromet, door D. Kanngiesser, apotheker H.H. Dieperink en bovenal van president van het Hof van Justitie in Suriname Adriaan François Lammens(https://nl.wikipedia.org/wiki/Adriaan_Fran%C3%A7ois_Lammens). Lammens was schoonzoon en bewonderaar van Gerrit Schouten en was verantwoordelijk voor schenking van veel diorama's van Schouten aan het Kabinet (en aan andere partijen?).  
+Tussen 1824 en 1835 werden er vanuit Suriname objecten geschonken door [Frederik Andreas Kühn](https://www.wikidata.org/wiki/Q132146744), door [Isaac Bromet](https://www.wikidata.org/wiki/Q137830410), door Luthers predikant [Dietrich Kanngiesser](https://www.wikidata.org/wiki/Q94852739), apotheker [Hendrik Haagen Dieperink](https://www.wikidata.org/wiki/Q122884501) en bovenal van president van het Hof van Justitie in Suriname [Adriaan François Lammens](https://nl.wikipedia.org/wiki/Adriaan_Fran%C3%A7ois_Lammens). Lammens was schoonzoon en bewonderaar van Gerrit Schouten en was verantwoordelijk voor schenking van veel diorama's van Schouten aan het Kabinet (en aan andere partijen?).  
 
 Freder
 
