@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2026-01-22
+date: 2026-01-23
 nav_exclude: False
 --- 
 
@@ -27,7 +27,7 @@ Aan de noordkust van Zuid-Amerika vloeien over het Guyanaschild verschillende ri
 
 Vanaf 1683 werd Suriname bestuurd door de Sociëteit van Suriname, een particuliere onderneming met in gelijke verhoudingen de West-Indische Compagnie, de familie Van Aerssen van Sommelsdijck en de stad Amsterdam als aandeelhouders. In 1795 gingen de bezittingen van de Sociëteit van Suriname over op de Nederlandse staat, die Suriname – afgezien van twee periodes van Britse bezetting – als kolonie heeft bestuurd tot 1954. In dat laatste jaar aanvaardde Suriname samen met Nederland en de Nederlandse Antillen het Statuut voor het Koninkrijk der Nederlanden, waarmee de dekolonisatie voltooid heette te zijn. In 1975 werd Suriname onafhankelijk.
 
-De plantagehouders stelden tot slaaf gemaakte inheemsen en Afrikanen te werk op de plantages. Sommige slaafgemaakten wisten de plantages te ontvluchten en in het binnenland van Suriname vrije samenlevingen te stichten. In 1760 sloot de koloniale overheid een vredesverdrag met een van deze marrongemeenschappen, de Okanisi (ook wel Aukaners of Ndyuka). In 1762 en 1769 volgden vredesverdragen met twee andere groepen, de Saamaka en Matawai, terwijl de Aluku (of Boni), de Pamaka en de Kwinti nooit een vredesverdrag sloten.
+De Europese particuliere eigenaren stelden op hun plantages tot slaaf gemaakte inheemsen en Afrikanen te werk. Sommige slaafgemaakten wisten de plantages te ontvluchten en in het binnenland van Suriname vrije samenlevingen te stichten. In 1760 sloot de koloniale overheid een vredesverdrag met een van deze marrongemeenschappen, de Okanisi (ook wel Aukaners of Ndyuka). In 1762 en 1769 volgden vredesverdragen met twee andere groepen, de Saamaka en Matawai, terwijl de Aluku (of Boni), de Pamaka en de Kwinti nooit een vredesverdrag sloten.
 
 Vanaf de achttiende eeuw waren zendelingen van de Evangelische Broedergemeente actief in Suriname, vooral onder de Saamaka. In de twintigste eeuw werd de Katholieke missie actief onder de Okanisi.
 
@@ -70,6 +70,11 @@ mei 1885 tot juli 1886 reis Ten Kate naar Suriname, nu in Leiden (RV-581?)
 Spitzly ethnographische gegenstände
 Wilhelm Joest bezocht ook in 1890 Suriname (waren hij en Klinkowström van elkaar op de hoogte?). Deze verzameling bevindt zich hoofdzakelijk in het Ethnologisches Museum in Berlijn en het Rautenstrauch-Joest Museum in Keulen.
 
+1898 West-Indische tentoonstelling Haarlem. Verzameling [Louis Constant van Panhuys](https://nl.wikipedia.org/wiki/Louis_Constant_van_Panhuys)
+
+Heeft Spalburg een collectie aangelegd?
+Crevaux, Coudreaux, Brunetti?
+
 
 
 ### Verzamelingen in buitenland
@@ -79,7 +84,7 @@ In Suriname werd ook veel verzameld door niet-Nederlanders. Missionarissen van d
 
 Wilhelm Joest bezocht ook in 1890 Suriname (waren zij van elkaar op de hoogte). Deze verzameling bevindt zich hoofdzakelijk in het Ethnologisches Museum in Berlijn en het Rautenstrauch-Joest Museum in Keulen.
 
-Herskovitses in American Museum of Natural History. Prices? TvV en Van Wetering? Hurault?
+Herskovitses in Field Museum of Chicago. Kahn's verzameling in American Museum of Natural History. Prices? TvV en Van Wetering? Hurault?
 
 Aangezien de Marowijne de grens vormt tussen Suriname en Frans-Guyana Jaren 30 Leon-Gontran Damas aan de Marowijnerivier.
 
