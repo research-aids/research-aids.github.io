@@ -49,6 +49,8 @@ Waar banjo noemen?
 Temminck 1827 zending die met naturalia waren meegekomen, uiteindelijk afkomstig van apotheker H.H. Dieperink?
 1 april 1828: grotere schenking van Lammens.
 30 mei 1835: nog een schenking van J. Bromet via F.J. van Maanen
+
+Verzameling Crevaux in Musee de l'Homme (nu Quai Branly). Verder in MQB: Paul Sangnier, Leon-Gontran Damas [verzameling(https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Damas, Léon-Gontran]"],"description":"Personne(s) : Damas, Léon-Gontran"}]}), 
 Collectie wereldtentoonstelling 1883
 mei 1885 tot juli 1886 reis Ten Kate naar Suriname, nu in Leiden (RV-581?)
 1890 (of 1891?): Axel Klinckowström, leverde verzameling op die zich nu bevindt in het Etnografiska museet in Stockholm.
