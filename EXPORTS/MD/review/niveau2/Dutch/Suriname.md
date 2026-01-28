@@ -35,7 +35,7 @@ Aanleiding hiervoor was het  Deze kolonie diende ter uitbreiding van de suikerpl
 Suriname werd in 1651 gekoloniseerd door Sir Frances Willoughby, de Engelse gouverneur van Barbados, die langs de oevers van de Surinamerivier uitbreiding zocht voor zijn suikerplantages op het kleine eiland Barbados AANPASSEN. 
 
 ### Verzamelen in Suriname
-Etnografische objecten werden vanaf het begin van de kolonisatie meegenomen naar Nederland. Een deel belandde in de Stadhouderlijke verzamelingen, die in ... werden opgenomenin het Koninklijk Kabinet van Zeldzaamheden (ARTIKEL LEANDRO!). In Frankrijk ging de verzameling Karel X over op het Cabinet d’Histoire naturelle de Versailles (1797 - 1806). Er zijn donaties uit Suriname aan het Koninklijk Kabinet van Zeldzaamheden bekend van ...
+Etnografische en natuurhistorische objecten werden vanaf het begin van de kolonisatie meegenomen naar Europa. Een deel belandde in de Stadhouderlijke verzamelingen, die in ... werden opgenomenin het Koninklijk Kabinet van Zeldzaamheden (ARTIKEL LEANDRO!). In Frankrijk ging de verzameling Karel X over op het Cabinet d’Histoire naturelle de Versailles (1797 - 1806). Er zijn donaties uit Suriname aan het Koninklijk Kabinet van Zeldzaamheden bekend van ...
 Tussen 1824 en 1835 werden er vanuit Suriname objecten geschonken door [Frederik Andreas Kühn](https://www.wikidata.org/wiki/Q132146744), door [Isaac Bromet](https://www.wikidata.org/wiki/Q137830410), door Luthers predikant [Dietrich Kanngiesser](https://www.wikidata.org/wiki/Q94852739), apotheker [Hendrik Haagen Dieperink](https://www.wikidata.org/wiki/Q122884501) en bovenal van president van het Hof van Justitie in Suriname [Adriaan François Lammens](https://nl.wikipedia.org/wiki/Adriaan_Fran%C3%A7ois_Lammens). Lammens was schoonzoon en bewonderaar van Gerrit Schouten en was verantwoordelijk voor schenking van veel diorama's van Schouten aan het Kabinet (en aan andere partijen?).  
 
 Freder
@@ -61,6 +61,14 @@ Wilhelm Joest bezocht ook in 1890 Suriname (waren hij en Klinkowström van elkaa
 
 Heeft Spalburg een collectie aangelegd?
 Crevaux, Coudreaux, Brunetti?
+
+KNAG: Gonini (1901) 86 stuks, serie  TM-401, Tapanahony 493 stuks, serie TM-402, en Toemoek-Hoemak 186, serie TM-403, leveren etnografische collecties op van de hand van De Goeje. Serie TM-416 is afkomstig van de expeditie (van Stahel) naar het Wilhelminagebergte.
+
+Geijskes?
+
+Con Bruijning?
+
+Musée des cultures guyanaises http://amazonian-museum-network.org/nl/de-collecties?&filter/musee=174  
 
 
 
