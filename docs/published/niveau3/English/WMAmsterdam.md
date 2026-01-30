@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2026-01-29
+date: 2026-01-30
 nav_exclude: True
 --- 
 
@@ -23,7 +23,7 @@ Today's Wereldmuseum Amsterdam, which before was called the Tropenmuseum, has it
 
 ### History of the museum
 
-The current Wereldmuseum Amsterdam evolved from the [Colonial Museum](http://www.wikidata.org/entity/Q51871893), founded in Haarlem in 1871. The Colonial Museum, located in Paviljoen Welgelegen, was initially mainly a products museum, where a variety of colonial goods and artefacts were displayed. The museum served as a resource for colonial entrepreneurs, providing them with knowledge about things such as minerals and natural resources. Important donors of objects included government officials such as [Christiaan Snouck Hurgronje](http://www.wikidata.org/entity/Q731829) and the former governor of Suriname [Johann George Otto Stuart von Schmidt auf Altenstadt](http://www.wikidata.org/entity/Q1694028), the Government of the Dutch East Indies, 's Lands Plantentuin in Bogor and various trading companies and businesses.
+The current Wereldmuseum Amsterdam evolved from the [Colonial Museum](http://www.wikidata.org/entity/Q51871893), which opened in Haarlem in 1871. The Colonial Museum, located in Paviljoen Welgelegen, was initially mainly a products museum, where a variety of colonial goods and artefacts were displayed. The museum served as a resource for colonial entrepreneurs, providing them with knowledge about things such as minerals and natural resources. Important donors of objects included government officials such as [Christiaan Snouck Hurgronje](http://www.wikidata.org/entity/Q731829) and the former governor of Suriname [Johann George Otto Stuart von Schmidt auf Altenstadt](http://www.wikidata.org/entity/Q1694028), the Government of the Dutch East Indies, 's Lands Plantentuin in Bogor and various trading companies and businesses.
 
 Due to lack of space in Haarlem it was decided in 1913 to transfer the collection to the Vereeniging Koloniaal Insituut, which was in the process of being set up and would open its own museum on Mauritskade in Amsterdam in 1926, in the building where Wereldmuseum Amsterdam is still located today. The collection of the [Artis Ethnographic Museum](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F44a7a61d62ca8589d6a93e6fde593593) was also incorporated into the Colonial Institute's museum. In 1926, the collection consisted of around 30,000 objects, 10,000 of which were from the Artis collection. The Colonial Institute was divided into three departments: Tropical Products, Tropical Hygiene and Ethnography, with separate exhibition space dedicated to each. The Tropical Products Museum was disbanded in the 1960s and several of its objects were subsequently transferred to what was then the [Agricultural University of Wageningen (now Wageningen University & Research)](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F2c7a29ba107a49a29f1251631db1cf11) and the [National Museum of Natural History in Leiden (now Naturalis Biodiversity Center)](https://app.colonialcollections.nl/en/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fb897e22a1eae224b0ca13b5ec14d51cb). 
 

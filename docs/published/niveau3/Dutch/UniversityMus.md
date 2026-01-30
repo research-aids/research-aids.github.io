@@ -5,7 +5,7 @@ parent: niveau3
 ancestor: Published
 nav_enabled: true
 has_toc: true
-date: 2026-01-29
+date: 2026-01-30
 nav_exclude: False
 --- 
 
@@ -33,7 +33,7 @@ Hoewel universitaire collecties een breed scala aan niet-gerelateerde objecten b
 
 De Erasmus Universiteit in de Zuid-Hollandse stad Rotterdam bestaat sinds 1973 in haar huidige vorm, maar heeft als directe voorganger de in 1913 opgericht Nederlandse Handels-Hogeschool. Door haar basis in economisch onderwijs en relatief late verbreding van het curriculum kent de Erasmus Universiteit geen grote relevante koloniale collecties. Toch zijn er enkele, vooral boekenverzamelingen, die het vernoemen waard zijn: 
 
-Het [Rotterdamsch Leeskabinet](https://www.eur.nl/library/leeskabinet/over-het-rlk) dat in 1859 werd geopend, raakte door het bombardement op Rotterdam in 1940 volledig verwoest. De boekenverzameling van dr. Elie van Rijckevorsel vormde na de oorlog de basis voor de voortzetting van het Leeskabinet, dat sinds 1971 onderdeel is van de Erasmus Universiteit. Van Rijckevorsel was in 1883 een van de aanjagers van de oprichting van het [Museum voor Land- en Volkenkunde](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fe2859af90871cee23d48d1467336b191), het tegenwoordige Wereldmuseum Rotterdam. Veel van de boeken die van Rijckevorsel verzamelde hebben betrekking op diens handelsactiviteiten in West-Afrika, Oost-Indië en het Caraïbisch gebied en kunnen daarom relevant zijn voor het doen van onderzoek naar koloniale collecties in Nederland.
+Het [Rotterdamsch Leeskabinet](https://www.eur.nl/library/leeskabinet/over-het-rlk) dat in 1859 werd geopend, raakte door het bombardement op Rotterdam in 1940 volledig verwoest. De boekenverzameling van dr. Elie van Rijckevorsel vormde na de oorlog de basis voor de voortzetting van het Leeskabinet, dat sinds 1971 onderdeel is van de Erasmus Universiteit. Van Rijckevorsel was in 1883 een van de aanjagers van de oprichting van het [Museum voor Land- en Volkenkunde](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fe2859af90871cee23d48d1467336b191), het tegenwoordige Wereldmuseum Rotterdam. Veel van de boeken die Van Rijckevorsel verzamelde hebben betrekking op diens handelsactiviteiten in West-Afrika, Oost-Indië en het Caraïbisch gebied en kunnen daarom relevant zijn voor het doen van onderzoek naar koloniale collecties in Nederland.
 
 Een andere relevante collectie is de verzameling Surinaamse poëzie die in 2021 door het Rotterdamsch Leeskabinet is verworven. Hoewel de collectie, die grotendeels uit in Sranantongo geschreven gedichten bestaat, voornamelijk bundels bevat vanaf de jaren 1960 tot nu, is het een relevante collectie die een verbintenis heeft met het Nederlandse koloniale verleden. Behalve het Sranantongo zijn er ook andere Surinaamse talen vertegenwoordigd. De collectie bevat onder andere werken van bekende Surinaamse dichters zoals Dobru, Edgar Cairo, Michaël Slory en Albert Helman.
 
