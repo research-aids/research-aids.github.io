@@ -49,13 +49,19 @@ Vanwege goudvondsten in het stroomgebied van de Marowijnerivier kwam Suriname va
 
 De onderzoeksreizen in 1890 van de Duitse Wilhelm Joest en de Zweedse Axel Klinckowström resulteerden in schenkingen aan respectievelijk het _Ethnologisches Museum_ in Berlijn en het _Etnografiska museet_ in Stockholm. Joests privéverzameling, met daarin ook veel voorwerpen uit Suriname, zou na zijn dood de basis vormen van het _Rautenstrauch-Joest-Museum_ in Keulen. Voor de etnografische verzamelingen in Nederland was vooral de in 1899 in het Koloniaal Museum in Haarlem gehouden tentoonstelling over Nederlands West-Indië van belang. Koloniaal ambtenaar [Louis Constant van Panhuys](https://nl.wikipedia.org/wiki/Louis_Constant_van_Panhuys) had tijdens zijn stationering in Albina tussen 1893 en 1896 voor deze tentoonstelling voorwerpen verzameld van met name Okanisi.
 
-Drie van de acht expedities naar Suriname die vlak na de eeuwwisseling onder auspiciën van het Koninklijk Nederlands Aardrijkskundig Genootschap werden georganiseerd leverden etnografische collecties op. KNAG: Gonini (1901) 86 stuks, serie  TM-401, Tapanahony 493 stuks, serie TM-402, en Toemoek-Hoemak 186, serie TM-403, leveren etnografische collecties op van de hand van De Goeje. Serie TM-416 is afkomstig van de expeditie (van Stahel) naar het Wilhelminagebergte. Objecten beschreven door Van Panhuys. Lange tijd werd hierbij de verzameldrift van Claudius de Goeje aangehaald als drijvende kracht achter de expeditie. In 2025 verscheen echter een artikel van de hand van Inez de Ruiter in NWIG.
+Drie van de acht expedities naar Suriname die vlak na de eeuwwisseling onder auspiciën van het Koninklijk Nederlands Aardrijkskundig Genootschap werden georganiseerd leverden omvangrijke etnografische collecties op, die zich vandaag de dag bevinden in de collectie van het Wereldmuseum Amsterdam. De expeditie naar de Gonini uit 1903 leverde serie  _TM-401_ met 86 voorwerpen op, de expeditie naar de Tapanahony uit 1904 serie _TM-402_ met 493 voorwerpen en Toemoek-Hoemak serie _TM-403_ met 186 voorwerpen. Hieronder bevinden zich veel objecten van de , leveren etnografische collecties op van de hand van De Goeje. Serie TM-416 is afkomstig van de expeditie (van Stahel) naar het Wilhelminagebergte. Objecten beschreven door Van Panhuys. Lange tijd werd hierbij de verzameldrift van Claudius de Goeje aangehaald als drijvende kracht achter de expeditie. In 2025 verscheen echter een artikel van de hand van Inez de Ruiter in NWIG.
 
 
 
 Leon-Gontran Damas [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Damas, Léon-Gontran]"],"description":"Personne(s) : Damas, Léon-Gontran"}]}), 
 
-Herskovitses in Field Museum of Chicago. Kahn's verzameling in American Museum of Natural History. Prices? TvV en Van Wetering? Hurault?    
+Herskovitses in Field Museum of Chicago. Kahn's verzameling in American Museum of Natural History. Prices? TvV en Van Wetering? Hurault?
+
+De expeditie die de Franse geograaf Jean-Marcel Hurault in 1946 in het stroomgebied van de Marowijne maakte vormt in zekere zin een kantelmoment in de verzamelgeschiedenis van Suriname en Frans-Guyana. Hoewel een onderscheid niet altijd even duidelijk te maken is hebben de verzamelingen die vanaf dat jaar – niet toevallig ook het jaar waarin Frans-Guyana een overzees departement van Frankrijk werd – een nadrukkelijker wetenschappelijk in plaats van een koloniaal karakter. Desalniettemin zullen bij (vergelijkend) onderzoek de voorwerpen die tijdens het bezoek van Juliana in 1955 aan Suriname bijeen zijn de gebracht (in Museon-Omniversum en de Koninklijke Verzamelingen), EXPEDITIE 1958?, en de antropologen   
+
+Geijskes?
+
+Con Bruijning?   
 
 
 Hoewel de nadruk lange tijd heeft gelegen op de 

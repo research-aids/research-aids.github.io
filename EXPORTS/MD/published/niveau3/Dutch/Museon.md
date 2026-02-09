@@ -4,7 +4,7 @@
 
 ## Abstract
 
-Museon-Omniversum is een museum in Den Haag dat in 1904 is opgericht als museum waar schoolkinderen terecht konden voor 'aanschouwelijk onderwijs'. Vanaf 1909 organiseerde het museum regelmatig tentoonstellingen met de verworven collectie die tegenwoordig is opgedeeld in drie deelcollecties: natuur, cultuur en technologie. Binnen zowel de natuurhistorische- als etnografische collecties van het museum bevinden zich objecten die zijn verworven in een koloniale context.
+Museon-Omniversum is een museum in Den Haag dat in 1904 is opgericht als museum waar schoolkinderen terecht konden voor 'aanschouwelijk onderwijs'. Vanaf 1909 organiseerde het museum regelmatig tentoonstellingen met de verworven collectie die tegenwoordig is opgedeeld in drie deelcollecties: natuur, cultuur en technologie. Binnen zowel de natuurhistorische als etnografische collecties van het museum bevinden zich objecten die zijn verworven in een koloniale context.
 
 ### Geschiedenis van het museum 
 
