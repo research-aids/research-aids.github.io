@@ -203,6 +203,16 @@ Main-text:
         - URL: "https://search.worldcat.org/title/163275947?oclcNum=163275947"
         - OCLC: "163275947"
       Description and remarks: "Dissertatie over de geschiedenis van het Koninklijk Kabinet van Zeldzaamheden en van het Rijks Etnografisch Museum."
+          - Type of source: "Wetenschappelijk artikel"
+      Name: "Price, R. and S. Price ‘John Gabriel Stedman's collection of 18th-century artifacts from Suriname’, New West Indian Guide / Nieuwe West-Indische Gids, 53(1) (1979), 121-14."
+      Link: 
+        - URL: "https://doi.org/10.1163/22134360-90002148"
+      Description and remarks: "Wetenschappelijk artikel over objecten uit de collectie van het voormalige Koninklijk Kabinet van Zeldzaamheden die mogelijk afkomstig zijn van John Gabriel Stedman."
+    - Type of source: "Boek"
+      Name: "Price, R. and S. Price. Afro-American arts of the Suriname rain forest. Berkeley: University of California Press, 1980."
+      Link: 
+        - ISBN: "978-0-520-04412-8"
+      Description and remarks: "Catalogus van een in 1980 geopende tentoonstelling over marronkunst in Los Angeles, Dallas, Baltimore en New York."
 
 copyright_metadata:
   copyright_holder: NIOD-KNAW
@@ -214,6 +224,7 @@ editing_metadata:
   author: Maarten van der Bent
   role: original_author
   editing_notes: 
+
 
 
 
