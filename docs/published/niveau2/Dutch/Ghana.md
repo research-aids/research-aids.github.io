@@ -116,7 +116,7 @@ Wetenschappelijk artikel:
   > 
 
 Publicatie:
-  > *Schmidt, Annette. Collectieprofiel Cultuurgebied Afrika. In: Verzamelde collectieprofielen Museum Volkenkunde, Leiden. Leiden: Museum Volkendkunde, 2008.*
+  > *Schmidt, Annette. Collectieprofiel Cultuurgebied Afrika. In: Verzamelde collectieprofielen Museum Volkenkunde, Leiden. Leiden: Museum Volkenkunde, 2008.*
   > _Hoofdstuk over de Afrikaanse collectie van het Wereldmuseum Leiden in een publicatie over collectieprofielen._  
 
   > [https://www.yumpu.com/nl/document/view/20123476/open-het-profiel-als-pdf-museum-volkenkunde](https://www.yumpu.com/nl/document/view/20123476/open-het-profiel-als-pdf-museum-volkenkunde)
