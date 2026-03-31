@@ -42,7 +42,6 @@ Drie van de acht expedities naar Suriname die vlak na de eeuwwisseling onder aus
 
 De etnografische voorwerpen die de Surinaamse broers Frederik Paul en Arthur Philip Penard verzamelden bij Cariben werden in 1912 en 1937 geschonken aan het Rijks Etnografisch Museum, die zich nu in de collectie van het Wereldmuseum Leiden bevindt onder serienummers[RV-1817](https://app.colonialcollections.nl/nl/objects?query=rv-1817) en [RV-2349](https://app.colonialcollections.nl/nl/objects?query=rv-2349). Tenslotte leverde de KNAG-expeditie in 1926 naar het Wilhelminagebergte door Gerold Stahel de serie [TM-416](https://app.colonialcollections.nl/nl/objects?query=tm-416) op.
 
-
 De Goeje: RV-2804 (schenking 1949).    
   
 #### Vroege antropologische/wetenschappelijke verzamelingen
@@ -61,7 +60,7 @@ Veel van de sindsdien verzamelde objecten bevinden zich nog in privécollecties.
 
 Desalniettemin zullen bij (vergelijkend) onderzoek de voorwerpen die tijdens het bezoek van Juliana in 1955 aan Suriname bijeen zijn de gebracht (in Museon-Omniversum en de Koninklijke Verzamelingen), EXPEDITIE 1958?, en de antropologen   
 
-Waar Eygenberger noemen? Verzamelde o.a. slavenboeien in de jaren 40, maar schonk die pas in de jaren 70 aan het Tropenmuseum?
+Waar [Eijgenberger](https://www.wikidata.org/wiki/Q138844151) noemen? Verzamelde o.a. slavenboeien in de jaren 40, maar schonk die pas in de jaren 70 aan het Tropenmuseum?
 
 
 
@@ -92,7 +91,7 @@ Wilhelm Joest bezocht ook in 1890 Suriname (waren hij en Klinkowström van elkaa
 
 Door wie is in 1914 TM-7-23 waardigheidstaf marrons geschonken? https://hdl.handle.net/20.500.11840/178113 Heel TM-7 is Surinaams!
 
-TM-9 is Corantijnexpeditie?? https://hdl.handle.net/20.500.11840/182875\
+TM-9 is Corantijnexpeditie?? https://hdl.handle.net/20.500.11840/182875
 
 TM-0 is een collectie met ongenummerd aangetroffen voorwerpen?
 
