@@ -47,7 +47,7 @@ Tussen mei 1885 en juli 1886 reisde [Herman ten Kate](https://nl.wikipedia.org/w
 
 De onderzoeksreizen in 1890 van de Duitse Wilhelm Joest en de Zweedse Axel Klinckowström resulteerden in schenkingen aan respectievelijk het _Ethnologisches Museum_ in Berlijn en het _Etnografiska museet_ in Stockholm. Joests privéverzameling, met daarin ook veel voorwerpen uit Suriname, zou na zijn dood de basis vormen van het _Rautenstrauch-Joest-Museum_ in Keulen. Voor de etnografische verzamelingen in Nederland was vooral de in 1899 in het Koloniaal Museum in Haarlem gehouden tentoonstelling over Nederlands West-Indië van belang. Koloniaal ambtenaar [Louis Constant van Panhuys](https://nl.wikipedia.org/wiki/Louis_Constant_van_Panhuys) verzamelde tijdens zijn stationering in Albina tussen 1893 en 1896 voor deze tentoonstelling voorwerpen van met name Okanisi. Deze verzameling voorwerpen bevindt zich vandaag de dag in de serie [TM-H](https://app.colonialcollections.nl/nl/objects?query=tm-h&locations=Suriname) van het Wereldmuseum Amsterdam.
 
-Drie van de acht expedities naar Suriname die vlak na de eeuwwisseling onder auspiciën van het Koninklijk Nederlands Aardrijkskundig Genootschap werden georganiseerd leverden omvangrijke etnografische collecties op, die zich vandaag de dag bevinden in de collectie van het [Wereldmuseum Amsterdam](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208). De expeditie naar de Gonini uit 1903 leverde serie [TM-401](https://app.colonialcollections.nl/nl/objects?query=tm-401) met 86 voorwerpen op, de expeditie naar de Tapanahony uit 1904 serie [TM-402](https://app.colonialcollections.nl/nl/objects?query=tm-402) met 493 voorwerpen en de expeditie naar het Toemoek-Hoemakgebergte serie [TM-403](https://app.colonialcollections.nl/nl/objects?query=tm-403) met 186 voorwerpen. Expeditielid Claudius de Goeje schonk in 1904 een tijdens de expeditie aangelegde persoonlijke verzameling aan het Rijks Etnografisch Museum, die zich nu in de collectie van het Wereldmuseum Leiden bevindt onder serienummers [RV-1443](https://app.colonialcollections.nl/nl/objects?query=rv-1443) en [RV-1454](https://app.colonialcollections.nl/nl/objects?query=rv-1454).
+Directeur [Maurice Guffroy](https://www.wikidata.org/wiki/Q122165409) van de _Compagnie des mines d'or de la Guyane hollandaise_ [doneerde](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Guffroy, Maurice]"],"description":"Personne(s) : Guffroy, Maurice"}]}) in 1901 na verschillende expedities naar het Marowijnegebied een omvangrijke collectie objecten van Wayana en Aluku aan het _Musée du Trocadéro_. Drie van de acht expedities naar Suriname die vlak na de eeuwwisseling onder auspiciën van het Koninklijk Nederlands Aardrijkskundig Genootschap werden georganiseerd leverden omvangrijke etnografische collecties op, die zich vandaag de dag bevinden in de collectie van het [Wereldmuseum Amsterdam](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208). De expeditie naar de Gonini uit 1903 leverde serie [TM-401](https://app.colonialcollections.nl/nl/objects?query=tm-401) met 86 voorwerpen op, de expeditie naar de Tapanahony uit 1904 serie [TM-402](https://app.colonialcollections.nl/nl/objects?query=tm-402) met 493 voorwerpen en de expeditie naar het Toemoek-Hoemakgebergte serie [TM-403](https://app.colonialcollections.nl/nl/objects?query=tm-403) met 186 voorwerpen. Expeditielid Claudius de Goeje schonk in 1904 een tijdens de expeditie aangelegde persoonlijke verzameling aan het Rijks Etnografisch Museum, die zich nu in de collectie van het Wereldmuseum Leiden bevindt onder serienummers [RV-1443](https://app.colonialcollections.nl/nl/objects?query=rv-1443) en [RV-1454](https://app.colonialcollections.nl/nl/objects?query=rv-1454).
 
 De etnografische voorwerpen die de Surinaamse broers Frederik Paul en Arthur Philip Penard verzamelden bij Cariben werden in 1912 en 1937 geschonken aan het Rijks Etnografisch Museum, die zich nu in de collectie van het Wereldmuseum Leiden bevindt onder serienummers [RV-1817](https://app.colonialcollections.nl/nl/objects?query=rv-1817) en [RV-2349](https://app.colonialcollections.nl/nl/objects?query=rv-2349). Tenslotte leverde de KNAG-expeditie in 1926 naar het Wilhelminagebergte door Gerold Stahel de serie [TM-416](https://app.colonialcollections.nl/nl/objects?query=tm-416) op. 
 
@@ -60,41 +60,9 @@ In 1927, 1928 en 1930 [verzamelde](https://data.library.amnh.org/archives-author
 
 Van groot belang voor de verzamelingen in Nederland is het legaat uit 1940 van parkarchitect [Apollonius Johannes Reynvaan](https://www.wikidata.org/wiki/Q138794292), die in Nederland een omvangrijke collectie van 850 objecten uit Suriname aanlegde. De collectie van Reynvaan bevindt zich in het Wereldmuseum Leiden onder serienummer [RV-2452](https://app.colonialcollections.nl/nl/objects?query=rv-2452). 
 
-De expeditie die de Franse geograaf Jean-Marcel Hurault in 1946 in het stroomgebied van de Marowijne maakte vormt in zekere zin een kantelmoment in de verzamelgeschiedenis van Suriname en Frans-Guyana. Hoewel een onderscheid niet altijd even duidelijk is te maken hebben de collecties die vanaf dat moment werden verzameld – niet toevallig ook het jaar waarin Frans-Guyana een overzees departement van Frankrijk werd – een minder nadrukkelijker koloniaal karakter. De objecten die Hurault langs de Marowijnerivier verzamelde werden na zijn dood in 2005 [ondergebracht](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Hurault, Jean-Marcel]"],"description":"Personne(s) : Hurault, Jean-Marcel"}]}) in het _Musée du Quai Branly – Jacques Chirac_.
+De expeditie die de Franse geograaf Jean-Marcel Hurault in 1946 in het stroomgebied van de Marowijne maakte vormt in zekere zin een kantelmoment in de verzamelgeschiedenis van Suriname en Frans-Guyana. Hoewel een onderscheid niet altijd even duidelijk te maken is hebben de collecties die vanaf dat moment werden verzameld – niet toevallig ook het jaar waarin Frans-Guyana een overzees departement van Frankrijk werd – een minder nadrukkelijker koloniaal karakter. De objecten die Hurault langs de Marowijnerivier verzamelde werden na zijn dood in 2005 [ondergebracht](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Hurault, Jean-Marcel]"],"description":"Personne(s) : Hurault, Jean-Marcel"}]}) in het _Musée du Quai Branly – Jacques Chirac_.
 
-Voor de collecties in Nederland vormen de schenkingen van de verzamelingen van [C. D. H. Eijgenberger](https://www.wikidata.org/wiki/Q138844151) aan het Wereldmuseum Amsterdam en van 
-
-de vanaf de late jaren veertig door [C. D. H. Eijgenberger](https://www.wikidata.org/wiki/Q138844151) verzamelde objecten
-
-
-
-
-Veel van de sindsdien verzamelde objecten bevinden zich nog in privécollecties. Vermeldenswaard is de
-
-Desalniettemin zullen bij (vergelijkend) onderzoek de voorwerpen die tijdens het bezoek van Juliana in 1955 aan Suriname bijeen zijn de gebracht (in Museon-Omniversum en de Koninklijke Verzamelingen), EXPEDITIE 1958?, en de antropologen   
-
-Waar [Eijgenberger](https://www.wikidata.org/wiki/Q138844151) noemen? Verzamelde o.a. slavenboeien in de jaren 40, maar schonk die pas in de jaren 70 aan het Tropenmuseum?
-
-
-
-Wat is de herkomst van de serie RV-951? Gedoneerd in 1893? Is van Ghert
-
-Wat is de herkomst van de serie RV-2352? Gedoneerd in 1938? Is van De Goeje!
-
-Voor Suriname betreft het onder andere: Serie 370: Internationale Koloniale en Uitvoerhandels tentoonstelling (1883); serie 399: Sijpestein; serie 581: Ten Kate; 951: Ghert; 1054: Baron A.J. Schimmelpenninck van der Oye; serie 1443 & 2352: De Goeje; serie 1749: Berends.
-
-
-
-
-Hoewel de nadruk lange tijd heeft gelegen op de 
-
-28 oktober 1890 tot 23 maart 1891: Axel Klinckowström, leverde verzameling op die zich nu bevindt in het _Etnografiska museet_ in Stockholm.
-
-[John H. Spitzly](https://www.wikidata.org/wiki/Q137806783) ethnographische gegenstände
-
-Wilhelm Joest bezocht ook in 1890 Suriname (waren hij en Klinkowström van elkaar op de hoogte?). Deze verzameling bevindt zich hoofdzakelijk in het Ethnologisches Museum in Berlijn en het Rautenstrauch-Joest Museum in Keulen.
-
-1898 West-Indische tentoonstelling Haarlem. Verzameling [Louis Constant van Panhuys](https://nl.wikipedia.org/wiki/Louis_Constant_van_Panhuys)
+Voor de collecties in Nederland vallen de vanaf de laten jaren veertig door [C. D. H. Eijgenberger](https://www.wikidata.org/wiki/Q138844151) verzamelde objecten en de geschenken aan koningin Juliana in het kader van haar bezoek in 1955 aan het autonome Suriname onder deze categorie. De verzameling van Eijgenberger, met daaronder zeldzame slavenboeien, werd in 1978 aangekocht door het Wereldmuseum Amsterdam en heeft serienummer [TM-4440](https://app.colonialcollections.nl/nl/objects?query=tm-4440) gekregen. De geschenken aan Juliana werden in 1957 ondergebracht in Museon-Omniversum.
 
 ### Klad
 
@@ -133,6 +101,13 @@ Volgens Vruggink en Paasman is de Surinamecollectie ongeveer vier- tot vijfduize
 [artikel over tentoonstelling 1923](https://resolver.kb.nl/resolve?urn=MMUTRA04:253211279:mpeg21:a00017)
 
 Koninklijke Verzamelingen:
+
+MQB:
+1897: Martin François Geay [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Geay, Martin-François]"],"description":"Personne(s) : Geay, Martin-François"}]}), lijkt niet uit het Marowijnegebied afkomstig, dus hoeft niet in deze zoekhulp
+1948-1950: [Edgar Aubert de la Rüe](https://fr.wikipedia.org/wiki/Edgar_Aubert_de_la_R%C3%BCe) [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Aubert de la Rüe, Edgar]"],"description":"Personne(s) : Aubert de la Rüe, Edgar"}]})
+1968-1969: Claude Bernardin [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Bernardin, Claude]"],"description":"Personne(s) : Bernardin, Claude"}]})
+
+Sainte-Croix de la Roncière [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Sainte-Croix de la Roncière Mr]"],"description":"Personne(s) : Sainte-Croix de la Roncière Mr"}]})
 
 
 Een kleine verzameling behorende tot het aan de EBG geliëerde Zeister Zendingsgenootschap tentoongesteld in [Het Herrnhuter Huis](https://hernhutterhuis.nl/)
@@ -177,7 +152,7 @@ Verzameling Crevaux in Musee de l'Homme (nu Quai Branly). Verder in MQB: Paul Sa
 Leon-Gontran Damas [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Damas, Léon-Gontran]"],"description":"Personne(s) : Damas, Léon-Gontran"}]}), 
 
 
-1897: Martin François Geay [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Geay, Martin-François]"],"description":"Personne(s) : Geay, Martin-François"}]}), 
+
 
 Jean-Marcel Hurault [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Hurault, Jean-Marcel]"],"description":"Personne(s) : Hurault, Jean-Marcel"}]}), 
 
@@ -204,20 +179,6 @@ Geijskes?
 Con Bruijning?
 
 Musée des cultures guyanaises http://amazonian-museum-network.org/nl/de-collecties?&filter/musee=174  
-
-
-
-### Verzamelingen in buitenland
-In Suriname werd ook veel verzameld door niet-Nederlanders. Missionarissen van de Evangelische Broedergemeente verzamelden etnografica die werd opgezonden naar Europa. Een belangrijke verzameling Surinaamse etnografica bevindt zich daarom in het Etnographisches Museum in Herrnhut, Duitsland. Verkoop van etnografica vormde een bron van inkomsten van de Evangelische Broedergemeente. Een belangrijk deel van de Surinaamse etnografica die door missionaris Johann Gustav Ferdinand Jansa was verzameld belandde op deze manier in het Ethnologisches Museum in Berlijn. ANDERE MUSEA DIE HERRNHUTER ETNOGRAFICA HEBBEN.
-
-1890 (of 1891?): Axel Klinckowström, leverde verzameling op die zich nu bevindt in het Etnografiska museet in Stockholm.
-
-Wilhelm Joest bezocht ook in 1890 Suriname (waren zij van elkaar op de hoogte). Deze verzameling bevindt zich hoofdzakelijk in het Ethnologisches Museum in Berlijn en het Rautenstrauch-Joest Museum in Keulen.
-
-Herskovitses in Field Museum of Chicago. Kahn's verzameling in American Museum of Natural History. Prices? TvV en Van Wetering? Hurault?
-
-Aangezien de Marowijne de grens vormt tussen Suriname en Frans-Guyana Jaren 30 Leon-Gontran Damas aan de Marowijnerivier.
-
 
 ### Natuurhistorisch verzamelen?
 
