@@ -8,7 +8,7 @@ Te schrijven.
 
 ### Beschrijving
 
-Aan de noordkust van Zuid-Amerika monden verschillende rivieren uit in de Atlantische Oceaan in een gebied dat bekendstaat als de Guyana's – een inheems woord dat waarschijnlijk 'land van vele wateren' betekent. Een van deze rivieren is de Surinamerivier. Ten tijde van de reistochten van de Spaanse conquistador Alonso de Ojeda werd dit gebied bewoond door Arowakken, Cariben en Warau. Vanaf de late zestiende eeuw deden zeevaarders uit Engeland, Frankrijk en de Nederlanden het gebied aan, op zoek naar het mythische goudland _El Dorado_, dat volgens Sir Walter Raleigh in de Guyana's te vinden moest zijn. Langs de Surinamerivier werd in 1651 door Sir Frances Willoughby, de Engelse gouverneur van Barbados, een plantagekolonie gesticht. Deze kolonie werd in 1667 tijdens de Tweede Engels-Nederlandse Oorlog door een Zeeuwse vloot veroverd. 
+Aan de noordkust van Zuid-Amerika monden verschillende rivieren uit in de Atlantische Oceaan in een gebied dat bekendstaat als de Guyana's – een inheems woord dat waarschijnlijk 'land van vele wateren' betekent. Een van deze rivieren is de Surinamerivier. Ten tijde van de reizen van de Spaanse conquistador Alonso de Ojeda werd dit gebied bewoond door Arowakken, Cariben en Warau. Vanaf de late zestiende eeuw deden zeevaarders uit Engeland, Frankrijk en de Nederlanden het gebied aan, op zoek naar het mythische goudland _El Dorado_, dat volgens Sir Walter Raleigh in de Guyana's te vinden moest zijn. Langs de Surinamerivier werd in 1651 door Sir Francis Willoughby, de Engelse gouverneur van Barbados, een plantagekolonie gesticht. Deze kolonie werd in 1667 tijdens de Tweede Engels-Nederlandse Oorlog door een Zeeuwse vloot veroverd. 
 
 Vanaf 1683 werd Suriname bestuurd door de Sociëteit van Suriname, een particuliere onderneming met in gelijke verhoudingen de West-Indische Compagnie, de familie Van Aerssen van Sommelsdijck en de stad Amsterdam als aandeelhouders. In 1795 gingen de bezittingen van de Sociëteit van Suriname over op de Nederlandse staat, die Suriname – afgezien van twee periodes van Britse bezetting – als kolonie heeft bestuurd tot 1954. In dat laatste jaar aanvaardde Suriname samen met Nederland en de Nederlandse Antillen het Statuut voor het Koninkrijk der Nederlanden, waarmee de dekolonisatie voltooid heette te zijn. In 1975 werd Suriname onafhankelijk.
 
@@ -54,24 +54,24 @@ Voor de collecties in Nederland vallen de vanaf de laten jaren veertig door [C. 
 ### Klad
 
 Verdere schenkingen aan het REM: 
-*1893: [van Ghert](https://www.wikidata.org/wiki/Q138849075) (RV-951)
-*1910: Berends (RV-1749) 
-*1927: De Goeje (RV-2131; twee hangmatten en een draagkorf) 
-*1949: De Goeje (RV-2804)   
+* 1893: [van Ghert](https://www.wikidata.org/wiki/Q138849075) (RV-951)
+* 1910: Berends (RV-1749) 
+* 1927: De Goeje (RV-2131; twee hangmatten en een draagkorf) 
+* 1949: De Goeje (RV-2804)   
 
 Tropenmuseum:
-Koloniaal Museum Haarlem: TM-H-908 heel oud! https://hdl.handle.net/20.500.11840/203543
-
-Wat is de herkomst van TM-7? Is geheel Surinaams. In 1914 geschonken. Door wie is in 1914 TM-7-23 waardigheidstaf marrons geschonken? https://hdl.handle.net/20.500.11840/178113
-
-TM-9 is Corantijnexpeditie?? https://hdl.handle.net/20.500.11840/182875
-
-TM-0 is een collectie met ongenummerd aangetroffen voorwerpen?
+* Koloniaal Museum Haarlem: TM-H-908 heel oud! https://hdl.handle.net/20.500.11840/203543
+* Wat is de herkomst van TM-7? Is geheel Surinaams. In 1914 geschonken. Door wie is in 1914 TM-7-23 waardigheidstaf marrons geschonken? https://hdl.handle.net/20.500.11840/178113
+* TM-9 is Corantijnexpeditie?? https://hdl.handle.net/20.500.11840/182875
+* TM-0 is een collectie met ongenummerd aangetroffen voorwerpen?
+* TM-3290 is een schenking uit 1963 van ~324 objecten uit Suriname
 
 Kwakwabangi/Kwakwabank. Over het exemplaar in Artis heeft conservator C.M. Pleyte in 1896 geschreven. https://www.digi-hub.de/viewer/image/DE-11-001785756/394/LOG_0381/
 
 Wereldmuseum Rotterdam:
-Volgens Vruggink en Paasman, zijn de eerste 44 voorwerpen van de Surinamecollectie een schenking van een oud-directeur van het museum. Daarnaast ook vijf objecten van balata, dan acht trommels die in 1916 aan het museum zijn geschonken, en veel objecten van marrons en inheemsen, aankoop uit 1955 van het Zeister Zendingsgenootschap, twintig sloten, diverse schortjes en sieraden, 182 voorwerpen in bruikleen van Beatrix en ca. 50 stuks recentelijk geschonken textiel en keramiek.
+Volgens Vruggink en Paasman zijn de eerste 44 voorwerpen van de Surinamecollectie een schenking van een oud-directeur van het museum. Daarnaast ook vijf objecten van balata, dan acht trommels die in 1916 aan het museum zijn geschonken, en veel objecten van marrons en inheemsen, aankoop uit 1955 van het Zeister Zendingsgenootschap, twintig sloten, diverse schortjes en sieraden, 182 voorwerpen in bruikleen van Beatrix en ca. 50 stuks recentelijk geschonken textiel en keramiek.
+
+WM-9808 genoemd in Maroon arts: https://hdl.handle.net/20.500.11840/1112421
 
 Bronbeek:
 1865: Pijl geschonken door Van Sypesteyn: https://museumbronbeek.nl/#1ccc4f61-eec9-4d10-a298-c3fd42d99e5f 
@@ -89,6 +89,9 @@ Volgens Vruggink en Paasman is de Surinamecollectie ongeveer vier- tot vijfduize
 
 Koninklijke Verzamelingen:
 
+AfricaMuseum, Tervuren:
+R.G. 48.42.4 genoemd in catakogus en Maroon arts, is een Aukaanse kam die tussen 1893 en 1896 is verzameld... Van Panhuys?
+
 MQB:
 1897: Martin François Geay [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Geay, Martin-François]"],"description":"Personne(s) : Geay, Martin-François"}]}), lijkt niet uit het Marowijnegebied afkomstig, dus hoeft niet in deze zoekhulp
 1948-1950: [Edgar Aubert de la Rüe](https://fr.wikipedia.org/wiki/Edgar_Aubert_de_la_R%C3%BCe) [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Aubert de la Rüe, Edgar]"],"description":"Personne(s) : Aubert de la Rüe, Edgar"}]})
@@ -101,6 +104,41 @@ Het tweede team onder leiding van Jean-Paul Goreaud verkende de boven-Marowijne.
 
 Film Goreaud: https://www.encyclocine.com/film-au-pays-de-l-or-et-du-bagne
 
+Fowler Museum at UCLA:
+Organiseerde de tentoonstelling met de Prices in 1980, toen nog UCLA Museum of Cultural History geheten. Veel is een donatie van Mr. W. Thomas Davis
+
+https://argus.fowler.ucla.edu/final/Portal/Default.aspx?lang=en-US 
+
+Penn Museum in Philadelphia:
+Herkomst onder andere: 
+52 objecten: Gift of T. J. Collins, 1907 https://www.penn.museum/collections/accessionlot.php?irn=6338
+5 objecten: Gift of Miss Anna Warren Ingersoll, 1916 https://www.penn.museum/collections/accessionlot.php?irn=5255
+Purchased from the Quinn Estate, 1926
+Gift of Louis C. Whiton, 1966
+Gift of Charles A. Robinson, 2002
+https://www.penn.museum/collections/search.php?term=suriname&submit_term=Submit 
+Artikel Dutch Guiana pottery: https://www.penn.museum/sites/journal/609/ "A very valuable collection containing an assortment of this ware was collected by Mr. T. J. Collins of Haddonfield, New Jersey, and presented to the University Museum some time ago"
+
+Is hoogstwaarschijnlijk [Thomas Jefferson Collins](https://www.wikidata.org/wiki/Q139013446)
+
+Film van Watson Kintner: https://www.youtube.com/watch?v=irx0vV4yqiw 
+
+RMSC in Rochester, New York:
+Collectiewebsite (offline in april 2026) http://collections.rmsc.org/ 
+Bibliotheek: http://libcat.rmsc.org/aquabrowser/
+
+Indiana University Museum, Bloomington, Indiana:
+https://iumaa.iu.edu/collections/ethnographic-collections/index.html 
+
+Weltkulturen Museum, Frankfurt:
+https://www.weltkulturenmuseum.de/de/sammlungen/amerikas/
+
+Museum of Archaeology and Anthrpology, Cambridge:
+https://collections.maa.cam.ac.uk/objects/?query=suriname 
+Lijkt grotendeels afkomstig van een door Cambridge georganiseerde expeditie naar Langatabiki in 1966.
+
+Pitt Rivers Museum, Oxford:
+https://www.prm.ox.ac.uk/files/southamericantropicalforestmaterialpdf "There are 336 objects from Surinam in the Pitt Rivers Museum of which some 77 are of Maroon rather than Amerindian origin. The Amerindian material is dominated by two collections [: Butt Colson (1963) and Peter Rivière]. [...] The non-Amerindian material is almost entirely Maroon, from the Aukan, also known as Ndyuka, living on the Maroni and Lawa Rivers. Butt Colson collected 26 objects from the Aukan, one of which is listed as coming from French Guiana. To this Aukan collection is to be added a further 39 objects donated by the Cambridge Expedition to Langa Tabiki in 1965. The remaining four objects consist of three Maroon items (a musical instrument and two calabash spoons) donated by Mrs Beatrice Braithwaite Batty in 1917. She was the author of An English girl’s account of a Moravian Settlement in the Black Forest (1858), Forty two years among the Indians and Eskimo (1893), and numerous other works. Finally there is a pottery vessel in the form of a cockerel donated by Edward Archibald Parry, Bishop of Guiana, in 1908."
 
 Een kleine verzameling behorende tot het aan de EBG geliëerde Zeister Zendingsgenootschap tentoongesteld in [Het Herrnhuter Huis](https://hernhutterhuis.nl/)
 
@@ -139,38 +177,15 @@ Temminck 1827 zending die met naturalia waren meegekomen, uiteindelijk afkomstig
 1 april 1828: grotere schenking van Lammens.
 30 mei 1835: nog een schenking van J. Bromet via F.J. van Maanen
 
-Verzameling Crevaux in Musee de l'Homme (nu Quai Branly). Verder in MQB: Paul Sangnier, , 
-
-Leon-Gontran Damas [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Damas, Léon-Gontran]"],"description":"Personne(s) : Damas, Léon-Gontran"}]}), 
-
-
-
-
-Jean-Marcel Hurault [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Hurault, Jean-Marcel]"],"description":"Personne(s) : Hurault, Jean-Marcel"}]}), 
-
-missie Marcel Monteux et Marc Richard 1931 [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/Evenement/Evenement","fieldLabel":"","searchValues":["Mission Monteux-Richard en Guyane 1931"],"description":"Evénement historique : Mission Monteux-Richard en Guyane 1931"}]}), 
-
-Rond 1902? Maurice Guffroy [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Guffroy, Maurice]"],"description":"Personne(s) : Guffroy, Maurice"}]}), 
-Collectie wereldtentoonstelling 1883
-mei 1885 tot juli 1886 reis Ten Kate naar Suriname, nu in Leiden (RV-581?)
-1890 (of 1891?): Axel Klinckowström, leverde verzameling op die zich nu bevindt in het Etnografiska museet in Stockholm.
-
-Spitzly ethnographische gegenstände
-
-Wilhelm Joest bezocht ook in 1890 Suriname (waren hij en Klinkowström van elkaar op de hoogte?). Deze verzameling bevindt zich hoofdzakelijk in het Ethnologisches Museum in Berlijn en het Rautenstrauch-Joest Museum in Keulen.
-
-1898 West-Indische tentoonstelling Haarlem. Verzameling [Louis Constant van Panhuys](https://nl.wikipedia.org/wiki/Louis_Constant_van_Panhuys)
-
 Heeft Spalburg een collectie aangelegd?
 Crevaux, Coudreaux, Brunetti?
-
-
 
 Geijskes?
 
 Con Bruijning?
 
 Musée des cultures guyanaises http://amazonian-museum-network.org/nl/de-collecties?&filter/musee=174  
+Surinaams Museum: 
 
 ### Natuurhistorisch verzamelen?
 
