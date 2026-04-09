@@ -269,7 +269,13 @@ Wetenschappelijk artikel:
   > *Spitzly, John H. ‘Etnographische gegenstände aus Surinam’, Verhandlungen der Berliner Gesellschaft für Anthropologie, Ethnologie und Urgeschichte, (1889), 212-214.*
   > _SCHRIJVEN!_  
 
-  > [AANPASSEN!](AANPASSEN!)
+  > [https://books.google.nl/books?id=HTJOAAAAYAAJ&hl=nl&pg=PA212#v=onepage&q&f=false](https://books.google.nl/books?id=HTJOAAAAYAAJ&hl=nl&pg=PA212#v=onepage&q&f=false)
+
+Hoofdstuk in een boek:
+  > *'Rendez-vous manqué avec les 'viellles colonies', ethnographie et archéologie de la Guyane et des Antilles françaises (1931-1939)' in _Les années folles de l'ethnographie: Trocadéro 28-37_. Paris: Museum national d'histoire naturelle publications scientifiques, 2014, 581-629.*
+  > _SCHRIJVEN!_  
+
+  > [ISBN 978-2-85653-807-4](https://isbnsearch.org/isbn/978-2-85653-807-4)
 
 
 
