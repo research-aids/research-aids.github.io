@@ -266,6 +266,12 @@ Wetenschappelijk artikel:
   > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php)
 
 Wetenschappelijk artikel:
+  > *Kate, H. F. C. ten ‘Observations anthropologiques recueillies dans la Guyane et le Venezuela’, Revue d'anthropologie, (2) (1887), 44-68.*
+  > _SCHRIJVEN!_  
+
+  > [https://gallica.bnf.fr/ark:/12148/bpt6k4425708/f48.image](https://gallica.bnf.fr/ark:/12148/bpt6k4425708/f48.image)
+
+Wetenschappelijk artikel:
   > *Pleyte, C.M. ‘Die Kwakwabank der Buschneger Surinams’, Globus, (1896), 370-371.*
   > _SCHRIJVEN!_  
 
