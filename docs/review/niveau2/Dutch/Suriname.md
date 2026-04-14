@@ -19,7 +19,7 @@ nav_exclude: False
 
 ## Abstract
 
-Te schrijven.
+In Nederlandse museumcollecties zijn etnografische voorwerpen te vinden die afkomstig zijn uit Suriname. Veel van deze voorwerpen zijn verworven in een koloniale context. In deze zoekhulp vind je informatie over de meest voorkomende manieren waarop deze voorwerpen in collecties in Nederland terecht zijn gekomen.
 
 ### Beschrijving
 
@@ -71,7 +71,8 @@ Voor onderzoek naar de zendingen aan het Koninklijk Kabinet van Zeldzaamheden ku
 ### Openstaande vragen
 
 * Volgens Vruggink en Paasman bezat het Nijmeegs Volkenkundig Museum de collectie van de Paters Redemptoristen. Is dit dezelfde collectie die zich nu in Museon-Omniversum bevindt?
-* Hoe verhoudt de kwakwabangi in Museon zich tot de kwakwabangi uit de collectie van Artis (die verloren is gegaan?)
+* Is de kwakwabangi uit de Artiscollectie verloren gegaan? 
+* Hoe verhoudt de kwakwabangi in Museon zich tot de kwakwabangi uit de collectie van Artis?
 
 ### Klad
 
@@ -82,28 +83,26 @@ Voor onderzoek naar de zendingen aan het Koninklijk Kabinet van Zeldzaamheden ku
 * 1949: De Goeje (RV-2804)   
 
 #### Tropenmuseum
-* Koloniaal Museum Haarlem: TM-H-908 heel oud! https://hdl.handle.net/20.500.11840/203543
-* Wat is de herkomst van TM-7? Is geheel Surinaams. In 1914 geschonken. Door wie is in 1914 TM-7-23 waardigheidstaf marrons geschonken? https://hdl.handle.net/20.500.11840/178113
-* TM-9 is Corantijnexpeditie?? https://hdl.handle.net/20.500.11840/182875
+* Koloniaal Museum Haarlem: [TM-H-908](https://hdl.handle.net/20.500.11840/203543) heel oud! 
+* Wat is de herkomst van TM-7? Is geheel Surinaams. In 1914 geschonken. Door wie is in 1914 [TM-7-23](https://hdl.handle.net/20.500.11840/178113) waardigheidstaf marrons geschonken? 
+* TM-9 is Corantijnexpeditie?? [TM-9-1](https://hdl.handle.net/20.500.11840/182875)
 * TM-0 is een collectie met ongenummerd aangetroffen voorwerpen?
 * TM-2345 is een schenking uit 1954 van ~178 objecten uit Suriname
 * TM-3290 is een schenking uit 1963 van ~324 objecten uit Suriname
 
-Kwakwabangi/Kwakwabank. Over het exemplaar in Artis heeft conservator C.M. Pleyte in 1896 geschreven. https://www.digi-hub.de/viewer/image/DE-11-001785756/394/LOG_0381/
-
 #### Wereldmuseum Rotterdam
 Volgens Vruggink en Paasman zijn de eerste 44 voorwerpen van de Surinamecollectie een schenking van een oud-directeur van het museum. Daarnaast ook vijf objecten van balata, dan acht trommels die in 1916 aan het museum zijn geschonken, en veel objecten van marrons en inheemsen, aankoop uit 1955 van het Zeister Zendingsgenootschap, twintig sloten, diverse schortjes en sieraden, 182 voorwerpen in bruikleen van Beatrix en ca. 50 stuks recentelijk geschonken textiel en keramiek.
 
-WM-9808 genoemd in Maroon arts: https://hdl.handle.net/20.500.11840/1112421
+[WM-9808](https://hdl.handle.net/20.500.11840/1112421) genoemd in Maroon arts.
 
 #### Bronbeek
-1865: Pijl geschonken door Van Sypesteyn: https://museumbronbeek.nl/#1ccc4f61-eec9-4d10-a298-c3fd42d99e5f 
+1865: Pijl geschonken door Van Sypesteyn: [1865/01/31-1-3](https://museumbronbeek.nl/#1ccc4f61-eec9-4d10-a298-c3fd42d99e5f)
 
 #### Gerardus van der Leeuw
-Catalogus met ook objecten uit Suriname: https://www.rug.nl/museum/collections/ethnological/pdf/mgcataloguslr.pdf 
+[Catalogus met ook objecten uit Suriname](https://www.rug.nl/museum/collections/ethnological/pdf/mgcataloguslr.pdf)
 
 #### Tropisch Landbouwmuseum in Deventer
-Catalogus met ook objecten uit Suriname: https://www.rug.nl/museum/collections/ethnological/pdf/tdcatalogus.pdf 
+[Catalogus met ook objecten uit Suriname](https://www.rug.nl/museum/collections/ethnological/pdf/tdcatalogus.pdf) 
 
 #### Museon-Omniversum
 Volgens Vruggink en Paasman is de Surinamecollectie ongeveer vier- tot vijfduizend objecten groot. Een onderdeel is de schenking uit 1957 van de geschenken aan Juliana bij haar bezoek aan Suriname in 1955.
@@ -111,9 +110,10 @@ Volgens Vruggink en Paasman is de Surinamecollectie ongeveer vier- tot vijfduize
 [artikel over tentoonstelling 1923](https://resolver.kb.nl/resolve?urn=MMUTRA04:253211279:mpeg21:a00017)
 
 #### Koninklijke Verzamelingen
+Vooral veel foto's.
 
 #### AfricaMuseum, Tervuren
-R.G. 48.42.4 genoemd in catakogus en Maroon arts, is een Aukaanse kam die tussen 1893 en 1896 is verzameld... Van Panhuys?
+R.G. 48.42.4 genoemd in catalogus en Maroon arts, is een Aukaanse kam die tussen 1893 en 1896 is verzameld... Van Panhuys?
 
 #### MQB
 * 1897: Martin François Geay [verzameling](https://collections.quaibranly.fr/?state={"matchAllCriteria":true,"customSearchCriteria":[{"field":"/Record/ConX/AlphaSortConX,/Record/ConXother/AlphaSort","fieldLabel":"","searchValues":["[Geay, Martin-François]"],"description":"Personne(s) : Geay, Martin-François"}]}), lijkt niet uit het Marowijnegebied afkomstig, dus hoeft niet in deze zoekhulp
@@ -125,40 +125,40 @@ R.G. 48.42.4 genoemd in catakogus en Maroon arts, is een Aukaanse kam die tussen
 Nader over Monteux-Richard: 
 Het tweede team onder leiding van Jean-Paul Goreaud verkende de boven-Marowijne. Gaston Vincke was de eerste leider van de expeditie en schilder. Hij schilderde Wayanadorpen.
 
-Film Goreaud: https://www.encyclocine.com/film-au-pays-de-l-or-et-du-bagne
+Film Goreaud: [Au pays de l'or et du bagne](https://www.encyclocine.com/film-au-pays-de-l-or-et-du-bagne)
 
 #### Fowler Museum at UCLA
 Organiseerde de tentoonstelling met de Prices in 1980, toen nog UCLA Museum of Cultural History geheten. Veel is een donatie van Mr. W. Thomas Davis
 
-https://argus.fowler.ucla.edu/final/Portal/Default.aspx?lang=en-US 
+[Catalogus](https://argus.fowler.ucla.edu/final/Portal/Default.aspx?lang=en-US) 
 
 #### Penn Museum in Philadelphia
 Herkomst onder andere: 
-* 52 objecten: Gift of T. J. Collins, 1907 https://www.penn.museum/collections/accessionlot.php?irn=6338
-* 5 objecten: Gift of Miss Anna Warren Ingersoll, 1916 https://www.penn.museum/collections/accessionlot.php?irn=5255
+* 52 objecten: [Gift of T. J. Collins, 1907](https://www.penn.museum/collections/accessionlot.php?irn=6338)
+* 5 objecten: [Gift of Miss Anna Warren Ingersoll, 1916](https://www.penn.museum/collections/accessionlot.php?irn=5255)
 * Purchased from the Quinn Estate, 1926
 * Gift of Louis C. Whiton, 1966
 * Gift of Charles A. Robinson, 2002
 
-Collectiewebsite: https://www.penn.museum/collections/search.php?term=suriname&submit_term=Submit 
-Artikel Dutch Guiana pottery: https://www.penn.museum/sites/journal/609/ "A very valuable collection containing an assortment of this ware was collected by Mr. T. J. Collins of Haddonfield, New Jersey, and presented to the University Museum some time ago"
+[Collectiewebsite](https://www.penn.museum/collections/search.php?term=suriname&submit_term=Submit) 
+Artikel [Dutch Guiana pottery](https://www.penn.museum/sites/journal/609/) "A very valuable collection containing an assortment of this ware was collected by Mr. T. J. Collins of Haddonfield, New Jersey, and presented to the University Museum some time ago"
 
 Is hoogstwaarschijnlijk [Thomas Jefferson Collins](https://www.wikidata.org/wiki/Q139013446)
 
-Film van Watson Kintner: https://www.youtube.com/watch?v=irx0vV4yqiw 
+[Film van Watson Kintner](https://www.youtube.com/watch?v=irx0vV4yqiw)
 
 #### RMSC in Rochester, New York
-Collectiewebsite (offline in april 2026) http://collections.rmsc.org/ 
-Bibliotheek: http://libcat.rmsc.org/aquabrowser/
+[Collectiewebsite](http://collections.rmsc.org/) (offline in april 2026) 
+[Bibliotheek](http://libcat.rmsc.org/aquabrowser/)
 
 #### Indiana University Museum, Bloomington, Indiana
-https://iumaa.iu.edu/collections/ethnographic-collections/index.html 
+[Website](https://iumaa.iu.edu/collections/ethnographic-collections/index.html) 
 
 #### Weltkulturen Museum, Frankfurt
-https://www.weltkulturenmuseum.de/de/sammlungen/amerikas/
+[Website](https://www.weltkulturenmuseum.de/de/sammlungen/amerikas/)
 
 #### Museum of Archaeology and Anthropology, Cambridge
-https://collections.maa.cam.ac.uk/objects/?query=suriname 
+[Collectiewebsite](https://collections.maa.cam.ac.uk/objects/?query=suriname) 
 Lijkt grotendeels afkomstig van een door Cambridge georganiseerde expeditie naar Langatabiki in 1966.
 
 #### Pitt Rivers Museum, Oxford
@@ -281,6 +281,18 @@ Wetenschappelijk artikel:
   > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php)
 
 Wetenschappelijk artikel:
+  > *Kate, H. F. C. ten ‘Observations anthropologiques recueillies dans la Guyane et le Venezuela’, Revue d'anthropologie, (2) (1887), 44-68.*
+  > _SCHRIJVEN!_  
+
+  > [https://gallica.bnf.fr/ark:/12148/bpt6k4425708/f48.image](https://gallica.bnf.fr/ark:/12148/bpt6k4425708/f48.image)
+
+Wetenschappelijk artikel:
+  > *Pleyte, C.M. ‘Die Kwakwabank der Buschneger Surinams’, Globus, (1896), 370-371.*
+  > _SCHRIJVEN!_  
+
+  > [https://www.digi-hub.de/viewer/image/DE-11-001785756/394/LOG_0381/](https://www.digi-hub.de/viewer/image/DE-11-001785756/394/LOG_0381/)
+
+Wetenschappelijk artikel:
   > *Spitzly, John H. ‘Etnographische gegenstände aus Surinam’, Verhandlungen der Berliner Gesellschaft für Anthropologie, Ethnologie und Urgeschichte, (1889), 212-214.*
   > _SCHRIJVEN!_  
 
@@ -290,7 +302,7 @@ Hoofdstuk in een boek:
   > *'Rendez-vous manqué avec les 'viellles colonies', ethnographie et archéologie de la Guyane et des Antilles françaises (1931-1939)' in _Les années folles de l'ethnographie: Trocadéro 28-37_. Paris: Museum national d'histoire naturelle publications scientifiques, 2014, 581-629.*
   > _SCHRIJVEN!_  
 
-  > [ISBN 978-2-85653-807-4](https://isbnsearch.org/isbn/978-2-85653-807-4)
+  > [https://www.researchgate.net/publication/323471269_Rendez-vous_manque_avec_les_vieilles_colonies_Ethnologie_et_archeologie_de_la_Guyane_et_des_Antilles_francaises_1931-1939](https://www.researchgate.net/publication/323471269_Rendez-vous_manque_avec_les_vieilles_colonies_Ethnologie_et_archeologie_de_la_Guyane_et_des_Antilles_francaises_1931-1939), [ISBN 978-2-85653-807-4](https://isbnsearch.org/isbn/978-2-85653-807-4)
 
 
 
