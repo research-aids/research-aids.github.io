@@ -19,7 +19,7 @@ nav_exclude: False
 
 ## Abstract
 
-In Nederlandse museumcollecties zijn etnografische voorwerpen te vinden die afkomstig zijn uit Suriname. Veel van deze voorwerpen zijn verworven in een koloniale context. In deze zoekhulp vind je informatie over de meest voorkomende manieren waarop deze voorwerpen in collecties in Nederland terecht zijn gekomen.
+In Nederlandse museumcollecties zijn etnografische voorwerpen te vinden die afkomstig zijn uit Suriname. Veel van deze voorwerpen zijn verworven in een koloniale context. In deze zoekhulp vind je informatie over de meest voorkomende manieren waarop deze voorwerpen in collecties in Nederland en andere landen in het mondiale noorden terecht zijn gekomen.
 
 ### Beschrijving
 
@@ -212,6 +212,24 @@ Surinaams Museum:
 
 ## Primary sources
 
+Archiefstukken:
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - toegang 5 Archief van het Koninklijk Kabinet van Zeldzaamheden, (17e eeuw) 1815-1883, inventarisnummer 854, 122/123*
+  > _Stukken in het archief van het Koninklijk Kabinet van Zeldzaamheden over de zending van Kühn uit 1824._  
+
+  > [https://hdl.handle.net/21.12102/C334F15F47A042DBB02101D8E375A1C8](https://hdl.handle.net/21.12102/C334F15F47A042DBB02101D8E375A1C8)
+
+Archiefstukken:
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - toegang 5 Archief van het Koninklijk Kabinet van Zeldzaamheden, (17e eeuw) 1815-1883, inventarisnummer 854, 160/161a*
+  > _Stukken in het archief van het Koninklijk Kabinet van Zeldzaamheden over de zending van Bromet uit 1825._  
+
+  > [https://hdl.handle.net/21.12102/3A7BAE23CFCE4E4480F45EC256FF1901](https://hdl.handle.net/21.12102/3A7BAE23CFCE4E4480F45EC256FF1901)
+
+Archiefstukken:
+  > *Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - toegang 5 Archief van het Koninklijk Kabinet van Zeldzaamheden, (17e eeuw) 1815-1883, inventarisnummer 855, 167*
+  > _Stukken in het archief van het Koninklijk Kabinet van Zeldzaamheden over de zending van Kanngiesser uit 1826._  
+
+  > [https://hdl.handle.net/21.12102/95EAF0FABEF64A9784DC8800507BB344](https://hdl.handle.net/21.12102/95EAF0FABEF64A9784DC8800507BB344)
+
 ## Secondary sources
 
 Publicatie:
@@ -262,6 +280,12 @@ Wetenschappelijk artikel:
 
   > [https://www.dbnl.org/tekst/_oso001201601_01/_oso001201601_01_0003.php](https://www.dbnl.org/tekst/_oso001201601_01/_oso001201601_01_0003.php)
 
+Catalogus:
+  > *Veth, P.J, G.A Wilken, en H.C Klinkert. Catalogus der afdeeling Nederlandsche Koloniën van de internationale koloniale en uitvoerhandel tentoonstelling (van 1 Mei tot ultimo October 1883) te Amsterdam.Leiden: E.J. Brill, 1883.*
+  > _Catalogus van de afdeling Nederlandse Koloniën op de in 1883 gehouden wereldtentoonstelling in Amsterdam, opgesteld door P.J. Veth. De catalogus bestaat uit drie delen die respectievelijk de drie objectgroepen beschrijven: 'Het  terrein der gekoloniseerde en overheerde gewesten', 'De inlandsche bevolking dier gewesten' en Groep III 'De Europeanen in die gewesten en hunne  betrekkingen tot de inlanders'._  
+
+  > [http://hdl.handle.net/1887.1/item:129051](http://hdl.handle.net/1887.1/item:129051), [WorldCat 680228146](https://search.worldcat.org/title/680228146)
+
 Wetenschappelijk artikel:
   > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties I’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 7(1) (1988), 189-244.*
   > _SCHRIJVEN!_  
@@ -281,10 +305,34 @@ Wetenschappelijk artikel:
   > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php)
 
 Wetenschappelijk artikel:
-  > *Kate, H. F. C. ten ‘Observations anthropologiques recueillies dans la Guyane et le Venezuela’, Revue d'anthropologie, (2) (1887), 44-68.*
+  > *Coudreau, H. ‘Dix ans de Guyane (missions du ministère de l'instruction publique)’, Bulletin de la Société de géographie, (1891), 447-480.*
   > _SCHRIJVEN!_  
 
+  > [https://books.google.nl/books?id=lfwtSWQzxzYC&pg=PA447](https://books.google.nl/books?id=lfwtSWQzxzYC&pg=PA447)
+
+Boek:
+  > *Joest, W. Ethnographisches und Verwandtes aus Guayana. Leiden: Trap, 1893.*
+  > _SCHRIJVEN!_  
+
+  > [https://books.google.nl/books?id=PeZwo1K4g3YC](https://books.google.nl/books?id=PeZwo1K4g3YC)
+
+Boek:
+  > *Crevaux, J. Voyages dans l'Amerique du Sud. Parijs: Hachette et Cie, 1883.*
+  > _SCHRIJVEN!_  
+
+  > [http://archive.org/details/voyagesdanslamer00crev](http://archive.org/details/voyagesdanslamer00crev)
+
+Wetenschappelijk artikel:
+  > *Kate, H. F. C. ten ‘Observations anthropologiques recueillies dans la Guyane et le Venezuela’, Revue d'anthropologie, (2) (1887), 44-68.*
+  > _SCHRIJVEN! Gaat dit artikel over de verzamelde collectie?_  
+
   > [https://gallica.bnf.fr/ark:/12148/bpt6k4425708/f48.image](https://gallica.bnf.fr/ark:/12148/bpt6k4425708/f48.image)
+
+Boek:
+  > *Martin, J. K. L. Westindische Skizzen : Reise-Erinnerungen. Leiden: E. J. Brill, 1887.*
+  > _SCHRIJVEN!_  
+
+  > [https://archive.org/details/westindischeskiz00mart_0](https://archive.org/details/westindischeskiz00mart_0)
 
 Wetenschappelijk artikel:
   > *Pleyte, C.M. ‘Die Kwakwabank der Buschneger Surinams’, Globus, (1896), 370-371.*
@@ -296,7 +344,7 @@ Wetenschappelijk artikel:
   > *Spitzly, John H. ‘Etnographische gegenstände aus Surinam’, Verhandlungen der Berliner Gesellschaft für Anthropologie, Ethnologie und Urgeschichte, (1889), 212-214.*
   > _SCHRIJVEN!_  
 
-  > [https://books.google.nl/books?id=HTJOAAAAYAAJ&hl=nl&pg=PA212#v=onepage&q&f=false](https://books.google.nl/books?id=HTJOAAAAYAAJ&hl=nl&pg=PA212#v=onepage&q&f=false)
+  > [https://books.google.nl/books?id=HTJOAAAAYAAJ&hl=nl&pg=PA212](https://books.google.nl/books?id=HTJOAAAAYAAJ&hl=nl&pg=PA212)
 
 Hoofdstuk in een boek:
   > *'Rendez-vous manqué avec les 'viellles colonies', ethnographie et archéologie de la Guyane et des Antilles françaises (1931-1939)' in _Les années folles de l'ethnographie: Trocadéro 28-37_. Paris: Museum national d'histoire naturelle publications scientifiques, 2014, 581-629.*
