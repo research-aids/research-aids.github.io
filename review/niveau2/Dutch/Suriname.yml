@@ -2,7 +2,7 @@ Level: 2
 
 Title: "Suriname"
 
-Abstract: "In Nederlandse museumcollecties zijn etnografische voorwerpen te vinden die afkomstig zijn uit Suriname. Veel van deze voorwerpen zijn verworven in een koloniale context. In deze zoekhulp vind je informatie over de meest voorkomende manieren waarop deze voorwerpen in collecties in Nederland terecht zijn gekomen."
+Abstract: "In Nederlandse museumcollecties zijn etnografische voorwerpen te vinden die afkomstig zijn uit Suriname. Veel van deze voorwerpen zijn verworven in een koloniale context. In deze zoekhulp vind je informatie over de meest voorkomende manieren waarop deze voorwerpen in collecties in Nederland en andere landen in het mondiale noorden terecht zijn gekomen."
 
 RelatedAides:
   - "Selecteren en afbakenen":
@@ -221,7 +221,22 @@ Main-text:
   content-type: text/markdown
 
 Sources:
-  Primary sources: []
+  Primary sources: 
+    - Type of source: "Archiefstukken"
+      Name: "Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - toegang 5 Archief van het Koninklijk Kabinet van Zeldzaamheden, (17e eeuw) 1815-1883, inventarisnummer 854, 122/123"
+      Link: 
+        - URL: "https://hdl.handle.net/21.12102/C334F15F47A042DBB02101D8E375A1C8"
+      Description and remarks: "Stukken in het archief van het Koninklijk Kabinet van Zeldzaamheden over de zending van Kühn uit 1824."
+    - Type of source: "Archiefstukken"
+      Name: "Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - toegang 5 Archief van het Koninklijk Kabinet van Zeldzaamheden, (17e eeuw) 1815-1883, inventarisnummer 854, 160/161a"
+      Link: 
+        - URL: "https://hdl.handle.net/21.12102/3A7BAE23CFCE4E4480F45EC256FF1901"
+      Description and remarks: "Stukken in het archief van het Koninklijk Kabinet van Zeldzaamheden over de zending van Bromet uit 1825."
+    - Type of source: "Archiefstukken"
+      Name: "Noord-Hollands Archief 476 Rijksmuseum en rechtsvoorgangers - toegang 5 Archief van het Koninklijk Kabinet van Zeldzaamheden, (17e eeuw) 1815-1883, inventarisnummer 855, 167"
+      Link: 
+        - URL: "https://hdl.handle.net/21.12102/95EAF0FABEF64A9784DC8800507BB344"
+      Description and remarks: "Stukken in het archief van het Koninklijk Kabinet van Zeldzaamheden over de zending van Kanngiesser uit 1826."
   Secondary sources:
     - Type of source: "Publicatie"
       Name: "Broekhoven, L. van. Collectieprofiel Cultuurgebied Midden- en Zuid-Amerika. In: Verzamelde collectieprofielen Museum Volkenkunde, Leiden. Leiden: Museum Volkenkunde, 2008."
@@ -266,6 +281,12 @@ Sources:
       Link: 
         - URL: "https://www.dbnl.org/tekst/_oso001201601_01/_oso001201601_01_0003.php"
       Description and remarks: "SCHRIJVEN!"
+    - Type of source: "Catalogus"
+      Name: "Veth, P.J, G.A Wilken, en H.C Klinkert. Catalogus der afdeeling Nederlandsche Koloniën van de internationale koloniale en uitvoerhandel tentoonstelling (van 1 Mei tot ultimo October 1883) te Amsterdam.Leiden: E.J. Brill, 1883."
+      Link:
+        - URL: "http://hdl.handle.net/1887.1/item:129051"
+        - OCLC: "680228146"
+      Description and remarks: "Catalogus van de afdeling Nederlandse Koloniën op de in 1883 gehouden wereldtentoonstelling in Amsterdam, opgesteld door P.J. Veth. De catalogus bestaat uit drie delen die respectievelijk de drie objectgroepen beschrijven: 'Het  terrein der gekoloniseerde en overheerde gewesten', 'De inlandsche bevolking dier gewesten' en Groep III 'De Europeanen in die gewesten en hunne  betrekkingen tot de inlanders'."
     - Type of source: "Wetenschappelijk artikel"
       Name: "Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties I’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 7(1) (1988), 189-244."
       Link: 
@@ -283,9 +304,29 @@ Sources:
       Description and remarks: "SCHRIJVEN!"
 
     - Type of source: "Wetenschappelijk artikel"
+      Name: "Coudreau, H. ‘Dix ans de Guyane (missions du ministère de l'instruction publique)’, Bulletin de la Société de géographie, (1891), 447-480."
+      Link: 
+        - URL: "https://books.google.nl/books?id=lfwtSWQzxzYC&pg=PA447"
+      Description and remarks: "SCHRIJVEN!"
+    - Type of source: "Boek"
+      Name: "Joest, W. Ethnographisches und Verwandtes aus Guayana. Leiden: Trap, 1893."
+      Link: 
+        - URL: "https://books.google.nl/books?id=PeZwo1K4g3YC"
+      Description and remarks: "SCHRIJVEN!"
+    - Type of source: "Boek"
+      Name: "Crevaux, J. Voyages dans l'Amerique du Sud. Parijs: Hachette et Cie, 1883."
+      Link: 
+        - URL: "http://archive.org/details/voyagesdanslamer00crev"
+      Description and remarks: "SCHRIJVEN!"
+    - Type of source: "Wetenschappelijk artikel"
       Name: "Kate, H. F. C. ten ‘Observations anthropologiques recueillies dans la Guyane et le Venezuela’, Revue d'anthropologie, (2) (1887), 44-68."
       Link: 
         - URL: "https://gallica.bnf.fr/ark:/12148/bpt6k4425708/f48.image"
+      Description and remarks: "SCHRIJVEN! Gaat dit artikel over de verzamelde collectie?"
+    - Type of source: "Boek"
+      Name: "Martin, J. K. L. Westindische Skizzen : Reise-Erinnerungen. Leiden: E. J. Brill, 1887."
+      Link: 
+        - URL: "https://archive.org/details/westindischeskiz00mart_0"
       Description and remarks: "SCHRIJVEN!"
     - Type of source: "Wetenschappelijk artikel"
       Name: "Pleyte, C.M. ‘Die Kwakwabank der Buschneger Surinams’, Globus, (1896), 370-371."
@@ -295,7 +336,7 @@ Sources:
     - Type of source: "Wetenschappelijk artikel"
       Name: "Spitzly, John H. ‘Etnographische gegenstände aus Surinam’, Verhandlungen der Berliner Gesellschaft für Anthropologie, Ethnologie und Urgeschichte, (1889), 212-214."
       Link: 
-        - URL: "https://books.google.nl/books?id=HTJOAAAAYAAJ&hl=nl&pg=PA212#v=onepage&q&f=false"
+        - URL: "https://books.google.nl/books?id=HTJOAAAAYAAJ&hl=nl&pg=PA212"
       Description and remarks: "SCHRIJVEN!"
     - Type of source: "Hoofdstuk in een boek"
       Name: "'Rendez-vous manqué avec les 'viellles colonies', ethnographie et archéologie de la Guyane et des Antilles françaises (1931-1939)' in _Les années folles de l'ethnographie: Trocadéro 28-37_. Paris: Museum national d'histoire naturelle publications scientifiques, 2014, 581-629."
