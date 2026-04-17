@@ -28,9 +28,11 @@ Verdere negentiende-eeuwse verzamelingen omvatten onder meer de collecties [RV-3
 #### Verkenningen langs de rivieren
 Door goudvondsten in het stroomgebied van de Marowijnerivier nam de internationale belangstelling voor Suriname vanaf de late jaren zeventig van de negentiende eeuw toe. Samen met de Aluku gids en bootsman [Apatou](https://nl.wikipedia.org/wiki/Apatou_(kapitein)) reisde de Franse arts Jules Crevaux in 1877 via de bovenlopen van de Marowijne naar Belém in Brazilië. Crevaux [schonk](https://collections.quaibranly.fr/?state=%7B%22matchAllCriteria%22%3Atrue%2C%22customSearchCriteria%22%3A%5B%7B%22field%22%3A%22%2FRecord%2FConX%2FAlphaSortConX%2C%2FRecord%2FConXother%2FAlphaSort%22%2C%22fieldLabel%22%3A%22%22%2C%22searchValues%22%3A%5B%22%5BCrevaux%2C%20Jules%5D%22%5D%2C%22description%22%3A%22Personne%28s%29%20%3A%20Crevaux%2C%20Jules%22%7D%5D%7D) de voorwerpen die hij tijdens de reis had verzameld aan het _Musée du Trocadéro_ in Parijs, een van de voorlopers van het huidige _Musée du Quai Branly – Jacques Chirac_. Hetzelfde gold voor de [objecten](https://collections.quaibranly.fr/?state=%7B%22matchAllCriteria%22%3Atrue%2C%22customSearchCriteria%22%3A%5B%7B%22field%22%3A%22%2FRecord%2FConX%2FAlphaSortConX%2C%2FRecord%2FConXother%2FAlphaSort%22%2C%22fieldLabel%22%3A%22%22%2C%22searchValues%22%3A%5B%22%5BFournereau%2C%20Lucien%5D%22%5D%2C%22description%22%3A%22Personne%28s%29%20%3A%20Fournereau%2C%20Lucien%22%7D%5D%7D) die Lucien Fournereau in 1882 langs de Marowijne verzamelde. Voorwerpen uit Suriname die waren getoond op de Wereldtentoonstelling van 1878 in Parijs en de [Wereldtentoonstelling van 1883](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F6ad17cc1c619926c9a449872d3c41b0f) in Amsterdam werden na afloop over verschillende volkenkundige musea verdeeld; in Nederland leverde dat onder meer de series [RV-300](https://app.colonialcollections.nl/nl/objects?query=rv-300) en [RV-370](https://app.colonialcollections.nl/nl/objects?query=rv-370) op. 
 
-Tussen mei 1885 en juli 1886 verbleef [Herman ten Kate](https://nl.wikipedia.org/wiki/Herman_ten_Kate_(antropoloog)) in Suriname om voor hetzelfde Rijks Ethnographisch Museum de verzameling [RV-581](https://app.colonialcollections.nl/nl/objects?query=rv-581) samen te stellen. In dezelfde periode verzamelde de Leidse hoogleraar geologie Karl Martin bij inheemsen en Saamaka; deze collectie zou in 1949 door zijn weduwe Hillegonda Martin-Icke worden geschonken en in het museum worden opgenomen als serie [RV-2777](https://app.colonialcollections.nl/nl/objects?query=rv-2777). In 1887 gidste Apatou opnieuw een Fransman, namelijk geograaf en koloniaal ambtenaar Henri Coudreau, langs de bovenlopen van de Marowijne. Ook diens verzameling werd [ondergebracht](https://collections.quaibranly.fr/?state=%7B%22matchAllCriteria%22%3Atrue%2C%22customSearchCriteria%22%3A%5B%7B%22field%22%3A%22%2FRecord%2FConX%2FAlphaSortConX%2C%2FRecord%2FConXother%2FAlphaSort%22%2C%22fieldLabel%22%3A%22%22%2C%22searchValues%22%3A%5B%22%5BCoudreau%2C%20Henri%5D%22%5D%2C%22description%22%3A%22Personne%28s%29%20%3A%20Coudreau%2C%20Henri%22%7D%5D%7D) in het _Musée du Trocadéro_. Legerarts [John H. Spitzly](https://www.wikidata.org/wiki/Q137806783) droeg in 1888 een verzameling etnografische voorwerpen uit Suriname over aan het _Berliner Gesellschaft für Anthropologie, Ethnologie und Urgeschichte_.
+Tussen mei 1885 en juli 1886 verbleef [Herman ten Kate](https://nl.wikipedia.org/wiki/Herman_ten_Kate_(antropoloog)) in Suriname om voor het Rijks Ethnographisch Museum de verzameling [RV-581](https://app.colonialcollections.nl/nl/objects?query=rv-581) samen te stellen. In dezelfde periode verzamelde de Leidse hoogleraar geologie Karl Martin bij inheemsen en Saamaka; deze collectie zou in 1949 door zijn weduwe Hillegonda Martin-Icke worden geschonken en in het museum worden opgenomen als serie [RV-2777](https://app.colonialcollections.nl/nl/objects?query=rv-2777). In 1887 gidste Apatou opnieuw een Fransman, namelijk geograaf en koloniaal ambtenaar Henri Coudreau, langs de bovenlopen van de Marowijne. Ook diens verzameling werd [ondergebracht](https://collections.quaibranly.fr/?state=%7B%22matchAllCriteria%22%3Atrue%2C%22customSearchCriteria%22%3A%5B%7B%22field%22%3A%22%2FRecord%2FConX%2FAlphaSortConX%2C%2FRecord%2FConXother%2FAlphaSort%22%2C%22fieldLabel%22%3A%22%22%2C%22searchValues%22%3A%5B%22%5BCoudreau%2C%20Henri%5D%22%5D%2C%22description%22%3A%22Personne%28s%29%20%3A%20Coudreau%2C%20Henri%22%7D%5D%7D) in het _Musée du Trocadéro_. Legerarts [John H. Spitzly](https://www.wikidata.org/wiki/Q137806783) droeg in 1888 een verzameling etnografische voorwerpen uit Suriname over aan het _Berliner Gesellschaft für Anthropologie, Ethnologie und Urgeschichte_.
 
-De onderzoeksreizen in 1890 van de Duitse Wilhelm Joest en de Zweedse Axel Klinckowström resulteerden in schenkingen aan respectievelijk het _Ethnologisches Museum_ in Berlijn en het _Etnografiska museet_ in Stockholm. Joests privéverzameling, met daarin ook veel voorwerpen uit Suriname, vormde na zijn dood de basis van het _Rautenstrauch-Joest-Museum_ in Keulen. Voor de etnografische verzamelingen in Nederland was vooral de tentoonstelling over Nederlands West-Indië van belang. Voor deze tentoonstelling, die in 1899 werd gehouden in het Koloniaal Museum in Haarlem, verzamelde koloniaal ambtenaar [Louis Constant van Panhuys](https://nl.wikipedia.org/wiki/Louis_Constant_van_Panhuys) tijdens zijn stationering in Albina tussen 1893 en 1896 voorwerpen van met name Okanisi. Deze collectie bevindt zich vandaag de dag in de serie [TM-H](https://app.colonialcollections.nl/nl/objects?query=tm-h&locations=Suriname) van het Wereldmuseum Amsterdam.
+De onderzoeksreizen in 1890 van de Duitse Wilhelm Joest en de Zweedse Axel Klinckowström resulteerden in schenkingen aan respectievelijk het _Ethnologisches Museum_ in Berlijn en het _Etnografiska museet_ in Stockholm. Joests privéverzameling, met daarin ook veel voorwerpen uit Suriname, vormde na zijn dood de basis van het _Rautenstrauch-Joest-Museum_ in Keulen. 
+
+Voor de etnografische verzamelingen in Nederland was vooral de tentoonstelling over Nederlands West-Indië van belang. Voor deze tentoonstelling, die in 1899 werd gehouden in het Koloniaal Museum in Haarlem, verzamelde koloniaal ambtenaar [Louis Constant van Panhuys](https://nl.wikipedia.org/wiki/Louis_Constant_van_Panhuys) tijdens zijn stationering in Albina tussen 1893 en 1896 voorwerpen van met name Okanisi. Deze collectie bevindt zich vandaag de dag in de serie [TM-H](https://app.colonialcollections.nl/nl/objects?query=tm-h&locations=Suriname) van het Wereldmuseum Amsterdam.
 
 Directeur [Maurice Guffroy](https://www.wikidata.org/wiki/Q122165409) van de _Compagnie des mines d'or de la Guyane hollandaise_ [doneerde](https://collections.quaibranly.fr/?state=%7B%22matchAllCriteria%22%3Atrue%2C%22customSearchCriteria%22%3A%5B%7B%22field%22%3A%22%2FRecord%2FConX%2FAlphaSortConX%2C%2FRecord%2FConXother%2FAlphaSort%22%2C%22fieldLabel%22%3A%22%22%2C%22searchValues%22%3A%5B%22%5BGuffroy%2C%20Maurice%5D%22%5D%2C%22description%22%3A%22Personne%28s%29%20%3A%20Guffroy%2C%20Maurice%22%7D%5D%7D) in 1901 een omvangrijke collectie objecten van Wayana en Aluku aan het _Musée du Trocadéro_. Drie van de acht expedities naar Suriname die vlak na de eeuwwisseling onder auspiciën van het Koninklijk Nederlands Aardrijkskundig Genootschap werden georganiseerd leverden omvangrijke etnografische collecties op, die zich vandaag de dag bevinden in de collectie van het [Wereldmuseum Amsterdam](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208). De expeditie naar de Gonini uit 1903 leverde serie [TM-401](https://app.colonialcollections.nl/nl/objects?query=tm-401) met 86 voorwerpen op, de expeditie naar de Tapanahony uit 1904 serie [TM-402](https://app.colonialcollections.nl/nl/objects?query=tm-402) met 493 voorwerpen en de expeditie naar het Toemoek-Hoemakgebergte serie [TM-403](https://app.colonialcollections.nl/nl/objects?query=tm-403) met 186 voorwerpen. Expeditielid Claudius de Goeje droeg in 1904 een persoonlijke verzameling over aan het museum in Leiden, waar die is opgenomen onder serienummers [RV-1443](https://app.colonialcollections.nl/nl/objects?query=rv-1443) en [RV-1454](https://app.colonialcollections.nl/nl/objects?query=rv-1454).
 
@@ -74,8 +76,9 @@ Voor onderzoek naar de zendingen aan het Koninklijk Kabinet van Zeldzaamheden ku
 * Wat is de herkomst van TM-7? Is geheel Surinaams. In 1914 geschonken. Door wie is in 1914 [TM-7-23](https://hdl.handle.net/20.500.11840/178113) waardigheidstaf marrons geschonken? 
 * TM-9 is Corantijnexpeditie?? [TM-9-1](https://hdl.handle.net/20.500.11840/182875)
 * TM-0 is een collectie met ongenummerd aangetroffen voorwerpen?
-* TM-2345 is een schenking uit 1954 van ~178 objecten uit Suriname
+* TM-2345 is een schenking uit 1954 van ~178 objecten uit Suriname. Waarschijnlijk schenking van de landsregering?
 * TM-3290 is een schenking uit 1963 van ~324 objecten uit Suriname
+* Welke serie is de overdracht van het Ministerie van Koloniën uit 1927 waarover wordt gesproken in Zoekterm 'Suriname'?
 
 #### Wereldmuseum Rotterdam
 Volgens Vruggink en Paasman zijn de eerste 44 voorwerpen van de Surinamecollectie een schenking van een oud-directeur van het museum. Daarnaast ook vijf objecten van balata, dan acht trommels die in 1916 aan het museum zijn geschonken, en veel objecten van marrons en inheemsen, aankoop uit 1955 van het Zeister Zendingsgenootschap, twintig sloten, diverse schortjes en sieraden, 182 voorwerpen in bruikleen van Beatrix en ca. 50 stuks recentelijk geschonken textiel en keramiek.
@@ -151,6 +154,7 @@ Lijkt grotendeels afkomstig van een door Cambridge georganiseerde expeditie naar
 #### Pitt Rivers Museum, Oxford
 https://www.prm.ox.ac.uk/files/southamericantropicalforestmaterialpdf "There are 336 objects from Surinam in the Pitt Rivers Museum of which some 77 are of Maroon rather than Amerindian origin. The Amerindian material is dominated by two collections [: Butt Colson (1963) and Peter Rivière]. [...] The non-Amerindian material is almost entirely Maroon, from the Aukan, also known as Ndyuka, living on the Maroni and Lawa Rivers. Butt Colson collected 26 objects from the Aukan, one of which is listed as coming from French Guiana. To this Aukan collection is to be added a further 39 objects donated by the Cambridge Expedition to Langa Tabiki in 1965. The remaining four objects consist of three Maroon items (a musical instrument and two calabash spoons) donated by Mrs Beatrice Braithwaite Batty in 1917. She was the author of An English girl’s account of a Moravian Settlement in the Black Forest (1858), Forty two years among the Indians and Eskimo (1893), and numerous other works. Finally there is a pottery vessel in the form of a cockerel donated by Edward Archibald Parry, Bishop of Guiana, in 1908."
 
+#### Het Herrnhuter Huis
 Een kleine verzameling behorende tot het aan de EBG geliëerde Zeister Zendingsgenootschap tentoongesteld in [Het Herrnhuter Huis](https://hernhutterhuis.nl/)
 
 Frans-Nederlandse expeditie Marowijne 1861: Cateau van Rosevelt, Ronmy, Vidal, Kappler.
@@ -181,8 +185,13 @@ Temminck 1827 zending die met naturalia waren meegekomen, uiteindelijk afkomstig
 
 Crevaux, Coudreaux, Brunetti?
 
-Musée des cultures guyanaises http://amazonian-museum-network.org/nl/de-collecties?&filter/musee=174  
-Surinaams Museum: 
+#### Musée des cultures guyanaises 
+[Collectie](http://amazonian-museum-network.org/nl/de-collecties?&filter/musee=174)
+
+Valt buiten de scope van de zoekhulp, want de collectie bevindt zich in land van herkomst.  
+
+#### Surinaams Museum: 
+[Collectie](http://amazonian-museum-network.org/nl/de-collecties)
 
 
 ## Related Aids
@@ -221,7 +230,7 @@ Archiefstukken:
 
 Publicatie:
   > *Broekhoven, L. van. Collectieprofiel Cultuurgebied Midden- en Zuid-Amerika. In: Verzamelde collectieprofielen Museum Volkenkunde, Leiden. Leiden: Museum Volkenkunde, 2008.*
-  > _Hoofdstuk over de Afrikaanse collectie van het Wereldmuseum Leiden in een publicatie over collectieprofielen._  
+  > _Hoofdstuk over de Midden- en Zuid-Amerikaanse collectie van het Wereldmuseum Leiden in een publicatie over collectieprofielen._  
 
   > [https://www.yumpu.com/nl/document/view/20123476/open-het-profiel-als-pdf-museum-volkenkunde](https://www.yumpu.com/nl/document/view/20123476/open-het-profiel-als-pdf-museum-volkenkunde)
 
@@ -291,6 +300,12 @@ Wetenschappelijk artikel:
 
   > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php)
 
+Boek:
+  > *Wentholt, A. (red.), In kaart gebracht met kapmes en kompas: met het Koninklijk Nederlands Aardrijkskundig Genootschap op expeditie tussen 1873 en 1960. Heerlen/Utrecht: ABP/KNAG, 2003.*
+  > _SCHRIJVEN!_  
+
+  > [ISBN 978-90-6601-015-4](https://isbnsearch.org/isbn/978-90-6601-015-4)
+
 Wetenschappelijk artikel:
   > *Coudreau, H. ‘Dix ans de Guyane (missions du ministère de l'instruction publique)’, Bulletin de la Société de géographie, (1891), 447-480.*
   > _SCHRIJVEN!_  
@@ -338,6 +353,12 @@ Hoofdstuk in een boek:
   > _SCHRIJVEN!_  
 
   > [https://www.researchgate.net/publication/323471269_Rendez-vous_manque_avec_les_vieilles_colonies_Ethnologie_et_archeologie_de_la_Guyane_et_des_Antilles_francaises_1931-1939](https://www.researchgate.net/publication/323471269_Rendez-vous_manque_avec_les_vieilles_colonies_Ethnologie_et_archeologie_de_la_Guyane_et_des_Antilles_francaises_1931-1939), [ISBN 978-2-85653-807-4](https://isbnsearch.org/isbn/978-2-85653-807-4)
+
+Publicatie:
+  > *Zoekterm 'Suriname'. een eerste aanzet tot een inventarisatie van objecten uit Suriname in Nederland. Consortium Koloniale Collecties, 2024.*
+  > _SCHRIJVEN!_  
+
+  > [https://wp-dev.colonialcollections.org/wp-content/uploads/2024/04/Eerste-inventaristie-objecten-Suriname_Consortium-Koloniale-Collecties-2.pdf](https://wp-dev.colonialcollections.org/wp-content/uploads/2024/04/Eerste-inventaristie-objecten-Suriname_Consortium-Koloniale-Collecties-2.pdf)
 
 
 
