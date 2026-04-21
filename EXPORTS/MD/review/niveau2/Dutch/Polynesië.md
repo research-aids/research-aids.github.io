@@ -13,6 +13,9 @@ Te schrijven.
 
 ### Herkomstonderzoek
 
+### Klad
+Appendix E bij dissertatie Van Santen is een lijst met objecten die in 1825 zijn verzameld
+
 
 ## Related Aids
 
@@ -26,7 +29,17 @@ Te schrijven.
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
  - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
 
-THIS RA HAS NO SOURCES
+## Primary sources
+
+## Secondary sources
+
+Dissertatie:
+  > *Santen, Caroline van. Nuku Hiva 1825: ethnohistory of a Dutch-Marquesan encounter and an art-historical study of Marquesan material culture. Proefschrift University of East Anglia, 2021.*
+  > _SCHRIJVEN!_  
+
+  > [https://ueaeprints.uea.ac.uk/id/eprint/85985](https://ueaeprints.uea.ac.uk/id/eprint/85985)
+
+
 
 ---
 ## Relevant Data 

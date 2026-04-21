@@ -192,6 +192,7 @@ Valt buiten de scope van de zoekhulp, want de collectie bevindt zich in land van
 
 #### Surinaams Museum: 
 [Collectie](http://amazonian-museum-network.org/nl/de-collecties)
+Oorsprong Koloniaal museum is de collectie die Tjark Jansen Eijken Sluyters in 1865 aan het koloniale gouvernement schonk. In 1867 werd een Genootschap tot bevordering van kennis opgericht, dat zorg moest dragen voor het museum en voor de koloniale bibliotheek. 1876 Surinametentoonstelling in het Koloniaal Museum.
 
 
 ## Related Aids
