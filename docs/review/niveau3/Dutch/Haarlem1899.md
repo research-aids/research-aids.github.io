@@ -1,5 +1,20 @@
+---
+layout: default
+title: West-Indische tentoonstelling 1899
+parent: niveau3
+ancestor: Review
+nav_enabled: true
+has_toc: true
+date: 2026-04-21
+nav_exclude: False
+--- 
+
+
 
 # West-Indische tentoonstelling 1899
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/Haarlem1899.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/Haarlem1899.docx){: .btn .btn-outline .flex-justify-between}
+
 
 
 ## Abstract
