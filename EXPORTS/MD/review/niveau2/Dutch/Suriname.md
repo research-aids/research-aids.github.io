@@ -131,7 +131,10 @@ Herkomst onder andere:
 * Gift of Charles A. Robinson, 2002
 
 [Collectiewebsite](https://www.penn.museum/collections/search.php?term=suriname&submit_term=Submit) 
-Artikel [Dutch Guiana pottery](https://www.penn.museum/sites/journal/609/) "A very valuable collection containing an assortment of this ware was collected by Mr. T. J. Collins of Haddonfield, New Jersey, and presented to the University Museum some time ago"
+
+Artikel [Dutch Guiana pottery](https://www.penn.museum/sites/journal/609/) 
+
+"A very valuable collection containing an assortment of this ware was collected by Mr. T. J. Collins of Haddonfield, New Jersey, and presented to the University Museum some time ago"
 
 Is hoogstwaarschijnlijk [Thomas Jefferson Collins](https://www.wikidata.org/wiki/Q139013446)
 
@@ -152,7 +155,12 @@ Is hoogstwaarschijnlijk [Thomas Jefferson Collins](https://www.wikidata.org/wiki
 Lijkt grotendeels afkomstig van een door Cambridge georganiseerde expeditie naar Langatabiki in 1966.
 
 #### Pitt Rivers Museum, Oxford
-https://www.prm.ox.ac.uk/files/southamericantropicalforestmaterialpdf "There are 336 objects from Surinam in the Pitt Rivers Museum of which some 77 are of Maroon rather than Amerindian origin. The Amerindian material is dominated by two collections [: Butt Colson (1963) and Peter Rivière]. [...] The non-Amerindian material is almost entirely Maroon, from the Aukan, also known as Ndyuka, living on the Maroni and Lawa Rivers. Butt Colson collected 26 objects from the Aukan, one of which is listed as coming from French Guiana. To this Aukan collection is to be added a further 39 objects donated by the Cambridge Expedition to Langa Tabiki in 1965. The remaining four objects consist of three Maroon items (a musical instrument and two calabash spoons) donated by Mrs Beatrice Braithwaite Batty in 1917. She was the author of An English girl’s account of a Moravian Settlement in the Black Forest (1858), Forty two years among the Indians and Eskimo (1893), and numerous other works. Finally there is a pottery vessel in the form of a cockerel donated by Edward Archibald Parry, Bishop of Guiana, in 1908."
+"There are 336 objects from Surinam in the Pitt Rivers Museum of which some 77 are of Maroon rather than Amerindian origin. The Amerindian material is dominated by two collections [: Butt Colson (1963) and Peter Rivière]. [...] The non-Amerindian material is almost entirely Maroon, from the Aukan, also known as Ndyuka, living on the Maroni and Lawa Rivers. Butt Colson collected 26 objects from the Aukan, one of which is listed as coming from French Guiana. To this Aukan collection is to be added a further 39 objects donated by the Cambridge Expedition to Langa Tabiki in 1965. The remaining four objects consist of three Maroon items (a musical instrument and two calabash spoons) donated by Mrs Beatrice Braithwaite Batty in 1917. She was the author of An English girl’s account of a Moravian Settlement in the Black Forest (1858), Forty two years among the Indians and Eskimo (1893), and numerous other works. Finally there is a pottery vessel in the form of a cockerel donated by Edward Archibald Parry, Bishop of Guiana, in 1908." [Source](https://www.prm.ox.ac.uk/files/southamericantropicalforestmaterialpdf)
+
+De drie marronobjecten die door Braithwaite Batty zijn geschonken in 1917:
+* [1917.14.6](https://www.prm.ox.ac.uk/collections-online#/item/prm-object-39369)
+* [1917.14.18](https://www.prm.ox.ac.uk/collections-online#/item/prm-object-61254)
+* [1917.14.19](https://www.prm.ox.ac.uk/collections-online#/item/prm-object-61255)
 
 #### Het Herrnhuter Huis
 Een kleine verzameling behorende tot het aan de EBG geliëerde Zeister Zendingsgenootschap tentoongesteld in [Het Herrnhuter Huis](https://hernhutterhuis.nl/)
