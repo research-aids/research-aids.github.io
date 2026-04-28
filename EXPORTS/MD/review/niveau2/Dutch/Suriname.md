@@ -34,7 +34,7 @@ De onderzoeksreizen in 1890 van de Duitse Wilhelm Joest en de Zweedse Axel Klinc
 
 Voor de etnografische verzamelingen in Nederland was vooral de tentoonstelling over Nederlands West-Indië van belang. Voor deze tentoonstelling, die in 1899 werd gehouden in het Koloniaal Museum in Haarlem, verzamelde koloniaal ambtenaar [Louis Constant van Panhuys](https://nl.wikipedia.org/wiki/Louis_Constant_van_Panhuys) tijdens zijn stationering in Albina tussen 1893 en 1896 voorwerpen van met name Okanisi. Deze collectie bevindt zich vandaag de dag in de serie [TM-H](https://app.colonialcollections.nl/nl/objects?query=tm-h&locations=Suriname) van het Wereldmuseum Amsterdam.
 
-Directeur [Maurice Guffroy](https://www.wikidata.org/wiki/Q122165409) van de _Compagnie des mines d'or de la Guyane hollandaise_ [doneerde](https://collections.quaibranly.fr/?state=%7B%22matchAllCriteria%22%3Atrue%2C%22customSearchCriteria%22%3A%5B%7B%22field%22%3A%22%2FRecord%2FConX%2FAlphaSortConX%2C%2FRecord%2FConXother%2FAlphaSort%22%2C%22fieldLabel%22%3A%22%22%2C%22searchValues%22%3A%5B%22%5BGuffroy%2C%20Maurice%5D%22%5D%2C%22description%22%3A%22Personne%28s%29%20%3A%20Guffroy%2C%20Maurice%22%7D%5D%7D) in 1901 een omvangrijke collectie objecten van Wayana en Aluku aan het _Musée du Trocadéro_. Drie van de acht expedities naar Suriname die vlak na de eeuwwisseling onder auspiciën van het Koninklijk Nederlands Aardrijkskundig Genootschap werden georganiseerd leverden omvangrijke etnografische collecties op, die zich vandaag de dag bevinden in de collectie van het [Wereldmuseum Amsterdam](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208). De expeditie naar de Gonini uit 1903 leverde serie [TM-401](https://app.colonialcollections.nl/nl/objects?query=tm-401) met 86 voorwerpen op, de expeditie naar de Tapanahony uit 1904 serie [TM-402](https://app.colonialcollections.nl/nl/objects?query=tm-402) met 493 voorwerpen en de expeditie naar het Toemoek-Hoemakgebergte serie [TM-403](https://app.colonialcollections.nl/nl/objects?query=tm-403) met 186 voorwerpen. Expeditielid Claudius de Goeje droeg in 1904 een persoonlijke verzameling over aan het museum in Leiden, waar die is opgenomen onder serienummers [RV-1443](https://app.colonialcollections.nl/nl/objects?query=rv-1443) en [RV-1454](https://app.colonialcollections.nl/nl/objects?query=rv-1454).
+Directeur [Maurice Guffroy](https://www.wikidata.org/wiki/Q122165409) van de _Compagnie des mines d'or de la Guyane hollandaise_ [doneerde](https://collections.quaibranly.fr/?state=%7B%22matchAllCriteria%22%3Atrue%2C%22customSearchCriteria%22%3A%5B%7B%22field%22%3A%22%2FRecord%2FConX%2FAlphaSortConX%2C%2FRecord%2FConXother%2FAlphaSort%22%2C%22fieldLabel%22%3A%22%22%2C%22searchValues%22%3A%5B%22%5BGuffroy%2C%20Maurice%5D%22%5D%2C%22description%22%3A%22Personne%28s%29%20%3A%20Guffroy%2C%20Maurice%22%7D%5D%7D) in 1901 een omvangrijke collectie objecten van Wayana en Aluku aan het _Musée du Trocadéro_. Drie van de acht expedities naar Suriname die vlak na de eeuwwisseling onder auspiciën van het Koninklijk Nederlands Aardrijkskundig Genootschap werden georganiseerd leverden omvangrijke etnografische collecties op, die zich vandaag de dag bevinden in de collectie van het [Wereldmuseum Amsterdam](https://app.colonialcollections.nl/nl/research-aids/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2Fba9397040f2cf7f618e2180fb6c90208). De expeditie naar de Gonini uit 1903 leverde serie [TM-401](https://app.colonialcollections.nl/nl/objects?query=tm-401) met 86 voorwerpen op, de expeditie naar de Tapanahony uit 1904 serie [TM-402](https://app.colonialcollections.nl/nl/objects?query=tm-402) met 493 voorwerpen en de expeditie naar het Toemoek-Hoemakgebergte serie [TM-403](https://app.colonialcollections.nl/nl/objects?query=tm-403) met 186 voorwerpen. Expeditielid [Claudius de Goeje](https://nl.wikipedia.org/wiki/Claudius_Henricus_de_Goeje) droeg in 1904 een persoonlijke verzameling over aan het museum in Leiden, waar die is opgenomen onder serienummers [RV-1443](https://app.colonialcollections.nl/nl/objects?query=rv-1443) en [RV-1454](https://app.colonialcollections.nl/nl/objects?query=rv-1454).
 
 De door de Surinaamse broers Frederik Paul en Arthur Philip Penard van Cariben verzamelde collecties [RV-1817](https://app.colonialcollections.nl/nl/objects?query=rv-1817) en [RV-2349](https://app.colonialcollections.nl/nl/objects?query=rv-2349) werden in respectievelijk 1912 en 1937 geschonken aan het museum in Leiden. Tenslotte leverde de KNAG-expeditie in 1926 naar het Wilhelminagebergte door Gerold Stahel de serie [TM-416](https://app.colonialcollections.nl/nl/objects?query=tm-416) in het museum in Amsterdam op. 
 
@@ -87,6 +87,11 @@ Volgens Vruggink en Paasman zijn de eerste 44 voorwerpen van de Surinamecollecti
 
 #### Bronbeek
 1865: Pijl geschonken door Van Sypesteyn: [1865/01/31-1-3](https://museumbronbeek.nl/#1ccc4f61-eec9-4d10-a298-c3fd42d99e5f)
+
+#### Rijksmuseum
+[Objecten](https://www.rijksmuseum.nl/nl/collectie/publicatie/Shackles-and-bonds-Suriname-and-the-Netherlands-since-1600--ba4a7b064333548bc51fd05f185fc61a?collectionSearchContext=Library&page=1&sortingType=Popularity&facets[0].id=069f20f21cc335c4a8fc2f96e123480e&facets[0].nodeRelationType=HasObjectType) in Ketens en Banden
+
+Veel foto's, prenten, schilderijen, weinig tot geen etnografische objecten. Wel een [juwelendoos](https://id.rijksmuseum.nl/200681599) met voorstellingen van de de Gonini-expeditie van 1903.
 
 #### Gerardus van der Leeuw
 [Catalogus met ook objecten uit Suriname](https://www.rug.nl/museum/collections/ethnological/pdf/mgcataloguslr.pdf)
@@ -362,6 +367,12 @@ Hoofdstuk in een boek:
   > _SCHRIJVEN!_  
 
   > [https://www.researchgate.net/publication/323471269_Rendez-vous_manque_avec_les_vieilles_colonies_Ethnologie_et_archeologie_de_la_Guyane_et_des_Antilles_francaises_1931-1939](https://www.researchgate.net/publication/323471269_Rendez-vous_manque_avec_les_vieilles_colonies_Ethnologie_et_archeologie_de_la_Guyane_et_des_Antilles_francaises_1931-1939), [ISBN 978-2-85653-807-4](https://isbnsearch.org/isbn/978-2-85653-807-4)
+
+Boek:
+  > *Sint Nicolaas, Eveline. Ketens en banden: Suriname en Nederland sinds 1600. Nijmegen: Vantilt, 2018.*
+  > _Publicatie over objecten uit Suriname in de collectie van het Rijksmuseum._  
+
+  > [WorldCat 1038514699](https://search.worldcat.org/title/1038514699), [ISBN 9789460043499](https://isbnsearch.org/isbn/9789460043499)
 
 Publicatie:
   > *Zoekterm 'Suriname'. een eerste aanzet tot een inventarisatie van objecten uit Suriname in Nederland. Consortium Koloniale Collecties, 2024.*
