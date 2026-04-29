@@ -106,7 +106,7 @@ Volgens Vruggink en Paasman zijn de eerste 44 voorwerpen van de Surinamecollecti
 #### Rijksmuseum
 [Objecten](https://www.rijksmuseum.nl/nl/collectie/publicatie/Shackles-and-bonds-Suriname-and-the-Netherlands-since-1600--ba4a7b064333548bc51fd05f185fc61a?collectionSearchContext=Library&page=1&sortingType=Popularity&facets[0].id=069f20f21cc335c4a8fc2f96e123480e&facets[0].nodeRelationType=HasObjectType) in Ketens en Banden
 
-Veel foto's, prenten, schilderijen, weinig tot geen etnografische objecten. Wel een [juwelendoos](https://id.rijksmuseum.nl/200681599) met voorstellingen van de de Gonini-expeditie van 1903.
+Veel foto's, prenten, schilderijen, weinig tot geen etnografische objecten. Wel een [juwelendoos](https://id.rijksmuseum.nl/200681599) met voorstellingen van de de Gonini-expeditie van 1903. Ook [slagstempel](https://id.rijksmuseum.nl/20079165) uit achttiende eeuw, [erepenning voor George](https://id.rijksmuseum.nl/200147299), [kistje met houtmonsters](https://id.rijksmuseum.nl/20053232).
 
 #### Gerardus van der Leeuw
 [Catalogus met ook objecten uit Suriname](https://www.rug.nl/museum/collections/ethnological/pdf/mgcataloguslr.pdf)
