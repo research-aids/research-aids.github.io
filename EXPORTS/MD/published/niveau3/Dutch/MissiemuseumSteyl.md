@@ -1,0 +1,72 @@
+
+# Missiemuseum Steyl
+
+
+## Abstract
+
+Het Missiemuseum in Steyl werd in zijn huidige vorm in 1931 geopend. De collectie bestaat uit objecten die missionarissen van Steyl meenamen van hun missies in Azië en Afrika. Aan de opstelling zoals die was in 1934 is sindsdien vrijwel niets veranderd.
+
+### Geschiedenis van het museum
+
+Tijdens de zogenaamde *Kulturkampf* in Duitsland, besloot priester Arnold Janssen in 1875 om, vlak over de grens met Nederland, in Steyl de congregatie [Societas Verbi Divini](http://www.wikidata.org/entity/Q696656) (SVD) op te richten. Al vanaf de missie in 1879 naar China werden er door missionarissen objecten verzameld en verzonden naar Steyl. In 1894 bouwde het missiehuis een nieuwe drukkerij, waar de collectie ook een plaats kreeg. Deze collectie groeide gestaag met objecten uit verschillende landen waar de missionarissen uit Steyl naartoe vertrokken en werd, naast etnografica, aangevuld met geprepareerde dieren, opgezet of op sterkwater. Niet alle dieren en objecten werden overigens door de missionarissen uit Steyl zelf verzameld. Sommige collecties werden overgenomen van andere congregaties. Door de groeiende collectie kreeg het museum wederom een nieuwe locatie, waar het tot op heden zit.
+
+Het museum zoals dat in 1931 opende was volledig ingericht naar het idee van Broeder Berchmans, die ook verantwoordelijk was voor de grote vlindercollectie van het museum. Sinds het overlijden van Berchmans in 1934 is de presentatie van de collectie in het Missiemuseum vrijwel niet aangepast. De vitrines met etnografica zijn zodoende, in lijn met de heersende ideeën in 1931 ingedeeld naar de vermeende mate van 'beschaving' van verschillende volkeren. Aangezien de opstelling van het museum sinds 1934 vrijwel niet meer is aangepast, is het Missiemuseum in Steyl een 'museum in een museum', dat een goed beeld geeft van hoe er in de twintigste eeuw tegen etnografische collecties werd aangekeken. De museumopstelling weerspiegelt het wereldbeeld van de katholieke missie van destijds.
+
+Broeder Berchmans liet na zijn overlijden weinig documentatie met betrekking tot de museumcollectie na. Om die reden is van veel objecten geen precieze herkomstgeschiedenis bekend. Veel van de natuurhistorische collecties zijn gekocht van dierentuinen en handelaren en bevatten naast flora en fauna uit het buitenland, ook verzamelingen uit Nederland. Etnografische objecten zijn voornamelijk verworven door missionarissen van de SVD, maar over de manier van verwerven is weinig bekend. Het Missiemuseum Steyl is ook beheerder van de collectie Schmutzer, dit is een groep van houten beelden, gemaakt tussen 1924 en 1927 door de Indonesische kunstenaar Iko, in opdracht van [Joseph Schmutzer](http://www.wikidata.org/entity/Q1876872).
+
+![Foto uit 2015 van de collectieopstelling in de grote zaal van het Missiemuseum in Steyl](https://upload.wikimedia.org/wikipedia/commons/9/9e/Missiemuseum_Steyl-Tegelen%2C_grote_zaal%2C_vaste_collectie_02.jpg)
+_Vaste opstelling in de grote zaal van het Missiemuseum Steyl_ ([Kleon3](https://commons.wikimedia.org/wiki/File:Missiemuseum_Steyl-Tegelen,_grote_zaal,_vaste_collectie_02.jpg))
+
+### Herkomstonderzoek
+
+Aangezien Broeder Berchmans weinig documentatie achter liet met betrekking tot de collectie van het Missiemuseum Steyl, is van veel objecten de herkomstgeschiedenis gering. Er is een marginale registratie opgetekend en bijgehouden tot 1934. Ook van na die periode is documentatie, maar deze is summier en ongeordend. In een boek en een paar schriften zijn summier objectaanduiding en gegevens van binnenkomst bijgehouden, soms voorzien van een nummering die ook aan een object te linken is. Er is ook een museumarchief, maar dat is niet toegankelijk. Op aanvraag kunnen onderzoekers van het archief gebruikmaken. Hiervoor dient een bericht te worden gestuurd naar de [conservator](mailto:conservator@missiemuseumsteyl.nl). 
+
+De collectie van het Missiemuseum is tot op heden niet volledig geregistreerd. Daar wordt op dit moment aan gewerkt. Gedurende die registratie is het de bedoeling dat de museumcollectie beschikbaar wordt via het [Limburgs Erfgoednet](https://limburgserfgoednet.nl/), waar nu al enkele objecten uit het museum op zichtbaar zijn. Naast de museumcollectie heeft de SVD ook een bibliotheek met verschillende natuurhistorische en volkenkundige boeken uit de achttiende en negentiende eeuw en een collectie foto's en glasnegatieven. In het [Collectieplan 2023-2028](https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf) is meer informatie te vinden over de collectie van Missiemuseum Steyl.
+
+
+## Related Aids
+
+ - [Zendelingen en missionarissen in gekoloniseerde gebieden](niveau2/Dutch/ChristianMission.yml)  
+ - [Nederlands Volkenkundig Missiemuseum](niveau3/Dutch/MissiemuseumTilburg.yml)  
+ - [Nederlandsch Zendeling Genootschap](niveau3/Dutch/NZG.yml)  
+ - [Nijmeegs Volkenkundig Museum](niveau3/Dutch/NijmeegsVolkMus.yml)  
+ - [Wereldmuseum Berg en Dal](niveau3/Dutch/WMBergEnDal.yml)  
+ - [Natuurhistorisch en Volkenkundig Museum Oudenbosch](niveau3/Dutch/MOudenbosch.yml)  
+
+## Primary sources
+
+Website:
+  > *Website Missiemuseum Steyl*
+  > _De website van het Missiemuseum Steyl bevat relevante (contact)informatie._  
+
+  > [https://www.missiemuseum.nl/nl](https://www.missiemuseum.nl/nl)
+
+## Secondary sources
+
+Rapport:
+  > *Collectieplan Missiemuseum Steyl 2023-2028*
+  > _Het collectieplan van het Missiemuseum Steyl bevat relevante informatie over de herkomst van de museumcollectie._  
+
+  > [https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf](https://www.missiemuseum.nl/public/files/Collectieplan2023-2028_Publieksversie.pdf)
+
+Collectiedatabase:
+  > *Limburgs Efgoednet*
+  > _De collectie Missiemuseum Steyl wordt op dit moment geregistreerd en gedigitaliseerd is. Wanneer een object gereed is, wordt dit gepubliceerd op de website van het Limburgs Erfgoednet._  
+
+  > [https://limburgserfgoednet.nl/](https://limburgserfgoednet.nl/)
+
+Collectiedatabase:
+  > *Global Biodiversity Information Facility*
+  > _De natuurhistorische collectie van Missiemuseum Steyl wordt op dit moment gedigitaliseerd. De collectie wordt stapsgewijs gepubliceerd in de database van GBIF._  
+
+  > [https://www.gbif.org/publisher/59946762-5dc1-44c4-9ac2-10322398b9ff](https://www.gbif.org/publisher/59946762-5dc1-44c4-9ac2-10322398b9ff)
+
+
+
+---
+## Relevant Data 
+TO BE FILLED
+
+_first edited by Wiebe Reints as original_author on 2024-10-21_  
+_last edited by Wiebe Reints as original_author on 2025-12-23_
+        
