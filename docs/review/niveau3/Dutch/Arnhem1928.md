@@ -27,6 +27,8 @@ https://www.geldersarchief.nl/over-ons/actueel/weblog/531-indie-in-gelderland-de
 https://eur.contentdm.oclc.org/digital/collection/tnepk/id/412/
 https://permalink.geldersarchief.nl/905EE5F451004149AA7FC176B64263D0 
 
+[Film van de opening](https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608040030639831)
+
 
 ## Related Aids
 
