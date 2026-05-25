@@ -1,0 +1,63 @@
+Level: 2
+
+Title: "Japan"
+
+Abstract: "Te schrijven."
+
+RelatedAides:
+  - "Selecteren en afbakenen":
+        link: "niveau1/Dutch/SelectAndDelineate.yml"
+        rel_type: "see also"
+  - "Bronnen":
+        link: "niveau1/Dutch/Sources.yml"
+        rel_type: "see also"
+  - "Ambtenaren":
+        link: "niveau2/Dutch/CivilServants.yml"
+        rel_type: "see also"
+  - "Leger en marine":
+        link: "niveau2/Dutch/MilitaryAndNavy.yml"
+        rel_type: "see also"
+  - "Koninklijk Instituut voor Taal-, Land en Volkenkunde":
+        link: "niveau3/Dutch/KITLV.yml"
+        rel_type: "see also"
+  - "Rijksmuseum Amsterdam":
+        link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Rotterdam": 
+        link: "niveau3/Dutch/WMRotterdam.yml"
+        rel_type: "see also" 
+
+Relevant data:
+  Tags:
+    Activity: []
+    Type of objects: []
+    Geographical:
+      - "[Japan](https://sws.geonames.org/1861060)"
+
+Main-text:
+  content: |
+    ### Beschrijving
+    Titsingh? Von Siebold
+
+
+    ### Natuurhistorisch verzamelen?
+
+    ### Herkomstonderzoek
+  content-type: text/markdown
+
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+editing_metadata:
+- date: 2026-01-12
+  applies_to: 
+  author: Maarten van der Bent
+  role: original_author
+  editing_notes: 
