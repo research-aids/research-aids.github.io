@@ -13,6 +13,8 @@ nav_exclude: False
 
 # Suriname
 
+[English version](https://research-aids.github.io//review/niveau2/English/Suriname.html){: .btn .btn-outline .flex-justify-between}
+
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/Dutch/Suriname.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/Dutch/Suriname.docx){: .btn .btn-outline .flex-justify-between}
 
 
@@ -339,6 +341,12 @@ Boek:
 
   > [ISBN 978-90-6601-015-4](https://isbnsearch.org/isbn/978-90-6601-015-4)
 
+Publicatie:
+  > *Zoekterm 'Suriname'. een eerste aanzet tot een inventarisatie van objecten uit Suriname in Nederland. Consortium Koloniale Collecties, 2024.*
+  > _Inventarisatie van objecten uit Suriname in Nederland door het Consortium Koloniale Collecties._  
+
+  > [https://wp-dev.colonialcollections.org/wp-content/uploads/2024/04/Eerste-inventaristie-objecten-Suriname_Consortium-Koloniale-Collecties-2.pdf](https://wp-dev.colonialcollections.org/wp-content/uploads/2024/04/Eerste-inventaristie-objecten-Suriname_Consortium-Koloniale-Collecties-2.pdf)
+
 Wetenschappelijk artikel:
   > *Coudreau, H. ‘Dix ans de Guyane (missions du ministère de l'instruction publique)’, Bulletin de la Société de géographie, (1891), 447-480.*
   > _SCHRIJVEN!_  
@@ -392,12 +400,6 @@ Boek:
   > _Publicatie over objecten uit Suriname in de collectie van het Rijksmuseum._  
 
   > [WorldCat 1038514699](https://search.worldcat.org/title/1038514699), [ISBN 9789460043499](https://isbnsearch.org/isbn/9789460043499)
-
-Publicatie:
-  > *Zoekterm 'Suriname'. een eerste aanzet tot een inventarisatie van objecten uit Suriname in Nederland. Consortium Koloniale Collecties, 2024.*
-  > _SCHRIJVEN!_  
-
-  > [https://wp-dev.colonialcollections.org/wp-content/uploads/2024/04/Eerste-inventaristie-objecten-Suriname_Consortium-Koloniale-Collecties-2.pdf](https://wp-dev.colonialcollections.org/wp-content/uploads/2024/04/Eerste-inventaristie-objecten-Suriname_Consortium-Koloniale-Collecties-2.pdf)
 
 
 
