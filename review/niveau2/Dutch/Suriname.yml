@@ -336,6 +336,11 @@ Sources:
       Link: 
         - ISBN: "978-90-6601-015-4"
       Description and remarks: "Boek over de expedities van het Koninklijk Nederlands Aardrijkskundig Genootschap, met ook aandacht voor de expedities in Suriname."
+    - Type of source: "Publicatie"
+      Name: "Zoekterm 'Suriname'. een eerste aanzet tot een inventarisatie van objecten uit Suriname in Nederland. Consortium Koloniale Collecties, 2024."
+      Link: 
+        - URL: "https://wp-dev.colonialcollections.org/wp-content/uploads/2024/04/Eerste-inventaristie-objecten-Suriname_Consortium-Koloniale-Collecties-2.pdf"
+      Description and remarks: "Inventarisatie van objecten uit Suriname in Nederland door het Consortium Koloniale Collecties."
 
     - Type of source: "Wetenschappelijk artikel"
       Name: "Coudreau, H. ‘Dix ans de Guyane (missions du ministère de l'instruction publique)’, Bulletin de la Société de géographie, (1891), 447-480."
@@ -384,12 +389,6 @@ Sources:
         - OCLC: "1038514699"
         - ISBN: "9789460043499"
       Description and remarks: "Publicatie over objecten uit Suriname in de collectie van het Rijksmuseum."
-
-    - Type of source: "Publicatie"
-      Name: "Zoekterm 'Suriname'. een eerste aanzet tot een inventarisatie van objecten uit Suriname in Nederland. Consortium Koloniale Collecties, 2024."
-      Link: 
-        - URL: "https://wp-dev.colonialcollections.org/wp-content/uploads/2024/04/Eerste-inventaristie-objecten-Suriname_Consortium-Koloniale-Collecties-2.pdf"
-      Description and remarks: "SCHRIJVEN!"
 
 copyright_metadata:
   copyright_holder: NIOD-KNAW
