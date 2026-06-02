@@ -1,5 +1,20 @@
+---
+layout: default
+title: India
+parent: niveau2
+ancestor: Review
+nav_enabled: true
+has_toc: true
+date: 2026-06-02
+nav_exclude: False
+--- 
+
+
 
 # India
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/Dutch/India.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/Dutch/India.docx){: .btn .btn-outline .flex-justify-between}
+
 
 
 ## Abstract
