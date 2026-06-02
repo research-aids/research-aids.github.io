@@ -65,7 +65,7 @@ Musea in landen van herkomst hebben op dit vlak ook veel expertise. Het Museu Pa
 
 * Volgens Vruggink en Paasman bezat het Nijmeegs Volkenkundig Museum de collectie van de Paters Redemptoristen. Is dit dezelfde collectie die zich nu in Museon-Omniversum bevindt?
 * Is de kwakwabangi uit de Artiscollectie verloren gegaan? 
-* Hoe verhoudt de kwakwabangi in Museon zich tot de kwakwabangi uit de collectie van Artis?
+* Hoe zitten de series van het Wereldmuseum Amsterdam in elkaar?
 
 ### Klad
 
@@ -127,7 +127,7 @@ Het tweede team onder leiding van Jean-Paul Goreaud verkende de boven-Marowijne.
 Film Goreaud: [Au pays de l'or et du bagne](https://www.encyclocine.com/film-au-pays-de-l-or-et-du-bagne)
 
 #### Fowler Museum at UCLA
-Organiseerde de tentoonstelling met de Prices in 1980, toen nog UCLA Museum of Cultural History geheten. Veel is een donatie van Mr. W. Thomas Davis
+Organiseerde de tentoonstelling met de Prices in 1980, toen nog UCLA Museum of Cultural History geheten. Veel is een schenking van Mr. W. Thomas Davis
 
 [Catalogus](https://argus.fowler.ucla.edu/final/Portal/Default.aspx?lang=en-US) 
 
@@ -254,7 +254,7 @@ Publicatie:
 
 Boek:
   > *Broekhoven, L. van, C. Buijs en P. Hovens, Sharing knowledge & cultural heritage: first nations of the Americas: studies in collaboration with indigenous peoples from Greenland, North and South America: proceedings of an expert meeting National Museum of Ethnology Leiden, The Netherlands. Leiden: Sidestone Press 2010.*
-  > _SCHRIJVEN!_  
+  > _Boek over samenwerking tussen het Wereldmuseum Leiden en vertegenwoordigers van inheemse volken van Noord- en Zuid-Amerika._  
 
   > [https://www.sidestone.com/books/sharing-knowledge-and-cultural-heritage](https://www.sidestone.com/books/sharing-knowledge-and-cultural-heritage), [ISBN 978-90-8890-066-2](https://isbnsearch.org/isbn/978-90-8890-066-2)
 
@@ -290,7 +290,7 @@ Wetenschappelijk artikel:
 
 Wetenschappelijk artikel:
   > *Stipriaan, A. van ‘Caraïbisch erfgoed in de Nederlandse Black Atlantic’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 35(1) (2016), 11-37.*
-  > _SCHRIJVEN!_  
+  > _Artikeln over de verspreiding van Caribisch erfgoed, onder andere in Nederland._  
 
   > [https://www.dbnl.org/tekst/_oso001201601_01/_oso001201601_01_0003.php](https://www.dbnl.org/tekst/_oso001201601_01/_oso001201601_01_0003.php)
 
@@ -302,25 +302,25 @@ Catalogus:
 
 Wetenschappelijk artikel:
   > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties I’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 7(1) (1988), 189-244.*
-  > _SCHRIJVEN!_  
+  > _Eerste deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift _OSO_ in 1988._  
 
   > [https://www.dbnl.org/tekst/_oso001198801_01/_oso001198801_01_0020.php](https://www.dbnl.org/tekst/_oso001198801_01/_oso001198801_01_0020.php)
 
 Wetenschappelijk artikel:
   > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties II’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 8(1) (1989), 77-96.*
-  > _SCHRIJVEN!_  
+  > _Tweede deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift _OSO_ in 1989._  
 
   > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0010.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0010.php)
 
 Wetenschappelijk artikel:
   > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties III’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 8(1) (1989), 196-226.*
-  > _SCHRIJVEN!_  
+  > _Derde deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift _OSO_ in 1989._  
 
   > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php)
 
 Boek:
   > *Wentholt, A. (red.), In kaart gebracht met kapmes en kompas: met het Koninklijk Nederlands Aardrijkskundig Genootschap op expeditie tussen 1873 en 1960. Heerlen/Utrecht: ABP/KNAG, 2003.*
-  > _SCHRIJVEN!_  
+  > _Boek over de expedities van het Koninklijk Nederlands Aardrijkskundig Genootschap, met ook aandacht voor de expedities in Suriname._  
 
   > [ISBN 978-90-6601-015-4](https://isbnsearch.org/isbn/978-90-6601-015-4)
 
