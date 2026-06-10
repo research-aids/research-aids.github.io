@@ -29,6 +29,8 @@ De grafborden van de voormalige Nederlandse kerk van Chinsurah zijn in 1949 door
 
 Koperen platen uit het Chola-rijk werden in 2026 gerestitueerd [advies en bijlagen Commissie Koloniale Collecties](https://commissie.kolonialecollecties.nl/documenten/2026/05/16/india-2026)
 
+[Schilderij](https://id.rijksmuseum.nl/20067545) van Joan Ketelaars ambassade naar de koning van Udaipur (nog niet op de Datahub)
+
 ### Natuurhistorisch verzamelen?
 
 ### Herkomstonderzoek
