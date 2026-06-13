@@ -1,0 +1,137 @@
+{
+    "Level": 3,
+    "Title": "Nijmeegs Volkenkundig Museum",
+    "Abstract": "Het Nijmeegs Volkenkundig Museum is een voormalig museum dat in 1979 werd opgericht als onderdeel van de Katholieke Universiteit Nijmegen (tegenwoordig de Radboud Universiteit). Het museum beheerde een grote collectie, waarvan een deel bestond uit bruiklenen. Na de sluiting van het museum in 2005 is een deel van de collectie teruggegeven aan de bruikleengevers, andere delen zijn elders ondergebracht of verkocht.",
+    "RelatedAides": [
+        {
+            "Musea en collecties": {
+                "link": "niveau2/Dutch/Museum.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Museum_Dutch",
+                "sort_order": 1
+            }
+        },
+        {
+            "Zendelingen en missionarissen in gekoloniseerde gebieden": {
+                "link": "niveau2/Dutch/ChristianMission.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/ChristianMission_Dutch",
+                "sort_order": 2
+            }
+        },
+        {
+            "Wetenschappelijk onderzoek in gekoloniseerde gebieden": {
+                "link": "niveau2/Dutch/Science.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Science_Dutch",
+                "sort_order": 3
+            }
+        },
+        {
+            "Missiemuseum Steyl": {
+                "link": "published/niveau3/Dutch/MissiemuseumSteyl.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/MissiemuseumSteyl_Dutch",
+                "sort_order": 4
+            }
+        },
+        {
+            "Natuurhistorisch en Volkenkundig Museum Oudenbosch": {
+                "link": "niveau3/Dutch/MOudenbosch.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/MOudenbosch_Dutch",
+                "sort_order": 5
+            }
+        },
+        {
+            "Nederlands Volkenkundig Missiemuseum": {
+                "link": "niveau3/Dutch/MissiemuseumTilburg.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/MissiemuseumTilburg_Dutch",
+                "sort_order": 6
+            }
+        },
+        {
+            "Nederlandsch Zendeling Genootschap": {
+                "link": "niveau3/Dutch/NZG.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/NZG_Dutch",
+                "sort_order": 7
+            }
+        },
+        {
+            "Universitaire collecties": {
+                "link": "niveau3/Dutch/UniversityMus.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/UniversityMus_Dutch",
+                "sort_order": 8
+            }
+        },
+        {
+            "Wereldmuseum Berg en Dal": {
+                "link": "niveau3/Dutch/WMBergEnDal.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/WMBergEnDal_Dutch",
+                "sort_order": 9
+            }
+        }
+    ],
+    "Relevant data": {
+        "Identifiers": [
+            "http://www.wikidata.org/entity/Q2257327"
+        ],
+        "Name variations": [],
+        "Tags": {
+            "Activity": [
+                "[Etnografisch museum](http://vocab.getty.edu/aat/300451067)",
+                "[Universiteitsmuseum](http://vocab.getty.edu/page/aat/300444944)"
+            ],
+            "Type of objects": [
+                "[Etnografica](http://vocab.getty.edu/aat/300234108)"
+            ],
+            "Geographical": []
+        },
+        "Period of activity": {
+            "Year of start": "1979",
+            "Year of end": "2005"
+        },
+        "Collections": {
+            "General remarks": [],
+            "Within the Data Hub": []
+        }
+    },
+    "Main-text": {
+        "content": "### Geschiedenis van het museum\n\nHet Nijmeegs Volkenkundig Museum is een voormalig volkenkundig museum dat onderdeel was van de Radboud Universiteit in Nijmegen (voorheen de Katholieke Universiteit Nijmegen). Het museum werd in 1979 vanuit de vakgroep antropologie opgericht. Er werden tentoonstellingen gehouden voor het algemene publiek, maar de collectie werd ook gebruikt ter ondersteuning van het onderwijs. De collectie bestond uit zo'n 11.000 voorwerpen, waarvan een groot deel bestond uit bruiklenen. Zo beheerde het museum de collecties van verschillende congregaties en ook de zogenaamde 'Beijenscollectie' die voormalig KNIL-soldaat [Jean Beijens](https://nl.wikipedia.org/wiki/Jean_Beijens) in 1912 aan de gemeente Nijmegen had geschonken.\n\nIn 2005 werd besloten tot sluiting van het Nijmeegs Volkenkundig Museum. Een groot deel van de collectie bleef nadien toegankelijk in het depot van de Radboud Universiteit. De Beijenscollectie werd in 2010 overgedragen aan [Museum Bronbeek](https://app.colonialcollections.nl/nl/research-guide/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F3443ee68039071c8125b16cf2f813f6f). De objectcollectie van de Paters Capucijnen zijn in 2011 in langdurige bruikleen gegeven aan de [Universiteit Gent](https://www.gum.gent/nl/deelcollectie-etnografie). In 2018 werd het depot gesloten en de [restanten verkocht](https://www.voxweb.nl/nieuws/te-koop-ethiopische-christenen-en-andere-museumrestjes).\n\n### Herkomstonderzoek\n\nHet archief van het Nijmeegs Volkenkundig Museum wordt beheerd door de Radboud Universiteit in Nijmegen en bevat relatief weinig materiaal. Met name inventarisnummer 'Cb05572/56' is relevant, dit bevat naast verschillende tentoonstellingscatalogi een handgeschreven inventaris van de museumcollectie. Inventarisnummer 'cb05572/57' bevat fotografisch materiaal met betrekking tot de verschillende tentoonstellingen die in het Nijmeegs Volkenkundig Museum zijn gehouden.\n\nHet archief van de Radboud Universiteit is niet openbaar, maar wel toegankelijk door een gemotiveerd verzoek in te dienen bij de [archivaris](mailto:marianne.waldekker@ru.nl).\n\nDe Beijenscollectie die in 2010 werd overgedragen aan Museum Bronbeek in Arnhem is raadpleegbaar via de [collectie-website van het museum](https://museumbronbeek.nl/#1d411b24-7856-4453-af86-9b33c9c40fa7). Meer informatie over de etnografische collectie van de Univeristeit Gent, vind je op de website van het [Gents Universiteitsmuseum](https://www.gum.gent/nl/deelcollectie-etnografie).\n",
+        "content-type": "text/markdown"
+    },
+    "Sources": [],
+    "copyright_metadata": {
+        "copyright_holder": "NIOD-KNAW",
+        "date": "2026-01-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    },
+    "editing_metadata": [
+        {
+            "date": "2025-07-07",
+            "applies_to": null,
+            "author": "Wiebe Reints",
+            "role": "original_author",
+            "editing_notes": null
+        },
+        {
+            "date": "2025-09-16",
+            "applies_to": "Main-text",
+            "author": "Maarten van der Bent",
+            "role": "reviewer",
+            "editing_notes": "Maarten's comments were processed by Wiebe Reints."
+        },
+        {
+            "date": "2026-01-06",
+            "applies_to": null,
+            "author": "Wiebe Reints",
+            "role": "original_author",
+            "editing_notes": "Final check of the research aid. Text is up to date and all the links are functioning."
+        }
+    ],
+    "File name": "NijmeegsVolkMus"
+}
