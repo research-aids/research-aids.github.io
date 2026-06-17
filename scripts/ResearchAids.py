@@ -225,6 +225,7 @@ class Level2(Level1):
         self.main_text = self.get_markdown_content(yml["Main-text"])
         self.related_aids = self.parse_related_aids(yml["RelatedAides"])
         self.relevant_data = self.parse_relevant_data(yml["Relevant data"])
+        
         self.sources = self.parse_sources(yml["Sources"]) if (("Sources" in yml) and yml["Sources"]) else "THIS RA HAS NO SOURCES" 
 
     def parse_source_links(self, yml):
@@ -250,6 +251,8 @@ class Level2(Level1):
         md = ""
         for source_lvl, source_ls in yml.items():
             md += f"## {source_lvl}\n\n"
+            if not source_ls:
+              continue
             for source in source_ls: #SORT
                 # 'Type of source', 'Name', 'Link', 'Description and remarks'
                 source_md = f"{source['Type of source']}:\n  > *{source['Name']}*"
