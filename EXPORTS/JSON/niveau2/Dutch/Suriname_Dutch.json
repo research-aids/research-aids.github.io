@@ -74,6 +74,30 @@
                 "linkFilename": "niveau3/Dutch/WMRotterdam_Dutch",
                 "sort_order": 9
             }
+        },
+        {
+            "Etnografisch Museum Artis": {
+                "link": "niveau3/Dutch/EMArtis.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/EMArtis_Dutch",
+                "sort_order": 10
+            }
+        },
+        {
+            "Koninklijk Kabinet van Zeldzaamheden": {
+                "link": "niveau3/Dutch/KKZ.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/KKZ_Dutch",
+                "sort_order": 11
+            }
+        },
+        {
+            "Museon-Omniversum": {
+                "link": "niveau3/Dutch/Museon.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau3/Dutch/Museon_Dutch",
+                "sort_order": 12
+            }
         }
     ],
     "Relevant data": {
