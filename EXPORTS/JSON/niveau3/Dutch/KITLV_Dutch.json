@@ -60,11 +60,19 @@
             }
         },
         {
+            "Suriname": {
+                "link": "niveau2/Dutch/Suriname.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/Dutch/Suriname_Dutch",
+                "sort_order": 8
+            }
+        },
+        {
             "Aruba, Bonaire en Cura\u00e7ao": {
                 "link": "niveau2/Dutch/ArubaBonaireCuracao.yml",
                 "rel_type": "See also",
                 "linkFilename": "niveau2/Dutch/ArubaBonaireCuracao_Dutch",
-                "sort_order": 8
+                "sort_order": 9
             }
         },
         {
@@ -72,7 +80,7 @@
                 "link": "niveau2/Dutch/SabaStEustatiusStMaarten.yml",
                 "rel_type": "See also",
                 "linkFilename": "niveau2/Dutch/SabaStEustatiusStMaarten_Dutch",
-                "sort_order": 9
+                "sort_order": 10
             }
         },
         {
@@ -80,7 +88,7 @@
                 "link": "niveau3/Dutch/UniversiteitsbibliotheekLeiden.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/UniversiteitsbibliotheekLeiden_Dutch",
-                "sort_order": 10
+                "sort_order": 11
             }
         },
         {
@@ -88,7 +96,7 @@
                 "link": "niveau3/Dutch/UniversityMus.yml",
                 "rel_type": "see also",
                 "linkFilename": "niveau3/Dutch/UniversityMus_Dutch",
-                "sort_order": 11
+                "sort_order": 12
             }
         }
     ],

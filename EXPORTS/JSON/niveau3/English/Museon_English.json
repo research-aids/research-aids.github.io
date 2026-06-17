@@ -34,6 +34,14 @@
                 "linkFilename": "niveau3/English/Naturalis_English",
                 "sort_order": 4
             }
+        },
+        {
+            "Suriname": {
+                "link": "niveau2/English/Suriname.yml",
+                "rel_type": "see also",
+                "linkFilename": "niveau2/English/Suriname_English",
+                "sort_order": 5
+            }
         }
     ],
     "Relevant data": {
