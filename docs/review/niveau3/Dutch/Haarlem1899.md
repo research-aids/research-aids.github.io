@@ -19,13 +19,9 @@ nav_exclude: False
 
 ## Abstract
 
-In 1883 werd de Internationale Koloniale en Uitvoerhandel Tentoonstelling, of kortweg de Wereldtentoonstelling van 1883, gehouden op wat tegenwoordig het Museumplein in Amsterdam is. Naast een Nederlands paviljoen waar vele objecten uit de oostelijke en westelijke koloniën werden getoond, hadden ook andere landen en bedrijven paviljoens.
+Te schrijven.
 
 ### Geschiedenis
-
-https://www.geldersarchief.nl/over-ons/actueel/weblog/531-indie-in-gelderland-de-indische-tentoonstelling-van-1928-in-park-sonsbeek
-https://eur.contentdm.oclc.org/digital/collection/tnepk/id/412/
-https://permalink.geldersarchief.nl/905EE5F451004149AA7FC176B64263D0 
 
 
 ## Related Aids

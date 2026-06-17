@@ -45,6 +45,7 @@ _De Zoekhulpen Koloniale Collecties zijn een project van het [Consortium Kolonia
  - [Indonesië](niveau2/Dutch/Indonesia.yml)  
  - [Ghana](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
  - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
+ - [Suriname](niveau2/Dutch/Suriname.yml)  
 
         
 

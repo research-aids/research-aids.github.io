@@ -43,6 +43,7 @@ _The Digital Research Aids are a project of the [Colonial Collections Consortium
  - [Ghana](niveau2/English/Ghana.yml)  
  - [Indonesia](niveau2/English/Indonesia.yml)  
  - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten.yml)  
+ - [Suriname](niveau2/English/Suriname.yml)  
 
         
 
