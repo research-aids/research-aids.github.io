@@ -31,8 +31,8 @@ Relevant data:
       - "[Zuid-Amerika](https://sws.geonames.org/6255150/)"
       - "[Oceanië](https://www.geonames.org/6255151/)"
   Period of activity: 
-    Year of start: "2026"
-    Year of end: "2026"
+    Year of start: "1917"
+    Year of end: []
       
 Main-text:
   content: |
@@ -43,17 +43,10 @@ Main-text:
 
 Sources: 
   Primary sources: []
-  Secondary sources:
-    - Type of source: "Boek"
-      Name: "Schotanus, M., V. Arnoldus-Schröder, en Nico de Jonge. Hoe het ging en verging: 25 jaar ‘Gerardus van der Leeuw’. Groningen: Volkenkundig Museum ‘Gerardus van der Leeuw’, 2003."
-      Link: 
-        - URL: "https://search.worldcat.org/title/66693349"
-        - ISBN: "9789080798915"
-        - OCLC: "66693349"
-      Description and remarks: "Boek en catalogus uit 2003 die bondige informatie geeft over het Volkenkundig Museum 'Gerardus van der Leeuw' en een overzicht biedt van de MG-collectie."
+  Secondary sources: []
 
 copyright_metadata:
-  copyright_holder: Consortium Koloniale Collecties
+  copyright_holder: Keramiekmuseum Princessehof
   date: 2026-06-16
   license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
