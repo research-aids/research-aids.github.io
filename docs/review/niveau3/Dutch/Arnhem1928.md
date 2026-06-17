@@ -56,6 +56,5 @@ Indische Tentoonstelling Arnhem (I.T.A.) / Tentoonstelling Oost & West Indië 19
 ## Relevant Data 
 TO BE FILLED
 
-_first edited by Wiebe Reints as original_author on 2025-03-04_  
-_last edited by Wiebe Reints as original_author on 2025-12-23_
+_last edited by Maarten van der Bent as original_author on 2026-06-17_
         
