@@ -32,6 +32,15 @@ RelatedAides:
   - "Wereldmuseum Rotterdam": 
         link: "niveau3/Dutch/WMRotterdam.yml"
         rel_type: "see also" 
+  - "Etnografisch Museum Artis":
+        link: "niveau3/Dutch/EMArtis.yml"
+        rel_type: "see also"
+  - "Koninklijk Kabinet van Zeldzaamheden":
+        link: "niveau3/Dutch/KKZ.yml"
+        rel_type: "see also"
+  - "Museon-Omniversum":
+        link: "niveau3/Dutch/Museon.yml"
+        rel_type: "see also"
 
 Relevant data:
   Tags:
