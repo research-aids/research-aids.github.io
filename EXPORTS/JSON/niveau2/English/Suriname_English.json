@@ -90,7 +90,7 @@
         "content-type": "text/markdown"
     },
     "Sources": {
-        "Primary sources": null,
+        "Primary sources": [],
         "Secondary sources": [
             {
                 "Type of source": "Publication",
