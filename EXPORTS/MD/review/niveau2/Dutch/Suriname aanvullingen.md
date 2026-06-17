@@ -191,90 +191,6 @@ Archiefstukken:
 
 ## Secondary sources
 
-Publicatie:
-  > *Broekhoven, L. van. Collectieprofiel Cultuurgebied Midden- en Zuid-Amerika. In: Verzamelde collectieprofielen Museum Volkenkunde, Leiden. Leiden: Museum Volkenkunde, 2008.*
-  > _Hoofdstuk over de Midden- en Zuid-Amerikaanse collectie van het Wereldmuseum Leiden in een publicatie over collectieprofielen._  
-
-  > [https://www.yumpu.com/nl/document/view/20123476/open-het-profiel-als-pdf-museum-volkenkunde](https://www.yumpu.com/nl/document/view/20123476/open-het-profiel-als-pdf-museum-volkenkunde)
-
-Boek:
-  > *Broekhoven, L. van, C. Buijs en P. Hovens, Sharing knowledge & cultural heritage: first nations of the Americas: studies in collaboration with indigenous peoples from Greenland, North and South America: proceedings of an expert meeting National Museum of Ethnology Leiden, The Netherlands. Leiden: Sidestone Press 2010.*
-  > _Boek over samenwerking tussen het Wereldmuseum Leiden en vertegenwoordigers van inheemse volken van Noord- en Zuid-Amerika._  
-
-  > [https://www.sidestone.com/books/sharing-knowledge-and-cultural-heritage](https://www.sidestone.com/books/sharing-knowledge-and-cultural-heritage), [ISBN 978-90-8890-066-2](https://isbnsearch.org/isbn/978-90-8890-066-2)
-
-Boek:
-  > *Eeden, F.W. van, Catalogus der Nederlandsche West-Indische tentoonstelling te Haarlem 1899. Amsterdam: de Bussy 1899.*
-  > _Catalogus van de West-Indische tentoonstelling gehouden in het Koloniaal Museum te Haarlem in 1899._  
-
-  > [http://hdl.handle.net/1887.1/item:970083](http://hdl.handle.net/1887.1/item:970083), [WorldCat 905463122](https://search.worldcat.org/title/905463122)
-
-Dissertatie:
-  > *Effert, Rudolf. Volkenkundig verzamelen: het Koninklijk Kabinet van Zeldzaamheden en het Rijks Ethnografisch Museum : 1816-1883. Proefschrift Universiteit Leiden, 2003.*
-  > _Dissertatie over de geschiedenis van het Koninklijk Kabinet van Zeldzaamheden en van het Rijks Etnografisch Museum._  
-
-  > [https://search.worldcat.org/title/163275947?oclcNum=163275947](https://search.worldcat.org/title/163275947?oclcNum=163275947), [WorldCat 163275947](https://search.worldcat.org/title/163275947)
-
-Wetenschappelijk artikel:
-  > *Price, R. and S. Price ‘John Gabriel Stedman's collection of 18th-century artifacts from Suriname’, New West Indian Guide / Nieuwe West-Indische Gids, 53(1) (1979), 121-140.*
-  > _Wetenschappelijk artikel over objecten uit de collectie van het voormalige Koninklijk Kabinet van Zeldzaamheden die mogelijk afkomstig zijn van John Gabriel Stedman._  
-
-  > [https://doi.org/10.1163/22134360-90002148](https://doi.org/10.1163/22134360-90002148)
-
-Boek:
-  > *Price, R. and S. Price. Afro-American arts of the Suriname rain forest. Berkeley: University of California Press, 1980.*
-  > _Catalogus van een in 1980 geopende tentoonstelling over marronkunst in Los Angeles, Dallas, Baltimore en New York._  
-
-  > [ISBN 978-0-520-04412-8](https://isbnsearch.org/isbn/978-0-520-04412-8)
-
-Wetenschappelijk artikel:
-  > *Ruiter, I. de, T. van Andel, M. Françozo, C.F. Caromano ‘Surinamese Maroon and Indigenous Knowledge in the Creation of Natural and Ethnographic Collections Housed in The Netherlands’, New West Indian Guide / Nieuwe West-Indische Gids, 99(3-4) (2025), 287-324.*
-  > _Wetenschappelijk artikel over de bijdrage van marrons en inheemsen aan de samenstelling van natuurhistorische en etnografische collecties in Nederland._  
-
-  > [https://doi.org/10.1163/22134360-bja10038](https://doi.org/10.1163/22134360-bja10038)
-
-Wetenschappelijk artikel:
-  > *Stipriaan, A. van ‘Caraïbisch erfgoed in de Nederlandse Black Atlantic’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 35(1) (2016), 11-37.*
-  > _Artikeln over de verspreiding van Caribisch erfgoed, onder andere in Nederland._  
-
-  > [https://www.dbnl.org/tekst/_oso001201601_01/_oso001201601_01_0003.php](https://www.dbnl.org/tekst/_oso001201601_01/_oso001201601_01_0003.php)
-
-Catalogus:
-  > *Veth, P.J, G.A Wilken, en H.C Klinkert. Catalogus der afdeeling Nederlandsche Koloniën van de internationale koloniale en uitvoerhandel tentoonstelling (van 1 Mei tot ultimo October 1883) te Amsterdam.Leiden: E.J. Brill, 1883.*
-  > _Catalogus van de afdeling Nederlandse Koloniën op de in 1883 gehouden wereldtentoonstelling in Amsterdam, opgesteld door P.J. Veth. De catalogus bestaat uit drie delen die respectievelijk de drie objectgroepen beschrijven: 'Het  terrein der gekoloniseerde en overheerde gewesten', 'De inlandsche bevolking dier gewesten' en Groep III 'De Europeanen in die gewesten en hunne  betrekkingen tot de inlanders'._  
-
-  > [http://hdl.handle.net/1887.1/item:129051](http://hdl.handle.net/1887.1/item:129051), [WorldCat 680228146](https://search.worldcat.org/title/680228146)
-
-Wetenschappelijk artikel:
-  > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties I’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 7(1) (1988), 189-244.*
-  > _Eerste deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift _OSO_ in 1988._  
-
-  > [https://www.dbnl.org/tekst/_oso001198801_01/_oso001198801_01_0020.php](https://www.dbnl.org/tekst/_oso001198801_01/_oso001198801_01_0020.php)
-
-Wetenschappelijk artikel:
-  > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties II’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 8(1) (1989), 77-96.*
-  > _Tweede deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift _OSO_ in 1989._  
-
-  > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0010.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0010.php)
-
-Wetenschappelijk artikel:
-  > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties III’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 8(1) (1989), 196-226.*
-  > _Derde deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift _OSO_ in 1989._  
-
-  > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php)
-
-Boek:
-  > *Wentholt, A. (red.), In kaart gebracht met kapmes en kompas: met het Koninklijk Nederlands Aardrijkskundig Genootschap op expeditie tussen 1873 en 1960. Heerlen/Utrecht: ABP/KNAG, 2003.*
-  > _Boek over de expedities van het Koninklijk Nederlands Aardrijkskundig Genootschap, met ook aandacht voor de expedities in Suriname._  
-
-  > [ISBN 978-90-6601-015-4](https://isbnsearch.org/isbn/978-90-6601-015-4)
-
-Publicatie:
-  > *Zoekterm 'Suriname'. een eerste aanzet tot een inventarisatie van objecten uit Suriname in Nederland. Consortium Koloniale Collecties, 2024.*
-  > _Inventarisatie van objecten uit Suriname in Nederland door het Consortium Koloniale Collecties._  
-
-  > [https://wp-dev.colonialcollections.org/wp-content/uploads/2024/04/Eerste-inventaristie-objecten-Suriname_Consortium-Koloniale-Collecties-2.pdf](https://wp-dev.colonialcollections.org/wp-content/uploads/2024/04/Eerste-inventaristie-objecten-Suriname_Consortium-Koloniale-Collecties-2.pdf)
-
 Wetenschappelijk artikel:
   > *Coudreau, H. ‘Dix ans de Guyane (missions du ministère de l'instruction publique)’, Bulletin de la Société de géographie, (1891), 447-480.*
   > _SCHRIJVEN!_  
@@ -322,12 +238,6 @@ Hoofdstuk in een boek:
   > _SCHRIJVEN!_  
 
   > [https://www.researchgate.net/publication/323471269_Rendez-vous_manque_avec_les_vieilles_colonies_Ethnologie_et_archeologie_de_la_Guyane_et_des_Antilles_francaises_1931-1939](https://www.researchgate.net/publication/323471269_Rendez-vous_manque_avec_les_vieilles_colonies_Ethnologie_et_archeologie_de_la_Guyane_et_des_Antilles_francaises_1931-1939), [ISBN 978-2-85653-807-4](https://isbnsearch.org/isbn/978-2-85653-807-4)
-
-Boek:
-  > *Sint Nicolaas, Eveline. Ketens en banden: Suriname en Nederland sinds 1600. Nijmegen: Vantilt, 2018.*
-  > _Publicatie over objecten uit Suriname in de collectie van het Rijksmuseum._  
-
-  > [WorldCat 1038514699](https://search.worldcat.org/title/1038514699), [ISBN 9789460043499](https://isbnsearch.org/isbn/9789460043499)
 
 
 
