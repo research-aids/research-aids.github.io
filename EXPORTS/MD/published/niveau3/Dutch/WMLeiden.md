@@ -35,6 +35,7 @@ Bij het Nationaal Archief zijn ook documenten te vinden met betrekking tot het W
  - [Leger- en marinepersoneel in gekoloniseerde gebieden](niveau2/Dutch/LegerEnMarine.yml)  
  - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/Ambtenaren.yml)  
  - [Indonesië](niveau2/Dutch/Indonesia.yml)  
+ - [Suriname](niveau2/Dutch/Suriname.yml)  
  - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  
  - [Groote Koninklijke Bazar](niveau3/Dutch/KoninklijkeBazar.yml)  
  - [Kunsthandel Van Lier](niveau3/Dutch/KunsthandelVanLier.yml)  

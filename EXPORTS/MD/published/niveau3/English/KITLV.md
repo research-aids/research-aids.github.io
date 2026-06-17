@@ -37,6 +37,7 @@ The KITLV text collections can be requested through the UBL's [online catalogue]
  - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/English/BGKW.yml)  
  - [Leiden University Library](niveau3/English/UniversiteitsbibliotheekLeiden.yml)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
+ - [Suriname](niveau2/English/Suriname.yml)  
  - [Aruba, Bonaire and Curaçao](niveau2/English/ArubaBonaireCuracao.yml)  
  - [Saba, Sint Eustatius and Sint Maarten](niveau2/English/SabaStEustatiusStMaarten.yml)  
  - [University collections](niveau3/English/UniversityMus.yml)  

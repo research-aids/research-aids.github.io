@@ -27,6 +27,7 @@ Het archief van Museon-Omniversum wordt beheerd door het [Haags Gemeentearchief]
  - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
  - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis.yml)  
  - [Naturalis](niveau3/Dutch/Naturalis.yml)  
+ - [Suriname](niveau2/Dutch/Suriname.yml)  
 
 ## Primary sources
 

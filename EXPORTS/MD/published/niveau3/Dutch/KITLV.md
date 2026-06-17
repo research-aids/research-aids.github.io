@@ -36,6 +36,7 @@ De tekstcollecties van het KITLV kunnen worden aangevraagd via de [online catalo
  - [Koninklijk Bataviaasch Genootschap van Wetenschappen en Kunsten](niveau3/Dutch/BGKW.yml)  
  - [Koninklijk Zeeuwsch Genootschap der Wetenschappen](niveau3/Dutch/ZeeuwschGenootschap.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
+ - [Suriname](niveau2/Dutch/Suriname.yml)  
  - [Aruba, Bonaire en Curaçao](niveau2/Dutch/ArubaBonaireCuracao.yml)  
  - [Saba, Sint Eustatius en Sint Maarten](niveau2/Dutch/SabaStEustatiusStMaarten.yml)  
  - [Universitaire Bibliotheken Leiden](niveau3/Dutch/UniversiteitsbibliotheekLeiden.yml)  

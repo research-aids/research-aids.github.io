@@ -8,7 +8,7 @@ Te schrijven.
 
 ### Beschrijving
 
-Volgens Hans Groot (Van Batavia naar Weltevreden, p. 222, p. 229) schonk de resident van Bengalen Daniel Anthony Overbeek in mei 1825 een zilveren Visnu uit Birma aan het Bataviaasch Genootschap. De arts J.R. Vos uit Bengalen was ook corresponderend lid en schonk boeken.
+Volgens Hans Groot (Van Batavia naar Weltevreden, p. 222, p. 229) schonk de resident van Bengalen [Daniel Anthony Overbeek](https://en.wikipedia.org/wiki/Daniel_Anthony_Overbeek) in mei 1825 een zilveren Visnu uit Birma aan het Bataviaasch Genootschap. De arts J.R. Vos uit Bengalen was ook corresponderend lid en schonk boeken.
 
 De grafborden van de voormalige Nederlandse kerk van Chinsurah zijn in 1949 door de bisschop van Kolkata geschonken aan het Rijksmuseum Amsterdam: NG-106 tot en met NG-118.
 

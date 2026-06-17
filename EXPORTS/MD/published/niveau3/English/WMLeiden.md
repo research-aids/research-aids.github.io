@@ -35,6 +35,7 @@ Documents related to the Wereldmuseum Leiden can also be found at the Dutch Nati
  - [Army and navy personnel in colonised territories](niveau2/English/MilitaryAndNavy.yml)  
  - [Civil servants in colonised territories](niveau2/English/CivilServants.yml)  
  - [Indonesia](niveau2/English/Indonesia.yml)  
+ - [Suriname](niveau2/English/Suriname.yml)  
  - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  
  - [Groote Koninklijke Bazar](niveau3/English/KoninklijkeBazaar.yml)  
  - [Kunsthandel Van Lier](niveau3/English/KunsthandelVanLier.yml)  
