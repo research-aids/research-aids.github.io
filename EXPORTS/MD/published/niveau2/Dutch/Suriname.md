@@ -79,6 +79,9 @@ Musea in landen van herkomst hebben op dit vlak ook veel expertise. Het _Museu P
  - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  
  - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
  - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
+ - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis.yml)  
+ - [Koninklijk Kabinet van Zeldzaamheden](niveau3/Dutch/KKZ.yml)  
+ - [Museon-Omniversum](niveau3/Dutch/Museon.yml)  
 
 ## Primary sources
 

@@ -79,6 +79,9 @@ Museums in countries of origin also have significant expertise in this area. The
  - [Wereldmuseum Amsterdam](niveau3/English/WMAmsterdam.yml)  
  - [Wereldmuseum Leiden](niveau3/English/WMLeiden.yml)  
  - [Wereldmuseum Rotterdam](niveau3/English/WMRotterdam.yml)  
+ - [Artis Ethnographic Museum](niveau3/English/EMArtis.yml)  
+ - [Royal Cabinet of Curiosities](niveau3/English/KKZ.yml)  
+ - [Museon-Omniversum](niveau3/English/Museon.yml)  
 
 ## Primary sources
 
