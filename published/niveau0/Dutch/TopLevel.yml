@@ -204,6 +204,9 @@ Breakdown:
     - "Saba, Sint Eustatius en Sint Maarten":
         link: "niveau2/Dutch/SabaStEustatiusStMaarten.yml"
         rel_type: "see also"        
+    - "Suriname":
+        link: "niveau2/Dutch/Suriname.yml"
+        rel_type: "see also"  
 
 copyright_metadata:
   copyright_holder: NIOD-KNAW

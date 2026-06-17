@@ -26,6 +26,9 @@ RelatedAides:
   - "Wereldmuseum Leiden":
         link: "niveau3/Dutch/WMLeiden.yml"
         rel_type: "See also" 
+  - "Suriname":
+        link: "niveau2/Dutch/Suriname.yml"
+        rel_type: "see also"
   - "Aruba, Bonaire en Curaçao":
         link: "niveau2/Dutch/ArubaBonaireCuracao.yml"
         rel_type: "See also" 

@@ -20,6 +20,9 @@ RelatedAides:
   - "Indonesië":
         link: "niveau2/Dutch/Indonesia.yml"
         rel_type: "see also"
+  - "Suriname":
+        link: "niveau2/Dutch/Suriname.yml"
+        rel_type: "see also"
   - "Koninklijk Kabinet van Zeldzaamheden":
         link: "niveau3/Dutch/KKZ.yml"
         rel_type: "see also"

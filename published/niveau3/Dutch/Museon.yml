@@ -17,6 +17,9 @@ RelatedAides:
   - "Naturalis":
         link: "niveau3/Dutch/Naturalis.yml"
         rel_type: "see also"
+  - "Suriname":
+        link: "niveau2/Dutch/Suriname.yml"
+        rel_type: "see also"
 
 Relevant data:
   Identifiers:

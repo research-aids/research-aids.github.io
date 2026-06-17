@@ -20,6 +20,9 @@ RelatedAides:
   - "Indonesia":
         link: "niveau2/English/Indonesia.yml"
         rel_type: "see also"
+  - "Suriname":
+        link: "niveau2/English/Suriname.yml"
+        rel_type: "see also"
   - "Royal Cabinet of Curiosities":
         link: "niveau3/English/KKZ.yml"
         rel_type: "see also"
