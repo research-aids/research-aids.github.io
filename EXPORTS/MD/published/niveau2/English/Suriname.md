@@ -65,7 +65,7 @@ Other collections established after 1954 fall outside the scope of this research
 ### Provenance research
 To research donations to the various museums, first follow the recommendations in the research aids of the respective museums. When investigating the distribution of cultural artifacts from specific groups across museums in the Global North, it is advisable to broaden the scope beyond to the Netherlands. Networks in countries of origin can be particularly useful in this regard. For example, a Wayana group in French Guiana has set up the internet portal [watau.fr](https://watau.fr/) with the aim of mapping Wayana heritage scattered across the globe.
 
-Museums in countries of origin also have significant expertise in this area. The _Museu Paraense Emilio Goeldi_ in Belém (Brazil), the _Musée des cultures Guyanaises_ in Cayenne (French Guiana), and the Suriname Museum Foundation in Paramaribo have joined forces to form the [Amazon Museum Network](http://amazonian-museum-network.org/en). For research on cultural objects of the Saamaka and Okanisi, please contact the [Saamaka Museum](https://saamakamuseum.com/) and the [Diitabiki Museum Fositen Gudu](https://fositengudu.org/), respectively.
+Museums in countries of origin also have significant expertise in this area. The _Museu Paraense Emilio Goeldi_ in Belém (Brazil), the _Musée des cultures Guyanaises_ in Cayenne (French Guiana), and the Suriname Museum Foundation in Paramaribo have joined forces to form the [Amazonian Museum Network](http://amazonian-museum-network.org/en). For research on cultural objects of the Saamaka and Okanisi, please contact the [Saamaka Museum](https://saamakamuseum.com/) and the [Diitabiki Museum Fositen Gudu](https://fositengudu.org/), respectively.
 
 
 ## Related Aids
@@ -149,19 +149,19 @@ Scientific article:
 
 Scientific article:
   > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties I’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 7(1) (1988), 189-244.*
-  > _First part of an overview of Suriname collections in the Netherlands, published in the journal _OSO_ in 1988._  
+  > _First part of an overview of Suriname collections in the Netherlands, published in the journal OSO in 1988._  
 
   > [https://www.dbnl.org/tekst/_oso001198801_01/_oso001198801_01_0020.php](https://www.dbnl.org/tekst/_oso001198801_01/_oso001198801_01_0020.php)
 
 Scientific article:
   > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties II’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 8(1) (1989), 77-96.*
-  > _Second part of an overview of Suriname collections in the Netherlands, published in the journal _OSO_ in 1989._  
+  > _Second part of an overview of Suriname collections in the Netherlands, published in the journal OSO in 1989._  
 
   > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0010.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0010.php)
 
 Scientific article:
   > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties III’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 8(1) (1989), 196-226.*
-  > _Third part of an overview of Suriname collections in the Netherlands, published in the journal _OSO_ in 1989._  
+  > _Third part of an overview of Suriname collections in the Netherlands, published in the journal OSO in 1989._  
 
   > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php)
 

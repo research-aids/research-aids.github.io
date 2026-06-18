@@ -149,19 +149,19 @@ Wetenschappelijk artikel:
 
 Wetenschappelijk artikel:
   > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties I’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 7(1) (1988), 189-244.*
-  > _Eerste deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift _OSO_ in 1988._  
+  > _Eerste deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift OSO in 1988._  
 
   > [https://www.dbnl.org/tekst/_oso001198801_01/_oso001198801_01_0020.php](https://www.dbnl.org/tekst/_oso001198801_01/_oso001198801_01_0020.php)
 
 Wetenschappelijk artikel:
   > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties II’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 8(1) (1989), 77-96.*
-  > _Tweede deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift _OSO_ in 1989._  
+  > _Tweede deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift OSO in 1989._  
 
   > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0010.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0010.php)
 
 Wetenschappelijk artikel:
   > *Vruggink, H. en  B. Paasman ‘Overzicht van Suriname-collecties III’, OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis, 8(1) (1989), 196-226.*
-  > _Derde deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift _OSO_ in 1989._  
+  > _Derde deel van een overzicht van Surinamecollecties in Nederland, verschenen in het tijdschrift OSO in 1989._  
 
   > [https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php](https://www.dbnl.org/tekst/_oso001198901_01/_oso001198901_01_0026.php)
 
