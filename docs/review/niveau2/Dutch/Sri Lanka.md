@@ -23,6 +23,12 @@ Te schrijven.
 
 ### Beschrijving
 
+MQB:
+
+* [1937.39.17 Two leafs with part of a letter from the King of Kandy (or his  court) to the Dutch, 1746 (?). In Sinhalese, palm leaf (6 × 30 × 3 cm).](https://collections.quaibranly.fr/ccExternal.ashx?id=71.1937.39.17)
+* [1942.0.123.x Letter from King Sri Vijaya Rajasinga of Kandy (or his court) to  Governor Julius Valentijn Stein van Gollonesse, concerning the transport of Buddhist monks from Burma to Ceylon for a ceremony at Kandy, 1746. In Sinhalese, palm leaf with silk case and decorations (length c. 180 cm, folded 6 × 23 × 3 cm).](https://collections.quaibranly.fr/ccExternal.ashx?id=71.1942.0.123%20X)
+* [1942.0.124.x Dedication to Stadtholder Prince William IV of Orange, possibly  drawn up on Ceylon, mid-eighteenth century. Partly in Latin, palm leaf with gold-thread case and decorations (5 × 22 × 9 cm) (old inv. no. x 42.125?).](https://collections.quaibranly.fr/ccExternal.ashx?id=71.1942.0.124%20X)
+
 
 ### Natuurhistorisch verzamelen?
 
