@@ -1,0 +1,18 @@
+Level: "3"
+Title: testTitle2
+Abstract: ""
+Main-text:
+  content: hello world
+  content-type: text/markdown
+RelatedAides: []
+Relevant data:
+  Tags:
+    Geographical: []
+Sources:
+  Primary sources: []
+  Secondary sources: []
+copyright_metadata:
+  copyright_holder: vale
+  date: "2026-06-24"
+  license: ""
+editing-metadata: []
