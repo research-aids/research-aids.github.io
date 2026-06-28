@@ -1,0 +1,80 @@
+Level: 3
+
+Title: "Indische Tentoonstelling Arnhem (I.T.A.)"
+
+Abstract: "Te schrijven."
+
+RelatedAides:
+  - "Ambtenaren in gekoloniseerde gebieden":
+        link: "niveau2/Dutch/CivilServants.yml"
+        rel_type: "see also"
+  - "Wetenschappelijk onderzoek in gekoloniseerde gebieden": 
+        link: "niveau2/Dutch/Science.yml"
+        rel_type: "see also"
+  - "De handel in objecten uit een koloniale context":
+        link: "niveau2/Dutch/Trade.yml"
+        rel_type: "see also"
+  - "Etnografisch Museum Artis":
+        link: "niveau3/Dutch/EMArtis.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Rotterdam":
+        link: "niveau3/Dutch/WMRotterdam.yml"
+        rel_type: "see also"
+  - "Rijksmuseum Amsterdam":
+        link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
+        rel_type: "see also"
+  - "Museum Nusantara":
+        link: "niveau3/Dutch/MNusantara.yml"
+        rel_type: "see also"
+  - "Naturalis Biodiversity Center":
+        link: "niveau3/Dutch/Naturalis.yml"
+        rel_type: "see also"
+  - "Museum Bronbeek":
+        link: "niveau3/English/Bronbeek.yml"
+        rel_type: "see also"
+
+Relevant data:
+  Tags:
+    Type of objects: 
+      - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
+    Geographical:
+      - "[Indonesië](https://www.geonames.org/1643084/)"
+      - "[Suriname] (https://sws.geonames.org/3382998/)"
+      - "[Nederlandse Antillen](https://sws.geonames.org/8505032/)"
+  Period of activity:
+    Year of start: "1928"
+    Year of end: "1928"
+      
+Main-text:
+  content: |
+    ### Geschiedenis
+
+    Indische Tentoonstelling Arnhem (I.T.A.) / Tentoonstelling Oost & West Indië 1928
+    
+    - [1](https://www.geldersarchief.nl/over-ons/actueel/weblog/531-indie-in-gelderland-de-indische-tentoonstelling-van-1928-in-park-sonsbeek)
+    - [2](https://eur.contentdm.oclc.org/digital/collection/tnepk/id/412/)
+    - [3](https://permalink.geldersarchief.nl/905EE5F451004149AA7FC176B64263D0) 
+
+    [Film van de opening](https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608040030639831)
+  content-type: text/markdown
+
+Sources:
+  Primary sources: []
+  Secondary sources: []
+
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+editing_metadata:
+  - date: 2026-06-17
+    applies_to: 
+    author: Maarten van der Bent
+    role: original_author
+    editing_notes:
