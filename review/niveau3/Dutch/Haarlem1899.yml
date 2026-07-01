@@ -62,8 +62,10 @@ Relevant data:
     Within the Data Hub: >-
       https://app.colonialcollections.nl/nl/objects?query=wereldtentoonstelling+1883
 Main-text:
-  content: |
+  content: |-
     ### Geschiedenis
+
+    Test of dit werkt.
   content-type: text/markdown
 Sources:
   Primary sources: []
@@ -86,8 +88,8 @@ editing_metadata:
   - author: Valentin Vogelmann
     role: other
     date: 2026-07-01
-    applies_to: Abstract
-    editing_notes: put full-stop back in for testing
+    applies_to: undefined
+    editing_notes: undefined
 fileinfo:
   folder: review
   filename: Haarlem1899.yml
