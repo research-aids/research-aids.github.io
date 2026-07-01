@@ -1,5 +1,20 @@
+---
+layout: default
+title: Guyana
+parent: niveau2
+ancestor: Review
+nav_enabled: true
+has_toc: true
+date: 2026-07-01
+nav_exclude: False
+--- 
+
+
 
 # Guyana
+
+[Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau2/Dutch/Guyana.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau2/Dutch/Guyana.docx){: .btn .btn-outline .flex-justify-between}
+
 
 
 ## Abstract
