@@ -1,6 +1,6 @@
 Level: 3
 Title: West-Indische tentoonstelling 1899
-Abstract: Te schrijven
+Abstract: Te schrijven.
 RelatedAides:
   - Ambtenaren in gekoloniseerde gebieden:
       link: undefined
@@ -46,7 +46,7 @@ Relevant data:
     Type of objects:
       - "[Etnografica](http://vocab.getty.edu/aat/300234108)"
     Geographical:
-      - "[Indonesië](https://www.geonames.org/1643084/)"
+      - "[IndonesiÃ«](https://www.geonames.org/1643084/)"
       - "[Suriname] (https://sws.geonames.org/3382998/)"
       - "[Nederlandse Antillen](https://sws.geonames.org/8505032/)"
   Period of activity:
@@ -70,19 +70,24 @@ Sources:
   Secondary sources: []
 copyright_metadata:
   copyright_holder: NIOD-KNAW
-  date: "2026-01-15"
+  date: 2026-01-15
   license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
   - author: Maarten van der Bent
     role: original_author
-    date: "2026-06-17"
+    date: 2026-06-17
     applies_to: undefined
     editing_notes: undefined
   - author: Valentin Vogelmann
     role: other
-    date: "2026-07-01"
+    date: 2026-07-01
+    applies_to: undefined
+    editing_notes: undefined
+  - author: Valentin Vogelmann
+    role: other
+    date: 2026-07-01
     applies_to: Abstract
-    editing_notes: just deleted the full stop to test this
+    editing_notes: put full-stop back in for testing
 fileinfo:
   folder: review
   filename: Haarlem1899.yml
