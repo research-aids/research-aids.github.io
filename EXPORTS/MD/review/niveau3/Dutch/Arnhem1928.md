@@ -8,7 +8,7 @@ Te schrijven.
 
 ### Geschiedenis
 
-Indische Tentoonstelling Arnhem (I.T.A.) / Tentoonstelling Oost & West Indië 1928
+Indische Tentoonstelling Arnhem (I.T.A.) / Tentoonstelling Oost & West Indië 1928. Test.
 
 - [1](https://www.geldersarchief.nl/over-ons/actueel/weblog/531-indie-in-gelderland-de-indische-tentoonstelling-van-1928-in-park-sonsbeek)
 - [2](https://eur.contentdm.oclc.org/digital/collection/tnepk/id/412/)
@@ -19,17 +19,17 @@ Indische Tentoonstelling Arnhem (I.T.A.) / Tentoonstelling Oost & West Indië 19
 
 ## Related Aids
 
- - [Ambtenaren in gekoloniseerde gebieden](niveau2/Dutch/CivilServants.yml)  
- - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](niveau2/Dutch/Science.yml)  
- - [De handel in objecten uit een koloniale context](niveau2/Dutch/Trade.yml)  
- - [Etnografisch Museum Artis](niveau3/Dutch/EMArtis.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam.yml)  
- - [Museum Nusantara](niveau3/Dutch/MNusantara.yml)  
- - [Naturalis Biodiversity Center](niveau3/Dutch/Naturalis.yml)  
- - [Museum Bronbeek](niveau3/English/Bronbeek.yml)  
+ - [Ambtenaren in gekoloniseerde gebieden](undefined)  
+ - [Wetenschappelijk onderzoek in gekoloniseerde gebieden](undefined)  
+ - [De handel in objecten uit een koloniale context](undefined)  
+ - [Etnografisch Museum Artis](undefined)  
+ - [Wereldmuseum Amsterdam](undefined)  
+ - [Wereldmuseum Leiden](undefined)  
+ - [Wereldmuseum Rotterdam](undefined)  
+ - [Rijksmuseum Amsterdam](undefined)  
+ - [Museum Nusantara](undefined)  
+ - [Naturalis Biodiversity Center](undefined)  
+ - [Museum Bronbeek](undefined)  
 
 ## Primary sources
 
@@ -41,5 +41,6 @@ Indische Tentoonstelling Arnhem (I.T.A.) / Tentoonstelling Oost & West Indië 19
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by Maarten van der Bent as original_author on 2026-06-17_
+_last edited by Maarten van der Bent as original_author on 2026-06-17
+(applies to section: undefined)_
         

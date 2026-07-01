@@ -8,12 +8,12 @@ Te schrijven.
 
 ### Geschiedenis
 
-Te schrijven.
+Te schrijven. Aanvulling.
 
 
 ## Related Aids
 
- - [Volkenkundig Museum 'Gerardus van der Leeuw'](niveau3/Dutch/GerardusLeeuw.yml)  
+ - [Volkenkundig Museum 'Gerardus van der Leeuw'](undefined)  
 
 ## Primary sources
 
@@ -25,5 +25,6 @@ Te schrijven.
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by Gabriëlle Scheijbeler as original_author on 2026-06-16_
+_last edited by Gabriëlle Scheijbeler as original_author on 2026-06-16
+(applies to section: undefined)_
         
