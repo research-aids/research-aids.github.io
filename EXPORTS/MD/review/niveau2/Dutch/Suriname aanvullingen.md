@@ -56,6 +56,10 @@ Volgens Vruggink en Paasman is de Surinamecollectie ongeveer vier- tot vijfduize
 #### Koninklijke Verzamelingen
 Vooral veel foto's.
 
+#### KZGW
+- [Schenkingen](https://kzgwonline.nl/persoon/lammens-adriaan-francois) door Lammens
+- [Schenkingen](https://kzgwonline.nl/persoon/schwartzenberg-en-hohenlansberg-georg-frederik-thoe) door Georg Frederik thoe Schwartzenberg en Hohenlansberg
+
 #### AfricaMuseum, Tervuren
 R.G. 48.42.4 genoemd in catalogus en Maroon arts, is een Aukaanse kam die tussen 1893 en 1896 is verzameld... Van Panhuys?
 
