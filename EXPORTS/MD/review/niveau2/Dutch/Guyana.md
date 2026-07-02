@@ -7,7 +7,6 @@
 Te schrijven.
 
 ### Beschrijving
-
 #### Museum De Waag, Deventer
 
 - armband van kleine witte kraaltjes, met roze en groene takjes; vervaardigd door Afrikaanse slavinnen op de plantage van de heer Albert Jan Glasius, te Rio Berbice, West-Indië, toen dit nog een Hollandse kolonie was. [Inventarisnummer 2019](https://deventer.adlibhosting.com/ais6_museumdewaag/Details/museum/6043)
