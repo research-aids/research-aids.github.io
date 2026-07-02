@@ -2,33 +2,6 @@ Level: 3
 Title: Princessehof
 Abstract: Te schrijven.
 RelatedAides:
-  - Selecteren en afbakenen:
-      link: undefined
-      rel_type: see also
-  - Bronnen:
-      link: undefined
-      rel_type: see also
-  - Ambtenaren:
-      link: undefined
-      rel_type: see also
-  - Leger en marine:
-      link: undefined
-      rel_type: see also
-  - Koninklijk Instituut voor Taal-, Land en Volkenkunde:
-      link: undefined
-      rel_type: see also
-  - Rijksmuseum Amsterdam:
-      link: undefined
-      rel_type: see also
-  - Wereldmuseum Amsterdam:
-      link: undefined
-      rel_type: see also
-  - Wereldmuseum Leiden:
-      link: undefined
-      rel_type: see also
-  - Wereldmuseum Rotterdam:
-      link: undefined
-      rel_type: see also
   - Volkenkundig Museum 'Gerardus van der Leeuw':
       link: undefined
       rel_type: see also
@@ -57,10 +30,14 @@ Relevant data:
     Year of start: "1917"
     Year of end: []
 Main-text:
-  content: |
+  content: |+
     ### Geschiedenis
 
-    Te schrijven. Aanvulling.
+    Te schrijven. Aanvulling. Tweede aanvulling.
+
+    ### Kijken of een nieuw kopje ook werkt
+
+
   content-type: text/markdown
 Sources:
   Primary sources: []
