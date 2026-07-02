@@ -8,9 +8,7 @@ Te schrijven.
 
 ### Geschiedenis
 
-Te schrijven. Aanvulling. Tweede aanvulling.
-
-### Kijken of een nieuw kopje ook werkt
+Te schrijven.
 
 
 
