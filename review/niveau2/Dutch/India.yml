@@ -1,71 +1,92 @@
 Level: 2
-
-Title: "India"
-
-Abstract: "Te schrijven."
-
+Title: India
+Abstract: Te schrijven.
 RelatedAides:
-  - "Selecteren en afbakenen":
-        link: "niveau1/Dutch/SelectAndDelineate.yml"
-        rel_type: "see also"
-  - "Bronnen":
-        link: "niveau1/Dutch/Sources.yml"
-        rel_type: "see also"
-  - "Ambtenaren":
-        link: "niveau2/Dutch/CivilServants.yml"
-        rel_type: "see also"
-  - "Leger en marine":
-        link: "niveau2/Dutch/MilitaryAndNavy.yml"
-        rel_type: "see also"
-  - "Koninklijk Instituut voor Taal-, Land en Volkenkunde":
-        link: "niveau3/Dutch/KITLV.yml"
-        rel_type: "see also"
-  - "Rijksmuseum Amsterdam":
-        link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
-        rel_type: "see also"
-  - "Wereldmuseum Amsterdam":
-        link: "niveau3/Dutch/WMAmsterdam.yml"
-        rel_type: "see also"
-  - "Wereldmuseum Leiden":
-        link: "niveau3/Dutch/WMLeiden.yml"
-        rel_type: "see also"
-  - "Wereldmuseum Rotterdam": 
-        link: "niveau3/Dutch/WMRotterdam.yml"
-        rel_type: "see also" 
-
+  - Selecteren en afbakenen:
+      link: undefined
+      rel_type: see also
+  - Bronnen:
+      link: undefined
+      rel_type: see also
+  - Ambtenaren:
+      link: undefined
+      rel_type: see also
+  - Leger en marine:
+      link: undefined
+      rel_type: see also
+  - Koninklijk Instituut voor Taal-, Land en Volkenkunde:
+      link: undefined
+      rel_type: see also
+  - Rijksmuseum Amsterdam:
+      link: undefined
+      rel_type: see also
+  - Wereldmuseum Amsterdam:
+      link: undefined
+      rel_type: see also
+  - Wereldmuseum Leiden:
+      link: undefined
+      rel_type: see also
+  - Wereldmuseum Rotterdam:
+      link: undefined
+      rel_type: see also
 Relevant data:
   Tags:
     Activity: []
     Type of objects: []
     Geographical:
       - "[India](https://sws.geonames.org/1269750)"
-
 Main-text:
-  content: |
+  content: >
     ### Beschrijving
 
-    Volgens Hans Groot (Van Batavia naar Weltevreden, p. 222, p. 229) schonk de resident van Bengalen [Daniel Anthony Overbeek](https://en.wikipedia.org/wiki/Daniel_Anthony_Overbeek) in mei 1825 een zilveren Visnu uit Birma aan het Bataviaasch Genootschap. De arts J.R. Vos uit Bengalen was ook corresponderend lid en schonk boeken.
 
-    De grafborden van de voormalige Nederlandse kerk van Chinsurah zijn in 1949 door de bisschop van Kolkata geschonken aan het Rijksmuseum Amsterdam: NG-106 tot en met NG-118.
-    
-    Koperen platen uit het Chola-rijk werden in 2026 gerestitueerd [advies en bijlagen Commissie Koloniale Collecties](https://commissie.kolonialecollecties.nl/documenten/2026/05/16/india-2026)
+    Volgens Hans Groot (Van Batavia naar Weltevreden, p. 222, p. 229) schonk de
+    resident van Bengalen [Daniel Anthony
+    Overbeek](https://en.wikipedia.org/wiki/Daniel_Anthony_Overbeek) in mei 1825
+    een zilveren Visnu uit Birma aan het Bataviaasch Genootschap. De arts J.R.
+    Vos uit Bengalen was ook corresponderend lid en schonk boeken.
 
-    [Schilderij](https://id.rijksmuseum.nl/20067545) van Joan Ketelaars ambassade naar de koning van Udaipur (nog niet op de Datahub)
+
+    De grafborden van de voormalige Nederlandse kerk van Chinsurah zijn in 1949
+    door de bisschop van Kolkata geschonken aan het Rijksmuseum Amsterdam:
+    NG-106 tot en met NG-118.
+
+
+    Koperen platen uit het Chola-rijk werden in 2026 gerestitueerd [advies en
+    bijlagen Commissie Koloniale
+    Collecties](https://commissie.kolonialecollecties.nl/documenten/2026/05/16/india-2026)
+
+
+    [Schilderij](https://id.rijksmuseum.nl/20067545) van Joan Ketelaars
+    ambassade naar de koning van Udaipur (nog niet op de Datahub)
+
 
     [TM-A-9584](https://app.colonialcollections.nl/nl/objects/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F70344acb0575923e25b4ff07ea8e35a7)
 
+
+    #### KZGW
+
+
+    [Schenkingen](https://kzgwonline.nl/persoon/moens-adriaan) van [Adriaan
+    Moens](https://nl.wikipedia.org/wiki/Adriaan_Moens)
+
+
     ### Natuurhistorisch verzamelen?
+
 
     ### Herkomstonderzoek
   content-type: text/markdown
-
 copyright_metadata:
   copyright_holder: NIOD-KNAW
   date: 2026-01-15
   license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 editing_metadata:
-- date: 2026-01-12
-  applies_to: 
-  author: Maarten van der Bent
-  role: original_author
-  editing_notes: 
+  - author: Maarten van der Bent
+    role: original_author
+    date: 2026-01-12
+    applies_to: undefined
+    editing_notes: undefined
+fileinfo:
+  folder: review
+  filename: India.yml
+  filepath: review/niveau2/Dutch/India.yml
