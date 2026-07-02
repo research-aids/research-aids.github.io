@@ -18,6 +18,10 @@ Koperen platen uit het Chola-rijk werden in 2026 gerestitueerd [advies en bijlag
 
 [TM-A-9584](https://app.colonialcollections.nl/nl/objects/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F70344acb0575923e25b4ff07ea8e35a7)
 
+#### KZGW
+
+[Schenkingen](https://kzgwonline.nl/persoon/moens-adriaan) van [Adriaan Moens](https://nl.wikipedia.org/wiki/Adriaan_Moens)
+
 ### Natuurhistorisch verzamelen?
 
 ### Herkomstonderzoek
@@ -25,15 +29,15 @@ Koperen platen uit het Chola-rijk werden in 2026 gerestitueerd [advies en bijlag
 
 ## Related Aids
 
- - [Selecteren en afbakenen](niveau1/Dutch/SelectAndDelineate.yml)  
- - [Bronnen](niveau1/Dutch/Sources.yml)  
- - [Ambtenaren](niveau2/Dutch/CivilServants.yml)  
- - [Leger en marine](niveau2/Dutch/MilitaryAndNavy.yml)  
- - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](niveau3/Dutch/KITLV.yml)  
- - [Rijksmuseum Amsterdam](niveau3/Dutch/RijksmuseumAmsterdam.yml)  
- - [Wereldmuseum Amsterdam](niveau3/Dutch/WMAmsterdam.yml)  
- - [Wereldmuseum Leiden](niveau3/Dutch/WMLeiden.yml)  
- - [Wereldmuseum Rotterdam](niveau3/Dutch/WMRotterdam.yml)  
+ - [Selecteren en afbakenen](undefined)  
+ - [Bronnen](undefined)  
+ - [Ambtenaren](undefined)  
+ - [Leger en marine](undefined)  
+ - [Koninklijk Instituut voor Taal-, Land en Volkenkunde](undefined)  
+ - [Rijksmuseum Amsterdam](undefined)  
+ - [Wereldmuseum Amsterdam](undefined)  
+ - [Wereldmuseum Leiden](undefined)  
+ - [Wereldmuseum Rotterdam](undefined)  
 
 THIS RA HAS NO SOURCES
 
@@ -41,5 +45,6 @@ THIS RA HAS NO SOURCES
 ## Relevant Data 
 TO BE FILLED
 
-_last edited by Maarten van der Bent as original_author on 2026-01-12_
+_last edited by Maarten van der Bent as original_author on 2026-01-12
+(applies to section: undefined)_
         
