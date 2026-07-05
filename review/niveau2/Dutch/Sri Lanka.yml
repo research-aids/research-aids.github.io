@@ -1,0 +1,73 @@
+Level: 2
+
+Title: "Sri Lanka"
+
+Abstract: "Te schrijven."
+
+RelatedAides:
+  - "Selecteren en afbakenen":
+        link: "niveau1/Dutch/SelectAndDelineate.yml"
+        rel_type: "see also"
+  - "Bronnen":
+        link: "niveau1/Dutch/Sources.yml"
+        rel_type: "see also"
+  - "Ambtenaren":
+        link: "niveau2/Dutch/CivilServants.yml"
+        rel_type: "see also"
+  - "Leger en marine":
+        link: "niveau2/Dutch/MilitaryAndNavy.yml"
+        rel_type: "see also"
+  - "Koninklijk Instituut voor Taal-, Land en Volkenkunde":
+        link: "niveau3/Dutch/KITLV.yml"
+        rel_type: "see also"
+  - "Rijksmuseum Amsterdam":
+        link: "niveau3/Dutch/RijksmuseumAmsterdam.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Amsterdam":
+        link: "niveau3/Dutch/WMAmsterdam.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Leiden":
+        link: "niveau3/Dutch/WMLeiden.yml"
+        rel_type: "see also"
+  - "Wereldmuseum Rotterdam": 
+        link: "niveau3/Dutch/WMRotterdam.yml"
+        rel_type: "see also" 
+
+Relevant data:
+  Tags:
+    Activity: []
+    Type of objects: []
+    Geographical:
+      - "[Sri Lanka](https://sws.geonames.org/1227603)"
+
+Main-text:
+  content: |
+    ### Beschrijving
+
+    MQB:
+
+    * [1937.39.17 Two leafs with part of a letter from the King of Kandy (or his  court) to the Dutch, 1746 (?). In Sinhalese, palm leaf (6 × 30 × 3 cm).](https://collections.quaibranly.fr/ccExternal.ashx?id=71.1937.39.17)
+    * [1942.0.123.x Letter from King Sri Vijaya Rajasinga of Kandy (or his court) to  Governor Julius Valentijn Stein van Gollonesse, concerning the transport of Buddhist monks from Burma to Ceylon for a ceremony at Kandy, 1746. In Sinhalese, palm leaf with silk case and decorations (length c. 180 cm, folded 6 × 23 × 3 cm).](https://collections.quaibranly.fr/ccExternal.ashx?id=71.1942.0.123%20X)
+    * [1942.0.124.x Dedication to Stadtholder Prince William IV of Orange, possibly  drawn up on Ceylon, mid-eighteenth century. Partly in Latin, palm leaf with gold-thread case and decorations (5 × 22 × 9 cm) (old inv. no. x 42.125?).](https://collections.quaibranly.fr/ccExternal.ashx?id=71.1942.0.124%20X)
+
+    KZGW:
+
+    - Candiasche kam, [geschonken](https://kzgwonline.nl/records/candiasche-kam) door Jacobus Boekhout
+    - Potje van versteend hout, [geschonken](https://kzgwonline.nl/records/potje-van-versteend-hout) door Jacob Noels van Serooskerke, afkomstig uit Sri Lanka of India
+
+
+    ### Natuurhistorisch verzamelen?
+
+    ### Herkomstonderzoek
+  content-type: text/markdown
+
+copyright_metadata:
+  copyright_holder: NIOD-KNAW
+  date: 2026-01-15
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+editing_metadata:
+- date: 2026-01-12
+  applies_to: 
+  author: Maarten van der Bent
+  role: original_author
+  editing_notes: 
