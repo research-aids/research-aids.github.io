@@ -27,6 +27,7 @@ Te schrijven.
 #### KZGW
 * [Schenkingen](https://kzgwonline.nl/persoon/leendert-van-der-linde) van [Leendert van der Linde](https://www.wikidata.org/wiki/Q140461994) * [Schenkingen](https://kzgwonline.nl/persoon/nicolaas-hugenholtz) van [Nicolaas Hugenholtz](https://www.wikidata.org/wiki/Q76351261), in [Zeeland jrg. 28 (2019) nr. 4, 139-141](https://tijdschriftenbankzeeland.nl/issue/zld/2019-12-01/edition/null/page/21) beschreven door Gerard Heerebout * [Schenkingen](https://kzgwonline.nl/persoon/tjeenk-justus) van [Justus Tjeenk](https://www.wikidata.org/wiki/Q134397089) * [Schenkingen](https://kzgwonline.nl/persoon/louijssen-abraham) van [Abraham Louijssen](https://www.wikidata.org/wiki/Q140463238)
 ### Natuurhistorisch verzamelen?
+Test.
 
 ### Herkomstonderzoek
 
