@@ -23,7 +23,7 @@ Te schrijven.
 
 ### Geschiedenis
 
-Te schrijven. Kijken of het nog steeds werkt.
+Te schrijven.
 
 
 
