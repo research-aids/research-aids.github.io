@@ -16,7 +16,7 @@ KZGW: [Waaiers](https://kzgwonline.nl/records/waaiers-uit-bengalen) uit Bengalen
 #### KZGW
 - [Schenkingen](https://kzgwonline.nl/persoon/moens-adriaan) van [Adriaan Moens](https://nl.wikipedia.org/wiki/Adriaan_Moens) - Potje van versteend hout, [geschonken](https://kzgwonline.nl/records/potje-van-versteend-hout) door Jacob Noels van Serooskerke, afkomstig uit Sri Lanka of India - [Schenkingen](https://kzgwonline.nl/persoon/s-gravezande-adrianus) van Adrianus 's-Gravezande
 ### Natuurhistorisch verzamelen?
-
+- Artikel: [De katten van Suratte](https://kzgw.nl/wp-content/uploads/2015/07/ZLD-26.1-t-Is-vol-van-Schatten-H.-Nijhuis.pdf)
 ### Herkomstonderzoek
 
 
