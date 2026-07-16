@@ -135,6 +135,12 @@ Scientific article:
 
   > [https://doi.org/10.1163/22134360-bja10038](https://doi.org/10.1163/22134360-bja10038)
 
+Scientific article:
+  > *Ruiter, I. de, C.F. Caromano ‘Looking Beyond Knives, Buttons and Beaded Aprons: Indigenous and Maroon Agency in Colonial Collecting Practices and the Provenance of Ten Surinamese Objects in The Netherlands’, Museum International, 78(1-2) (2026), 110-123.*
+  > _Scientific article about the agency of Maroons and Amerindians in the collecting of ten objects housed in the Netherlands._  
+
+  > [https://doi.org/10.1080/13500775.2026.2683276](https://doi.org/10.1080/13500775.2026.2683276)
+
 Book:
   > *Sint Nicolaas, Eveline. Shackles and bonds: Suriname and the Netherlands since 1600. Nijmegen: Vantilt, 2018.*
   > _Book about objects from Suriname in the Rijksmuseum Amsterdam collection._  
