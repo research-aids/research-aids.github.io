@@ -8,6 +8,10 @@ Te schrijven.
 
 ### Beschrijving
 
+Rijksmuseum:
+
+* [SK-A-1299](https://app.colonialcollections.nl/nl/objects/https%3A%2F%2Fn2t%252Enet%2Fark%3A%2F27023%2F33c0fe5ccb19bc7e7c548201776e3df3)
+
 MQB:
 
 * [1937.39.17 Two leafs with part of a letter from the King of Kandy (or his  court) to the Dutch, 1746 (?). In Sinhalese, palm leaf (6 × 30 × 3 cm).](https://collections.quaibranly.fr/ccExternal.ashx?id=71.1937.39.17)
