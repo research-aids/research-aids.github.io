@@ -112,7 +112,7 @@ Dissertatie:
   > [https://search.worldcat.org/title/163275947?oclcNum=163275947](https://search.worldcat.org/title/163275947?oclcNum=163275947), [WorldCat 163275947](https://search.worldcat.org/title/163275947)
 
 Wetenschappelijk artikel:
-  > *Price, R. and S. Price ‘John Gabriel Stedman's collection of 18th-century artifacts from Suriname’, New West Indian Guide / Nieuwe West-Indische Gids, 53(1) (1979), 121-140.*
+  > *Price, R. en S. Price ‘John Gabriel Stedman's collection of 18th-century artifacts from Suriname’, New West Indian Guide / Nieuwe West-Indische Gids, 53(1) (1979), 121-140.*
   > _Wetenschappelijk artikel over objecten uit de collectie van het voormalige Koninklijk Kabinet van Zeldzaamheden die mogelijk afkomstig zijn van John Gabriel Stedman._  
 
   > [https://doi.org/10.1163/22134360-90002148](https://doi.org/10.1163/22134360-90002148)
