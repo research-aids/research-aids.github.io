@@ -5,7 +5,7 @@ parent: niveau2
 ancestor: Review
 nav_enabled: true
 has_toc: true
-date: 2026-10-03
+date: 2026-10-04
 nav_exclude: False
 --- 
 
@@ -37,6 +37,7 @@ In Nederlandse museumcollecties zijn etnografische voorwerpen te vinden die afko
 
 #### Tropenmuseum
 * Koloniaal Museum Haarlem: [TM-H-908](https://hdl.handle.net/20.500.11840/203543) heel oud! 
+* Susan Legêne heeft geschreven over [TM-H-2552](https://hdl.handle.net/20.500.11840/200817), [TM-H-2553](https://hdl.handle.net/20.500.11840/200818), [TM-H-2965](https://hdl.handle.net/20.500.11840/201333) en [TM-H-2966](https://hdl.handle.net/20.500.11840/201334), geschonken door [Gaspard van Breugel](https://www.wikidata.org/wiki/Q21850147) in 1824
 * Wat is de herkomst van TM-7? Is geheel Surinaams. In 1914 geschonken. Door wie is in 1914 [TM-7-23](https://hdl.handle.net/20.500.11840/178113) waardigheidstaf marrons geschonken? 
 * TM-9 is Corantijnexpeditie?? [TM-9-1](https://hdl.handle.net/20.500.11840/182875)
 * TM-0 is een collectie met ongenummerd aangetroffen voorwerpen?
