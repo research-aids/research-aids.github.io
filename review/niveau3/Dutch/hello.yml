@@ -1,0 +1,23 @@
+Level: "3"
+Title: hello
+Abstract: some text. and another sentence.
+Main-text:
+  content: ""
+  content-type: text/markdown
+RelatedAides: []
+Relevant data:
+  Tags:
+    Geographical: []
+Sources:
+  Primary sources: []
+  Secondary sources: []
+copyright_metadata:
+  copyright_holder: ""
+  date: 2026-07-03
+  license: ""
+editing-metadata: []
+editing_metadata: []
+fileinfo:
+  folder: review
+  filename: hello.yml
+  filepath: review/niveau3/Dutch/hello.yml
