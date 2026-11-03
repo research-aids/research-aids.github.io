@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Princessehof
+title: Museum Sophiahof
 parent: niveau3
 ancestor: Review
 nav_enabled: true
@@ -11,7 +11,7 @@ nav_exclude: False
 
 
 
-# Princessehof
+# Museum Sophiahof
 
 [Download PDF](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/PDF/review/niveau3/Dutch/Sophiahof.pdf){: .btn .btn-outline .flex-justify-between}        [Download DOCX](https://raw.githubusercontent.com/colonial-heritage/research-aids/refs/heads/main/EXPORTS/DOCX/review/niveau3/Dutch/Sophiahof.docx){: .btn .btn-outline .flex-justify-between}
 

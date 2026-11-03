@@ -64,6 +64,12 @@ Book:
 
   > [https://search.worldcat.org/title/902336725?oclcNum=902336725](https://search.worldcat.org/title/902336725?oclcNum=902336725), [ISBN 9789068683431](https://isbnsearch.org/isbn/9789068683431)
 
+Article:
+  > *Hendrike, Daniel and Wiebe Reints. 'Provenance Research at Crossroads: Social Object Itineraries, the Dutch NK Collection, and Multiple Contexts of Injustice'. transfer – Zeitschrift für Provenienzforschung und Sammlungsgeschichte | Journal for Provenance Research and the History of Collection, 5, nr. 1 (2026): 25-36.*
+  > _Article about objects in the Dutch NK collection originating with Van Lier._  
+
+  > [https://doi.org/10.48640/tf.2026.1.116047](https://doi.org/10.48640/tf.2026.1.116047)
+
 
 
 ---
